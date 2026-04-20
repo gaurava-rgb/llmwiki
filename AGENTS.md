@@ -11,6 +11,7 @@ pointing here so both agents follow one workflow.
 - The wiki index is `sources/articles/wiki/INDEX.md`.
 - The wiki schema is `sources/articles/wiki/schema.md`.
 - Notion sync scripts are `sync_to_notion.py` and `push_to_notion.py`.
+- Notion schema creation is `notion_schema.py`.
 - Sprint planning and run logs live in `docs/sprints/`.
 
 ## Goal
@@ -50,7 +51,9 @@ Build a cloud-backed LLM Wiki flow:
 - Rebuild the wiki: `/wiki-compile`
 - Query the wiki: `/wiki-query [topic]`
 - Local contract tests: `python3 -m unittest discover -s tests`
+- Create/update Notion schema: `python3 notion_schema.py --apply`
 - Read sprint plan: `docs/sprints/SPRINTS.md`
+- Read Notion schema: `docs/sprints/NOTION_SCHEMA.md`
 - Read test plan: `docs/sprints/TEST_PLAN.md`
 - Read run log: `docs/sprints/RUN_LOG.md`
 
@@ -61,5 +64,6 @@ Build a cloud-backed LLM Wiki flow:
 - Sprint 1 baseline GitHub versioning is complete: root Git is initialized,
   `origin` points to `https://github.com/gaurava-rgb/llmwiki.git`, and the
   rollback tag is `baseline/notion-github-start`.
-- Notion integration exists as scripts, but needs schema hardening,
-  idempotency tests, and confirmed credentials before external runs.
+- Notion schema exists. Remaining Notion integration work is dry-run sync,
+  idempotent create/update/skip planning, and fixture-backed tests before bulk
+  external sync runs.

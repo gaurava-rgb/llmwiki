@@ -91,3 +91,48 @@ Token-pattern scan:
 
 Result: passed by direct `rg` scan excluding logs, caches, the compiler `.git`,
 and the saved Readwise API documentation page containing placeholder examples.
+
+## 2026-04-20 - Sprint 2 Notion Schema Start
+
+Requested outcome:
+
+- Use the local Notion token to create the Notion-side schema.
+
+Actions completed:
+
+- Found local Notion token in ignored `reader/.env` under `notion_api`.
+- Confirmed root `.env` is not present.
+- Queried Notion search and found existing database `Export via Reader`.
+- Confirmed existing database properties before applying schema changes.
+- Added `notion_schema.py` to make schema creation repeatable and idempotent.
+- First schema apply created the control page and updated Raw Sources, then
+  failed because Notion required explicit relation type metadata.
+- Patched relation properties to use `single_property` and reran successfully.
+- Created Notion databases:
+  - Raw Sources: `3464ebe7-f118-8086-ae21-fa8b46f294ec`
+  - Control Page: `3484ebe7-f118-81cf-aa1e-c87efef41174`
+  - Wiki Pages: `3484ebe7-f118-81b6-b8b4-ff8291b5ddd2`
+  - Claims / Evidence: `3484ebe7-f118-812f-a0fd-d1e1bd372cd2`
+  - Ops Log: `3484ebe7-f118-81c0-ab3f-e64b6707979b`
+- Created Notion Ops Log entry for the schema run:
+  `3484ebe7-f118-8158-87ba-c9d7d4ed2587`
+- Added `docs/sprints/NOTION_SCHEMA.md`.
+- Added no-network schema contract tests.
+
+Planned Notion layout:
+
+- Use `Export via Reader` as Raw Sources.
+- Create or reuse `LLM Wiki Control Center` page in Raw Sources.
+- Create or reuse child databases:
+  - `LLM Wiki - Wiki Pages`
+  - `LLM Wiki - Claims / Evidence`
+  - `LLM Wiki - Ops Log`
+
+Checks run:
+
+```bash
+python3 -m py_compile notion_schema.py
+python3 -m unittest discover -s tests
+```
+
+Result: passed, 10 tests.

@@ -19,7 +19,7 @@ Current state as of 2026-04-20:
 | Root Git repository | Present | branch `main` |
 | GitHub remote | Pushed | `https://github.com/gaurava-rgb/llmwiki.git` |
 | Secrets hygiene | Partially remediated | env files ignored; token rotation still required |
-| Notion schema contract | Incomplete | scripts assume database properties exist |
+| Notion schema contract | Created | `docs/sprints/NOTION_SCHEMA.md` |
 | Reversible sync | Incomplete | destructive archive script still exists and needs safeguards |
 
 ## Sprint 0 - Baseline, Safety, and Operating Manual
@@ -94,6 +94,13 @@ Sprint 1 status:
 - `main` pushed to GitHub.
 - `baseline/notion-github-start` pushed as rollback tag.
 - Local tests passed before push.
+
+## Sprint 2 Status
+
+- Started: Notion schema creation via `notion_schema.py`.
+- Schema created and verified in Notion.
+- Existing `Export via Reader` database is the Raw Sources database.
+- Script creates/reuses a control page and child schema databases.
 
 ## Sprint 2 - Notion Raw Source Schema
 

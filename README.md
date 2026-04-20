@@ -25,6 +25,12 @@ Cloud-backed LLM Wiki for saved articles.
 python3 -m unittest discover -s tests
 ```
 
+Create/update the Notion schema:
+
+```bash
+python3 notion_schema.py --apply
+```
+
 Notion and Readwise credentials are local only. Copy the examples and fill them
 outside Git:
 
