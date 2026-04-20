@@ -56,9 +56,10 @@ Build a cloud-backed LLM Wiki flow:
 
 ## Current Sprint State
 
-- Sprint 0 is active: baseline audit, credential cleanup, sprint plan, and
+- Sprint 0 is complete: baseline audit, credential cleanup, sprint plan, and
   local test harness.
-- GitHub versioning is not complete yet because the root folder is not a git
-  repository and no remote target has been selected.
+- Sprint 1 baseline GitHub versioning is complete: root Git is initialized,
+  `origin` points to `https://github.com/gaurava-rgb/llmwiki.git`, and the
+  rollback tag is `baseline/notion-github-start`.
 - Notion integration exists as scripts, but needs schema hardening,
   idempotency tests, and confirmed credentials before external runs.

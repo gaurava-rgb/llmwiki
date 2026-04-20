@@ -69,3 +69,25 @@ Initial result: failed before Sprint 1 setup because the root folder was not a
 git repository yet.
 
 Current result: root Git repository initialized and baseline files staged.
+
+Additional GitHub setup:
+
+- Created baseline commit `Baseline LLM wiki setup`.
+- Created follow-up commit `Configure compiler submodule`.
+- Moved `baseline/notion-github-start` to the current baseline state.
+- Pushed `main` to `https://github.com/gaurava-rgb/llmwiki.git`.
+- Pushed `baseline/notion-github-start` to GitHub.
+- Root working tree was clean after the baseline tag.
+
+Final Sprint 1 checks:
+
+```bash
+python3 -m unittest discover -s tests
+```
+
+Result: passed, 6 tests.
+
+Token-pattern scan:
+
+Result: passed by direct `rg` scan excluding logs, caches, the compiler `.git`,
+and the saved Readwise API documentation page containing placeholder examples.

@@ -16,9 +16,9 @@ Current state as of 2026-04-20:
 | Wiki compiler | Present | `llm-wiki-compiler/` submodule |
 | Notion sync scripts | Present | `sync_to_notion.py`, `push_to_notion.py` |
 | Local tests | Added in Sprint 0 | `tests/test_repo_contracts.py` |
-| Root Git repository | Missing | `git status` fails at repo root |
-| GitHub remote | Selected | `https://github.com/gaurava-rgb/llmwiki.git` |
-| Secrets hygiene | Partially remediated | env variables added; token rotation still required |
+| Root Git repository | Present | branch `main` |
+| GitHub remote | Pushed | `https://github.com/gaurava-rgb/llmwiki.git` |
+| Secrets hygiene | Partially remediated | env files ignored; token rotation still required |
 | Notion schema contract | Incomplete | scripts assume database properties exist |
 | Reversible sync | Incomplete | destructive archive script still exists and needs safeguards |
 
@@ -87,6 +87,13 @@ Public repo note:
   `reader/.env`, `.claude/settings.local.json`, generated logs, or local caches.
   Raw articles, images, and compiled wiki pages should be assumed publicly
   readable once pushed.
+
+Sprint 1 status:
+
+- Root Git repository initialized.
+- `main` pushed to GitHub.
+- `baseline/notion-github-start` pushed as rollback tag.
+- Local tests passed before push.
 
 ## Sprint 2 - Notion Raw Source Schema
 
