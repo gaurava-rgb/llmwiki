@@ -1,14 +1,17 @@
 ---
 title: "What I Learnt Using Claude Code to Build Production-Ready Apps"
-author: "Farhad Malik"
+reader_id: "01knqg9kbvqb3qwr6d58g09sep"
+notion_page_id: "3464ebe7-f118-8185-bbc6-fed0722676fa"
+reader_url: "https://read.readwise.io/read/01knqg9kbvqb3qwr6d58g09sep"
 source_url: "https://medium.com/data-science-collective/what-i-learnt-using-claude-code-to-build-production-ready-apps-a27272af0c48"
+author: "Farhad Malik"
 site: "Medium"
 tags: []
 published: "2026-03-30"
 saved_at: "2026-04-08"
 reading_time: "17 mins"
 summary: "Claude Code helps automate coding tasks by planning, writing, testing, and managing code workflows. It can be extended with custom rules, skills, and plugins to fit team needs and connect to external tools. Using features like agent teams and subagents improves productivity and code quality while allowing easy control and review."
-image: "sources/images/01knqg9kbvqb3qwr6d58g09sep_cover.png"
+content_hash: "cede86c2695fbaf568b85111ebb23c06bd5059976e7c729846d923a0cf894a38"
 ---
 
 ## A practical guide covering the building blocks, hidden features, and tips that helped me build stable applications
@@ -19,7 +22,7 @@ I started using Claude Code expecting a smarter autocomplete. What I got was som
 
 > The more we teach Claude Code about the stack and workflows, the more productive and accurate it becomes.
 
-![](sources/images/01knqg9kbvqb3qwr6d58g09sep_0_ee321240.png)Image by Author
+![](https://miro.medium.com/v2/resize:fit:1400/1*L-Hp494D-GhKT40A-YuCpw.png)Image by Author
 
 This article contains the building blocks, the gotchas, and the habits that made the biggest difference to how I use Claude Code.
 
@@ -59,7 +62,7 @@ Claude Code can also analyse an existing codebase, generate tests that match the
 
 
 
-I have been using the [VS Code](<https://code.claude.com/docs/en/overview#vs-code>) extension. It provides inline diffs, @-mentions, plan review, and conversation history directly in your editor.
+I have been using the [VS Code](<https://code.claude.com/docs/en/overview>) extension. It provides inline diffs, @-mentions, plan review, and conversation history directly in your editor.
 
 We can also use Terminal, Desktop app, Web and a plugin for IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains IDEs.
 
@@ -67,7 +70,7 @@ We can also use Terminal, Desktop app, Web and a plugin for IntelliJ IDEA, PyCha
 
 Out of the box, Claude Code works generically. Extensions let us teach Claude how our team works, connect it to our actual tools and databases, and turn multi-step workflows into single commands anyone on the team can run.
 
-![](sources/images/01knqg9kbvqb3qwr6d58g09sep_1_24d07a09.png)
+![](https://miro.medium.com/v2/resize:fit:1400/1*Mt1D2xknxdnsjeOS1MbeMQ.png)
 
 The result is a coding assistant that already knows the stack, conventions, and processes every single session.
 
@@ -85,40 +88,40 @@ This section introduces us to the core Claude Code extensions:
 
 
 Folder structure showing where these extensions live in the project folder:
-    
-    
-    your-project/  
-    ├── CLAUDE.md                          # Persistent context Claude reads every session  
-    │  
-    └── .claude/  
-        ├── settings.json                  # MCP servers, hooks, permissions, and allowlists  
-        ├── rules/                         # Scoped instructions by file type or subdirectory  
-        │   ├── code-style.md  
-        │   ├── testing.md  
-        │   └── security.md  
-        ├── commands/                      # Custom slash commands e.g. /review-pr, /deploy-staging  
-        │   ├── review-pr.md  
-        │   └── deploy-staging.md  
-        ├── skills/                        # Reusable on-demand knowledge and workflows  
-        │   └── api-conventions/  
-        │       └── SKILL.md  
-        └── agents/                        # Project subagents and agent teams  
-        |  └── security-reviewer.md  
-        └── mcp-servers.json         ← MCP integrations  
-      
-    # User-level — available across all your projects  
-    ~/.claude/  
-    ├── settings.json                      # Global MCP, hooks, and permissions  
-    ├── skills/  
-    │   └── <skill-name>/  
-    │       └── SKILL.md  
-    └── agents/  
-        └── <agent-name>.md  
-      
-    # Plugin packaging  
-    .claude-plugin/  
-    └── plugin.json  
-    
+
+
+    your-project/
+    ├── CLAUDE.md                          # Persistent context Claude reads every session
+    │
+    └── .claude/
+        ├── settings.json                  # MCP servers, hooks, permissions, and allowlists
+        ├── rules/                         # Scoped instructions by file type or subdirectory
+        │   ├── code-style.md
+        │   ├── testing.md
+        │   └── security.md
+        ├── commands/                      # Custom slash commands e.g. /review-pr, /deploy-staging
+        │   ├── review-pr.md
+        │   └── deploy-staging.md
+        ├── skills/                        # Reusable on-demand knowledge and workflows
+        │   └── api-conventions/
+        │       └── SKILL.md
+        └── agents/                        # Project subagents and agent teams
+        |  └── security-reviewer.md
+        └── mcp-servers.json         ← MCP integrations
+
+    # User-level — available across all your projects
+    ~/.claude/
+    ├── settings.json                      # Global MCP, hooks, and permissions
+    ├── skills/
+    │   └── <skill-name>/
+    │       └── SKILL.md
+    └── agents/
+        └── <agent-name>.md
+
+    # Plugin packaging
+    .claude-plugin/
+    └── plugin.json
+
 
   * `settings.json` handles MCP connections, hooks, and permission allowlists all in one file
   * Anything under `.claude/` is project-scoped; anything under `~/.claude/` is personal and works across all projects
@@ -145,14 +148,14 @@ Humans can interrupt at any point. This is usually required to steer Claude in a
 
 The agentic loop is powered by two components:
 
-  1. [models](<https://code.claude.com/docs/en/how-claude-code-works#models>) that reason. Switch with `/model` during a session or start with `claude --model <name>`.
-  2. [tools](<https://code.claude.com/docs/en/how-claude-code-works#tools>) that act. Claude uses tools for searching files to understand the code, editing to make changes, and running tests to check the results. Each tool use returns information that feeds back into the loop, informing Claude’s next decision.
+  1. [models](<https://code.claude.com/docs/en/how-claude-code-works>) that reason. Switch with `/model` during a session or start with `claude --model <name>`.
+  2. [tools](<https://code.claude.com/docs/en/how-claude-code-works>) that act. Claude uses tools for searching files to understand the code, editing to make changes, and running tests to check the results. Each tool use returns information that feeds back into the loop, informing Claude’s next decision.
 
 
 
 ### Context Window
 
-The context window is the most important resource to manage. It holds the conversation history, file contents, command outputs, [CLAUDE.md](<https://code.claude.com/docs/en/memory>), [auto memory](<https://code.claude.com/docs/en/memory#auto-memory>), loaded skills, and system instructions.
+The context window is the most important resource to manage. It holds the conversation history, file contents, command outputs, [CLAUDE.md](<https://code.claude.com/docs/en/memory>), [auto memory](<https://code.claude.com/docs/en/memory>), loaded skills, and system instructions.
 
 LLM performance degrades as context fills. It adds noise, makes Claude less effective, and results in skills not triggering correctly. When the context window is getting full, Claude may start “forgetting” earlier instructions or making more mistakes.
 
@@ -200,34 +203,34 @@ Skills come in two types: reference skills that Claude draws on throughout a ses
 
 
 2\. Every `SKILL.md` needs two parts: a YAML frontmatter block (between `---` markers) that tells Claude when to use the skill, and markdown content with the actual instructions. The skill name becomes the slash command and the description helps Claude decide when to load it automatically.
-    
-    
-    ---  
-    description: Review code for bugs, security, and performance  
-    disable-model-invocation: true  
-    ---  
-      
-    - Review the code for:  
-    - Potential bugs or edge cases  
-    - Security concerns  
-    - Performance issues  
-    - Readability improvements  
-      
-    Be concise and actionable.  
-    
+
+
+    ---
+    description: Review code for bugs, security, and performance
+    disable-model-invocation: true
+    ---
+
+    - Review the code for:
+    - Potential bugs or edge cases
+    - Security concerns
+    - Performance issues
+    - Readability improvements
+
+    Be concise and actionable.
+
 
 A skill folder can also include templates, reference docs, example outputs, and scripts Claude can run:
-    
-    
-    my-skill/  
-    ├── SKILL.md           # Main instructions (required)  
-    ├── template.md        # Template for Claude to fill in  
-    ├── reference.md       # Detailed docs loaded when needed  
-    ├── examples/  
-    │   └── sample.md      # Example output showing expected format  
-    └── scripts/  
-        └── validate.sh    # Script Claude can execute  
-    
+
+
+    my-skill/
+    ├── SKILL.md           # Main instructions (required)
+    ├── template.md        # Template for Claude to fill in
+    ├── reference.md       # Detailed docs loaded when needed
+    ├── examples/
+    │   └── sample.md      # Example output showing expected format
+    └── scripts/
+        └── validate.sh    # Script Claude can execute
+
 
 **Using skills**
 
@@ -244,57 +247,57 @@ There are essentially 6 steps to create a plugin:
   1. Create folder structures
 
 
-    
-    
-    mkdir -p my-marketplace/.claude-plugin  
-    mkdir -p my-marketplace/plugins/quality-review-plugin/.claude-plugin  
-    mkdir -p my-marketplace/plugins/quality-review-plugin/skills/quality-review  
-    
+
+
+    mkdir -p my-marketplace/.claude-plugin
+    mkdir -p my-marketplace/plugins/quality-review-plugin/.claude-plugin
+    mkdir -p my-marketplace/plugins/quality-review-plugin/skills/quality-review
+
 
 2\. Create a `SKILL.md` file that defines what the `/quality-review` skill does.
 
 3\. Create the plugin `plugin.json` file that describes the plugin in
 
 `my-marketplace/plugins/quality-review-plugin/.claude-plugin/plugin.json`
-    
-    
-    {  
-      "name": "quality-review-plugin",  
-      "description": "Adds a /quality-review skill for quick code reviews",  
-      "version": "1.0.0"  
-    }  
-    
+
+
+    {
+      "name": "quality-review-plugin",
+      "description": "Adds a /quality-review skill for quick code reviews",
+      "version": "1.0.0"
+    }
+
 
 4\. Create the marketplace catalogue that lists your plugin in
 
 `my-marketplace/.claude-plugin/marketplace.json`
-    
-    
-    {  
-      "name": "my-plugins",  
-      "owner": {  
-        "name": "Your Name"  
-      },  
-      "plugins": [  
-        {  
-          "name": "quality-review-plugin",  
-          "source": "./plugins/quality-review-plugin",  
-          "description": "Adds a /quality-review skill for quick code reviews"  
-        }  
-      ]  
-    }  
-    
+
+
+    {
+      "name": "my-plugins",
+      "owner": {
+        "name": "Your Name"
+      },
+      "plugins": [
+        {
+          "name": "quality-review-plugin",
+          "source": "./plugins/quality-review-plugin",
+          "description": "Adds a /quality-review skill for quick code reviews"
+        }
+      ]
+    }
+
 
 5\. Add the marketplace and install the plugin
 
-`/plugin marketplace add ./my-marketplace  
+`/plugin marketplace add ./my-marketplace
 /plugin install quality-review-plugin@my-plugins`
 
 6\. Test the plugin
-    
-    
-    /quality-review  
-    
+
+
+    /quality-review
+
 
 Run `/plugin` to browse the marketplace. Plugins add skills, tools, and integrations without configuration.
 
@@ -325,22 +328,22 @@ Claude Code ships with built-in subagents for exploration, planning, and running
 Claude delegates to a subagent automatically when your task matches its description. You can also trigger one directly with an `@mention`. Subagents only report results back to the main agent and never communicate with each other.
 
 Example SubAgent: `.claude/agents/security-reviewer.md`
-    
-    
-    ---  
-    name: security-reviewer  
-    description: Reviews code for security vulnerabilities  
-    tools: Read, Grep, Glob, Bash  
-    model: opus  
-    ---  
-    You are a senior security engineer. Review code for:  
-    - Injection vulnerabilities (SQL, XSS, command injection)  
-    - Authentication and authorization flaws  
-    - Secrets or credentials in code  
-    - Insecure data handling  
-      
-    Provide specific line references and suggested fixes.  
-    
+
+
+    ---
+    name: security-reviewer
+    description: Reviews code for security vulnerabilities
+    tools: Read, Grep, Glob, Bash
+    model: opus
+    ---
+    You are a senior security engineer. Review code for:
+    - Injection vulnerabilities (SQL, XSS, command injection)
+    - Authentication and authorization flaws
+    - Secrets or credentials in code
+    - Insecure data handling
+
+    Provide specific line references and suggested fixes.
+
 
   * Use `Project subagents (.claude/agents/)` for codebase-specific agents; check them into version control so the team benefits too
   * Use `User subagents (~/.claude/agents/)` for personal agents available across all projects
@@ -372,7 +375,7 @@ Subagents work within a single session. Agent teams coordinate across separate s
 
 Here are the tips and best practices I have picked up from using Claude Code:
 
-![](sources/images/01knqg9kbvqb3qwr6d58g09sep_2_edf8d6ee.png)Image by Author
+![](https://miro.medium.com/v2/resize:fit:1400/1*7IpspIJOAIkbBBy_WEdAxQ.png)Image by Author
 
 ### Use plan mode to review and refine the plan through conversation, then let Claude implement the plan
 
@@ -399,28 +402,28 @@ Here are the tips and best practices I have picked up from using Claude Code:
   * We can use Claude to write hooks for us. Try prompts like _“Write a hook that runs eslint after every file edit”_ or _“Write a hook that blocks writes to the migrations folder.”_ Edit `.claude/settings.json` directly to configure hooks by hand, and run `/hooks` to browse what’s configured.
 
 
-    
-    
-    Add to .claude/settings.json:  
-      
-      {  
-        "hooks": {  
-          "PostToolUse": [  
-            {  
-              "matcher": "Edit|Write",  
-              "hooks": [{ "type": "command", "command": "npx prettier --write $FILE" }]  
-            }  
-          ],  
-          "Notification": [  
-            {  
-              "hooks": [{ "type": "command", "command": "notify-send 'Claude needs input'" }]  
-            }  
-          ]  
-        }  
-      }  
-      
-        
-    
+
+
+    Add to .claude/settings.json:
+
+      {
+        "hooks": {
+          "PostToolUse": [
+            {
+              "matcher": "Edit|Write",
+              "hooks": [{ "type": "command", "command": "npx prettier --write $FILE" }]
+            }
+          ],
+          "Notification": [
+            {
+              "hooks": [{ "type": "command", "command": "notify-send 'Claude needs input'" }]
+            }
+          ]
+        }
+      }
+
+
+
 
 ### Let Claude interview you for large features
 
@@ -555,26 +558,26 @@ It’s worth noting that subagents only report back to the main agent. They neve
   * Ensure Claude reads the corrections file at the start of each session by adding the instruction in Claude.md
 
 
-    
-    
-    ## On Session Start  
-      
-    Before doing anything else, read `docs/mistakes.md`.  
-    
-    
-    
-    ## Correction Log  
-      
-    When you make a mistake and are corrected, append an entry to `docs/claude-corrections.md`   
-    in this format:  
-      
-    ### [Short description of mistake]  
-    - **Mistake:** What you did wrong  
-    - **Correction:** What the right approach is  
-    - **Rule:** The general rule to remember going forward  
-      
-    Always read `docs/claude-corrections.md` at the start of each session before doing any work.  
-    
+
+
+    ## On Session Start
+
+    Before doing anything else, read `docs/mistakes.md`.
+
+
+
+    ## Correction Log
+
+    When you make a mistake and are corrected, append an entry to `docs/claude-corrections.md`
+    in this format:
+
+    ### [Short description of mistake]
+    - **Mistake:** What you did wrong
+    - **Correction:** What the right approach is
+    - **Rule:** The general rule to remember going forward
+
+    Always read `docs/claude-corrections.md` at the start of each session before doing any work.
+
 
 ### **Always give Claude a way to verify its own work**
 

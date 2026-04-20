@@ -1,21 +1,24 @@
 ---
 title: "Anthropic's New TPU Deal, Anthropic's Computing Crunch, The Anthropic-Google Alliance"
+reader_id: "01knmk6knp845c6amazzg28het"
+notion_page_id: "3464ebe7-f118-81a3-8c65-e24ab04a146b"
+reader_url: "https://read.readwise.io/read/01knmk6knp845c6amazzg28het"
+source_url: "https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FudGhyb3BpY3MtbmV3LXRwdS1kZWFsLWFudGhyb3BpY3MtY29tcHV0aW5nLWNydW5jaC10aGUtYW50aHJvcGljLWdvb2dsZS1hbGxpYW5jZS8iXX0sImV4cCI6MTc3ODE3NTc3OCwiaWF0IjoxNzc1NTgzNzc4LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjQ0MjcxNzg3LWFmMGMtNGVkNS1iY2E2LTA3ODRlY2E0MjM2NCIsInVzZSI6ImFjY2VzcyJ9.HJT4xCKeAvbfBLQqfIROqYwaEsmMXFwV0prROAviYqEUognpAPupkUAJCmsAygDkfxCfviWiXSKYOBgNE_b_l063GNBTOS29KVLPyvQFaT0jur6TSWSDPkWoT9YhwPwI6wdTWk07pGBSBSzAY2g0ionNvh_kd_mBOS2akbFDuvYA5TXrKU_T92AtSlAT1ZYBSkdVA-qOOrk3KH0l7MSxsa7D4o3_f6aBjLZNaj..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-07"
 saved_at: "2026-04-07"
 reading_time: "7 mins"
 summary: "Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google."
-image: "sources/images/01knmk6knp845c6amazzg28het_cover.png"
+content_hash: "3b4d648ef3add39b84314bef32d6e3f6fc0d48f365a8cb6e701f76417d825d78"
 ---
 
-Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google. 
+Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -37,7 +40,7 @@ Anthropic wrote in [a blog post](<https://www.anthropic.com/news/google-broadcom
 
 These growth numbers — [however revenue is accounted for](<https://www.theinformation.com/newsletters/dealmaker/math-behind-anthropics-mad-revenue-growth>) — are stunning. In fact, the curve is even steeper than exponential, at least for the time measured:
 
-![](sources/images/01knmk6knp845c6amazzg28het_0_c456e10c.png)
+![](https://i0.wp.com/stratechery.com/wp-content/uploads/2026/04/anthropic-tpu-2.png?resize=1330%2C762&ssl=1)
 
 What is notable is that the real bend in the curve occurs almost exactly when [Anthropic’s standoff with the U.S. government](<https://stratechery.com/2026/anthropic-and-alignment/>) went public; whatever ends up happening with that dispute, it does appear that it was, at a minimum, one of the biggest marketing coups ever.
 
@@ -50,13 +53,13 @@ What is also becoming clear is that Anthropic is facing a major compute crunch, 
 Two months later, [when pressed on this quote by Dwarkesh Patel](<https://www.dwarkesh.com/p/dario-amodei-2>), Amodei said:
 
 > So when we go to buying data centers, again, the curve I’m looking at is: we’ve had a 10x a year increase every year. At the beginning of this year, we’re looking at $10 billion in annualized revenue. We have to decide how much compute to buy. It takes a year or two to actually build out the data centers, to reserve the data center.
-> 
+>
 > Basically I’m saying, “In 2027, how much compute do I get?” I could assume that the revenue will continue growing 10x a year, so it’ll be $100 billion at the end of 2026 and $1 trillion at the end of 2027. Actually it would be $5 trillion dollars of compute because it would be $1 trillion a year for five years. I could buy $1 trillion of compute that starts at the end of 2027. If my revenue is not $1 trillion dollars, if it’s even $800 billion, there’s no force on earth, there’s no hedge on earth that could stop me from going bankrupt if I buy that much compute.
-> 
+>
 > Even though a part of my brain wonders if it’s going to keep growing 10x, I can’t buy $1 trillion a year of compute in 2027. If I’m just off by a year in that rate of growth, or if the growth rate is 5x a year instead of 10x a year, then you go bankrupt. So you end up in a world where you’re supporting hundreds of billions, not trillions. You accept some risk that there’s so much demand that you can’t support the revenue, and you accept some risk that you got it wrong and it’s still slow.
-> 
+>
 > When I talked about behaving responsibly, what I meant actually was not the absolute amount. I think it is true we’re spending somewhat less than some of the other players. It’s actually the other things, like have we been thoughtful about it or are we YOLOing and saying, “We’re going to do $100 billion here or $100 billion there”? I get the impression that some of the other companies have not written down the spreadsheet, that they don’t really understand the risks they’re taking. They’re just doing stuff because it sounds cool.
-> 
+>
 > We’ve thought carefully about it. We’re an enterprise business. Therefore, we can rely more on revenue. It’s less fickle than consumer. We have better margins, which is the buffer between buying too much and buying too little. I think we bought an amount that allows us to capture pretty strong upside worlds. It won’t capture the full 10x a year. Things would have to go pretty badly for us to be in financial trouble. So we’ve thought carefully and we’ve made that balance. That’s what I mean when I say that we’re being responsible.
 
 Needless to say, it looks like Anthropic is going to 10x its 2025 revenue run rate well before the end of the year; I certainly understand Amodei’s trepidation about 10x’ing that number again, but failing to do so may end up being a self-fulfilling prophecy: the biggest constraint on Anthropic’s growth is increasingly going to be Anthropic’s limited compute.
@@ -77,9 +80,9 @@ This is an extremely flawed back-of-the-envelope calculation for lots of reasons
 So why TPUs? Well, from Anthropic’s perspective, it’s almost certainly because that is what is available. According to this graph from Epoch AI, Google has the most AI compute, and most of that is TPUs:
 
 > We estimate that over 60% of global AI compute is owned by the top US hyperscalers, led by Google with the equivalent of roughly 5 million Nvidia H100 GPUs!
-> 
+>
 > Unlike the other hyperscalers, which rely primarily on Nvidia, Google’s fleet is dominated by its custom TPU chips. [pic.twitter.com/8gCykdmXVZ](<https://t.co/8gCykdmXVZ>)
-> 
+>
 > — Epoch AI (@EpochAIResearch) [April 6, 2026](<https://twitter.com/EpochAIResearch/status/2041241217334419851?ref_src=twsrc%5Etfw>)
 
 This is what [SemiAnalysis predicted in 2023](<https://newsletter.semianalysis.com/p/google-gemini-eats-the-world-gemini>) while coining the terms “GPU-Poors” and “GPU-Rich” — the latter was Google:
@@ -88,7 +91,7 @@ This is what [SemiAnalysis predicted in 2023](<https://newsletter.semianalysis.c
 
 This chart, [again from Epoch AI](<https://epoch.ai/data/ai-chip-owners/>), tracks that prediction:
 
-![](sources/images/01knmk6knp845c6amazzg28het_1_6da3bfb2.png)
+![](https://i0.wp.com/stratechery.com/wp-content/uploads/2026/04/anthropic-tpu-1.png?resize=1330%2C686&ssl=1)
 
 These are snapshots of the current moment in time; this deal is for future chips. Remember, though, that Google is spending between $175–$185 billion in capex this year, mostly for AI. That’s almost certainly the most in tech (Amazon is spending more in capex, but some of that will go towards their e-commerce business).
 
@@ -98,7 +101,7 @@ Besides, the more natural fit for Google is the consumer market anyways. That’
 
 * * *
 
-This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -106,6 +109,6 @@ Thanks for being a subscriber, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

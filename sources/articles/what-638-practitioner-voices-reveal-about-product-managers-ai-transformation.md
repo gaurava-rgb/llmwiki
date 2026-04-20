@@ -1,14 +1,17 @@
 ---
 title: "What 638 Practitioner Voices Reveal About Product Manager’s AI Transformation"
-author: "David Haberlah"
+reader_id: "01knqfa01p5t1khb4jt6bb44t1"
+notion_page_id: "3464ebe7-f118-812c-bd72-fa1b6d9a9254"
+reader_url: "https://read.readwise.io/read/01knqfa01p5t1khb4jt6bb44t1"
 source_url: "https://medium.com/@haberlah/what-638-practitioner-voices-reveal-about-pms-ai-transformation-7d2fd16be10d"
+author: "David Haberlah"
 site: "Medium"
 tags: []
 published: "2026-03-18"
 saved_at: "2026-04-08"
 reading_time: "15 mins"
 summary: "AI is changing how product managers work, adding new skills like prompt engineering and AI evaluation. Experts say great product managers still need strong people skills and high standards. Overall, AI reshapes product management but keeps its core values intact."
-image: "sources/images/01knqfa01p5t1khb4jt6bb44t1_cover.png"
+content_hash: "773f51af3af6b53fd3b3048c63903504862f7f8eeab084df56cfc1306d33c913"
 ---
 
 ## Lessons from 7 years of Lenny’s Newsletter & Podcast

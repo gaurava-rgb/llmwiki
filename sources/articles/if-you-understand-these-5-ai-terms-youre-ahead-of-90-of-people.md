@@ -1,19 +1,22 @@
 ---
 title: "If You Understand These 5 AI Terms, You’re Ahead of 90% of People"
-author: "Shreyas Naphad"
+reader_id: "01knqgz4m957zktkyfpjnwj63x"
+notion_page_id: "3464ebe7-f118-81a6-970f-e22ff9d7f4db"
+reader_url: "https://read.readwise.io/read/01knqgz4m957zktkyfpjnwj63x"
 source_url: "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319"
+author: "Shreyas Naphad"
 site: "Medium"
 tags: []
 published: "2026-04-06"
 saved_at: "2026-04-08"
 reading_time: "6 mins"
 summary: "Understanding five key AI terms—tokens, context window, temperature, hallucination, and RAG—helps you use AI smarter and more effectively. Tokens are chunks of text AI reads, and context windows limit how much it can remember at once. Knowing these concepts stops you from blindly trusting AI and helps you get better results in work and creativity."
-image: "sources/images/01knqgz4m957zktkyfpjnwj63x_cover.png"
+content_hash: "3a16a8326eeaea40226f790c082f007c6b7a8de46ce97f5629ed109b2ad5d4b7"
 ---
 
 ## Master the core ideas behind AI without getting lost
 
-![](sources/images/01knqgz4m957zktkyfpjnwj63x_0_17101c6c.png)AI-Generated Image
+![](https://miro.medium.com/v2/resize:fit:1400/1*qbVrf-wO9PYtthAj6E4RYQ.png)AI-Generated Image
 
 [ _For Non-Members link to the full story_](<https://medium.com/towards-artificial-intelligence/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319?sk=11565251829202b41687d0fa2e3c43ef>)
 

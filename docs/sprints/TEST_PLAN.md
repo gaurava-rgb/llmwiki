@@ -17,8 +17,10 @@ python3 -m unittest discover -s tests
 | Instruction files are linked | Codex and Claude use one operating manual | `AGENTS.md` names sprint/test/run-log docs and `CLAUDE.md` points to `AGENTS.md` |
 | Git ignore protects local files | Repo can become a GitHub repo safely | `.env`, `reader/.env`, `.claude/settings.local.json`, logs, caches are ignored |
 | No obvious hardcoded service tokens | GitHub commits do not include live Notion/Readwise tokens | token-like Notion/Readwise auth literals are absent from tracked project files |
+| No private article access URLs | Public article markdown is safe to push | tracked article markdown does not contain private access tokens, Passport member URLs, or account email markers |
 | Wiki index links resolve | Agents can navigate compiled topics/concepts | all `[[topics/...]]` and `[[concepts/...]]` links in `INDEX.md` resolve |
-| Article image references resolve | Raw markdown can preserve local images | local image paths in article frontmatter/body exist |
+| Article image references resolve | Raw markdown can preserve local images when materialized | any local image paths in article frontmatter/body exist |
+| Capture bridge contracts | Reader/Notion capture is idempotent and public-safe | URL sanitizer, manifest, content hashes, dry-run behavior, and stale-file detection work without network |
 
 ## Planned Fixture Tests
 

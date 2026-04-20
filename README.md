@@ -31,6 +31,18 @@ Create/update the Notion schema:
 python3 notion_schema.py --apply
 ```
 
+Capture Reader/Notion raw sources into local markdown:
+
+```bash
+python3 reader/capture_reader_to_markdown.py --apply
+```
+
+Image downloads are opt-in because they can create a large binary diff:
+
+```bash
+python3 reader/capture_reader_to_markdown.py --apply --download-images
+```
+
 Notion and Readwise credentials are local only. Copy the examples and fill them
 outside Git:
 
@@ -42,8 +54,14 @@ cp reader/.env.example reader/.env
 Required environment variables:
 
 - `NOTION_TOKEN`
-- `NOTION_DATABASE_ID`
 - `READWISE_TOKEN`
+
+The Reader capture bridge also accepts `reader/.env` aliases:
+
+- `readwise_token`
+- `notion_api`
+- `database_id` for `NOTION_DATABASE_ID`; optional when the Raw Sources
+  database is still named `Export via Reader`.
 
 ## Safety Notes
 

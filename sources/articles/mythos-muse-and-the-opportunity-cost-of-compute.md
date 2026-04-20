@@ -1,32 +1,35 @@
 ---
 title: "Mythos, Muse, and the Opportunity Cost of Compute"
+reader_id: "01kp40gnyzb0zr4g3fbm25knt9"
+notion_page_id: "3464ebe7-f118-8151-8fc9-e7cd2a6dfccc"
+reader_url: "https://read.readwise.io/read/01kp40gnyzb0zr4g3fbm25knt9"
+source_url: "https://stratechery.com/?p=18769"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8_cD0xODc2OSJdfSwiZXhwIjoxNzc4NjkzNjgzLCJpYXQiOjE3NzYxMDE2ODMsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNDQyNzE3ODctYWYwYy00ZWQ1LWJjYTYtMDc4NGVjYTQyMzY0IiwidXNlIjoiYWNjZXNzIn0.WGhjqGNtf4KHSGAobF6vXgvWYlAF0JpefsUxQu3iGlaZdz4D95BeGStFVf7L1z0kSRJL2dmuH3VzDsS6tq_4kQm0qri0Bn92VU-SGNMDNbIBApkFi7qrpuBTFHduyWYlGru4IGcV_gN00Bl0sTpgltwjahQDyuPkouWYQ1_-FSzw5_CUDJWJIMu4jrdjWN3Yzma09wpLHnlDYyKuXCDXzMZlMp4m2ox4eDLx09Xphu6WMl0jvOIvY5E3mqIzdrxuxqkeLC_QNw8tXF6IiyPtpxzoXmCXZA-Dqc3lCuNuXwniExNcs1EYRklRjuxr8gAqohC9XZ3NuIddWhAdhz8RvA&p=18769"
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-13"
 saved_at: "2026-04-13"
 reading_time: "13 mins"
 summary: "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply."
-image: "sources/images/01kp40gnyzb0zr4g3fbm25knt9_cover.jpg"
+content_hash: "9f26b757579511b56426615580d632c561aaaab7b2551a471964d22a3999e40a"
 ---
 
-Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply. 
+Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
 In January 2025, Doug O’Laughlin at [Fabricated Knowledge](<https://www.fabricatedknowledge.com/p/2025-ai-and-semiconductor-outlook>) declared that o1 and reasoning models marked the end of Aggregation Theory:
 
 > I believe that there is no practical limit to the improvements of models other than economics, and I think that will be the real constraint in the future. It is reasonable that if we spent infinite dollars on a model, it would be improved. The problem is whether infinite dollars would make sense for a business.
-> 
+>
 > That is going to be the key question for 2025. How do the economics of AI make this work? One of the core assumptions about the internet has just been broken. Marginal costs now exist again, meaning that most hyperscalers will become increasingly capital-intensive.
-> 
+>
 > The era of Aggregation Theory is behind us, and AI is again making technology expensive. This relation of increased cost from increased consumption is anti-internet era thinking. And this will be the big problem that will be reckoned with this year. Hyperscaler’s business models are mainly underpinned by the marginal cost being zero. So, as long as you set up the infrastructure and fill an internet-scale product with users, you can make money.
-> 
+>
 > This era will soon be over, and the future will be much weirder and more compute-intensive. Looking back on the 2010s, we will probably consider them a naive time in the long arc of technology. One of our fundamental assumptions about this period is unraveling. This will be the single most significant change in the technology landscape going forward.
 
 [Aggregation Theory](<https://stratechery.com/2015/aggregation-theory/>) was, if I may say so myself, the single best way to understand the 2010s, particularly consumer tech. It explained the dynamics undergirding Google and Facebook’s dominance, as well as the App Store and Amazon’s e-commerce business; it was also a useful ([albeit incomplete](<https://stratechery.com/2017/defining-aggregators/>)) framework to understand an entire host of consumer services like Uber, Airbnb, and Netflix.
@@ -58,7 +61,7 @@ AI very much fits in this paradigm: the output is digital, and while AI chips us
 Consider Microsoft: [last quarter](<https://stratechery.com/2026/microsoft-and-software-survival/>) the company missed the Street’s Azure growth expectations not because there wasn’t demand, but because the company decided to use its capacity for its own products. CFO Amy Hood said [on the company’s earnings call](<https://seekingalpha.com/article/4863620-microsoft-corporation-msft-q2-2026-earnings-call-transcript>):
 
 > I think it’s probably better to think about the Azure guidance that we give as an allocated capacity guide about what we can deliver in Azure revenue. Because as we spend the capital and put GPUs specifically, it applies to CPUs, the GPUs more specifically, we’re really making long-term decisions. And the first thing we’re doing is solving for the increased usage in sales and the accelerating pace of M365 Copilot as well as GitHub Copilot, our first-party apps. Then we make sure we’re investing in the long-term nature of R&D and product innovation. And much of the acceleration that I think you’ve seen from us and products over the past a bit is coming because we are allocating GPUs and capacity to many of the talented AI people we’ve been hiring over the past years.
-> 
+>
 > Then, when you end up, is that, you end up with the remainder going towards serving the Azure capacity that continues to grow in terms of demand. And a way to think about it, because I think, I get asked this question sometimes, is if I had taken the GPUs that just came online in Q1 and Q2 in terms of GPUs and allocated them all to Azure, the KPI would have been over 40. And I think the most important thing to realize is that this is about investing in all the layers of the stack that benefit customers. And I think that’s hopefully helpful in terms of thinking about capital growth, it shows in every piece, it shows in revenue growth across the business and shows as OpEx growth as we invest in our people.
 
 The cost that Microsoft is contending with here is not marginal cost, but rather opportunity cost: compute spent in one area cannot be used in another area; in the case of these earnings, Microsoft was admitting that they could have made their Azure number if they wanted to, but chose to prioritize their own workloads because, as CEO Satya Nadella noted later in the call, those have higher gross margin profiles and higher lifetime value.
@@ -70,7 +73,7 @@ It’s opportunity costs, not marginal costs, that are the challenge facing hype
 Last week Anthropic ~~released~~ announced Mythos, its most advanced model. And, in somewhat typical Anthropic fashion, it did so by focusing on its dangers; from the introductory post for [Project Glasswing](<https://www.anthropic.com/glasswing>), the company’s initiative for leveraging Mythos to address security:
 
 > We formed Project Glasswing because of capabilities we’ve observed in a new frontier model trained by Anthropic that we believe could reshape cybersecurity. Claude Mythos Preview is a general-purpose, unreleased frontier model that reveals a stark fact: AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities.
-> 
+>
 > Mythos Preview has already found thousands of high-severity vulnerabilities, including some in every major operating system and web browser. Given the rate of AI progress, it will not be long before such capabilities proliferate, potentially beyond actors who are committed to deploying them safely. The fallout—for economies, public safety, and national security—could be severe. Project Glasswing is an urgent attempt to put these capabilities to work for defensive purposes.
 
 In [an Update last week](<https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/>) I analogized Anthropic’s “disaster-porn-as-marketing-tool” approach to [The Boy Who Cried Wolf](<https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf>); what’s important about that analogy is not just that the boy raised false alarms, but also that, in the end, the wolf did come. To that end, [I wrote two weeks ago](<https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/>) about the myriad of security issues that underpin all software, and my optimism that AI would solve these issues in the long run, even if it made things much worse in the short run. In other words, it’s actually not important whether or not Mythos represents a major security threat: if this model doesn’t, a future model will; to that end, I do support leveraging Mythos to proactively find and fix bugs before bad actors can find and exploit them.
@@ -82,7 +85,7 @@ In other words, Anthropic isn’t facing a marginal cost problem, but an opportu
 The key to handling those costs will be to charge more for Claude going forward; that, by extension, means maintaining pricing power, which leads to a second benefit of not releasing Mythos broadly. Anthropic certainly faces competition from OpenAI; for both frontier labs, however, the real competition in the long run are open source models. Right now those primarily come from China, and a key ingredient in fast-following frontier models is distillation; from [Anthropic’s blog](<https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks>):
 
 > We have identified industrial-scale campaigns by three AI laboratories—DeepSeek, Moonshot, and MiniMax—to illicitly extract Claude’s capabilities to improve their own models. These labs generated over 16 million exchanges with Claude through approximately 24,000 fraudulent accounts, in violation of our terms of service and regional access restrictions.
-> 
+>
 > These labs used a technique called “distillation,” which involves training a less capable model on the outputs of a stronger one. Distillation is a widely used and legitimate training method. For example, frontier AI labs routinely distill their own models to create smaller, cheaper versions for their customers. But distillation can also be used for illicit purposes: competitors can use it to acquire powerful capabilities from other labs in a fraction of the time, and at a fraction of the cost, that it would take to develop them independently.
 
 I absolutely believe this is a real problem, and [wrote as much when DeepSeek R1 was released last year](<https://stratechery.com/2025/deepseek-faq/>). I also think it’s in the interest of everyone other than the frontier labs to pretend that it isn’t; open source models are not subject to the frontier labs’ markup or compute constraints, which is exactly why it benefits most companies to have them available, whether or not they are distilled. Of course that doesn’t mean they are free to run: you still need to provide the compute.
@@ -94,9 +97,9 @@ Notice, however, how that makes stopping distillation even more of a priority fo
 Mythos wasn’t the only new model announced last week: Meta released the first fruit of their new frontier lab as well. From [the company’s blog post](<https://ai.meta.com/blog/introducing-muse-spark-msl/>):
 
 > Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.
-> 
+>
 > Muse Spark is the first step on our scaling ladder and the first product of a ground-up overhaul of our AI efforts. To support further scaling, we are making strategic investments across the entire stack — from research and model training to infrastructure, including the Hyperion data center…
-> 
+>
 > Muse Spark offers competitive performance in multimodal perception, reasoning, health, and agentic tasks. We continue to invest in areas with current performance gaps, such as long-horizon agentic systems and coding workflows.
 
 Muse Spark isn’t state of the art, but it’s in the game, and overall a positive first impression from Meta Superintelligence Labs. What is most notable to me, however, is the extent to which the last nine months of AI have made clear that CEO Mark Zuckerberg made the right call to embark on that “ground-up overhaul of [Meta’s] AI efforts”.
@@ -118,7 +121,7 @@ On the other hand, O’Laughlin’s observation that we are and will continue to
 OpenAI is betting that this compute constraint — and the deals they have made to overcome it — will matter more than Anthropic’s current momentum with end users. From [Bloomberg](<https://www.bloomberg.com/news/articles/2026-04-09/openai-tells-investors-it-has-computing-advantage-over-anthropic>):
 
 > OpenAI told investors this week that its early push to dramatically increase computing resources gives it a key advantage over Anthropic PBC at a moment when its longtime rival is gaining ground and mulling a potential public offering.
-> 
+>
 > The ChatGPT maker said it has outpaced Anthropic by “rapidly and consistently” adding computing capacity to support wider adoption of its software, according to a note the company sent to some of its investors after Anthropic announced a more powerful AI model called Mythos. The ambitious infrastructure build-out, criticized by some as too costly, has enabled OpenAI to better keep pace with rising demand for AI products, the memo states.
 
 I’m less certain that this will be dispositive. When it comes to AI, distribution and transaction costs are still free — the two preconditions for Aggregators — which means that the winners should be those with the most compelling products. Those products will win the most users, providing the money necessary to source the compute to serve them; consider [Anthropic’s deal to secure a meaningful portion of TPU supply](<https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/>), which, given the capacity constraints at TSMC, is ultimately an example of taking supply from Google. I suspect that Anthropic can take more, including already built hyperscaler and neocloud capacity. Yes, that compute will be more expensive, but if demand is high enough the necessary cash flow will be there.
@@ -127,6 +130,6 @@ In other words, my bet is that owning demand will ultimately trump owning supply
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

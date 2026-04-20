@@ -190,3 +190,99 @@ python3 -m unittest discover -s tests
 ```
 
 Result: passed, 10 tests.
+
+## 2026-04-20 - Sprint 3A/3B Public Capture Bridge
+
+Requested outcome:
+
+- Run Sprint 3A and Sprint 3B in parallel where practical.
+- Sanitize public article markdown.
+- Build the Reader/Notion to GitHub capture bridge.
+- Keep outcomes measurable, idempotent, and logged.
+
+Actions completed:
+
+- Started two parallel worker agents:
+  - Sprint 3A public markdown cleanup.
+  - Sprint 3B capture bridge scaffold.
+- Both workers stalled without returning final summaries, so they were shut
+  down and the implementation was completed in this thread.
+- Sanitized tracked markdown under `sources/articles/*.md` so public files no
+  longer contain `access_token=`, Passport member links, member login email
+  URLs, source-site membership footer lines, or the known account email.
+- Added public article safety tests.
+- Added `reader/capture_reader_to_markdown.py`.
+- Added capture bridge contract tests for:
+  - environment alias handling.
+  - URL sanitization.
+  - private footer sanitization.
+  - markdown trailing-whitespace normalization.
+  - malformed URL handling.
+  - Reader URL ID extraction.
+  - stable content hashes.
+  - manifest round-trip.
+  - dry-run no-write behavior.
+  - stale local file detection when manifest hash and file hash diverge.
+- Added Notion database title resolution for fresh shells where
+  `reader/.env` has `notion_api` but no `NOTION_DATABASE_ID`.
+- Synced the one Reader article that appeared after the previous Notion run.
+  Log: `logs/sync_20260420_200230.log`.
+- Ran the capture bridge against Reader and the Notion Raw Sources database.
+
+Run details:
+
+- Notion catch-up:
+  - Existing Notion articles: 338.
+  - New Reader articles found: 1.
+  - Result: 1 pushed, 0 failed, 338 skipped.
+- Capture dry-run before apply:
+  - Reader docs selected: 339.
+  - Notion page IDs mapped: 338 before catch-up, 339 after catch-up.
+  - Planned local writes before first apply: 319 created, 20 updated.
+- Capture apply:
+  - `319` new markdown files created under `sources/articles/`.
+  - `20` existing markdown files updated with Reader/Notion metadata and
+    sanitized URLs.
+  - `sources/articles/manifest.jsonl` written with 339 records.
+- Image materialization check:
+  - A full image-materializing run was started, then stopped after it generated
+    hundreds of image files and made `sources/images/` too large for a prudent
+    single public GitHub commit.
+  - Generated untracked images from that aborted run were removed.
+  - The text/metadata capture was rerun with external image URLs preserved.
+  - Asset materialization remains a separate future sprint or opt-in run.
+- Final idempotency check:
+  - Capture dry-run selected 339 Reader docs.
+  - Notion page IDs mapped: 339.
+  - Result: 0 created, 0 updated, 339 skipped, 0 planned writes.
+
+Measurable outcome:
+
+- `sources/articles/` now contains 339 raw markdown article files.
+- `sources/articles/manifest.jsonl` contains 339 records.
+- Manifest uniqueness checks:
+  - 339 unique Reader IDs.
+  - 339 unique paths.
+  - 339 records with Notion page IDs.
+- Public-safety scan found no remaining matches for:
+  - `access_token=`
+  - `passport.online/member`
+  - `member/login?email=`
+  - `gaurav_a@tamu.edu`
+  - `gaurav_a%40tamu.edu`
+
+Checks run:
+
+```bash
+.venv/bin/python -m py_compile reader/capture_reader_to_markdown.py sync_to_notion.py notion_schema.py
+python3 -m unittest discover -s tests
+rg -n "access_token=|passport\\.online/member|member/login\\?email=|gaurav_a@tamu\\.edu|gaurav_a%40tamu\\.edu" sources/articles/*.md sources/articles/manifest.jsonl
+env -u NOTION_DATABASE_ID -u READWISE_TOKEN -u NOTION_TOKEN .venv/bin/python reader/capture_reader_to_markdown.py
+```
+
+Result:
+
+- Compile passed.
+- Unit tests passed, 23 tests.
+- Public-safety scan returned no matches.
+- Capture idempotency dry-run returned 339 skipped and 0 planned writes.

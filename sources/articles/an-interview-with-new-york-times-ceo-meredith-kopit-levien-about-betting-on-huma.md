@@ -1,21 +1,24 @@
 ---
 title: "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise"
+reader_id: "01knsqs9c666vavmercevpra5h"
+notion_page_id: "3464ebe7-f118-81b0-9a10-cbd1bd78f09b"
+reader_url: "https://read.readwise.io/read/01knsqs9c666vavmercevpra5h"
+source_url: "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLW5ldy15b3JrLXRpbWVzLWNlby1tZXJlZGl0aC1rb3BpdC1sZXZpZW4tYWJvdXQtYmV0dGluZy1vbi1odW1hbnMtd2l0aC1leHBlcnRpc2UvIl19LCJleHAiOjE3NzgzNDkwOTYsImlhdCI6MTc3NTc1NzA5NiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI0NDI3MTc4Ny1hZjBjLTRlZDUtYmNhNi0wNzg0ZWNhNDIzNjQiLCJ1c2UiOiJhY2Nlc3MifQ.nwrWoS0Ty92X85rHxIIv3gEOwb-K3iySAE1H5WJC-azjgchLdd4BzN5WN_vpEjFKYY5NJEPcEA_0fDJQSS4O0RMtDek_o8akjfGRrfZywt2PMfcUlPiZELdTM0P0EdW-7hoAoLrRVfRqDTvsMWiT5NXs4pU9w8XNL0zP_MLysbKV-xlmlDMSvlwE7nnmL6tA..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-09"
 saved_at: "2026-04-09"
 reading_time: "40 mins"
 summary: "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI."
-image: "sources/images/01knsqs9c666vavmercevpra5h_cover.jpg"
+content_hash: "d856034511d20b74c6b0ddca563dce6b42026254fe27462e7eb2bae06b1d3988"
 ---
 
-An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI. 
+An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -274,7 +277,7 @@ I’m going to name a few things that are just like unequivocally hits at the Ne
 
 **MKL:** It’s a fair question, I think you should regard us as first and most importantly trying to make the best stuff that can and should scale because it’s amazing. And remind me, I’m going to mention two other video shows to you that are so different. And then we are also looking to always master the evolving audience ecosystem. And I think if you followed us, it’s interesting on YouTube, we’re doing more now show by show to build audience so just like you mentioned, the New York Times channel, but like Ezra’s feed is surely updated, Ross Douthat’s feed is updated.
 
-I’ll mention these two other shows. We launched our cooking team, launched a show maybe six months ago called [The Pizza Interview](<https://youtube.com/playlist?list=PLYG6O_GQCZwgb-nxglzTPmQfpTfLZSIz3&si=KnqoPWa4WdUKRNoZ>), we have this amazing test kitchen on the west side of Manhattan and like every major celebrity with something important to say can come on that show now, they make a pizza and they talk about their work. So the cast of Stranger Things came with the finale, Ariana Grande came.
+I’ll mention these two other shows. We launched our cooking team, launched a show maybe six months ago called [The Pizza Interview](<https://youtube.com/playlist?list=PLYG6O_GQCZwgb-nxglzTPmQfpTfLZSIz3>), we have this amazing test kitchen on the west side of Manhattan and like every major celebrity with something important to say can come on that show now, they make a pizza and they talk about their work. So the cast of Stranger Things came with the finale, Ariana Grande came.
 
 **That’s a great concept.**
 
@@ -416,7 +419,7 @@ The other thing I’ll say to you, and this is maybe my contribution, we clocked
 
 * * *
 
-This Daily Update Interview is also available as a podcast. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Daily Update Interview is also available as a podcast. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Daily Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -424,6 +427,6 @@ Thanks for being a supporter, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

@@ -1,21 +1,24 @@
 ---
 title: "An Interview with Asymco's Horace Dediu About Apple at 50"
+reader_id: "01kn7nrjec2wwje1w9b8ff1ywp"
+notion_page_id: "3464ebe7-f118-8148-958f-c9f9e4457a43"
+reader_url: "https://read.readwise.io/read/01kn7nrjec2wwje1w9b8ff1ywp"
+source_url: "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FuLWludGVydmlldy13aXRoLWFzeW1jb3MtaG9yYWNlLWRlZGl1LWFib3V0LWFwcGxlLWF0LTUwLyJdfSwiZXhwIjoxNzc3NzQyNzkzLCJpYXQiOjE3NzUxNTA3OTMsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNDQyNzE3ODctYWYwYy00ZWQ1LWJjYTYtMDc4NGVjYTQyMzY0IiwidXNlIjoiYWNjZXNzIn0.jA3AIzXDyscvxYJe4Eakva0DEVXl1C94lSSAJ9jc7PLiDNoREKVqFYT8dnbnxRopBFs7VBykBFEp-tmgdxU_ENcKmNsTS5L1HZ9tzBn3NVKKjtxHtJdxpZHoZfoDNA0JderMTMjXOb7a9ALJ6QCC9lJfmQAsgr2u_g4QLyP7Sh4qoo1b6SXUSImz3rCHFIhF_PzNmuwIIIHTG9P57jx1MMZfRUxfPUlDWqyFpj818NlJ3FB_XWilg9VzCjE5oBPPkE6q_co50dcdHIKDdYmEQePlG92NGRod..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-02"
 saved_at: "2026-04-02"
 reading_time: "1 hr 5 mins"
 summary: "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI"
-image: "sources/images/01kn7nrjec2wwje1w9b8ff1ywp_cover.jpg"
+content_hash: "bd144673b45a623331f6b82d1c19f4b17e8ff4c0308d0cfe576f348dbda60c15"
 ---
 
-An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI 
+An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -463,7 +466,7 @@ I give the example of Samsung Galaxy, which I forget which year it was, I think 
 
 **HD:** And every time I got on the plane for about a year, I was told, if you have a Samsung Galaxy device, please make sure it’s turned off and so you had a situation where a product was effectively declared a menace to society and I was watching carefully the P&L of Samsung throughout the period — nothing happened. They didn’t lose a beat, it all washed over.
 
-But if Apple, a couple of years earlier, had the [Antennagate](<https://en.wikipedia.org/wiki/IPhone_4#Antenna>), where nothing really major happened except there was attenuation of the signal because of the way the antenna was positioned.
+But if Apple, a couple of years earlier, had the [Antennagate](<https://en.wikipedia.org/wiki/IPhone_4>), where nothing really major happened except there was attenuation of the signal because of the way the antenna was positioned.
 
 **[You’re holding it wrong](<https://www.wired.com/2010/06/iphone-4-holding-it-wrong/>).**
 
@@ -507,7 +510,7 @@ I will do a little adjacency, I’ll look at Google and the usual suspects, but 
 
 * * *
 
-This Daily Update Interview is also available as a podcast. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Daily Update Interview is also available as a podcast. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Daily Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -515,6 +518,6 @@ Thanks for being a supporter, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

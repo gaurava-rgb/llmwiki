@@ -1,0 +1,474 @@
+---
+title: "An Interview with Sierra Founder and CEO Bret Taylor About AI Agents and Tech History Lessons"
+reader_id: "01jyph38jkpyjk06zrfm8m5dky"
+notion_page_id: "3484ebe7-f118-81cb-97ed-d1b9d89aca55"
+reader_url: "https://read.readwise.io/read/01jyph38jkpyjk06zrfm8m5dky"
+source_url: "https://stratechery.com/2025/an-interview-with-sierra-founder-and-ceo-bret-taylor-about-ai-agents-and-tech-history-lessons/"
+author: "Ben Thompson"
+site: "Stratechery by Ben Thompson"
+tags: []
+published: "2025-06-26"
+saved_at: "2025-06-26"
+reading_time: "48 mins"
+summary: "An interview with Sierra founder and CEO Bret Taylor about his career in tech and the future of AI."
+content_hash: "58a487ad36e4f14ae43ca81bd2e7f7b010d9259bd4518989ed870f34b5d6998b"
+---
+
+An interview with Sierra founder and CEO Bret Taylor about his career in tech and the future of AI.
+
+* * *
+
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
+
+* * *
+
+Good morning,
+
+This Stratechery interview is another installment of the Stratechery Founder series; as a reminder, one of the challenges in covering startups is the lack of available data. My solution is to go in the opposite direction and interview founders directly, letting them give their subjective overview of their companies, while pressing them on their business model, background, and long-term potential.
+
+Today’s Stratechery Interview is with [Sierra](<https://sierra.ai/>) founder and CEO [Bret Taylor](<https://x.com/btaylor>). Taylor has one of the most storied careers in Silicon Valley: after Stanford he worked at Google, was CTO at Facebook, founded Quip, became co-CEO of Salesforce, and most recently founded Sierra, a B2B AI Agent building company. Taylor is also chairman of the board of directors of OpenAI, and previously was the chairman of the board of Twitter.
+
+In this interview we discuss the highlights of Taylor’s career, including a discussion of how Google and Facebook used to be, and why it’s so hard to continue to innovate as you become a large company. Then we discuss the enterprise market and when products can win by being the best, and how they differ from consumer markets. We discuss Sierra, Taylor’s new AI agent startup, and why he believes there is a narrow window to build a significant new company, and whether or not AI like Sierra will lead to job losses. Finally, we discuss why ChatGPT is a generational consumer product, thanks in part to messaging being the right UI paradigm for AI.
+
+As a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.
+
+On to the Interview:
+
+### An Interview with Sierra Founder and CEO Bret Taylor About AI Agents and Tech History Lessons
+
+_This interview is lightly edited for content and clarity._
+
+**Topics:**
+
+Background | Google and Facebook | Quip and Best-of-Breed vs Suites | Salesforce and Consumer vs. Enterprise | Sierra | Agents and Business Model Paradigms | AI, Jobs, and Technological Progress | AI and Messaging
+
+#### Background
+
+**Bret Taylor, welcome to Stratechery.**
+
+**Bret Taylor:** Thank you for having me.
+
+**It’s an honor to finally have you on, I’ve been looking forward to this conversation for a while. As you know, I like to go back to the beginning of these conversations. So tell me where did you grow up? How’d you get started in tech? Let’s go back to young Bret.**
+
+**BT:** Do you want the short answer or the medium answer?
+
+**Give me the medium answer and I might dive in and ask a couple of follow-ups.**
+
+**BT:** Born here in the Bay Area, Oakland, California, proud Oakland Native, wish we still had some sports teams, but that’s not the case. I ended up in technology, I was in high school when the web came out, we got an AOL subscription, all that, I didn’t really think of it as a career. I ended up on my 16th birthday buying a 1971 VW bus for $700.
+
+**Nice.**
+
+**BT:** Going to the movies with my friends and promptly rear ending a brand new Cadillac — it was parked by the way, I didn’t even have a good reason for it. Left a note on the windshield that, long story short, the guy who owned the car appreciated my honesty, offered me a job at his gas station to pump gas and clean the bathrooms. Every day I would go to that gas station and there was a mechanic next door, and he was complaining about how expensive it was to make a webpage and get it listed on Yahoo directory, which was all the rage back then. I was getting paid $4.25 an hour at the gas station, the job I took in large part because I felt guilty for hitting someone’s car and I asked, “How much will you pay me to make a website?”, he said, “$400”. Doing the math on that $4.25 an hour, that’s a lot of bathroom cleaning.
+
+So I went to Diablo Valley Community College, which had a computer lab, taught myself HTML, made a webpage, got paid $400, promptly quit the gas station job. I felt like I’d done my time with the guy and ended up doing web design for a lot of local businesses, so by the time I ended up at college at Stanford, it was the peak of dot-com bubble, but I had kind of already caught the bug, so I think if you had met me my last year of high school, I might’ve said maybe I want to be a lawyer or something, but by the time I stepped foot at Stanford, I was making webpages and had sort of turned it into a pretty profitable business.
+
+Then going to Stanford in 1998, it was like you were tripping over startups on the way to class so I have a feeling I might’ve caught the bug anyway, but it actually preceded that.
+
+**I think it’s interesting because you didn’t really learn to program program until you got to Stanford, right?**
+
+**BT:** Yeah, exactly. I don’t know, does HTML not count? I guess you’re probably right.
+
+**The reason I find this part of the story interesting is I can relate to it a lot in that I was on the, “I’m going to make webpages for local businesses” bandwagon, didn’t really program until I got to college, and I think we’re very similar in age, and I just think it’s interesting to look back on your career, and it’s like you started with the entrepreneurship part and then tacked on the tech later, whereas you talk to other people like, “Oh yeah, my dad got me a computer when I was six years old and then I learned BASIC”, and then they’re off to the races and it took you a while.**
+
+**BT:** We always had a computer in the house, so I was definitely very technically literate and I wasn’t intimidated by it, but it wasn’t like I had anything to do with it. I didn’t have a Mac, we had a PC, so I didn’t get [the HyperCard bug](<https://en.wikipedia.org/wiki/HyperCard>), I love that program. I sort of wonder if I would’ve discovered programming earlier had we had it.
+
+**Same thing I had a hand-me-down x86 PCs.**
+
+**BT:** Exactly, yeah, the people with the cool Macs got to HyperCard and caught the bug early. I feel like I’ve met so many extremely talented engineers where HyperCard was the thing that [nerd sniped](<https://xkcd.com/356/>) them into becoming a developer.
+
+Then I got to Stanford and took CS106X, which is their intro class, and I was hooked. I would go home from that class and I would program for fun and I just couldn’t get enough of it, and it was just felt so empowering to me. I remember thinking at one point, “There’s nothing that I can’t do with this that these large companies are doing”, and I just felt so much leverage in the act of creating software and so much empowerment and it was really fun.
+
+I’ll fast forward to the end, you can tell me where you want to double click, but graduated in ’02, finished a Master’s degree, started what could have been a PhD, but did one year to get a Master’s and by the tail end of my Master’s year, I was working full-time at Google, so I actually took vacation from Google to take my finals of my last quarter.
+
+#### Google and Facebook
+
+**Did Google recruit you just there at Stanford or did you know them? Obviously the timing is right to be a Stanford student interested in computer science and connect with Google.**
+
+**BT:** It was total luck.
+
+So the dot-com bubble burst right in the middle of my college career. So the beginning of college, you go to the computer lab and there would be pizza sponsored by Company X — I never paid for food my entire college, you’d just go to the computer lab and there’s a recruiting team with free food. I joke by the end, like 2002, there was tumbleweed going through because of everything.
+
+So when I left, I had an offer to be a software engineer at VMware and an offer to be an associate product manager at Google, and I ended up choosing Google. Working on a kernel is the most fun thing ever for a geeky infrastructure engineer like me, a systems engineer. But [Marissa Mayer](<https://x.com/marissamayer>), who was a teaching assistant when I was at Stanford, had gone to Google, she was the one who recruited me to the associate product manager program. I sort of followed her and I knew some Stanford folks who had gone, I didn’t actually know what a product manager really meant, and so I took a huge leap of faith on it and followed people rather than the job. I would’ve said I actually knew what the VMware programming job was—
+
+**I was going to say, it’s not like VMware would’ve been a bad company to latch onto, but it’s not like the rocket ship, I mean, rocket ship almost seems to undersell joining Google in 2002.**
+
+**BT:** And who knew? We were still selling the [yellow search appliance](<https://en.wikipedia.org/wiki/Google_Search_Appliance>) when I got there, AdWords was invented right around the time, but they were selling banner ads for keywords at the time. People always are like, “How did you choose?”, and I’m like, “Honestly, I just followed people and lucked out a little bit”.
+
+It was helpful that the dot-com bubble burst though, because to some degree, when maybe some new grads were more sophisticated than I was, but it just limited the playing field to the healthiest players. So it was almost like chemotherapy, you kill some healthy cells, but you kill most of the bad cells. So the companies left were the companies that had really viable businesses, so I feel fortunate I didn’t graduate in 1999, I just feel lucky in a lot of ways.
+
+**So tell me about Google and I do have to verify — is it true that you rewrote Google Maps in a weekend?**
+
+**BT:** (laughing) That is mostly true. Do you want that story?
+
+**Sure, give it to me. I know it’s out there, but it’s such a great story.**
+
+**BT:** Yeah, I think it’s out there because of [Paul Buchheit](<https://x.com/paultoo>) who created Gmail, and I ended up starting a company with him, and he told that story once and then it just spread like wildfire.
+
+So we launched Google Maps in February 2005 and it was a bunch of hard won lessons about how to make an interactive web application, and I think it was really the first of its kind.
+
+**It was mind blowing when it came out.**
+
+**BT:** Oh, it totally was. Things like Gmail and Google Suggest had done live updating of the page, but to drag the map and actually have it be an interactive graphical experience was truly groundbreaking. Truly groundbreaking, meaning in the sense we would crash browsers like it was going out of style. [Lars Rasmussen](<https://x.com/larsras>) and I would walk down to the team, we had a lot of Firefox engineers at Google at the time, and we’d have them load Firefox in the debugger so we could figure out what code path was crashing and then find a way to work around it, so we were really on the bleeding edge because the document object model in the browser was just not designed for what we were abusing it to do.
+
+As a consequence, when you’re really doing true R&D and you actually don’t know which path to go down, first, when we ended up launching, there was a lot of cruft in that code base just because it had all these failed experiments, we had gone off on all these expeditions and did not clean it up. So even unusually at time of launch it had a lot of debt.
+
+Then we ended up wanting to launch support for Safari, which was a relatively new browser at the time. There was no mobile phones yet, Safari is a very important browser now, at the time it was considered long tail for the relatively modest Mac desktop user base, but we’re Google, so all the numbers add up to actually statistically significant numbers, so we had an engineer on our team and it was 2004 so XML was still popular, and so we had used all these features and Internet Explorer to parse and use XML, many of which weren’t supported in Safari.
+
+One of the engineers who was tasked to implement Safari support implemented this homegrown XML system, [XSLT transform system](<https://en.wikipedia.org/wiki/XSLT>), and it was like a lot of impressive engineering, but it meant that loading Google Maps took forever and at the time you still had dialup modems, even high bandwidth internet connections weren’t as fast as they’re today.
+
+**I remember in college I was lusting after T1 or whatever, which is I think 2 megabits or something like that.**
+
+**BT:** It’s a different world nowadays with all the front-end development, they wouldn’t even know what to do. But it was hundreds of kilobytes of JavaScript, which at the time just even parsing it running, it was slow, let alone downloading it, so I had gotten really frustrated with it and in particular we were growing really rapidly. We had launched satellite imagery and the product was growing like a weed and it was just hard to just get the team to focus on this because everything’s on fire all the time.
+
+So as an engineer, I had a model of the system in my head. I knew how we rendered vector graphics for driving directions, which was very hard at the time, I knew how we did tiling for the maps, I knew that we shouldn’t be using XML at all, and I had an idea, [JSON, the term hadn’t been coined yet](<https://en.wikipedia.org/wiki/JSON>), so I was like, “We should just be evaluating JavaScript rather than using XML”, and I just had this image in my head and I just am the type of person I get really obsessed with things. It was like Friday afternoon and I was like, “I’m just going to do it”. Then it started working and this as someone who makes software, you get kind of addicted to the light at the end of the tunnel and you’re like, “I don’t want to go to bed, I’m going to do this until it’s done”.
+
+**(laughing) In this case it’s not a train, it’s often a train going backwards, “I see the light and it’s receding!”**
+
+**BT:** So when it got to the nearing the end of the weekend and it was clear, the whole thing kind of worked, I was like, “Oh, now I want to impress my colleagues, I’m just going to keep going”, and so then I sent out the demo and it was almost 1/10th the JavaScript bundle size and a lot faster and worked in all browsers and it took a while to polish it up before we ended up fully launching it. But that definitely happened and I think almost every other software engineer I know has this quality who really likes the craft, which is when you end up solving an architectural problem and you see that light at the end of the tunnel you get plugged into the matrix and you just can’t help yourself.
+
+**Here’s the question I have about that, I love to hear the story, but you haven’t been at Google in a long time, but do you think from the outside looking in and remembering all those long weekends and whatnot, is it even possible for anyone, no matter how talented, to do what you did at Google today?**
+
+**BT:** I would guess not. It’s interesting, I read your posts pretty religiously and I think you talk a lot about strategy and platforms and the different moats afforded by them. Culture is really interesting as you grow, and I think one of the — I’ll say some things that might not seem related, but I believe they are — one thing that happens as you grow a company is there’s less space for generalists.
+
+**You just said that how you had all the different views of what was happening in Google Maps in your head and back then to be a PM was actually it afforded you that opportunity as opposed to owning some narrow slice or whatever.**
+
+**BT:** Well, not only that, I mean you mentioned something that’s actually pretty significant — I was a product manager! Nowadays, I don’t even know if product managers would have the privilege of submitting code to the source code repository, but at the time, every culture I feel like is strands of DNA, often the strengths and the weaknesses are very intertwined.
+
+**Oh, completely.**
+
+**BT:** I think Google’s 20% time is fairly maligned in some ways because it has a sort of entitled indulgent element to it, but it was also somewhat true. Paul Buchheit in making the first Gmail prototype, he did it in his spare time, a PM like me could spend the weekend rewriting some code, and the engineers were not only not offended, they were super excited about that dynamic. There was a sense that Google at the time of we have this great infrastructure which was truly, truly unique at the time, like the data center infrastructure, the distributed computing infrastructure, and thanks to the AdWords team, no thanks to me, we had the greatest business model of all time.
+
+Then the other interesting part of Google at the time is that because the dot-com bubble had burst, it just had this incredible density of talent because you sort of had choice.
+
+**All the refugees that were good ended up there.**
+
+**BT:** The entire Bell Labs team was there, all the Greybeards who made Unix had offices near me. I was like, “Oh my God, these people are gods, I get to talk to them”, I shared an office with [Peter Norvig](<https://en.wikipedia.org/wiki/Peter_Norvig>).
+
+**The famous Google relation to the dot-com bubbles is they[bought up all the dark fiber](<https://stratechery.com/2023/an-interview-with-craig-moffett-about-charter-vs-disney-and-the-path-dependency-of-the-communications-industry/>) and so to this day they continue to have a networking advantage that’s downstream from that. But you’re articulating the exact same thing in terms of just talent, because they survived the dot-com bubble, they were there, they were good, they were exciting, they were making money, they accrued all these advantages that have paid off for decades.**
+
+**BT:** It’s amazing. And being there as a 20-something, I went there straight out of college. You go in these rooms and I mentioned, I shared an office with Peter Norvig who wrote my textbook in the last class I took in college and I go in, I’m like, “Hi Peter, sir”, he was incredibly gracious by the way, didn’t mind that this 22-year-old kid was there. So it was just amazing, what a fun time, I’m so grateful that I got to experience that.
+
+But to go back to your question, could it happen today? I don’t think so. What you end up doing with these companies is the really reductive thing is every time something goes wrong, you make a process to fix it. You end up with this layering of processes that ends up making the company ossified, and you end up sort of this frozen version of a once great firm, and that’s the reductive version of what happens to these companies.
+
+But it’s also some of it’s very rational. Larger companies are regulated more, small mistakes can end up having big consequences. I wasn’t at Microsoft after the [antitrust trial of the early 2000s](<https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.>), but you hear a lot of ex-Microsofties talk about the before and after and if the stories are true, might’ve motivated Bill [Gates] to leave. I don’t know if that’s true or not, by the way. I think as you grow, you end up not even irrationally adding safeguards, checks and balances, which leads to organizational hierarchies and all these other things. And as a consequence, Google Labs, which was sort of the playground where you launch these things, it’s hard to do.
+
+The other thing that’s really interesting is when the numbers get bigger, it’s harder as well. So just think about it this way, when I was at start at Google, we had much less than a billion in revenue and so you could start a new business there and you could imagine, “Wow, this could really contribute to the future of this company”. What is Google’s revenue now? You probably know off the top of your head.
+
+**$130 billion I’m going to guess.**
+
+**BT:** Yeah, a lot. Well, imagine today launching the equivalent of Google Maps, and you start to think about the natural growth of a technology product, a consumer product, even a great one.
+
+**By the way, it was $350 billion. I was not even close. (laughing)**
+
+**BT:** Oh yeah, you’re totally off.
+
+**Income was $100 billion.**
+
+**BT:** Which is insane, by the way, those margins are insane. So the other interesting thing I would say with larger firms is patience or the lack thereof. You could be as essentially if there’s a new market, growing a new business organically, there’s just a natural inertia. You can’t grow a new business, there’s certain limits to it. Obviously social businesses can grow much, much faster. But growing, say a new advertising business, you need to curate advertisers. You need all these things, if it’s a service like Google Maps, there wasn’t really a viral component to it. When I left Google, MapQuest was still bigger than Maps. I mean obviously anyone with a brain would know that those lines were going to cross, but you had to have the patience and endurance to do that, and I see so many companies launch new products and it doesn’t grow fast enough.
+
+These sort of [infamous projects](<https://killedbygoogle.com/>) like podcasting platforms that came and went and [Google Reader](<https://en.wikipedia.org/wiki/Google_Reader>) somewhat infamously and who knows whether that was a good business or not, but you end up with these worlds where you can end up looking at a spreadsheet and discounting almost all innovation as not valuable enough, not fast enough and I think it creates this natural sense for these big companies to be too acquisitive, to sort of essentially acquire businesses at scale because it’s easier to understand how it impacts the trajectory of your company.
+
+So I think there’s a lot of things. You end up with process additions, natural hierarchy, which leads to lack of empowerment, rational checks and balances because of regulatory pressures and others, and then this thing where you’re too big for any new organic innovation to have a short-term impact, and it’s why it’s really interesting to look at companies that are very oriented like Google and Apple towards organic innovation. It’s really the level of discipline I think you need as a leader to really follow through on that is extremely, extremely high.
+
+**One more quick Google question. I mean, you’re in the AI space, we’re going to talk about Sierra in a little bit. Google, it strikes me, they continue to have this tremendous infrastructure advantage, they did do the long-term investment. Well, they still acquired DeepMind, but they’ve been nurturing this for a long time. It feels like they[can’t make a product to save their lives](<https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/>). [I do like what they’ve done with Search](<https://stratechery.com/2025/google-i-o-the-search-funnel-product-possibilities/>), I guess that’s the one team that can still get stuff done. Where do you rank them? Are they the favorites? Are they going to be disrupted? What’s your take?**
+
+**BT:** Favorites as in AI broadly, you mean? I’m the chairman of OpenAI, so I’m a homer on this one. I think OpenAI and ChatGPT, I believe will come to define this wave of large language models.
+
+**You’re preaching to the choir here, as you know.**
+
+**BT:** But I don’t necessarily think exclusively at Google’s expense, I think Google has just a ton of assets as a company, it’s a very impressive company so I never count them out. It was like Intel has their woes now, but I remember Intel sort of swings and misses at 64 bit and eventually found their way. When you have the scale, you don’t need to hit a homer every time you’re up at the plate and so Google has YouTube, Gmail, Search, all these other things, they have a lot of talent as well. So I believe ChatGPT will define this next era of technology, but not everything is zero-sum. That’s not the way these things work and I think Google’s a really talented company.
+
+**Well, after Google you[start FriendFeed](<https://en.wikipedia.org/wiki/FriendFeed>) and then you’re acquired by Meta, that was then called Facebook obviously, become the CTO. Do they have a similar problem? They do have the social component — they do have, Mark Zuckerberg is still there — but is it just an issue where Mark Zuckerberg wants to push this company like they are Facebook in 2010, but it’s Facebook in 2025 and are some of these big company forces sort of inescapable?**
+
+**BT:** Yeah, it’s interesting. It’s such a different company from when I was there, first of all. So I actually, while I am familiar with the company, it’s a very different shape. At the time it was called Facebook and while we had acquired Instagram, we hadn’t yet acquired WhatsApp and certainly not created the virtual reality unit and the AI lab was nascent when I was there. It’s interesting on its face, if you look at the impact of AI on social media, it’s quite a bit more nuanced. One could look at a Google Search box and ChatGPT, and you can see a lot of overlapping use cases. You could say, well, some of that usage has to be cannibalized just because if you’re finding information —
+
+**If you’re asking a question in one place, you’re not asking it in another, yup.**
+
+**BT:** Yeah, I don’t think the same is true of something driving towards engagement and certainly social media will have a huge place in it. I think you could look at early Instagram filters as sort of an example of a generative would be generous, but there’s been this interesting intersection between content creation and social and all of that.
+
+**Isn’t there a time component though? I mean people are spending a tremendous amount of time in ChatGPT.**
+
+**BT:** Absolutely. To some degree, there’s only so much time in the day. So if you’re using one product, you won’t use another. But I think the jobs to be done of a social media platform are slightly different than something like a ChatGPT, that’s my personal take. And obviously there’s some overlap, but it’s interesting because Mark Zuckerberg is one of the most ambitious founders of all time, and so he doesn’t settle for having Instagram and Facebook, he moves into WhatsApp, he starts a virtual reality lab, he invests a lot in Llama. So the interesting about Facebook and Meta is I do think, if you will, the threats of these new technology are very different just because the use cases are different. But his ambitions are much beyond those.
+
+**It’s two great conflicts in tech. We have Google with the classic disruption conflict that is well-documented, but it’s going to be interesting to see play out an incumbent with all the advantages versus this bottoms up, use it not as good at search at some things, but good at other things. Facebook is what you just talked about. It’s can a founder overcome the ossification and bigness of a company and still push it forward? We kind of don’t know the answer to either, it’s going to be interesting to watch.**
+
+**BT:** We don’t, but never count Mark Zuckerberg out. I mean, the guy’s incredible and incredibly ambitious and willing to put his money where his mouth is, which is I think something. I mean it’s why I admire him.
+
+**I won’t ask you about[any recruiting pitches](<https://stratechery.com/2025/talent-wars-nba-money-ai-money/>) you may or may not have gotten over the last…**
+
+**BT:** I’m an OpenAI homer, so I don’t think they would call me.
+
+#### Quip and Best-of-Breed vs Suites
+
+**I’m curious[about Quip](<https://stratechery.com/2016/uber-didi-follow-up-salesforce-buys-quip/>). So what was the thesis behind doing Quip? And well, yeah, just start there.**
+
+**BT:** Yeah, sure. And with the benefit of hindsight, somewhat flawed, so I’ll qualify that.
+
+**I’m curious about your hindsight, but tell me what you were thinking at the time.**
+
+**BT:** Yeah, so when I was at Facebook, I was there as CTO during the growth of the smartphone and it was quite disruptive to Facebook. We also benefited a lot from it, but we went through some pretty deep trough of despair to come out the other side.
+
+**It was beautiful for me because I started Stratechery when you were in the trough.**
+
+**BT:** Oh really? Okay, that’s great.
+
+**The two companies I could get on, well actually there was three. Number one, everyone was sure if Apple was going to get disrupted by Android. I’m like, “No, it’s not”. Number two was everyone was down on Facebook, I’m like, “This is a monster, it’s going to be massive.” And number three was just being in general[anti-Steve Ballmer and Microsoft](<https://stratechery.com/2013/the-deal-that-makes-no-sense/>) because I had worked there and then saying they should push on the cloud, etc. So I do feel it’s my version of you joining Google — much less lucrative! — but by and large I’ve been at the right place at the right time for some of these companies.**
+
+**BT:** Well, thank you for your faith in us. And I was both responsible for what I think was the worst mobile app of all time, which was this HTML5 piece of shit, and the rewrite — so I’ll take blame and credit for the trough and hopefully climbing out of it a little bit too. But it shows it was just like, especially as CTO was accountable for some of this bad decisions, but we also did the big rewrite, which actually really accelerated our growth and some of the early mobile app install ads and things like that, that turned out to be really consequential over time.
+
+But anyway, through that experience, I got humbled a little bit, I learned a lot. I learned a lot about mobile technology, and it was really probably more fun with the benefit of hindsight than it was in the moment. Being in that trough is never fun, but I really came to deeply and intuitively understand the impact of smartphones on the world, and it was interesting because when you run a big consumer service, you’re kind of on the bleeding edge of some of these behaviors and the enterprise lags.
+
+**And it’s hard to know what is a fad and what is actually meaningful and is going to matter for everyone.**
+
+**BT:** Totally. Like Clubhouse comes and goes, but TikTok remains, right. It’s complicated though and it’s very arrogant to say most of us who’ve been in this space for a while, you don’t bat a thousand in your predictions. Maybe you do, I certainly don’t.
+
+**Nope.[I was a big Clubhouse guy](<https://stratechery.com/2021/clubhouses-inevitability/>). That was a [humbling moment for me](<https://stratechery.com/2021/market-making-and-time-horizons-clubhouse-struggling-what-did-i-get-wrong/>) because I didn’t appreciate the extent to which my experience on Clubhouse was different by virtue of being well-known and that wasn’t representative of normal people at all in their experience. So yeah, that a huge miss by me.**
+
+**BT:** We could go on a whole sidetrack on that, but I’ll go back to the Quip, but that’s such an interesting topic, by the way. Actually one of my, I don’t tweet very much, but one of my ones was like, “What’s your worst technology prediction?” — mine was I thought iPads would be more popular than they are, and we talked through it. Anyway, so fun topic, but go back to Quip.
+
+At one point during when we were coming out of the trough of despair had mandated that everyone at the company use Facebook groups rather than email lists and use Facebook Messenger rather than email in an effort to dogfood so we would only message each other on our mobile phones, you just never pulled out your laptop. And the idea was just like, “We’re going to suffer until our product is exceptional”, and it was a really effective, this is one of Mark Zuckerberg’s strengths, right? We’re going to will it to be.
+
+**He did the same thing mandating Android at one point when your Android app was terrible.**
+
+**BT:** Yeah, exactly. So I ended up through that realizing we were a Microsoft Office shop and all these other things, and you end up looking at slides or virtual overhead projectors and Microsoft Word documents even on mobile were on virtual pieces of paper and I came to deeply feel that perhaps the productivity suite, which was the anchor tenet of the PC for very, very long, just kind of developer tools and stuff, the core productivity suite, I said, “Gosh, could this be the moment where the jobs to be done shift? Just because presenting while important, it’s not a really good form factor on mobile, documents on this formatted for printing versus formatted for the screen”. And at the time too, Microsoft refused to make apps for any platform other than Windows phone, this kind of perfect storm.
+
+**That was a good spot for me.[It’s so easy to criticize it obviously right](<https://stratechery.com/2013/services-not-devices/>).**
+
+**BT:** So we decided to take a big swing knowing that going after the productivity market is a little bit like invading Russia in the winter. But we said if there’s a time where the ossified way we use the software will change is probably right now.
+
+I think with the benefit hindsight, I think we did fairly well. I mean the product [still exists as far as I know](<https://quip.com/>) at Salesforce, we really said, “Let’s orient around the document surface”, a little bit like Notion that I think they started a little bit after us and we’re basically saying, let’s make a very collaborative mobile-native digital real-time with push notifications and app mentions and all the things that you would get in sort of a push notification, mobile-oriented use case.
+
+With the benefit of hindsight was a very good product, I still talk to folks who love it, I think Slack, which started for completely independent reasons, but anchored on messaging rather than the document was probably a more intelligent starting point. I think we had really oriented around the more permanent artifact just because it felt right to us. I do think that email was more disrupted by the mobile phone than documents in the grand scheme of things and I do think you could see that really impacting the enterprise with Slack and Teams in deeper ways.
+
+I like that this is a really fun, it was a fun company. [Kevin Gibbs](<https://x.com/kevgibbs>), my co-founder, still one of my favorite people in the world and I’m really grateful I got to end up, that’s how we landed at Salesforce. So no regrets at all, but you sort of go back and you look at what was flawed about your strategy, and I think we picked the wrong artifact to anchor on and to sort of build around with the benefit of hindsight.
+
+**So was it that you picked the wrong artifact? I mean, this kind of applies to Slack too, where they picked the right artifact, but at the end of the day,[Microsoft is Microsoft](<https://stratechery.com/2016/slack-and-the-macintosh-microsoft-teams-slacks-ad/>) and is there a bit where would you credit their distribution is just unparalleled? Or did they also wake up maybe sooner than hoped? Had they slept for a few more years, maybe the entire productivity space would look different?**
+
+**BT:** Yeah, probably a little bit of all the above. Satya [Nadella]’s one of the greatest CEOs of all time and just his transformation of that company is, I imagine even his rivals will begrudgingly acknowledge that. Truly amazing in part just because there’s great entrepreneurs who grow businesses — to take over a business of that size and transform Windows revenue to Azure revenue, to embrace the cloud, to really find your place in the space of iOS and Android is truly impressive.
+
+I think people who, I’ll say Monday morning quarterbacking or whatever the phrase is, very few people could take over an organization of that size and do that kind of strategic turnaround and manage the public markets at the same time. Public market investors like to claim they’re long-term, but they’re not in my experience, and so you end up with this combination of both strategic — you have to make the right strategic decisions and you have to manage your stakeholders, your employees, your investors, etc, just A+ marks on that. I also think it’s interesting, I still think Slack is orders of magnitude a better product than Teams.
+
+**Well, I know my take on this, which is it’s a dramatically better product to use, but you mentioned jobs to be done. The job to be done in an enterprise is not to chat, it’s to actually accomplish things and it’s really hard to accomplish things, tie different stuff together. To me, this has always been a huge miss by Google. They needed to foster the Silicon Valley suite and integrate everything together instead, everything was in silos and Microsoft could tie everything together. Everything was mediocre, but it all worked together and you’re the CTO at some non-tech company and the Microsoft stuff, it works. Poorly, but it works and you’re trying to patch everything else together if you’re using best-of-breed.**
+
+**BT:** I agree with you, but I’ll add a layer of nuance that I personally feel having been in the trenches of enterprise software now for quite a while.
+
+**Well, I’m curious, I do want to ask about Salesforce. If you look back at your career, it’s like you see all this progression and then there’s a long period at Salesforce, which I think is probably surprising to anyone who knows of you.**
+
+**BT:** Yeah, I loved my time at Salesforce. So we’ll go into it, but just let me talk about this suite versus best-of-breed thing.
+
+I think it really matters who the buyer of the software is. So if you’re selling expense reporting software, you’re selling to a line of business, you’re selling to the finance department, presumably the CFO or someone under them will be making that decision. The fact that you have a big enterprise license agreement with Microsoft may or may not matter in that decision because the way you’re evaluating that is usually a business outcome, and if you can drive better business outcomes, the integration costs or whatever it might be of being a part of a suite matter, but it’s not going to be the dominant part of your decision-making. All things being equal, you might go with the suite, but when you’re measuring a business outcome, it could be different.
+
+The interesting thing about all software sold into IT that gets distributed to every employee is it tends towards commoditization, because the marginal value of the 46,000th employee having a better messaging capability is very low. What’s interesting, though, is you go around the world, you’ll notice — I don’t know if this is still true, but often you’ll go to companies where the engineering team has Slack and everyone else has to use Teams. It shows you for them the marginal value of your engineers like communicating effectively is very high, you’re like, “Yes, we’ll choose the better product”.
+
+If you’re buying your mobile phone plan, your messaging product, even your document product, you end up with this natural commoditization, which tends towards suites. The more you end up towards a measurable business outcome and a buyer of that technology that is, truly cares about driving, “I need more leads”, or, “I need better conversion here”, or, “I need to run this software on fewer GPUs because we’ve run out of them”, all of a sudden you care about the business outcome.
+
+My take on it is I think you’re right broadly, but it actually matters a lot more for commodity or software that gets distributed to everyone at your company, and you tend towards this lowest common denominator suite orientation.
+
+#### Salesforce and Consumer vs. Enterprise
+
+**Well, that’s really interesting. You mentioned being on the board of OpenAI.[There’s an article on Bloomberg](<https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry>) just the other day about how ChatGPT is kicking Copilot’s rear end in the enterprise. That fits perfectly in your framework, which is if it is a tool that is more easily viewed or tied into productivity gains, then best-of-breed will work. You’re not going to get the sort of the suite advantages, it sounds like that may be what’s happening.**
+
+**BT:** Yeah, it may be. I also think ChatGPT is synonymous with AI right now.
+
+**The other thing with this angle is because you get the most benefit from AI, it requires significant volition and agency on the side of the user currently. They already know ChatGPT, so they’re more likely to use it just for that reason alone. Then, you have better products, you have better apps, Copilot’s still in a browser. It’s more consumer-like, at least in this moment of time, because of the user volition requirement.**
+
+**BT:** Yeah. Also, I think we’re very early in AI despite its complete transformation of the economy already, because we’re sort of in the era of — it’s a little bit like we had Yahoo directory and then we had AltaVista and Google search.
+
+**Well, people said that search was dead, a dead market, commodity market, then Google comes along.**
+
+**BT:** Oh, totally. It was funny, this is my point about these subtle things, because when portals dominated and directories dominated, the web tended to be small because you needed to be a presence on these directories. It almost was like if you weren’t in the menu, no one could order it, there’s no off-menu websites.
+
+**Yep.**
+
+**BT:** As search, for a variety of reasons that you’ve covered a lot, became the dominant form factor, and also ended up with a much better business model than the portals too, though that came afterwards, but then it also produced the long tail. All of a sudden, because you went from a directory form factor to a search form factor, it created a market for people to essentially provide content for those keywords. That’s not probably how people thought of it, but that was effectively it, you broadened the category. As a consequence of that, it made the web bigger.
+
+I bring that up because as you think about the evolution of AI and the form factor of ChatGPT, and then you fast-forward to the form factor of agents, we might still be in Yahoo directory. I don’t know, but I think the people who pull the thread from the current instantiation of it — probably it’s hard enough for me being in the center of it to contemplate the second or third order of facts, but I think it’s too simplistic. The technology existed in 1997, but it was almost like the combination of the business, the market, all these other things, like the confluence of things produces the outcome, I think we’re just very early in AI.
+
+**I think this is such a critical point is that these dominant companies create their customer base, they create their supplier base. Facebook, you mentioned the mobile ads, Facebook[created mobile game companies](<https://stratechery.com/2020/apple-and-facebook/>), they [created e-commerce companies](<https://stratechery.com/2020/email-addresses-and-razor-blades/>), Facebook created Shopify. They create their own supply, they create their own advertisers. That’s why they’re impervious to, what was it 2020? All the big CPG companies are going to boycott Facebook. Doesn’t matter at all because they’re actually jumping on an entire universe that Facebook created and is dependent on them. Google did the same thing for the web. They created the web, they didn’t just harvest it. It’s very much a sort of, what’s the word I’m looking for? They go together.**
+
+**BT:** It’s like they manifested their own reality in way.
+
+**That’s right. Absolutely, 100%.**
+
+**BT:** Yeah.
+
+**Apple and the App Store is another example,[they harvest the App Store](<https://stratechery.com/2025/platform-power-is-underrated/>), they created it, the conditions for it, 100%.**
+
+**Anyhow, Salesforce, then we’re going to get to Sierra. Why at Salesforce so long? What’d you learn from Marc [Benioff]?[I’ve talked to him](<https://stratechery.com/2024/an-interview-with-salesforce-ceo-marc-benioff-about-ai-abundance/>), he’s a very entertaining person to talk to. How’d he get you there for, how long was it, it was nearly a decade?**
+
+**BT:** Seven years, six-and-a-half years, something like that. Yeah, [whatever is on LinkedIn is accurate](<https://www.linkedin.com/in/brettaylor/>), but something near that. It was a longer time longer, longer than I expected when I joined. Largely my relationship with Marc, to be honest with you, I joined and I wanted to reach some financial milestones with Quip, like make it its revenue grow and prove that it was worth the price tag that Salesforce paid for it. Just my ego’s in there and I wanted to prove that, “Hey, this was going to be a successful acquisition”. Just had the philosophy of recognizing Marc took a big bet on me, I just sort of said, “I’m going to say yes to anything you asked me to do”, I felt really grateful to be there.
+
+He ended up asking me to do a lot. I ended up becoming Chief Product Officer after the first year, which was a big leap for me, just because while I had a lot of experience in technology, as I think you know intuitively, the DNA of enterprise companies is pretty different than the DNA of consumer companies.
+
+**What’s the key thing about it? My sense is consumer companies, because the feedback loops are very different, so you’re sort of defining more what it is, whereas enterprise, you’re so tied into product requests and feature requests, and that sort of loop. Is that what you’re driving at?**
+
+**BT:** I think that’s right. Broadly speaking, sales and marketing matter a lot in enterprise software companies and tend to be the gravitational center, it doesn’t mean product doesn’t matter, by the way, I don’t mean that. Because at the end of the day, annual recurring revenue is an annuity, it throws off cash every year, you basically need to add to that annuity by signing new recurring revenue contracts or adding to them, and you subtract attrition. That’s just how software as a service works. It’s a great business model, it’s obviously very good for cashflow, and it’s why all software companies in the enterprise have moved to it. With that, when you stop growing, the business model breaks down. That’s where things like the [Rule of 40](<https://www.saasacademy.com/blog/rule-of-40>) come from, where your growth rate and your EBITDA margin sort of need to be in lockstep. You can grow very profitable with that business, when you stop growing, no one wants to work at one of those companies. No one wants to work where you’re throwing off cash, maybe unless you’re a private equity firm or something, they love those things. It is really about growth. As a consequence, you end up with a really customer-centric, go-to-market-centric orientation, and product serves that. The best enterprise software companies, that voice of the customer dictates their product roadmap, and they can really meet that demand. The worst ones stop innovating on the product and hold your feet over the fire in the sales process. Depending your level of cynicism, all enterprise software companies have been guilty of each at different points.
+
+**Yeah.**
+
+**BT:** That’s really the game. When I got there, it was really interesting. I have the privilege of I even worked at Google and Facebook, and then Salesforce at the time, I had started a couple companies. Just seeing a very successful company that just had such a different operating cadence and way of working, I was really curious. I’m a really curious person, I really enjoyed just being mentored by Marc. Spent a lot of time there, and then just eventually really felt like I needed to step out and do my own thing again. Really grateful for my time there, as you alluded to, Marc and I are very different personalities, but it’s why I could learn so much from him. I’ve probably learned more about things like enterprise sales from him than he’s forgotten in his lifetime. I’m really grateful for it. Broadly speaking, I just really grew invested in the company and the culture, still love the place, I just learned a ton there.
+
+#### Sierra
+
+**Well, tell me about Sierra. What is Sierra?**
+
+**BT:** At Sierra we help companies build customer-facing AI agents. Most of our customers run large call centers or contact centers, they’d like an AI agent to pick up the phone or pick up the chat rather than a person, so you don’t have to wait on hold, and can solve problems really quickly. Everyone from ADT Home Security to DirecTV, SiriusXM, Thrive Market, a pretty wide range of companies, telecommunications, financial services, healthcare use our platform.
+
+What’s really fun about it is the word “agent” is all the buzz right now, as you know, but our focus is on that agent singular that is your brand, it’s almost like your dot com of your website. Typically, with the customers we work for, we’re the agent that has their brand at the top that does everything that their customer experience does. Everything from helping you buy something to customer service for subscription companies, we help with things like subscription churn management and things like that. That’s what’s really exciting about it. When the web came out, there’s lots of websites, there’s ones inside your company, there’s ones outside your company.
+
+**It’s full circle, you were building a website for the guy next door, you’re building the AI for the company next door.**
+
+**BT:** Well, that’s exactly right. Our whole thesis is that for every company in the world, their AI agent will be their most important digital interface they have, as important as their website or their mobile app. Just like mobile apps didn’t replace websites, and it also differs but not every retailer even has a mobile app. Some do, some don’t. You’ve covered this a lot, just like do you have the brand equity to warrant that?
+
+I think across the board, your AI agent, whether it’s published in your mobile app or available via WhatsApp, or available over CarPlay or whatever it might be, that will be the primary digital interface to your company. We’re really focused on customer experience more broadly. What’s exciting for us, if we do our job, we’re the most important AI agent you make, we’re the one that actually powers your customer experience.
+
+I’m really proud of the early traction we’ve gotten. Over half of our customers have over a billion in revenue, 15% of over $10 billion in revenue, we’re serving some pretty large companies on our platform already, and I think really proud of the results we’ve seen so far.
+
+**Your platform is by-and-large built on the foundation models, is it overall a thesis that ChatGPT is going to dominate consumer, but enterprise is the land of wrappers, as it were?**
+
+**BT:** (laughing) Land of wrappers. I’ll answer the enterprise question, I’d love to talk about consumer, too, I really believe in AI agents sort of vertically, that’s my theory of how the market will play out.
+
+**Is it vertically by company or by function?**
+
+**BT:** By function, that’s my theory. Let me just zoom out a little bit. With the cloud market, you had infrastructure-as-a-service where people lease commodity infrastructure in the cloud. This is very high scale, very capital-intensive, most of the software-as-a-service vendors pay taxes to these infrastructure-as-a-service players to do it, but also have higher margins. Then, you have a lot of software-as-a-service that does everything from customer relationship management to IT service management to payroll processing, it’s a very healthy market. Most of the extremely large players do infrastructure, but if you look at the top like 60 tech companies—
+
+**Right. You could say, “What are SaaS companies, are they wrappers on AWS?”, it doesn’t make any sense.**
+
+**BT:** A hundred percent, the same criticism applies. If you look at agents, the word comes from “agency”, and essentially it means you’re affording the software some ability to think and make decisions, as opposed to just following a predetermined set of rules. At the end of the day, they’re driving an outcome, they’re answering a phone call and solving a customer problem. They might be doing a legal antitrust review, they might be writing some ad copy, I have a feeling the ad market will be very, very automated, even more than it is today.
+
+Each of those are very specific functions for a specific line of business at a company. I really believe Sierra, we’re the leader in customer experience and customer service by a pretty large margin, I love [the company Harvey](<https://www.harvey.ai/>) that serves the legal department, I think that’s a great application for applied AI and an agent. There’s companies that serve content marketing.
+
+There’s obviously a ton of competition around software engineering agents, which is another department that I think has a ton of value. My guess is you fast-forward N years there will be really meaningful companies in each of these job functions and departments because, despite the joke around the wrappers, just like SaaS is a wrapper around Amazon Web Services, the compliance, the security, the workflows, the form factor, who uses it and how, for the same reason you don’t just build payroll processing with EC2 and S3, you’re just going to buy it off the shelf. Because I always like to say software is like a lawn, you need to tend to it.
+
+**Yeah.**
+
+**BT:** No one wants to own software anymore, they want to buy a solution to a problem. That’s my theory how it’ll play out. Just like software-as-a-service and infrastructure service, the model companies that we use will collect a lot of revenue from us, but we’re selling higher to order functionality on top. It’s interesting, the market has been primed by software-as-a-service, we’ve been moving towards solutions. The thing that we do very differently, though, that I think is very exciting is outcomes-based pricing.
+
+#### Agents and Business Model Paradigms
+
+**Well, that’s what I was just going to ask you, tell me about the business model.**
+
+**BT:** At Sierra, we only charge customers when the AI autonomously resolves the problem. That means if we escalate to a person, it’s free.
+
+I’ll give you my rationale for this. I actually think it’s very similar to the evolution of the web browser and subscription-based software as well, which is — let’s go back to whatever, 2000, 1998, whenever Marc invented software-as-a-service, if you put a piece of software in a web browser and you serve it from your own servers, it means everyone has the same version of it. The business model of a perpetual license just doesn’t really make sense because when do you buy the new version? How do you hold back the features? It was a technology-led thing, but it almost necessitated a different business model, which is this idea of there’s one version and you’ll subscribe to it.
+
+What’s exciting about agents is they, rather than just augmenting us with letting us become more productive, they can actually solve a problem, they can actually accomplish a task. Most salespeople get paid a commission, because when you can quantify the value of a task, the best way to pay for it is to incentivize the precise thing that you want. If you think of a Harvey agent doing an antitrust review or a Sierra agent answering a phone call, the natural way to pay for that is the job well done, to pay for the outcome that you’re looking for.
+
+It just wasn’t possible with software before, because success is a thousand fathers’ failure is an orphan. If you install a piece of software and your business doesn’t grow, is it the CRM system’s fault or is it the salespeople’s fault? Everyone’s going to point their finger at everybody else. When the agent’s doing it, it is both possible to measure and I think really aligns the incentives of a software company like ours with our customers. My theory is actually the whole market will move in this direction.
+
+**How does the market move, though? Because you look back and the software-as-a-service business model, you’re paying a recurring fee replacing the perpetual license model. That, by and large, meant a lot of new companies, and not all the old companies made that transition. Is that going to be a challenge today, where SaaS is a per-seat license ongoing subscription model? That’s very different than an outcome-based pricing that you’re talking about.**
+
+**BT:** I think it’s extremely challenging. I think, obviously, Salesforce started cloud-native, [CEO] Shantanu [Narayen] at Adobe had to go through that transition to routable revenue.
+
+**Here’s the thing I was going to get to, I think maybe the thing you missed with Microsoft and Quip was you were anchored on there’s a technological change, so this might be the time to go after Microsoft. What protected Microsoft is they were very early to subscription pricing.**
+
+**BT:** Yeah.
+
+**So they had the right business model, even though the tech was wrong, and that’s why they were more protected even though they were so behind technologically. This is a case where actually the business model paradigm shift, that’s the real chance to attack, even more so than the technological paradigm shift.**
+
+**BT:** I wish I had your advice when I started Quip, but I think you’re a hundred percent right. I actually think changing your business model is orders of magnitude harder than changing your technology without question. Just think of a company going from perpetual license software to software-as-a-service, it changes the way you account for it.
+
+**Yeah, you have to change your accounting!**
+
+**BT:** Commission structure, revenue recognition changes as well. So I go back to the jokes about public market investors, it’s like all of a sudden your bookings start looking funny, but it’s not really any different, it’s just accounting, because you literally are amortizing the cost of this.
+
+**My favorite example of this is how everyone talks about currency effects and no one actually accounts for them. They’re just, “Wow, their earnings are up or down”, but this is a similar thing. Technically, we’re making the same amount of money, but it doesn’t matter, it looks different. It’s all bad.**
+
+**BT:** It’s why all the folks in tech, we just look at cashflow. You’re like, all the other stuff matters, but how much money is going to your bank account? But that’s why I’m not an accountant, it’s really hard, you have to manage so many things.
+
+Then on top of it, that’s where the Innovator’s Dilemma comes up. In particular, I think there’s a perverse set of incentives because if AI agents will reduce the number of people who have to fulfill a function, fewer people need to answer the phone or whatever it is, if you’re the company selling the seats for that, why are you the right vendor to sell the thing? Because then you end up with this natural poor incentive, because you essentially don’t want to cannibalize your own revenue to provide the solution to the problem.
+
+But it’s interesting, if you look at, we’ve spent a lot of this call talking about how talented Satya is, out of this, some of those companies are come back out with some heroic CEO stories where they made the transition and you’re going to have a graveyard of a lot of CEOs who were just unwilling or unable to disrupt their own business model.
+
+**That is actually the core, you could argue of what Satya did, because Azure is a usage-based model. So they, once again, were actually early on the business shift, even if technologically that can trail if you get to the business model early.**
+
+**BT:** Yeah, absolutely, and it’s extremely hard as you said.
+
+And actually, there’s another trend in enterprise software of best-of-breed or best-of-platform. There’s that old proverb, “No one gets fired for buying IBM”, I don’t think people say that anymore. But that comes from the fact that if you’re buying, I don’t know, a ITSM [IT Service Management] system, and ServiceNow is the number one ITSM provider and you go to your CEO and said, “We’ve chosen ServiceNow for ITSM”, no one’s going to fire you for that decision, because it’s like the number one vendor in the market. So in general, that leads to this idea of best-of-platform, which you talked about with the bundling and things like that.
+
+When new technology comes out, often the disruptors, like companies like Sierra have orders of magnitude more effective technology, because we’re not trying to attach it to a big behemoth of a platform from a different era and similarly, smaller companies are just more agile responding to the technology shifts and these business model shifts and everything else.
+
+And actually, you talked about business models. The models themselves are changing, the AI models are changing every single month and every year. I think that leads to you have this pendulum swing where you go from best-of-platform towards best-of-breed when these new technologies come out, because if you’re running a company when the smartphone came out and you need to experiment with that platform, you can’t just buy it off the shelf from an incumbent. They’re just too slow to adopt to it.
+
+So right now, I think most of the large companies that we work with are very interested in best-of-breed, they’re interested in working with Sierra because we’re the leader in this space and my sense though is you don’t have a forever window because at some point the whole world would know how to build AI agents very effectively. No one does now today and then at that point the pendulum starts swinging back again because then all the dynamics that you brought.
+
+So it’s a really interesting time in Silicon Valley, because if you look at the companies worth over $50 billion, I’d be interested in this analysis, what percentage of them were started during technological platform shifts? Like the birth of the browser, the birth of the smartphone. My guess is over 80%, though I haven’t actually measured it. You have a few, like Facebook, that weren’t, there was a different dynamic, but they’re the exception not to the rule in my opinion.
+
+**They basically invented a new paradigm of their own.**
+
+**BT:** That’s exactly right. But that’s my point, is there’s some notable exceptions but most of the time this huge technological platform shift happens, which opens up all these gaps in people’s business models, agility, all these other things, and all of a sudden the best-of-platform swings towards best-of-breed and then the best-of-breed companies who can prove that they can actually build an enduring platform and enduring business and it’s not a fly-by-night hype cycle driven company, all of a sudden become the platforms of the next generation and that’s what we’re trying to do at Sierra.
+
+#### AI, Jobs, and Technological Progress
+
+**If we’re being honest, and just this little discussion between friends, there’s all the talk about AI and[augmenting people](<https://stratechery.com/2025/claude-4-anthropic-agents-human-ai-agents/>) and Copilots and all this sort of thing. Is the real enterprise use case, the one that gets you in the door, the one that justifies getting all the data in order, [almost going back to the 1970s](<https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/>) and these big implementations, is it job replacement? Because at the end of the day, isn’t that a successful Sierra outcome, you getting paid is definitionally a human not doing it?**
+
+**BT:** It’s a mix, I think that’s too simplistic. So certainly, if you look at the benefits of deploying a technology like Sierra, you look at the cost-per-contact of, say, making a phone call, which call it $5 to $25 if a person does it. So if you can bring that cost down by two orders of magnitude, the cost savings are there. And as you alluded to, the savings on labor costs are a big part of it.
+
+But just imagine you’re running a big company and all of a sudden you start saving a hundred million dollars on your call center operations, are you just going to pass all of that onto shareholders or are you going to say, “Huh, maybe I can invest 90 of that into growth and actually get a competitive advantage in other ways”? Similarly, if you reduce the cost of a phone call from $5 to $25 by two orders of magnitude, are you just going to have the same phone calls you had before? Maybe if you’re a cable company and you only do phone calls when someone’s calling to cancel, you say, “Hey, maybe if I called that person a few times before they canceled, I’d increase the likelihood that they wouldn’t cancel”.
+
+I think the job displacement narrative is totally reasonable by the way, because if you’re a paralegal or you’re operating a call center in the Philippines, this is a real conversation, and it would just be totally naive to not talk about the job displacement. It’s real. But I think it misses the second order of facts.
+
+**Yeah, this is story of technology forever, which technology of course displaces jobs, but the history of all of humanity is we find new things to do pretty effectively.**
+
+**BT:** Exactly. And it’s already happening is my point. Just because in a free market, if you pass on all your cost savings to your shareholders and your competitor invests in growth, you’re going to lose market share and all of these things start to happen.
+
+So first of all, I think jobs will be created. There’s actually jobs, people on our platform, they brand themselves the AI architects, it’s like a no-code agent builder, it’s like the webmaster of 1998, but for agents. I love it.
+
+But on top of that, it’s also just going to grow. Different departments will grow in different ways and if I had to say the awkward part about AI and jobs is that it’s happening really fast. I always use this metaphor, it’s like we’re all accountants and Microsoft Excel came to be full maturity overnight.
+
+**And that’s the other thing I talk about, that’s why I think the 1970s is really interesting, because that was actually I think the decade where technology displaced the most jobs and no one thinks about the 1970s. Everyone’s mind starts in the 1980s with the PC. But there’s pictures, I wrote an Article about this, it had pictures of these entire back rooms of accountants and bookkeepers that were just, you got an installation of SAP done, boom, they’re gone.**
+
+**BT:** Well, essentially, my father recently retired and he was a mechanical engineer and he said when he started his career, the majority of the employees at these mechanical engineering firms were draftspeople, and so they would basically draw the drawings. When he retired, he had a mechanical engineering firm, they had zero draftspeople so all the engineers used Revit and AutoCAD and produced their own drawings because the active engineering and producing the drawing had converged into one job.
+
+So it’s exactly what you said, technology has been doing this for a very long time, it’s just happening at a very large scale and I think I’ll say on an individual basis, it can be quite disruptive. I always use the metaphor that globalization lowered the cost of television sets and probably improved the standard of living for a lot of the world, but if you were in a factory in the Rust Belt and it got shut down, your perspective on that trend individually was legitimately different and not necessarily great.
+
+So I think that’s the interesting thing with AI, is I think broadly I’m an incredibly optimistic person about it, I think it’ll democratize access to expertise, I think most people in the world will have good legal advice, good medical advice, personalized tutors. I mean, talk about a democratization of things that used to be exclusive, I’m just so optimistic about it.
+
+But for every one of us as individuals, and interestingly enough, this is the most mind-blowing part about this trend is, Silicon Valley is disrupting the job of software engineering and so oddly, not only are the people making this technology not immune to it, but I would say software engineering and customer service are probably the two most shovel-ready opportunities for these models. So it’s in the hallways of Silicon Valley we’re talking about, what am I going to do four years from now?
+
+I just think it’s important to both not become a doomer or a pessimist, I think that’s just silly, and I think we should invest in this technology. I think it’ll grow the economy, I think it’ll improve people’s lives, but it’s also important to not be callous or arrogant, and say, “Look, it’s very uncomfortable if you had developed a set of skills in your life and you talked about me rewriting Google Maps in a weekend”. Well, maybe that’s a commodity now. That cool story is going to be talking about the human calculators at NASA before they installed the big IBM computer and so I think both are true at the same time and so I always try to have a ton of empathy about it, but also a ton of optimism.
+
+#### AI and Messaging
+
+**All right, you said you want to talk consumer. What do you want to tell me about consumer and AI?**
+
+**BT:** Two-and-a-half years ago, when ChatGPT became popular, right after I left Salesforce amusingly, like, “Huh, I wonder what industry I’ll work in”, and then ChatGPT goes and you’re like, “Okay, I’m pretty excited”. I had talked to an investor friend of mine and had predicted that there would be $1 trillion consumer company and 10 $100 billion-plus enterprise companies created as a byproduct of large language models and modern AI. I mean, it might be off by a little bit, there might be two, I think that what’s really exciting about consumer right now is I think ChatGPT is that really important service and it reminds me a little bit of the early days of Google, where search and Google were interchangeable, and ChatGPT is really synonymous with AI for most of the world.
+
+The thing that I really like about it is if you and I were having, and both of us are pretty informed people, three-and-a-half years ago, if we were talking about artificial general intelligence, and not cynically or anything like that, and said, “What form factors would it take?”, my guess is neither of us would have guessed something like ChatGPT, as simple and consumable as it. You’d think about, I don’t know what I would’ve thought about, but it’s hard to imagine now because it is a form factor. The fact that we’ve created something that’s approaching super intelligence and it’s not only broadly available for free to everyone around the world, but it’s accessible as a personal assistant you have a conversation with, I think is one of the most delightful quirks of artificial general intelligence because it’s so much more democratic than I think we probably would’ve predicted it would be if we had talked about it three-and-a-half years ago.
+
+So on the consumer side, I just think ChatGPT is the most important, not only technology, but product in AI, and I think we will look back at it as a very democratizing force to serve OpenAI’s mission, I think very authentically, and I think that’s just super exciting. I just think it’s funny, because I don’t think anyone would’ve predicted it, as evidenced by its really silly name, right? It’s like a research preview that became the most important product of all time, and I think that’s just awesome.
+
+**Oh, you guys bought chat.com, but no, ChatGPT is too good. I mean, I’ve always been a huge advocate of messaging, one of my lucky breaks was I wrote an Article called[Messaging is Mobile’s Killer App](<https://stratechery.com/2014/messaging-mobiles-killer-app/>) and literally, the next day Facebook announced they were acquiring WhatsApp and I’m like, “Slipped that one in just in time!”.**
+
+**But I think what’s interesting now that I think back on it is this was a bit where actually the user interface paradigm came first, and AI just slotted so naturally into it, and messaging is obviously so great for — that’s what people are used to, that’s the user interface they know and their experience with. Kind of like how the PC in many respects created the user interface for the web, we were clicking around on the desktop or using HyperCard or whatever it might be before actually web links and the web came along, and maybe it’s like people think about technology comes, then the interface. But it’s the opposite, the interface gets there first and the technology can fit into it.**
+
+**BT:** I love that thesis. And I agree with you and it’s interesting, because like many things, with the benefit of hindsight it’s obvious, but it was totally not obvious before. You watch old movies, even if dystopian ones, like 2001: A Space Odyssey, and you’re just talking to a computer. To some degree, when you imagine science fiction, the technology melts away, the screens melt away and to some degree then you’re like, “Oh, of course, that’s what AI should be”, but it was totally not obvious to anybody.
+
+**Well, it’s so interesting, because messaging is so great, it fits with mobile. Obviously, mobile creates the conditions for messaging. Messaging, the asynchronous nature of it is ideal because you have a lot of conversations going on at the same time and it’s funny because that actually papers over a lot of AI’s deficiencies right now, which is sometimes it’s slow, it takes a while to think about it. But that’s fine, we’re used to leaving a conversation and coming back to it later. Whereas with voice, it needs to be perfect all the time right there, and the tech just isn’t there yet to do it and so that’s why it ended up not being the right interface.**
+
+**BT:** Yeah, fascinating.
+
+**You’re fascinating. It’s great to talk, it’s been a long time coming, but I’m very interested to see what happens next and maybe we’ll talk again when Sierra’s IPOing.**
+
+**BT:** That’d be awesome, I’m looking forward to it.
+
+**Sounds good. Bret Taylor, thanks for coming on to Stratechery.**
+
+**BT:** Thanks for having me.
+
+* * *
+
+This Daily Update Interview is also available as a podcast. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
+
+The Daily Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
+
+Thanks for being a supporter, and have a great day!
+
+* * *
+
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
+
+* * *
+
+Subscription Information
+[Manage your account](<https://stratechery.passport.online/>)

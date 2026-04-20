@@ -1,21 +1,24 @@
 ---
 title: "Apple's 50 Years of Integration"
+reader_id: "01kn2hrct8egpjtt2ra8a8wjkr"
+notion_page_id: "3464ebe7-f118-81bf-bc72-edd8e06ae4e6"
+reader_url: "https://read.readwise.io/read/01kn2hrct8egpjtt2ra8a8wjkr"
+source_url: "https://stratechery.com/2026/apples-50-years-of-integration/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/apples-50-years-of-integration/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FwcGxlcy01MC15ZWFycy1vZi1pbnRlZ3JhdGlvbi8iXX0sImV4cCI6MTc3NzU3MDgxOSwiaWF0IjoxNzc0OTc4ODE5LCJpc3MiOiJodHRwczovL2FwcC5wYXNzcG9ydC5vbmxpbmUvb2F1dGgiLCJzY29wZSI6ImZlZWQ6cmVhZCBhcnRpY2xlOnJlYWQgYXNzZXQ6cmVhZCBjYXRlZ29yeTpyZWFkIGVudGl0bGVtZW50cyBwb2RjYXN0IHJzcyIsInN1YiI6IjQ0MjcxNzg3LWFmMGMtNGVkNS1iY2E2LTA3ODRlY2E0MjM2NCIsInVzZSI6ImFjY2VzcyJ9.L4Kmcu9G-2KjSZu9sGFah0fCEr7_TfE8oRMVIcnboz5JRaPzdmfSt-rOLIwrukVXFcqObi1tGXbJyAse25tax9kiCrQMYMJw1UW68rsIRA5fVn0Lp5-HhAa4p3gyM6LG9w2mYhHFIdcwhl9XR41YaMf56CC0wjZnUxYlGnM0Ft5uj9VnhISz1rMC2GNXNTM6HuyCqYptvZBRGAUmp7Gpr4TMsO8jZoZVN-bj9NBQWlZBfK149JzYBUghV7nzxuRqPr2fzBd5j9a5pk7nn_JhiQw9MAIr2IdgTxYHuzblc-iz4VaybwkMxBvyvbjLUrToTW55gyffAYxI0IBEpmQECg"
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-03-31"
 saved_at: "2026-03-31"
 reading_time: "15 mins"
 summary: "Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes."
-image: "sources/images/01kn2hrct8egpjtt2ra8a8wjkr_cover.png"
+content_hash: "075f5705ac1401446a0aff8e67a6b4466db492764fdc13a49296dc307270bae4"
 ---
 
-Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes. 
+Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -41,14 +44,14 @@ What do I mean by “no competition”? Well, consider Apple’s nominal competi
 
 **IBM:** This is, perhaps, the most iconic photo from early Apple:
 
-![](sources/images/01kn2hrct8egpjtt2ra8a8wjkr_0_4017364e.png)Jean Pigozzi via Andy Hertzfeld
+![](https://i0.wp.com/stratechery.com/wp-content/uploads/2026/03/jobs-ibm-1.png?resize=800%2C881&ssl=1)Jean Pigozzi via Andy Hertzfeld
 
 The Apple I launched in a world where computing was primarily for the enterprise, and primarily happened on IBM’s mainframes. Increased accessibility of processors and memory, however, made hobbyist computers possible, which is exactly what the Apple I was.
 
 It was the Apple II, however, that made IBM pay attention; I explained in 2013’s [The Truth About Windows Versus the Mac](<https://stratechery.com/2013/apple-open-and-learning-from-history/>):
 
 > In the late 1970s and very early 1980s, a new breed of personal computers were appearing on the scene, including the Commodore, MITS Altair, Apple II, and more. Some employees were bringing them into the workplace, which major corporations found unacceptable, so IT departments asked IBM for something similar. After all, “No one ever got fired…”
-> 
+>
 > IBM spun up a separate team in Florida to put together something they could sell IT departments. Pressed for time, the Florida team put together a minicomputer using mostly off-the-shelf components; IBM’s RISC processors and the OS they had under development were technically superior, but Intel had a CISC processor for sale immediately, and a new company called Microsoft said their OS — DOS — could be ready in six months. For the sake of expediency, IBM decided to go with Intel and Microsoft.
 
 IBM was, in the end, just a hardware maker; they couldn’t be bothered to make the software.
@@ -80,7 +83,7 @@ More generally, Apple’s market share in all of its markets, including the phon
 Now, [according to Bloomberg](<https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27>), Apple is planning to leverage its position with end users to give access to multiple AI providers:
 
 > Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform. The company is preparing to make the change as part of a Siri overhaul in its upcoming iOS 27 operating system update, according to people with knowledge of the matter. The assistant can already tap into ChatGPT through a partnership with OpenAI, but Apple will now allow competing services to do the same…
-> 
+>
 > The company is developing new tools to allow AI chatbot apps installed via the App Store to integrate with the Siri assistant, said the people, who asked not to be identified because the plans haven’t been announced. The chatbots will also work with an upcoming Siri app and other features in the Apple Intelligence platform. That means, for instance, if users have Alphabet Inc.’s Google Gemini or Anthropic PBC’s Claude installed, they’d be able to send queries to those services from within the Siri voice assistant, just like they have been able to with ChatGPT since Apple Intelligence launched in 2024. The approach also should allow Apple to generate more money from third-party AI subscriptions through the App Store.
 
 This isn’t quite Safari search, wherein Apple earns a revenue share from Google for searches made through the iPhone’s built-in browser, but given that AI assistants are largely monetized through subscriptions, it’s not far off: Apple will happily sell subscriptions through the App Store and take 30% of the price for the first year, and 15% after that. Owning the device means Apple gets to aggregate AI (and the company is already making [$1 billion a year from chatbot subscriptions](<https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f>)).
@@ -102,27 +105,27 @@ Apple will let the users decide who is on top; I’m sure the company would also
 Many people are taking a victory lap about Apple’s decision to not compete in AI models, claiming that the company is winning by not trying; [I previously linked](<https://stratechery.com/2026/agents-over-bubbles/>) to Horace Dediu’s [The most brilliant move in corporate history?](<https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/>), but it’s a good articulation of the argument:
 
 > The hyperscalers are now spending 94% of their operating cash flows on AI infrastructure. Amazon is projected to go negative free cash flow this year with as much as $28 billion in the red. Alphabet’s free cash flow is expected to collapse 90% from $73 billion to $8 billion. These companies used to be the greatest cash machines ever built. Now they’re borrowing money to keep the data center lights on…
-> 
+>
 > And what are they getting for that $650 billion? AI services generate roughly $35 billion in total revenue or 5% of what’s being spent on infrastructure. There are dreams of more of course, but the business models of AI have yet to resonate, especially for consumers…
-> 
+>
 > Apple didn’t miss the AI revolution. It just bet that the winners won’t be the ones who build the infrastructure. They’ll be the ones who own the customer and no one else on Earth owns the best customers.
 
 Apple owns the best customers because it makes the best devices, thanks to its integration of hardware and software. And, as I recounted above, it is somehow, fifty years on, the only company of its kind. There is, however, an emerging threat that Apple is seeking to head off. Again from [Bloomberg](<https://www.bloomberg.com/news/articles/2026-03-26/apple-gives-iphone-designers-rare-bonuses-to-fight-openai-poaching>):
 
 > Apple Inc. awarded rare bonuses to iPhone hardware designers this week, aiming to stem a wave of departures to AI startups like OpenAI that are building their own devices. The company granted out-of-cycle bonuses worth several hundred thousand dollars to many members of its iPhone Product Design team, according to people with knowledge of the matter.
-> 
+>
 > Apple’s leadership has grown increasingly concerned about the number of engineers being poached by potential rivals. OpenAI, which has tapped former Apple design chief Jony Ive to help design a new generation of AI-centric products, has emerged as a particular threat…OpenAI’s hardware division is run in part by Apple veteran Tang Tan. He used to oversee the iPhone product design team that’s receiving the bonuses. Tan’s group at OpenAI has hired several dozen Apple engineers, and not just ones who worked on the iPhone. The startup has lured employees who helped develop the iPad, Apple Watch and Vision Pro.
 
 OpenAI isn’t just hiring designers; the company is also building out operations capabilities to be able to actually make the upcoming Ive-designed device at scale (presumably in China). Still, many are wondering about the status of OpenAI’s hardware device given the news about Sora; from the [Wall Street Journal](<https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e>):
 
 > OpenAI is planning to pull the plug on its Sora video platform, a product it released to great fanfare last year that has since fallen from public view. The move is one of a number of steps OpenAI is taking to refocus on business and coding functions ahead of a potential initial public offering as soon as the fourth quarter of this year. CEO Sam Altman announced the changes to staff on Tuesday, writing that the company would wind down products that use its video models. In addition to the consumer app, OpenAI is also discontinuing a version of Sora for developers and won’t support video functionality inside ChatGPT, either.
-> 
+>
 > OpenAI is in the middle of a strategy shift to redirect the company’s computing resources and top talent toward so-called productivity tools that can be used by both enterprises and individual users. Last week, OpenAI announced that it was combining its ChatGPT desktop app, coding tool Codex and browser into one “superapp.” The company expects the consolidated product to align its employees around a single vision.
 
 In fact, cutting Sora but keeping the hardware initiative fits this strategy shift: Sora, along with [the also indefinitely delayed adult-mode](<https://www.ft.com/content/de9bf0af-b241-424f-8229-5870b1c0d93d>), were products that drive more attention, which lends itself to the more traditional consumer business model of advertising. Productivity, on the other hand, is a much better fit for enterprise, where Anthropic is making major gains. The problem, however, is that most consumers aren’t willing to pay for software; what they are willing to pay for are _devices_. This was the secret of the iPhone; from 2016’s [Everything as a Service](<https://stratechery.com/2016/everything-as-a-service/>):
 
 > Apple has arguably perfected the manufacturing model: most of the company’s corporate employees are employed in California in the design and marketing of iconic devices that are created in Chinese factories built and run to Apple’s exacting standards (including a substantial number of employees on site), and then transported all over the world to consumers eager for best-in-class smartphones, tablets, computers, and smartwatches.
-> 
+>
 > What makes this model so effective — and so profitable — is that Apple has differentiated its otherwise commoditizable hardware with software. Software is a completely new type of good in that it is both infinitely differentiable yet infinitely copyable; this means that any piece of software is both completely unique yet has unlimited supply, leading to a theoretical price of $0. However, by combining the differentiable qualities of software with hardware that requires real assets and commodities to manufacture, Apple is able to charge an incredible premium for its products.
 
 OpenAI is approaching this space from the opposite direction: it has a massive consumer user base for ChatGPT, and an impressively large number of subscribers; it is also adding advertising. However, to truly monetize consumers the most attractive business model is the Apple model: integrated hardware and software.
@@ -147,6 +150,6 @@ Still, there is an angle here for OpenAI, and a point of vulnerability for Apple
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

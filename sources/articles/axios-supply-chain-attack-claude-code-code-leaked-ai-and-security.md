@@ -1,21 +1,24 @@
 ---
 title: "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security"
+reader_id: "01kn541xhjwnv04paf522jxmv5"
+notion_page_id: "3464ebe7-f118-8194-afb3-d739146b1410"
+reader_url: "https://read.readwise.io/read/01kn541xhjwnv04paf522jxmv5"
+source_url: "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2F4aW9zLXN1cHBseS1jaGFpbi1hdHRhY2stY2xhdWRlLWNvZGUtY29kZS1sZWFrZWQtYWktYW5kLXNlY3VyaXR5LyJdfSwiZXhwIjoxNzc3NjU2ODUwLCJpYXQiOjE3NzUwNjQ4NTAsImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiNDQyNzE3ODctYWYwYy00ZWQ1LWJjYTYtMDc4NGVjYTQyMzY0IiwidXNlIjoiYWNjZXNzIn0.fokgANmoOEsVmBilqROSDp-ht6NwAIxmnB-SeiSYcKOcF2mKIjRtrIYKjokKmNHfcqG9jgJXajoUBUNZgfVWCmDzdRp4mYb17a6XmLlJJXv5IzdXOM3BaBT4vYL4RZhdCcLRec_wpSEHVkmBJzRKDPfrEEqNXQys0EPusjy1fwWv4f4N8xWPWB8RExd12JBtVeNYOalKg_BCVjlvDrnN0__3Prx1de_ro2hay0W5XoAeO44iG4yYPBX8soku8ebFEQrlCD_5Z7X..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-01"
 saved_at: "2026-04-01"
 reading_time: "8 mins"
 summary: "AI is going to be bad for security in the short-term, but much better than humans in the long-term."
-image: "sources/images/01kn541xhjwnv04paf522jxmv5_cover.png"
+content_hash: "c0f8b522729edcd45b579bd06af9d81bde4878660855dfcf66fe18d08f483745"
 ---
 
-AI is going to be bad for security in the short-term, but much better than humans in the long-term. 
+AI is going to be bad for security in the short-term, but much better than humans in the long-term.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -34,25 +37,25 @@ From [Trend Micro](<https://www.trendmicro.com/en_us/research/26/c/axios-npm-pac
 I’ve discussed supply chain attacks, specifically in the context of the Node.js package manager (NPM) ecosystem in [this 2022 Update](<https://stratechery.com/2022/npm-sabotage-convenience-matters-moxie-marlinspike-on-web3/>); I’m going to quote a fair bit, as it’s important to make my point:
 
 > My favorite npm story concerns [the is-even package](<https://www.npmjs.com/package/is-even>):
-> 
-> ![The 'is-even' package on nps](sources/images/01kn541xhjwnv04paf522jxmv5_0_3f656ef9.png)
-> 
+>
+> ![The 'is-even' package on nps](https://i0.wp.com/stratechery.com/wp-content/uploads/2022/01/nps-1.png?resize=1024%2C703&ssl=1)
+>
 > Notice that `is-even` has 1 dependency; let’s see what it is:
-> 
-> !['is-even' has a dependency on 'is-odd'](sources/images/01kn541xhjwnv04paf522jxmv5_1_54dbc71d.png)
-> 
+>
+> !['is-even' has a dependency on 'is-odd'](https://i0.wp.com/stratechery.com/wp-content/uploads/2022/01/nps-2.png?resize=1024%2C405&ssl=1)
+>
 > That’s right, `is-even` requires the download and installation of `is-odd`, just so that it can return the opposite answer (`is-odd`, naturally, has its own dependency: `is-number`).
-> 
+>
 > Using `is-even` is, to be clear, the absolute height of laziness for any developer; `is-odd` is already pretty lazy, but if you have `is-odd` you already have `is-even`! And yet, as you can see, `is-even` has been downloaded 141,282 times this week alone. The fact of the matter is that many developers, because they are humans, default to the most convenient option — and if you’re a Node.js developer then using a freely available npm package is pretty darn convenient! Moreover, while this specific story is about npm and Node.js, package managers are a standard part of many open source programming environments, precisely because they are so convenient.
-> 
+>
 > This convenience can, of course, be abused by malicious actors — attacking packages is called a “supply chain attack” — which is why companies generally maintain a private mirror of these packages for their applications; everything on these private mirrors is, at least in theory, fully vetted. In truth, though, it’s easy to let it slip, and hybrid feeds can be exploited; best practices include referencing one single private feed (instead of multiple), controlling scope via naming prefixes, and implementing client-side verification, including version pinning. Not everyone follows best practices though — it can be inconvenient!
 
 The first key takeaway is the idea of dependencies; [VentureBeat has a very good Article explaining what happened to axios](<https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026>):
 
 > The attacker took over the npm account of @jasonsaayman, a lead `axios` maintainer, changed the account email to an anonymous ProtonMail address, and published the poisoned packages through npm’s command-line interface. That bypassed the project’s GitHub Actions CI/CD pipeline entirely.
-> 
+>
 > The attacker never touched the Axios source code. Instead, both release branches received a single new dependency: `plain-crypto-js@4.2.1`. No part of the codebase imports it. The package exists solely to run a postinstall script that drops a cross-platform RAT onto the developer’s machine.
-> 
+>
 > The staging was precise. Eighteen hours before the `axios` releases, the attacker published a clean version of `plain-crypto-js` under a separate npm account to build publishing history and dodge new-package scanner alerts. Then came the weaponized `4.2.1`. Both release branches hit within 39 minutes. Three platform-specific payloads were pre-built. The malware erases itself after execution and swaps in a clean `package.json` to frustrate forensic inspection.
 
 Note the part about not needing to touch source code; the attacker simply needed to add a dependency and anyone who downloaded the compromised `axios` package would also download the malware installer.
@@ -62,25 +65,25 @@ As an analogy, high-end department stores in Asia often give you some sort of gi
 This is actually the third major npm supply chain attack in the last year, and, as that VentureBeat article notes, GitHub has made significant changes in response to those previous attacks.
 
 > The Shai-Hulud worm hit in September 2025. A single phished maintainer account gave attackers a foothold that self-replicated across more than 500 packages, harvesting npm tokens, cloud credentials, and GitHub secrets as it spread. CISA issued an advisory. GitHub overhauled npm’s entire authentication model in response.
-> 
+>
 > Then in January 2026, Koi Security’s PackageGate research dropped six zero-day vulnerabilities across npm, pnpm, vlt, and Bun that punched through the very defenses the ecosystem adopted after Shai-Hulud. Lockfile integrity and script-blocking both failed under specific conditions. Three of the four package managers patched within weeks. npm closed the report.
-> 
+>
 > Now axios. A stolen long-lived token published a RAT through both release branches despite OIDC, SLSA, and every post-Shai-Hulud hardening measure in place.
-> 
+>
 > npm shipped real reforms after Shai-Hulud. Creation of new classic tokens got deprecated, though pre-existing ones survived until a hard revocation deadline. FIDO 2FA became mandatory, granular access tokens were capped at seven days for publishing, and trusted publishing via OIDC gave projects a cryptographic alternative to stored credentials. Taken together, those changes hardened everything downstream of the maintainer account. What they didn’t change was the account itself. The credential remained the single point of failure.
 
-Specifically, the maintainer had a long-lived classic token (which apparently hadn’t been revoked), which the attacker seized through [a social engineering attack on the maintainer](<https://github.com/axios/axios/issues/10604#issuecomment-4167784086>); this allowed them to bypass all of the security measures that GitHub put in place.
+Specifically, the maintainer had a long-lived classic token (which apparently hadn’t been revoked), which the attacker seized through [a social engineering attack on the maintainer](<https://github.com/axios/axios/issues/10604>); this allowed them to bypass all of the security measures that GitHub put in place.
 
 ### Claude Code Code Leaked
 
 Again from [VentureBeat](<https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know>):
 
 > Anthropic appears to have accidentally revealed the inner workings of one of its most popular and lucrative AI products, the agentic AI harness Claude Code, to the public. A 59.8 MB JavaScript source map file (.map), intended for internal debugging, was inadvertently included in version 2.1.88 of the `@anthropic-ai/claude-code` package on the public npm registry pushed live earlier this morning…
-> 
+>
 > For Anthropic, a company currently riding a meteoric rise with a [reported $19 billion annualized revenue run-rate](<https://www.theinformation.com/newsletters/ai-agenda/anthropics-success-sparks-server-crunch>) as of March 2026, the leak is more than a security lapse; it is a strategic hemorrhage of intellectual property. The timing is particularly critical given the commercial velocity of the product. Market data indicates that Claude Code alone has achieved [an annualized recurring revenue (ARR) of $2.5 billion](<https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation>), a figure that has more than doubled since the beginning of the year.
-> 
+>
 > With enterprise adoption accounting for 80% of its revenue, the leak provides competitors — from established giants to nimble rivals like Cursor — a literal blueprint for how to build a high-agency, reliable, and commercially viable AI agent.
-> 
+>
 > Anthropic confirmed the leak in a spokesperson’s e-mailed statement to VentureBeat, which reads:
 >
 >> Earlier today, a Claude Code release included some internal source code. No sensitive customer data or credentials were involved or exposed. This was a release packaging issue caused by human error, not a security breach. We’re rolling out measures to prevent this from happening again.
@@ -101,7 +104,7 @@ Make no mistake, getting here is going to be messy, and malicious actors are goi
 
 * * *
 
-This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -109,6 +112,6 @@ Thanks for being a subscriber, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

@@ -1,21 +1,24 @@
 ---
 title: "OpenAI's Memos, Frontier, Amazon and Anthropic"
+reader_id: "01kp6jb04tmxxtsnj8x13bfcpg"
+notion_page_id: "3464ebe7-f118-8180-90cc-dfee2f6fd936"
+reader_url: "https://read.readwise.io/read/01kp6jb04tmxxtsnj8x13bfcpg"
+source_url: "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L29wZW5haXMtbWVtb3MtZnJvbnRpZXItYW1hem9uLWFuZC1hbnRocm9waWMvIl19LCJleHAiOjE3Nzg3Nzk2NjMsImlhdCI6MTc3NjE4NzY2MywiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI0NDI3MTc4Ny1hZjBjLTRlZDUtYmNhNi0wNzg0ZWNhNDIzNjQiLCJ1c2UiOiJhY2Nlc3MifQ.Uu-Cblin8hmCA4jaO4S0St1ovmA6VLVyMNlgxtmMnM2fXGuaqwEZTQtZbAqslgVuJT4eIZl2I1jQckvqpmX4rRl-Z7ltJ_XDJdw2YTgAWK2pGgR4PqAGQJDXZx5AfZsW8qNVw24OmrJnq_BmQ3bx-b80HEqBf1jbQvCz1hVaDOV5NaNulM92kb3hM2J0CFnrnBIJY5Zjb4mmBkB77ycPALgZU8obIl8EObeKNjlggdbTJOAh-6VeWLLA98BrKjrhVu33_rGYG-7qSm4ywQYeE4veykzdi6WyFWK4UbhMHqYELlOxvPf_UtK2CklpYe..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-14"
 saved_at: "2026-04-14"
 reading_time: "9 mins"
 summary: "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise."
-image: "sources/images/01kp6jb04tmxxtsnj8x13bfcpg_cover.png"
+content_hash: "e825132a82744445a3bffaf2b8eb70498fba2a704a6abe22e79c7a5350cefd65"
 ---
 
-Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise. 
+Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Frss.stratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -38,7 +41,7 @@ Here are some selections from Dresser’s memo and my commentary:
 This isn’t a promising start! You usually don’t emphasize that raw capability is not the most important thing if you think you have the best raw capability! I’m pretty optimistic about “Spud”, OpenAI’s upcoming model, given that OpenAI’s current offerings, built as they are on a GPT-4-scale model, are so good; it seems likely that OpenAI continues to be the best at reinforcement learning and reasoning, which has kept them competitive with larger models from other companies. What does that look like when OpenAI has a new significantly larger model? However, that’s not exactly what Dresser is leading with.
 
 > Spud is an important step in the intelligence foundation for the next generation of work. Early feedback from our customers is very positive. Spud is not only our smartest model yet, but it also delivers on everything that matters for high-value professional work: stronger reasoning, better understanding of intent and dependencies, better follow-through and more reliable output in production.
-> 
+>
 > Better model performance lifts the rest of the stack. Spud will make all of our key products significantly better. It expands the workflows we can own and gives customers another reason to consolidate around us. This is our iterative deployment strategy in practice: push the frontier, deploy it into real products, learn from real usage, and compound those lessons into better systems on the path to the super app.
 
 Again, there is not an assertion that Spud will be the best model in the industry, but rather OpenAI’s “smartest model yet”; at the same time, the second paragraph highlights what does appear to be an OpenAI advantage in terms of reinforcement learning.
@@ -52,24 +55,24 @@ This is the point I raised at the end of yesterday’s Article: it’s possible 
 On agents:
 
 > The market has moved from prompts to agents. That shift is a massive opportunity for us. Customers want systems that can reason, use tools, operate across workflows, and perform reliably inside real business environments. That means orchestration, control, observability, security, integration, and governance.
-> 
+>
 > Frontier allows us to own the platform layer. We need to position Frontier as the default platform for enterprise agents – the core intelligence layer enterprises use to build, deploy, manage, and scale systems. This is where our advantage can compound. Frontier ties model intelligence directly to agent performance. As our models improve, the platform gets more valuable. As the platform gets embedded, switching costs rise. As customers run more workflows through the system, OpenAI becomes harder to replace and more central to how work gets done. That is how we move from product vendor to operating infrastructure.
 
 [OpenAI announced Frontier in February](<https://openai.com/index/introducing-openai-frontier/>) and included this illustration:
 
-![](sources/images/01kp6jb04tmxxtsnj8x13bfcpg_0_c20fdc11.png)
+![](https://i0.wp.com/stratechery.com/wp-content/uploads/2026/04/frontier-1.png?resize=1330%2C682&ssl=1)
 
 If this layout looks familiar it’s because it’s not dissimilar to how Palantir presents itself; I explained in 2024’s [Enterprise Philosophy and the First Wave of AI](<https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/>):
 
 > To that end, the company I am most intrigued by, for what I think will be the first wave of AI, is Palantir. I didn’t fully understand the company until [this 2023 interview with CTO Shyam Sankar and Head of Global Commercial Ted Mabrey](<https://stratechery.com/2023/an-interview-with-palantir-cto-shyam-sankar-and-head-of-global-commercial-ted-mabrey/>); I suggest reading or listening to the whole thing, but I wanted to call out this exchange in particular:
 >
 >> **Was there an aha moment where you have this concept — you use this phrase now at the beginning of all your financial reports, which is that you’re the operating system for enterprises. Now, obviously this is still the government era, but it’s interesting the S-1 uses that line, but it’s further down, it’s not the lead thing. Was that something that emerged later or was this that, “No, we have to be the interface for everything” idea in place from the beginning?**
->> 
+>>
 >> **Shyam Sankar:** I think the critical part of it was really realizing that we had built the original product presupposing that our customers had data integrated, that we could focus on the analytics that came subsequent to having your data integrated. I feel like that founding trauma was realizing that actually everyone claims that their data is integrated, but it is a complete mess and that actually the much more interesting and valuable part of our business was developing technologies that allowed us to productize data integration, instead of having it be like a five-year never ending consulting project, so that we could do the thing we actually started our business to do.
-> 
+>
 > That integration looks like this illustration from the company’s [webpage for Foundry](<https://www.palantir.com/platforms/foundry/>), what they call “The Ontology-Powered Operating System for the Modern Enterprise”:
-> 
-> ![Palantir's ](sources/images/01kp6jb04tmxxtsnj8x13bfcpg_1_63a4db53.png)
+>
+> ![Palantir's ](https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=1024%2C710&ssl=1)
 
 This is how OpenAI described Foundry:
 
@@ -78,7 +81,7 @@ This is how OpenAI described Foundry:
 This is a heavy lift; Palantir solves it by actually sending engineers into companies to integrate all of their data; OpenAI is trying to do the same thing through partnerships. From [Reuters](<https://www.reuters.com/business/openai-deepens-partnerships-with-consulting-giants-push-enterprise-ai-beyond-2026-02-23/>) at the end of February:
 
 > OpenAI is expanding its push into the enterprise market by teaming up with four of the world’s largest consulting firms, betting that a more hands-on approach will help corporate clients move beyond pilot projects to full-scale AI deployments.
-> 
+>
 > The company said on Monday it had launched the so-called “Frontier Alliance,” a program built around its new Frontier platform and anchored by BCG, McKinsey, Accenture and Capgemini. The initiative pairs OpenAI’s forward-deployed engineers with consulting firms to help companies integrate AI agents into core business processes such as software development, sales and customer support.
 
 I take this as a real validation of my thesis in that 2024 Article:
@@ -119,7 +122,7 @@ There was, if you caught it, one mention of a “super app”, but that was the 
 
 * * *
 
-This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -127,14 +130,9 @@ Thanks for being a subscriber, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Frss.stratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Frss.dithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *
 
 Subscription Information
-
-Member: Gaurav Arora  
-Email: gaurav_a@tamu.edu  
-
-
-[Manage your account](<https://stratechery.passport.online/member/login?email=gaurav_a%40tamu.edu>)
+[Manage your account](<https://stratechery.passport.online/>)

@@ -1,21 +1,24 @@
 ---
 title: "OpenAI Buys TBPN, Tech and the Token Tsunami"
+reader_id: "01knhzs1d3hsbavxhmdpfba48e"
+notion_page_id: "3464ebe7-f118-818c-a0a7-e35c9b2b638d"
+reader_url: "https://read.readwise.io/read/01knhzs1d3hsbavxhmdpfba48e"
+source_url: "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L29wZW5haS1idXlzLXRicG4tdGVjaC1hbmQtdGhlLXRva2VuLXRzdW5hbWkvIl19LCJleHAiOjE3NzgwODg5MTUsImlhdCI6MTc3NTQ5NjkxNSwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI0NDI3MTc4Ny1hZjBjLTRlZDUtYmNhNi0wNzg0ZWNhNDIzNjQiLCJ1c2UiOiJhY2Nlc3MifQ.XHWh02TIXYxmMUQYkk7carnz0pQfeIryXN34awUiSIAv_g1Ltxivw3ZVDQaN-WSK7YEpGNU8CUetYzWvyI7fdkSx1Cb2vtyhWzq8lTKf2ywq90zmC0E-QiVkRZMD9joHJG1bdiUwtVuDuwe6cd3NhIAUtT1k9qMsOKnHJEaU7wLBHwjzPOep1uGN6M8p0OOkYmO29qNPIF3Dcbqu87f4sqC3Mj6xxkI-B922O2LDrKM1bM8F4G0J-dIfjFnpA6-2ICZw8fW9c5GKVtiZJJf57DJDJHwSM0FoyDBaCV40M9kvkEbBUGiMsxQtNw-Yto..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-06"
 saved_at: "2026-04-06"
 reading_time: "8 mins"
 summary: "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services."
-image: "sources/images/01knhzs1d3hsbavxhmdpfba48e_cover.jpg"
+content_hash: "11d12e3826d71f279face38f9dc49e3b9ce0c43a58c926dec5881e8f5217e01a"
 ---
 
-OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services. 
+OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
@@ -30,7 +33,7 @@ On to the Update:
 From the [Wall Street Journal](<https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5>):
 
 > OpenAI is getting into the business of daily news. The maker of ChatGPT said it has acquired TBPN, an online talk show that aims to compete with Bloomberg and CNBC in by-the-minute analysis of technology news and executive interviews. OpenAI declined to disclose the terms of the transaction. While TBPN’s audience remains modest, averaging around 70,000 viewers per episode across various online platforms, the show has become popular among Silicon Valley power players who consider it more supportive of their industry than traditional news outlets…The 11-person company, which launched in October 2024 and began livestreaming for three hours each weekday in March 2025, says it is profitable and that it generated around $5 million in revenue from advertising last year. TBPN was on track to make more than $30 million in revenue in 2026, according to the company.
-> 
+>
 > OpenAI bought TBPN to encourage constructive conversation around the changes AI creates by helping the show grow, according to a memo sent by Fidji Simo, OpenAI’s CEO of applications. TBPN will report to Chris Lehane, OpenAI’s chief global affairs officer, and will help with company communications and marketing outside of the show.
 
 And from the [Financial Times](<https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e>):
@@ -44,7 +47,7 @@ Indeed, this deal makes that distinction all the more important, because I hones
 Start with this acquisition though: what exactly is OpenAI getting by owning TBPN that it wasn’t getting before? TBPN stands for the “Technology Business Programming Network”, but the “TB” originally stood for Technology Brothers; co-founder John Coogan [explained on LinkedIn](<https://www.linkedin.com/posts/jacoogan_contrary-to-popular-belief-the-tb-in-tbpn-activity-7440154788782284800-5Yo7/>):
 
 > Contrary to popular belief, the “TB” in TBPN does not stand for “Technology Brothers.” But it did once. By the time Jordi and I started talking about starting our podcast, “tech bro” had already become this lazy, derogatory shorthand for people who love technology. Jordi and I were obsessed with tech and business, but we hated the stigma that came with the label. So we reclaimed it. Calling ourselves the “Technology Brothers” was our way of saying that you can be a part of this industry without feeling like a caricature of what the internet thinks you are.
-> 
+>
 > But the name kind of betrayed us. Every time someone mentioned us on X or introduced us during an event, it always got shortened to “tech bros,” and we were right back in the box we were trying to break out of. Early into building our show, we knew this would be our life’s work, so we took our identity and image pretty seriously. That’s why we rebranded to TBPN. It stands for “Technology Business Programming Network.” Our new name was us saying that this isn’t a joke or a meme. We’re building a daily show, a media company, and a platform for people who genuinely love this industry.
 
 I don’t think that loving tech is anything to be ashamed about — so do I! — but from an OpenAI perspective, it’s certainly better than hating tech, which seems to be the position of much of the mainstream media. But that’s the thing: TBPN already exists and, by all accounts, was making money, so why does OpenAI need to own it? If anything, their ownership will simply lead to everyone else taking TBPN less seriously, or giving Coogan and Hays less access to others in the industry. How does that help OpenAI if the goal is credible but favorable media coverage?
@@ -59,28 +62,28 @@ Of course now there are rumors that GPT-6 is imminent, and that it’s awesome. 
 
 ### Tech and the Token Tsunami
 
-The [Missing GitHub Status Page](<https://mrshu.github.io/github-statuses/#about>) is a project from [Marek Šuppa](<https://x.com/mareksuppa>); from the description:
+The [Missing GitHub Status Page](<https://mrshu.github.io/github-statuses/>) is a project from [Marek Šuppa](<https://x.com/mareksuppa>); from the description:
 
 > GitHub stopped updating its status page with aggregate uptime numbers some time ago — if you use it regularly, you might have a feeling why. This is the missing version. We rebuild platform‑wide and per‑service uptime from archived status updates, derive minute‑level downtime windows, and map incidents to services whenever the source data allows. Everything is open source, and PRs are very welcome!
 
 That’s where this chart comes from:
 
 > world's first enterprise solution to reach zero nines uptime [pic.twitter.com/JtWWfZKM0C](<https://t.co/JtWWfZKM0C>)
-> 
+>
 > — chloe 🐇 (@SapphoSys) [April 2, 2026](<https://twitter.com/SapphoSys/status/2039667138198372591?ref_src=twsrc%5Etfw>)
 
 GitHub’s [official status page](<https://www.githubstatus.com/>) does look a bit better, to be fair, but still not great! COO Kyle Daigle explained what is happening [on X](<https://x.com/kdaigle/status/2040164759836778878>):
 
 > Yup, platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year if growth remains linear (spoiler: it won't.)
-> 
+>
 > GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and now… <https://t.co/iGsM2j1efO>
-> 
+>
 > — Kyle Daigle (@kdaigle) [April 3, 2026](<https://twitter.com/kdaigle/status/2040164759836778878?ref_src=twsrc%5Etfw>)
 
 The explanation clearly seems to be AI generally, and agents are only going to exacerbate the problem: there is dramatically more code being generated and committed than even last year, and GitHub is having trouble keeping up. Meanwhile, from [Business Insider](<https://www.businessinsider.com/developers-warn-flood-vibe-coded-apps-could-slow-apple-approvals-2026-3>):
 
 > Since the mainstream release of agentic coding in 2025, there’s been an influx of apps released on Apple’s App Store each month, according to data from marketing intelligence firm Sensor Tower. The number of iOS apps released in the US grew 54.8% year-over-year in January after hitting 56% in December — the highest rate in the past four years. It’s unclear what portion of the newly released apps were made with the help of vibe coding.
-> 
+>
 > Although vibe-coded apps are having a moment, not all developers are happy about their presence on the App Store. One coder and a thread of Reddit users have cited longer wait times for approval from Apple…
 
 That report is anecdata, although the new app numbers are real. Meanwhile, from [The Verge](<https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban>):
@@ -93,7 +96,7 @@ More generally, the reason to mention these three stories together is to note th
 
 * * *
 
-This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -101,6 +104,6 @@ Thanks for being a subscriber, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

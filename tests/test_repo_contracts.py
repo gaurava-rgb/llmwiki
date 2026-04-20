@@ -77,7 +77,6 @@ class RepoContractTests(unittest.TestCase):
                 if match.group(1).startswith("sources/images/")
             )
 
-        self.assertGreater(len(image_refs), 0)
         for article, image_path in image_refs:
             self.assertTrue(
                 (ROOT / image_path).exists(),

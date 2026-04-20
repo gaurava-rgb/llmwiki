@@ -1,25 +1,28 @@
 ---
 title: "Vibe Coding is OVER.. Here’s What Comes Next. | by Michal Malewicz | Mar, 2026 | Medium"
-author: "archive.ph"
+reader_id: "01knqfwj5dskyyr8khke752c8e"
+notion_page_id: "3484ebe7-f118-815d-8fdf-c23c2bbbf11f"
+reader_url: "https://read.readwise.io/read/01knqfwj5dskyyr8khke752c8e"
 source_url: "https://archive.ph/BSRXo"
+author: "archive.ph"
 site: "archive.ph"
 tags: []
 published: "2026-03-26"
 saved_at: "2026-04-08"
 reading_time: "11 mins"
 summary: "Many people use AI to build apps fast but without skill or care, leading to low-quality, forgettable products. True value comes from understanding design and putting real effort into solving problems. The future favors creators who use AI as a tool, not a crutch, to craft thoughtful and unique work."
-image: "sources/images/01knqfwj5dskyyr8khke752c8e_cover.png"
+content_hash: "c130efbcebe7dcfe4cbb9def91881c7f9be2495771549aa9d6c0826a8b1369d0"
 ---
 
 ## Here’s What Comes Next.
 
-Press enter or click to view image in full size![Vibe Coding is Over illustration of three ai generated landing pages with the words IT’S OVER written at the top in large text](sources/images/01knqfwj5dskyyr8khke752c8e_0_9f814f08.webp)Everything blends together.
+Press enter or click to view image in full size![Vibe Coding is Over illustration of three ai generated landing pages with the words IT’S OVER written at the top in large text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*1OGKfKCooEZbKCSoSXXY8g.png)Everything blends together.
 
 Take a look at these three landing pages. What do they have in common? And most importantly: will you remember any of them 30 minutes from now? All were made extremely fast.
 
 This isn’t variety. This isn’t a brand voice. It’s converging websites into a commodity. Everyone’s work is becoming an equivalent of the famous Ikea LACK coffee table. With sawdust filling inside a plastic wrap.
 
-Press enter or click to view image in full size![Ikea table assembly instructions](sources/images/01knqfwj5dskyyr8khke752c8e_1_eb269229.webp)An AI generated table would probably be called PROMPTA
+Press enter or click to view image in full size![Ikea table assembly instructions](https://miro.medium.com/v2/resize:fit:720/format:webp/1*GHZOrz3p1FH3i6ILGkN6Pw.jpeg)An AI generated table would probably be called PROMPTA
 
 It’s functional, but soulless. It blends into the background, obstructing the message in the process. Nobody knows what you sell. Nobody cares. Another blob in the header with _seamless streamlined effortless automation_.
 
@@ -43,13 +46,13 @@ No. I have a different theory.
 
 People lacking the foundational knowledge, trying to do things “the fast way” were around way before AI. I started designing in the late 90s. We already had slop back then, when the internet was barely even born.
 
-Press enter or click to view image in full size![Slop in design in 2006, 2016, 2026](sources/images/01knqfwj5dskyyr8khke752c8e_2_79650412.webp)Slop across the ages
+Press enter or click to view image in full size![Slop in design in 2006, 2016, 2026](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-deNrN1a-936GGwcyryarw.png)Slop across the ages
 
 Then flat design, systemic components and figma happened. Suddenly people who could barely sketch a rectangle on a whiteboard that looked straight were doing UI. Auto-layout made them think it now “looks good” because it _auto-aligns_.
 
 These people didn’t even notice when auto-layout failed.
 
-![Figma AutoLayout example](sources/images/01knqfwj5dskyyr8khke752c8e_3_e8344ba1.gif)Best way to not understand what you’re doing
+![Figma AutoLayout example](https://miro.medium.com/v2/resize:fit:640/format:webp/1*r_Xg-vrklcT5CexVuyoRzQ.gif)Best way to not understand what you’re doing
 
 They had no foundation. No eye for design. Or better yet. No love for design and no interest to learn.
 
@@ -65,7 +68,7 @@ Then AI came along and widened that no-skill group even more. Now you don’t ev
 
 Then you sit back, holding your chin like the famous Steve Jobs promo pic. While in reality it’s more akin to the one from Silicon Valley. But in this case they all have 10 fingers on each hand, because well… AI.
 
-Press enter or click to view image in full size![innovators pretend to be steve jobs](sources/images/01knqfwj5dskyyr8khke752c8e_4_12c0ed09.webp)Everyone’s an innovator, even if the fingers aren’t quite right.
+Press enter or click to view image in full size![innovators pretend to be steve jobs](https://miro.medium.com/v2/resize:fit:720/format:webp/1*vvDIPmqaWbFq-TdgfQ5uMQ.png)Everyone’s an innovator, even if the fingers aren’t quite right.
 
 When the craft is gone, alongside curiosity, passion and heuristics, we’re left with generism. And this generism is of the most nasty kind, as it pushes ugly, poor quality products out there.
 
@@ -79,7 +82,7 @@ This has huge economic ramifications too. We’ll get to those.
 
 But ask yourself: When was the last time a clearly AI generated product surprised you? Do you even remember using any of them? Or do they fade into obscurity the moment you switch off?
 
-Press enter or click to view image in full size![A graph showing a decline of interest of people in new products](sources/images/01knqfwj5dskyyr8khke752c8e_5_e8edbaad.webp)2023 was the last year people CRAVED more products, apps, things
+Press enter or click to view image in full size![A graph showing a decline of interest of people in new products](https://miro.medium.com/v2/resize:fit:720/format:webp/1*TgZIDg_PRCkbuHzz0IZoBQ.png)2023 was the last year people CRAVED more products, apps, things
 
 ## Everyone’s Barry Allen now
 
@@ -95,7 +98,7 @@ Partially, startup founders are also responsible, as they give the same advice o
 
 And sure. MVPs can’t take year or even months to make. You need to ship fast. But there’s something I noticed back in 2017 about MVPs. Most people think it just means a Minimum Viable Product. But I’d expand it also to “Minimum Visible Precision”.
 
-Press enter or click to view image in full size![Minimum Viable Precision of executing a digital product](sources/images/01knqfwj5dskyyr8khke752c8e_6_66936956.webp)Much younger me, on stage almost 10 years ago talking about why quality matters in apps
+Press enter or click to view image in full size![Minimum Viable Precision of executing a digital product](https://miro.medium.com/v2/resize:fit:720/format:webp/1*qpfyAu533wXnyqedCDzc9A.jpeg)Much younger me, on stage almost 10 years ago talking about why quality matters in apps
 
 However, right now, with AI tools, you can speed things up so much, that not getting to the minimum visible precision is not a time constraint. It’s being lazy. Sloppy. Not detail oriented.
 
@@ -107,13 +110,13 @@ What they fail to realize is that that great code and those professional like mo
 
 That movie-like quality was achieved by actual filmmakers. With taste and skill in the craft. With insane attention to detail. Able to articulate what they want precisely AND knowing why they want it.
 
-Press enter or click to view image in full size![Just using AI has very little effect if someone is low skilled. High skilled people can benefit a lot more.](sources/images/01knqfwj5dskyyr8khke752c8e_7_7aed9a45.webp)Just using AI has very little effect if someone is low skilled. High skilled people can benefit a lot more.
+Press enter or click to view image in full size![Just using AI has very little effect if someone is low skilled. High skilled people can benefit a lot more.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*773MVpHtuA2gzoJOR4BoRA.png)Just using AI has very little effect if someone is low skilled. High skilled people can benefit a lot more.
 
 Let’s examine the biggest problems first, and then I’ll show you a solution. Not a hack. Not a pack of prompts that will save your app. A solution that requires your time and effort.
 
 But that’s the only way. You’re not going to vibe your way out of this.
 
-Press enter or click to view image in full size![AI slop examples](sources/images/01knqfwj5dskyyr8khke752c8e_8_e0e6ff07.webp)Typical examples of AI slop
+Press enter or click to view image in full size![AI slop examples](https://miro.medium.com/v2/resize:fit:720/format:webp/1*sBFI5uF_ZPqxI3nPe8uggQ.png)Typical examples of AI slop
 
 ## Slop Shop
 
@@ -123,12 +126,12 @@ It’s the AI-generated app icon that’s a geometric abstract shape in purple-b
 
 It’s the chatbot interface that looks exactly like every other chatbot interface because the AI trained on every chatbot interface and spits out an average. The slop isn’t necessarily ugly or extremely bad.
 
-It’s just low effort and consumers are starting to feel it.   
+It’s just low effort and consumers are starting to feel it.
 The window for when the cheap + fast execution can still sell is narrowing.
 
 It’s just low effort and people feel it.
 
-Press enter or click to view image in full size![ALL AI logos look a little weird](sources/images/01knqfwj5dskyyr8khke752c8e_9_c16389c3.webp)AI tool logos look kinda weird if you think about it
+Press enter or click to view image in full size![ALL AI logos look a little weird](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IuWFG1xSMj34SiNEsG85qw.png)AI tool logos look kinda weird if you think about it
 
 ## Tool obsession
 
@@ -140,7 +143,7 @@ Every week there’s a new model, a new framework, a new “game-changing” upd
 
 You spend more time watching videos, reading articles and comparing benchmarks than actually building. You subscribe to AI tool newsletters that tell you about other AI tools. You follow founders on X who post screenshots of their “[stack](<https://archive.ph/o/BSRXo/https://michalmalewicz.medium.com/my-complete-web-design-build-workflow-for-2026-3279e813b3fe>)” like it’s a personality trait.
 
-Press enter or click to view image in full size![AI may be a multiplier but if your skill is 0, the result is still 0](sources/images/01knqfwj5dskyyr8khke752c8e_10_144538b9.webp)If you multiply 0 skill by any number you still get 0
+Press enter or click to view image in full size![AI may be a multiplier but if your skill is 0, the result is still 0](https://miro.medium.com/v2/resize:fit:720/format:webp/1*m_HomoKnIvopCBI8FQ-koQ.png)If you multiply 0 skill by any number you still get 0
 
 ### Let’s get this straight.
 
@@ -148,7 +151,7 @@ The tool doesn’t matter. The person using it matters. A great designer with Fi
 
 The tool is just a multiplier. If your base is zero, multiplying it by any number still gives you zero. Stop optimizing your stack and start optimizing your taste.
 
-Press enter or click to view image in full size![Classic “steal this prompt” instagram posts](sources/images/01knqfwj5dskyyr8khke752c8e_11_ef0a838e.webp)I made two joke posts called “Steal this prompt” and 300K people took the bait! It’s scary!
+Press enter or click to view image in full size![Classic “steal this prompt” instagram posts](https://miro.medium.com/v2/resize:fit:720/format:webp/1*G9UXQD2v7LVl584Bf3dHJQ.png)I made two joke posts called “Steal this prompt” and 300K people took the bait! It’s scary!
 
 ## Prompt hoarding
 
@@ -176,7 +179,7 @@ They’ll be the ones who never needed prompts in the first place because they c
 
 There are a couple of things that you need to do to get over AI slop and solve this problem. Let’s go through them one by one.
 
-Press enter or click to view image in full size![Plan and write out the main goals of your project](sources/images/01knqfwj5dskyyr8khke752c8e_12_2061dd88.webp)
+Press enter or click to view image in full size![Plan and write out the main goals of your project](https://miro.medium.com/v2/resize:fit:720/format:webp/1*fKjnG5PyyJtP5lUL-tMUhg.png)
 
 ## Know WHAT you’re doing
 
@@ -186,7 +189,7 @@ A lot of current builders want “an app to do X” and just tell that to AI. Th
 
 Projects like that will fail. You’ll just waste AI credits.
 
-Press enter or click to view image in full size![Apple design quality and why founders should learn from it](sources/images/01knqfwj5dskyyr8khke752c8e_13_2f190802.webp)Apple was inspired by Braun, but clearly took that inspiration and brought its own flare into it making timeless classics. 
+Press enter or click to view image in full size![Apple design quality and why founders should learn from it](https://miro.medium.com/v2/resize:fit:720/format:webp/1*paqfulG079moYxvyUgR69A.jpeg)Apple was inspired by Braun, but clearly took that inspiration and brought its own flare into it making timeless classics.
 
 ## You need to see
 
@@ -198,7 +201,7 @@ That helps you to develop taste.
 
 Get inspired by seeing how others get inspired. Apple took some cues from Braun’s designs, but made those designs clearly theirs. Even just getting to know how this process works is already putting you ahead.
 
-![Learn how layout, typography, color works.](sources/images/01knqfwj5dskyyr8khke752c8e_14_69abe2dc.webp) Just read a book on the basics. Trust me, you’ll need it!
+![Learn how layout, typography, color works.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*km7PyZ9rgAKj3-dZwgb89A.png) Just read a book on the basics. Trust me, you’ll need it!
 
 ## Fundamentals don’t lie
 
@@ -222,7 +225,7 @@ There’s an argument going around that most companies will be fine with fully g
 
 There are two things necessary to consider here.
 
-![Average products have a short lifespan and less future revenue](sources/images/01knqfwj5dskyyr8khke752c8e_15_679e0498.webp)
+![Average products have a short lifespan and less future revenue](https://miro.medium.com/v2/resize:fit:720/format:webp/1*9qzavLTbr4oSUB3omuFc5Q.png)
 
 ### Product value and market saturation.
 
@@ -236,11 +239,11 @@ Once everyone has a similar, average website, with similar perceivable value, th
 
 So going fast and cheap now, can cost you huge revenue drops in the future. It will work for some, sure. But I wouldn’t count on it for every business.
 
-![Revenue can go slightly up with AI use, but that’s short lived and we’re almost past the point of diminishing returns](sources/images/01knqfwj5dskyyr8khke752c8e_16_3821629b.webp) AI can boost you a little at first, but then it’ll get worse
+![Revenue can go slightly up with AI use, but that’s short lived and we’re almost past the point of diminishing returns](https://miro.medium.com/v2/resize:fit:720/format:webp/1*l4X3xluyNZ-siQfz9j3Rvw.png) AI can boost you a little at first, but then it’ll get worse
 
 ## Conclusion
 
-Vibe-coding isn’t going anywhere. The tools will get better, the slop will multiply, and the pressure to ship faster will only intensify. Burning those credits is what the AI companies want.  
+Vibe-coding isn’t going anywhere. The tools will get better, the slop will multiply, and the pressure to ship faster will only intensify. Burning those credits is what the AI companies want.
 So they will push vibe-coding and vibe-building as a way of life.
 
 It’s not about people using AI vs people NOT using AI. That’s boring.

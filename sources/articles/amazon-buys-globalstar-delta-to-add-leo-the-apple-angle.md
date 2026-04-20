@@ -1,27 +1,30 @@
 ---
 title: "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle"
+reader_id: "01kp95k2gfkpggsz3sgzt5jbcc"
+notion_page_id: "3464ebe7-f118-8105-af69-e2d00d82d80e"
+reader_url: "https://read.readwise.io/read/01kp95k2gfkpggsz3sgzt5jbcc"
+source_url: "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/"
 author: "Ben Thompson"
-source_url: "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI2L2FtYXpvbi1idXlzLWdsb2JhbHN0YXItZGVsdGEtdG8tYWRkLWxlby10aGUtYXBwbGUtYW5nbGUvIl19LCJleHAiOjE3Nzg4NjY2MTgsImlhdCI6MTc3NjI3NDYxOCwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiI0NDI3MTc4Ny1hZjBjLTRlZDUtYmNhNi0wNzg0ZWNhNDIzNjQiLCJ1c2UiOiJhY2Nlc3MifQ.L_lfCxFGfCMEHEkQa_n5NSJWVvNQBx-GaDQfCpvkVGzYUOz-paCIYhz4EuhSKvwIox9VMbocAalT189nmKtPSjwUFRHOqTh1ZWAoPOOyEc8lvwqzPEoYV-69cE78qiQPRSGVub-lNKGtRJNdWcjOeaQxq6ktUTcpqN2v97G22zIlWVYhGLkdxELGxGOTHkAVReribnjVoAq_g0Vf4Vex7Yr_YVPGIaAHx-Er-AfqXmboOOJiP_zdIYwTlT_GCbYDNAEkREPVeISWKxyikhry6d4RdRrA5aJoaX..."
 site: "Stratechery by Ben Thompson"
 tags: []
 published: "2026-04-15"
 saved_at: "2026-04-15"
 reading_time: "10 mins"
 summary: "Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple."
-image: "sources/images/01kp95k2gfkpggsz3sgzt5jbcc_cover.jpg"
+content_hash: "217192f7492f7728f437674f0359db448e90143885b77d4846ee99f8bd3256a9"
 ---
 
-Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple. 
+Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.
 
 * * *
 
-[Listen to this Update in your podcast player](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+[Listen to this Update in your podcast player](<https://stratechery.passport.online/>)
 
 * * *
 
 Good morning,
 
-The NBA postseason is here, which means this is an excellent time to add [The Greatest of All Talk](<https://goat.passport.online/member>), hosted by Andrew Sharp and Ben Golliver, to your podcast player; also make sure you are subscribed to [Andrew’s writing on Sharp Text](<https://sharptext.net/>), and check out [Golliver’s new Substack](<https://bengolliver.substack.com/>).
+The NBA postseason is here, which means this is an excellent time to add [The Greatest of All Talk](<https://goat.passport.online/>), hosted by Andrew Sharp and Ben Golliver, to your podcast player; also make sure you are subscribed to [Andrew’s writing on Sharp Text](<https://sharptext.net/>), and check out [Golliver’s new Substack](<https://bengolliver.substack.com/>).
 
 On to the Update:
 
@@ -30,7 +33,7 @@ On to the Update:
 From [Bloomberg](<https://www.bloomberg.com/news/articles/2026-04-14/amazon-s-11-6-billion-globalstar-deal-amps-up-rivalry-with-musk>):
 
 > Amazon.com Inc.’s $11.6 billion deal to buy Globalstar Inc. ramps up competition with Elon Musk’s Starlink in satellite communications, a market predicted to double to $200 billion in the coming years. On Tuesday, Amazon announced plans to buy the satellite operator for a mix of stock and up to $90 a share and said that in 2028 it will launch a direct-to-device service, offering connectivity straight to people’s mobile devices as an alternative to traditional cell towers.
-> 
+>
 > Through Globalstar, Amazon will gain radio frequency licenses that are key to the company advancing its satellite-to-mobile services. The e-commerce giant has been trying for years to break into satellite services to gain new sources of growth beyond its enormous retail and cloud-computing businesses. But its efforts have been hampered by delays from rocket builders and a slow start to its manufacturing operations. Meanwhile, Musk’s Starlink, a division of SpaceX, has sprinted ahead with a network of 10,000 satellites in orbit serving 10 million people and developing a reputation for reliable internet service in hard-to-reach areas.
 
 Framing this acquisition in terms of Leo versus Starlink is the most obvious thing in the world. After all, Amazon is the only company really challenging SpaceX when it comes to low earth orbit satellite constellations, which, to be honest, sometimes feels a little quixotic and tied up in the Jeff Bezos versus Elon Musk rivalry than in any real business case, particularly given SpaceX’s big head start.
@@ -54,7 +57,7 @@ Moreover, those assets by-and-large serve one customer: Apple. Apple owned a 20%
 From the [Wall Street Journal late last month](<https://www.wsj.com/business/airlines/delta-to-tap-amazon-satellite-internet-service-for-in-flight-wi-fi-583a3c09>):
 
 > Amazon.com struck a deal to provide internet access on Delta Air Lines flights, the tech giant’s highest-profile victory in the race to supply in-flight Wi-Fi. Delta said it plans to use Amazon’s nascent Leo satellite-internet business to provide Wi-Fi on an initial 500 aircraft starting in 2028. With Leo, Delta is planning for internet speeds that will be three to five times faster than what the airline currently offers.
-> 
+>
 > Delta’s choice intensifies competition in the satellite-internet industry. JetBlue Airways last year announced plans to use Amazon’s service on a portion of its fleet. But Starlink, the service operated by Elon Musk’s SpaceX, has become a dominant provider for airlines, signing up customers including United Airlines, Southwest Airlines and Alaska Air Group.
 
 I don’t think it’s a surprise that United went with Starlink while Delta went with Leo, and the analogy I would draw is to the iPhone. Apple famously first offered the iPhone to Verizon, the leading carrier in the U.S., but the latter balked at granting Apple total control of the device and user interface; Apple instead went with AT&T, née Cingular, which was willing to take a chance on leveraging the iPhone to catch up. That same strategy repeated itself throughout the world: leading carriers didn’t want to make a deal on Apple’s terms, so Apple would launch with second place carriers, and then leverage [the unprecedented willingness of customers to change carriers just to get an iPhone](<https://stratechery.com/2013/why-do-carriers-subsidize-the-iphone/>) to eventually come to terms with the market leader.
@@ -66,11 +69,11 @@ This isn’t the only example of leading companies wanting to avoid being at the
 And, to that end, what is another company that is the clear leader in their space? Well, it’s the one that I expressed hope [late last year](<https://stratechery.com/2025/spacex-buys-more-spectrum-spacexs-pivot-why-apple-and-spacex-should-partner/>) would lean into a SpaceX partnership:
 
 > Satellite connectivity, however, is a different market. Carriers were well-established by the time the iPhone came around; that meant the conditions were in place for Apple to commoditize the market, but that also meant that there was no room for Apple to differentiate itself in the market. It’s the opposite in this case: satellite functionality is new, and it’s not good enough; that means there are real benefits to integration, wherein the satellite connectivity piece is developed hand-in-hand with handsets to deliver a differentiated experience.
-> 
+>
 > The problem for Apple is that GlobalStar, their long-time satellite partner, simply doesn’t have the resources to keep up with Apple. Apple already had to give the company an infusion of cash, and that was simply to maintain an experience that is worse than what you get from SpaceX; SpaceX, meanwhile, has an unassailable launch advantage that it is leveraging to cover the sky with cellular-capable satellites.
-> 
+>
 > The problem SpaceX is having, meanwhile, is that they lost out on their gambit to be the provider for every cellular carrier, which means the best way to bring their advantages to bear is to also pursue an integrated strategy, but they don’t have the handset expertise or go-to-market capabilities necessary to build a fully integrated experience of their own.
-> 
+>
 > In short, Apple and SpaceX can solve each other’s problem/opportunity: SpaceX could allow Apple to push the envelope in terms of satellite capability on iPhones, capability that could exist on top of existing carrier services; Apple, meanwhile, could bring SpaceX’s potential mobile service to market in a far more effective and compelling way than SpaceX could on its own. It’s not pure integration — I’m talking about a partnership here — but there is a real path to delivering a truly differentiated experience to the benefit of both companies.
 
 The problem, as I noted in that Update, is that it was hard to see Apple and SpaceX ever resolving who would actually be in charge; Apple clearly agrees, because not only are they declining to work with SpaceX, I actually think they were the driving force in this GlobalStar deal.
@@ -86,7 +89,7 @@ Amazon isn’t really talking about being a cellular provider, and for good reas
 Next, read the section of the press release about Apple specifically:
 
 > In addition to the agreement with Globalstar, Amazon and Apple signed an agreement to provide satellite connectivity for current and future iPhone and Apple Watch features. Globalstar currently partners with Apple to power satellite service on iPhone 14 or later, as well as Apple Watch Ultra 3, allowing users to text emergency services, message friends and family, request roadside assistance, and share their location. With the new Amazon-Apple agreement, Amazon will continue to support iPhone and Apple Watch models currently using Globalstar’s existing and planned upcoming low Earth orbit satellite constellations, being manufactured by MDA Space, and collaborate with Apple on future satellite services using Amazon Leo’s expanded satellite network.
-> 
+>
 > “Since launching more than three years ago, our groundbreaking safety service Emergency SOS via satellite has helped save many lives around the world—from a scout troop stranded on a winter hike in British Columbia, to a woman who was airlifted to safety in Colorado after her car rolled down a 250-foot cliff,” said Greg Joswiak, Senior Vice President of Worldwide Product Marketing, Apple. “Apple and Amazon have a long and proven track record of working together through Amazon’s core infrastructure services, and we look forward to building on that collaboration with Amazon Leo. This ensures our users will continue to have access to the vital satellite features they have come to rely on, including Emergency SOS, Messages, Find My, and Roadside Assistance via satellite, so they can stay safe and connected while off the grid.”
 
 Apple isn’t talking about exciting new features, but rather maintaining what they have — which is exactly what Amazon is promising. This, by extension, leads me to my conclusion that this deal is about _Apple_ versus Starlink, not _Amazon_.
@@ -97,7 +100,7 @@ This is, to be clear, speculation. It is, however, speculation that explains thi
 
 * * *
 
-This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/member>).
+This Update will be available as a podcast later today. To receive it in your podcast player, [visit Stratechery](<https://stratechery.passport.online/>).
 
 The Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.
 
@@ -105,6 +108,6 @@ Thanks for being a subscriber, and have a great day!
 
 * * *
 
-Add to your podcast player: [Stratechery](<https://stratechery.passport.online/member/podcast?url=https%3A%2F%2Fstratechery.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp Tech](<https://sharptech.fm/member/podcast?url=https%3A%2F%2Fsharptech.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Dithering](<https://dithering.passport.online/member/podcast?url=https%3A%2F%2Fdithering.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Sharp China](<https://sharpchina.fm/member/podcast?url=https%3A%2F%2Fsharpchina.fm%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [GOAT](<https://goat.passport.online/member/podcast?url=https%3A%2F%2Fgoat.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>) | [Asianometry](<https://asianometry.passport.online/member/podcast?url=https%3A%2F%2Fasianometry.passport.online%2Ffeed%2Fpodcast%2F56TBYcbTiAE8KqhxRNfY2n>)
+Add to your podcast player: [Stratechery](<https://stratechery.passport.online/>) | [Sharp Tech](<https://sharptech.fm/>) | [Dithering](<https://dithering.passport.online/>) | [Sharp China](<https://sharpchina.fm/>) | [GOAT](<https://goat.passport.online/>) | [Asianometry](<https://asianometry.passport.online/>)
 
 * * *

@@ -1,17 +1,20 @@
 ---
 title: "AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume Falls Sharply"
+reader_id: "01kpbkms3bhkf65mhefytea6mp"
+notion_page_id: "3464ebe7-f118-81f0-8551-c60be96e31a6"
+reader_url: "https://read.readwise.io/read/01kpbkms3bhkf65mhefytea6mp"
+source_url: "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/"
 author: "Gené Teare"
-source_url: "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/?utm_source=Cautious+Optimism&utm_medium=email&utm_campaign=co+daily"
 site: "Crunchbase News"
 tags: []
 published: "2026-04-14"
 saved_at: "2026-04-16"
 reading_time: "3 mins"
 summary: "European venture funding rose nearly 30% in Q1 2026, driven mainly by AI startups receiving over half of the total investment. Although the total deal volume dropped by 40%, late-stage funding nearly doubled compared to last year. The UK and France led growth, with large AI funding rounds boosting the region’s momentum."
-image: "sources/images/01kpbkms3bhkf65mhefytea6mp_cover.jpg"
+content_hash: "84e01904032cc8eb9e44b8c3514137191f02a62d25a065024349a9600e18a02a"
 ---
 
-![](sources/images/01kpbkms3bhkf65mhefytea6mp_0_054e1bb9.jpg) ![](https://secure.gravatar.com/avatar/312c7991dcc90f5d5b98b4da5ea19b0230d5d72ce2906857f67e710542d2066d?s=224&d=mm&r=g)
+![](https://news.crunchbase.com/wp-content/uploads/inflating-ai-europe.jpg) ![](https://secure.gravatar.com/avatar/312c7991dcc90f5d5b98b4da5ea19b0230d5d72ce2906857f67e710542d2066d?s=224&d=mm&r=g)
 
 European venture funding reached $17.6 billion in Q1 2026, Crunchbase data shows. That’s up nearly 30% year over year and marks the second consecutive quarter of growth. As was the case [globally](<https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/>) and in [North America](<https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/>), the main driver was AI, which for the first time claimed more than 50% of Europe’s total funding for the quarter.
 
@@ -37,7 +40,7 @@ Some content could not be imported from the original document. [View content ↗
 
 Startups from the U.K. and France raised more funding in Q1, totaling $7.4 billion and $2.9 billion, respectively. Germany-based startups raised $1.9 billion, flat year over year.
 
-France has emerged as the European leader for AI frontier labs. Last quarter, it saw Paris-based [Advanced Machine Intelligence](<https://www.crunchbase.com/organization/advanced-machine-intelligence>), founded by former [Meta](<https://www.crunchbase.com/organization/meta>) AI chief [Yann LeCun](<https://www.crunchbase.com/person/yann-lecun?_gl=1*1kwkcz4*_gcl_aw*R0NMLjE3NzM4NTk5NTYuQ2owS0NRandtdW5OQmhEYkFSSXNBT25kS3BtVmpsOWRnZEZ2SmEwcWtSbDVyOWVtaHlzaVJGVzFVRWZsVWJmXzYydHRiRDY2U0N4d0duTWFBc1Y5RUFMd193Y0I.*_gcl_au*MzU1NTQxMTk0LjE3NzE1MTY4NTAuMTk4MjI5NzA3My4xNzc1MDcxMDM1LjE3NzUwNzEwMzQ.*_ga*MTkzMDMyODc1OC4xNzYzNjcyMDkz*_ga_97DKWJJNRK*czE3NzYxMDA5NTUkbzIwOSRnMSR0MTc3NjEwMTQzOSRqNTQkbDAkaDA.>), raise $1 billion in [the continent’s largest seed funding round on record](<https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/>). The deal also marked only the second billion-dollar-plus funding deal for a European frontier lab, following [Mistral AI](<https://www.crunchbase.com/organization/mistral-ai#financials>)s [$2 billion round last year](<https://news.crunchbase.com/venture/europe-largest-ai-round-mistral-seriesc/>).
+France has emerged as the European leader for AI frontier labs. Last quarter, it saw Paris-based [Advanced Machine Intelligence](<https://www.crunchbase.com/organization/advanced-machine-intelligence>), founded by former [Meta](<https://www.crunchbase.com/organization/meta>) AI chief [Yann LeCun](<https://www.crunchbase.com/person/yann-lecun?_gl=1%2A1kwkcz4%2A_gcl_aw%2AR0NMLjE3NzM4NTk5NTYuQ2owS0NRandtdW5OQmhEYkFSSXNBT25kS3BtVmpsOWRnZEZ2SmEwcWtSbDVyOWVtaHlzaVJGVzFVRWZsVWJmXzYydHRiRDY2U0N4d0duTWFBc1Y5RUFMd193Y0I.%2A_gcl_au%2AMzU1NTQxMTk0LjE3NzE1MTY4NTAuMTk4MjI5NzA3My4xNzc1MDcxMDM1LjE3NzUwNzEwMzQ.%2A_ga%2AMTkzMDMyODc1OC4xNzYzNjcyMDkz%2A_ga_97DKWJJNRK%2AczE3NzYxMDA5NTUkbzIwOSRnMSR0MTc3NjEwMTQzOSRqNTQkbDAkaDA.>), raise $1 billion in [the continent’s largest seed funding round on record](<https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/>). The deal also marked only the second billion-dollar-plus funding deal for a European frontier lab, following [Mistral AI](<https://www.crunchbase.com/organization/mistral-ai>)s [$2 billion round last year](<https://news.crunchbase.com/venture/europe-largest-ai-round-mistral-seriesc/>).
 
 Some content could not be imported from the original document. [View content ↗ ](<https://e.infogram.com/4137aba6-bd6f-4e81-acd2-960229175938?src=embed&embed_type=responsive_iframe>)
 
