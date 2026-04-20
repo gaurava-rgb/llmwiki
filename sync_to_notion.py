@@ -196,6 +196,13 @@ def make_plain_paragraph(text):
     return make_paragraph([make_rich_text(text[:2000])])
 
 
+def clean_select_name(value):
+    """Notion select/multi_select option names cannot contain commas."""
+    if value is None:
+        return ""
+    return re.sub(r"\s+", " ", str(value)).replace(",", " -")[:100].strip()
+
+
 # ── HTML → Notion blocks ───────────────────────────────────────────────────────
 
 def html_to_notion_blocks(html):
@@ -349,6 +356,34 @@ def push_blocks(page_id, blocks):
         time.sleep(0.3)
 
 
+def post_notion_json_with_retry(url, payload, attempts=3):
+    retry_statuses = {429, 500, 502, 503, 504}
+    last_response = None
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.post(url, headers=NOTION_HEADERS, json=payload, timeout=30)
+        except requests.RequestException as exc:
+            if attempt == attempts:
+                raise
+            logging.warning(f"POST attempt {attempt} failed: {exc}")
+            time.sleep(2 ** (attempt - 1))
+            continue
+
+        if response.status_code not in retry_statuses:
+            return response
+
+        last_response = response
+        if attempt == attempts:
+            return response
+
+        retry_after = response.headers.get("Retry-After")
+        delay = int(retry_after) if retry_after and retry_after.isdigit() else 2 ** (attempt - 1)
+        logging.warning(f"POST attempt {attempt} returned {response.status_code}; retrying in {delay}s")
+        time.sleep(delay)
+
+    return last_response
+
+
 def iso_date(val):
     if not val:
         return None
@@ -383,9 +418,9 @@ def create_notion_page(doc):
     if author:
         properties["Author"] = {"rich_text": [{"type": "text", "text": {"content": author[:2000]}}]}
     if site:
-        properties["Site"] = {"select": {"name": site[:100]}}
+        properties["Site"] = {"select": {"name": clean_select_name(site)}}
     if category:
-        properties["Category"] = {"select": {"name": category[:100]}}
+        properties["Category"] = {"select": {"name": clean_select_name(category)}}
     if source:
         properties["Source"] = {"rich_text": [{"type": "text", "text": {"content": source[:2000]}}]}
     if valid_url(source_url):
@@ -403,9 +438,9 @@ def create_notion_page(doc):
     if progress is not None:
         properties["Reading Progress"] = {"number": progress / 100 if progress > 1 else progress}
     if location:
-        properties["Location"] = {"select": {"name": location[:100]}}
+        properties["Location"] = {"select": {"name": clean_select_name(location)}}
     if tags:
-        properties["Tags"] = {"multi_select": [{"name": t[:100]} for t in tags]}
+        properties["Tags"] = {"multi_select": [{"name": clean_select_name(t)} for t in tags if clean_select_name(t)]}
     if summary:
         properties["Summary"] = {"rich_text": [{"type": "text", "text": {"content": summary[:2000]}}]}
     if valid_url(image_url):
@@ -431,7 +466,18 @@ def create_notion_page(doc):
         "children": all_blocks[:100],
     }
 
-    r = requests.post("https://api.notion.com/v1/pages", headers=NOTION_HEADERS, json=payload)
+    r = post_notion_json_with_retry("https://api.notion.com/v1/pages", payload)
+    if (not r.ok) and (r.status_code == 403 or "Cloudflare" in r.text[:1000]):
+        logging.warning("Create page rejected with full content; retrying metadata-only fallback")
+        fallback_blocks = header_blocks + [
+            make_plain_paragraph("Full article body omitted because Notion rejected the original HTML payload. Use Source URL or Reader URL for the full source.")
+        ]
+        fallback_payload = {
+            "parent": {"database_id": DATABASE_ID},
+            "properties": properties,
+            "children": fallback_blocks[:100],
+        }
+        r = post_notion_json_with_retry("https://api.notion.com/v1/pages", fallback_payload)
     if not r.ok:
         logging.error(f"Create page failed {r.status_code}: {r.text[:400]}")
         return None

@@ -33,6 +33,7 @@ class RepoContractTests(unittest.TestCase):
             "reader/.env",
             ".claude/settings.local.json",
             "logs/",
+            ".venv/",
             "__pycache__/",
             ".DS_Store",
         ]:

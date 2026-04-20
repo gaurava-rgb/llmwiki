@@ -136,3 +136,57 @@ python3 -m unittest discover -s tests
 ```
 
 Result: passed, 10 tests.
+
+## 2026-04-20 - Sprint 2 Incremental Notion Sync
+
+Requested outcome:
+
+- Sync the remaining Readwise Reader articles into Notion.
+- Do not repeat articles already pushed.
+- Use parallel agent execution if useful, while keeping the run logged.
+
+Actions completed:
+
+- Spawned a worker agent for the Notion sync. The worker stalled without a
+  useful process/log, so it was closed and the sync was completed directly in
+  this thread.
+- Confirmed `reader/.env` is ignored and used it only as local runtime config.
+- Created local `.venv/` and installed `requirements.txt` there because the
+  system Python environment is externally managed and did not have `bs4`.
+- Added `.venv/` to `.gitignore`.
+- Ran the incremental sync against Raw Sources database
+  `3464ebe7-f118-8086-ae21-fa8b46f294ec`.
+- Hardened `sync_to_notion.py` so Notion select and multi-select values replace
+  commas, which Notion rejects in option names.
+- Added a metadata-only fallback when Notion/Cloudflare rejects full HTML page
+  creation.
+- Added retry handling for transient Notion page creation failures.
+- Added a repository contract assertion that `.venv/` remains ignored.
+
+Run details:
+
+- `logs/sync_20260420_152926.log`: found 188 articles already in Notion and
+  150 new articles to push. The run was manually stopped after two early
+  failures and 21 successful pushes so the sync script could be hardened.
+- `logs/sync_20260420_153053.log`: found 209 articles already in Notion and
+  129 new articles to push. Result: 128 pushed, 1 failed, 209 skipped.
+- `logs/sync_20260420_153550.log`: found 337 articles already in Notion and
+  1 new article to push. Result: 1 pushed, 0 failed, 337 skipped.
+- `logs/sync_20260420_153616.log`: final no-op verification found 338 articles
+  already in Notion and 0 new articles to push.
+
+Measurable outcome:
+
+- Raw Sources in Notion is caught up for the current Reader API result set:
+  338 Reader article/rss documents present and 0 remaining new documents.
+- Re-running the sync is idempotent for the current dataset because Reader IDs
+  are extracted from the `Reader URL` property before creating pages.
+
+Checks run:
+
+```bash
+.venv/bin/python -m py_compile sync_to_notion.py
+python3 -m unittest discover -s tests
+```
+
+Result: passed, 10 tests.
