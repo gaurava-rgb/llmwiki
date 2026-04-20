@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "v1april",
+  "sources": [
+    { "path": "sources/articles/", "exclude": ["wiki/"] }
+  ],
+  "output": "sources/articles/wiki/",
+  "mode": "staging",
+  "auto_update": "prompt",
+  "article_sections": [
+    { "name": "Summary", "description": "Standalone briefing of the topic", "required": true },
+    { "name": "Key Thesis", "description": "Central argument or claim the author makes" },
+    { "name": "Key Insights", "description": "3-5 concrete takeaways from the article" },
+    { "name": "Industry Context", "description": "Where this fits in the broader tech/AI landscape" },
+    { "name": "Implications", "description": "What practitioners and builders should act on" },
+    { "name": "Sources", "description": "Backlinks to all contributing source files", "required": true }
+  ],
+  "topic_hints": [],
+  "link_style": "obsidian"
+}

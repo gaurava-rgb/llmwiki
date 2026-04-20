@@ -1,0 +1,3 @@
+[submodule "llm-wiki-compiler"]
+	path = llm-wiki-compiler
+	url = https://github.com/ussumant/llm-wiki-compiler.git

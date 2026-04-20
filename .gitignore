@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and local credentials
+.env
+.env.*
+*.env
+!*.env.example
+!.env.example
+reader/.env
+reader/.env.*
+!reader/.env.example
+.claude/settings.local.json
+
+# Local run outputs
+logs/
+tmp/
+
+# Generated wiki state; compiled markdown remains tracked when this folder is versioned.
+sources/articles/wiki/.compile-state.json

@@ -1,0 +1,36 @@
+---
+topic: Snowflake and Data Architecture
+last_compiled: 2026-04-16
+sources_count: 2
+---
+
+# Snowflake and Data Architecture
+
+## Summary [coverage: medium -- 2 sources]
+Snowflake offers seven distinct database types — Standard (Permanent), Transient, Temporary, Shared, Secondary, Application, and Iceberg/Catalog-Linked — each encoding a different set of trade-offs around cost, durability, access topology, and engine compatibility. Most data engineers and architects default to two or three of these types and incur unnecessary storage costs, recovery gaps, or architectural lock-in as a result. A complementary practical example of Snowflake's application layer is illustrated by a Streamlit app built for a Snowflake hackathon (April 2026): "The Engagement Gap," which queries `HACKATHON.DATA.ENGAGEMENT_LOGS` via Snowpark to surface team engagement rankings, trend comparisons between top and bottom teams, a top-10 user leaderboard, and category-level engagement breakdowns — demonstrating how Snowflake's Native Apps and Streamlit-in-Snowflake layer bring analytical applications directly into the data platform.
+
+## Key Thesis [coverage: medium -- 2 sources]
+Choosing a Snowflake database type is an architectural decision with real consequences — not a cosmetic configuration. The type selected determines who can access data, how long it survives accidental loss, which compute engines can query it, and what the organization pays for those guarantees. Snowflake's 2025–2026 additions (Iceberg/Open Catalog, Hybrid Tables, Native Apps) represent a platform-level bet on collapsing the traditional boundaries between data lakes, operational databases, and SaaS application distribution — all within a single account topology.
+
+## Key Insights [coverage: medium -- 2 sources]
+- **Seven types, four decision dimensions.** The architect's decision tree covers: (1) does the data need to survive accidental loss? → Standard vs. Transient/Temporary; (2) who needs access? → Shared (partners), Secondary (DR/regional), Application (Native Apps); (3) does it need non-Snowflake engines? → Iceberg + External Catalog; (4) does it have OLTP access patterns? → Hybrid Tables. Most production mistakes stem from not asking these questions upfront.
+- **Standard vs. Transient is a cost and recoverability trade-off, not a preference.** Standard databases retain Time Travel up to 90 days and Fail-safe for 7 additional days after expiry. Transient databases cap Time Travel at 1 day with no Fail-safe. A 1 TB table with heavy DML over 90 days can cost 3–5x its current footprint in storage under Standard settings. Transient databases cannot contain permanent tables — inheritance flows downward. The most common production mistake is mixing transient staging tables into permanent production lineage: the pipeline is only as recoverable as its weakest link.
+- **Shared databases eliminate an entire class of synchronisation problems.** Zero-copy data sharing means the provider stores data once, the consumer pays only for query compute, and updates are visible to the consumer instantly — no ETL, no sync lag, no copy to go stale. The trade-off: shared objects must be treated as a public API contract; schema changes break consumer queries immediately, requiring versioning and deprecation windows.
+- **Secondary databases are the actual DR strategy; Time Travel is not.** Time Travel and Fail-safe protect against accidental deletion within the same region. A regional AWS outage is not covered. Secondary databases — ideally managed via Replication Groups, which replicate databases, roles, warehouses, and resource monitors as a consistent unit — are the appropriate mechanism for active-passive DR with a defined RPO.
+- **Iceberg and Hybrid Tables represent Snowflake's convergence play.** Snowflake-managed Iceberg tables write Parquet to object storage (S3/GCS/ADLS) with Snowflake owning the metadata catalog, enabling full DML while keeping data portable. Catalog-Linked databases (via Snowflake Open Catalog / Polaris, AWS Glue, Nessie) allow Spark, Flink, Trino, and Snowflake to share the same Iceberg tables via a common REST catalog — a true multi-engine lakehouse without data duplication. Hybrid Tables add a row-store engine with primary key enforcement, unique constraints, foreign keys, and secondary indexes inside a standard Snowflake account, enabling millisecond point lookups and OLTP writes that JOIN cleanly with columnar analytical tables.
+- **Streamlit-in-Snowflake as a practical application layer.** The hackathon app "The Engagement Gap" demonstrates the Native Apps pattern: Snowpark's `get_active_session()` provides a direct database connection without external credentials, Streamlit renders the UI within the Snowflake environment, and the app queries `HACKATHON.DATA.ENGAGEMENT_LOGS` to produce org-unit-filtered team rankings, week-over-week trend comparisons between top and bottom teams, a per-user session leaderboard, and engagement breakdowns by category — all without data leaving the Snowflake account.
+
+## Industry Context [coverage: medium -- 2 sources]
+The seven-database taxonomy article was published April 8, 2026 by Vedprakash on Medium's Snowflake channel, targeting architects and senior data engineers. The broader industry context is Snowflake's strategic response to the open lakehouse movement led by Apache Iceberg and the Databricks-Snowflake competitive dynamic: Snowflake Open Catalog (Project Polaris) is an open-source implementation of the Apache Iceberg REST Catalog spec, positioning Snowflake as interoperable with the broader multi-engine ecosystem rather than a proprietary silo. Hybrid Tables (Unistore) respond to the persistent gap between OLTP and OLAP systems that has driven dual-database architectures in operational analytics. The hackathon app context (April 2026, Snowflake Education Services account `sfeducationservices7`) reflects Snowflake's push to make the platform the deployment target for data applications, not just a query engine.
+
+## Implications [coverage: medium -- 2 sources]
+- Audit existing architectures for the "Standard everywhere out of habit" mistake: staging, scratch, and dev databases are strong candidates for Transient classification with meaningful storage cost reductions at scale.
+- Never place permanent production tables downstream of transient staging tables in the same pipeline lineage — the recovery chain is broken at the transient link.
+- Design Shared database schemas as public API contracts from day one: add versioning, communicate schema changes with deprecation windows, and treat schema stability as a first-class SLA.
+- Build Replication Groups — not just database-level replication — for true DR: replicate roles, warehouses, and resource monitors as a consistent unit alongside databases.
+- Plan Iceberg compaction and snapshot expiry automation before deploying externally-catalogued tables in production: without it, query planning slows progressively as the metadata tree grows.
+- Consider Streamlit-in-Snowflake (Native Apps Framework) for internal analytics tooling that must operate on sensitive data without it leaving the Snowflake perimeter.
+
+## Sources [coverage: high -- 2 sources]
+[[../../snowflake-has-7-types-of-databases-most-architects-only-know-2]]
+[[../../learner-2026-04-09-806pm]]
