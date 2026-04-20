@@ -26,6 +26,8 @@ Actions completed:
 - Added `README.md` for the public GitHub repository.
 - Added `.gitmodules` so `llm-wiki-compiler/` is tracked as an upstream
   submodule.
+- Configured the compiler submodule to ignore untracked local files so root
+  status stays clean.
 - Initialized root Git repository and added remote
   `https://github.com/gaurava-rgb/llmwiki.git`.
 - Staged baseline files for the first commit. Ignored files include `.env`,
