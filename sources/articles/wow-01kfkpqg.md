@@ -1,7 +1,7 @@
 ---
 title: "Wow"
 reader_id: "01kfkpqgncjkr0zzambpj1etdy"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810c-af09-f821be3db35a"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpqgncjkr0zzambpj1etdy"
@@ -13,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-22"
 reading_time: "1 min"
 summary: "Researchers at the University of Michigan collected over 1.1 million podcast transcripts. They studied the content and structure of English podcasts. Their work helps us understand the podcast ecosystem better."
-content_hash: "f370e5e19ba832b5e454a351947f6501f6526976e85d6e452c4bc9544114b4c3"
+content_hash: "eeac8ce79bd4e72b37ec84c55d3f998bb031ab416ca6ee4dd46cd9d72e99b10b"
 ---
 
 Wow.

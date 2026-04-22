@@ -1,7 +1,7 @@
 ---
 title: "Gumroad’s test suite of 16,000 tests has been flaky for..."
 reader_id: "01kmr4r0rmq1h9t2dch5jy0xs3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8106-b812-dc733fdd9eef"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmr4r0rmq1h9t2dch5jy0xs3"
@@ -13,7 +13,7 @@ published: "2026-03-27"
 saved_at: "2026-03-27"
 reading_time: "3 mins"
 summary: "Gumroad’s large test suite was flaky and slowed down work for years. A new AI tool named Gumclaw fixed many flaky tests automatically overnight. This tool is open source and helps teams save time by handling repetitive test debugging."
-content_hash: "f6f1c977e9245ccfac585376372aeaf0c949e0319040004745745a5edcf23c0f"
+content_hash: "35876907504c6b5f02180759420621f079b675695f71944e212c50032af93ac0"
 ---
 
 Gumroad’s test suite of 16,000 tests has been flaky for years. This slowed down shipping tremendously.

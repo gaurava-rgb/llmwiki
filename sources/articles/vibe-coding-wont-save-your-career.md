@@ -1,7 +1,7 @@
 ---
 title: "Vibe coding won't save your career"
 reader_id: "01k51y9b4drsw40hscw1dwvfwv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819b-8f73-f20ec54ebc9d"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k51y9b4drsw40hscw1dwvfwv"
@@ -13,7 +13,7 @@ published: "2025-09-13"
 saved_at: "2025-09-13"
 reading_time: "2 mins"
 summary: "Vibe coding won't save your career.  \nTo control AI you must learn engineering and system design.  \nUse the free guides and hands-on projects listed, and practice with tools like Supabase, Pinecone, Clerk, and Netlify."
-content_hash: "3789ff7885795149b487dd65d9454fc356d59be9d69b424ab4eaacedbb0835b3"
+content_hash: "e43ef4b779fc5a923e96cc5840c24c2a945d8946f824d50b0073818547e8da61"
 ---
 
 Vibe coding won't save your career.

@@ -1,7 +1,7 @@
 ---
 title: "'I can't decide my niche'"
 reader_id: "01kj89y7n4thqh9k655svsm230"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8185-8146-e63973c887e2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89y7n4thqh9k655svsm230"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "2 mins"
 summary: "Don't wait to find a niche like a lottery ticket; instead, create your own unique angle. Crowded niches show demand, so stand out by offering something different within them. Success comes from making content that keeps people coming back, not just from being good or chasing trends."
-content_hash: "b1deb5e3bdad7939f4f53f0897311831be26eb4ca65d3047cc036d1faa2960fa"
+content_hash: "bbb269fe82d45d1f688279b548f5cf3d898dd171bf45958e9409bd387ff50915"
 ---
 
 'I can't decide my niche'

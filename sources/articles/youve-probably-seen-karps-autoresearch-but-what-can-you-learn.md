@@ -1,7 +1,7 @@
 ---
 title: "you've probably seen karps autoresearch but what can you learn..."
 reader_id: "01kkskxaf38gkdmgdebzxkpz6m"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8169-a2cc-cc538d9ef43d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkskxaf38gkdmgdebzxkpz6m"
@@ -13,7 +13,7 @@ published: "2026-03-15"
 saved_at: "2026-03-15"
 reading_time: "7 mins"
 summary: "Karpathy's Autoresearch is a simple AI system that improves training code by making small changes and keeping only helpful ones. It works well because it has clear rules, limited scope, and checks results carefully within a fixed time. This shows that strict limits and good design make autonomous AI more reliable and useful than giving agents too much freedom."
-content_hash: "bce030b02e9a3b38461cad66c4afe56db545528eb686833b3e50d543ca11820f"
+content_hash: "13a307e4305fbdd67de24ed62230b3f125c27437f0ec937697782e5985f2fdd1"
 ---
 
 you've probably seen karps autoresearch but what can you learn from it?

@@ -1,7 +1,7 @@
 ---
 title: "I create/invented a new SKILL for leading Claude Code through..."
 reader_id: "01kjv339548aj87a2gg7syd597"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8174-92b0-d7085be6b9b7"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv339548aj87a2gg7syd597"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "I create/invented a new SKILL for leading Claude Code through a structured Hegelian dialectic like process for doing deep investigation of topics. I've spent 40+ hours using it over the past 10 days — super addicting.\n\nIt's as transformative for me as the original Deep Research."
-content_hash: "063f3b7048390257a1b09c2754660bf5392b5fd6450deebd8bdcdcaa1dc43b8d"
+content_hash: "72883a20c585d82b00c7d47c5f593e8118879cdbaeb7c7092035acaf2d8f7c29"
 ---
 
 I create/invented a new SKILL for leading Claude Code through a structured Hegelian dialectic like process for doing deep investigation of topics. I've spent 40+ hours using it over the past 10 days — super addicting.

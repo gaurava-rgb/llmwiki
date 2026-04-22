@@ -1,7 +1,7 @@
 ---
 title: "The backstory on Superpowers is wild"
 reader_id: "01km13ap99jmpe1270actp5xhr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8169-9826-c17180f16098"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km13ap99jmpe1270actp5xhr"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "2 mins"
 summary: "Jesse Vincent created Superpowers, a system that helps AI coding agents work carefully and follow strict steps. It stops the AI from guessing, makes detailed plans, enforces testing, and produces reliable code. Superpowers quickly gained huge popularity because it solves the main problem in AI coding: lack of discipline."
-content_hash: "e725efcbb4f23e2aafb2891811f9fdfd2106437bf0be460ddea8ebd9fa44405f"
+content_hash: "58fb5088626459d1f64581f282cea4fbf92cb4b4e885c32e6c4e72d6d3eabbab"
 ---
 
 The backstory on Superpowers is wild.

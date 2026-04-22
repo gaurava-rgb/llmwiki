@@ -1,7 +1,7 @@
 ---
 title: "Holy shit… Your anonymous internet identity can now be unmasked..."
 reader_id: "01kjcyfnevg6xhx4dp6nbqnavv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8106-a192-cd282fc8cc4b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjcyfnevg6xhx4dp6nbqnavv"
@@ -13,7 +13,7 @@ published: "2026-02-26"
 saved_at: "2026-02-26"
 reading_time: "2 mins"
 summary: "New research shows that AI can reveal the real identities behind anonymous internet posts with high accuracy and low cost. This method works automatically, using tools like ChatGPT to link users to their online profiles. As AI gets better, staying truly anonymous online is becoming nearly impossible."
-content_hash: "013a84961055d52715082c18c0edb42b41cee5e5dcae7d8236639d9452b9fe15"
+content_hash: "0668baf1b1f1510182a8b58c9a649071085b4b1df75eb1012f5a453cd89d8a2b"
 ---
 
 Holy shit… Your anonymous internet identity can now be unmasked for $1 😳

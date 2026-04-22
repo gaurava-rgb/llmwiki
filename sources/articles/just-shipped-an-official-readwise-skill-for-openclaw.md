@@ -1,7 +1,7 @@
 ---
 title: "just shipped an official readwise skill for openclaw"
 reader_id: "01kmr4v1kjvrky1ha17j0hv7vv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817d-91fd-cf9aaabb3029"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmr4v1kjvrky1ha17j0hv7vv"
@@ -13,7 +13,7 @@ published: "2026-03-27"
 saved_at: "2026-03-27"
 reading_time: "1 min"
 summary: "just shipped an official readwise skill for openclaw.\n\nreadwise/reader are a surprisingly good drop in second brain for these things. just connect and it knows everything you've ever read or saved!"
-content_hash: "f7965ca84a8e5d75c8b0f05bdd6f607bfd5ce7deae9d1c17fb41623c9dfdc002"
+content_hash: "55d3ebaad6d9a857044a1a96aed9f3a330fe5110e0e190b2143088b917cd2189"
 ---
 
 just shipped an official readwise skill for openclaw.

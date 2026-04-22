@@ -1,7 +1,7 @@
 ---
 title: "/plan-ceo-review and /plan-eng-review skills basically gets you 90% of the..."
 reader_id: "01km1ep6d9qxvmkvg2jkxvwjhj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8122-81b9-f6bc50f260da"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1ep6d9qxvmkvg2jkxvwjhj"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "/plan-ceo-review and /plan-eng-review skills basically gets you 90% of the way to done most of the time\n\nthe secret in plan-eng-review is that you can always ask for a diagram, and the act of creating the diagram (user flow, data flow, branching, edge cases) shakes out the bugs"
-content_hash: "a4df6e738af6df503a352e7cbc026ee9721b47d32c29aa41b8f6064105ab9560"
+content_hash: "f469934e5d09339f34a69c6e13509eed4d975ad6d382d6925f5a0ac77e1ae446"
 ---
 
 /plan-ceo-review and /plan-eng-review skills basically gets you 90% of the way to done most of the time

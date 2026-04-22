@@ -1,7 +1,7 @@
 ---
 title: "We just open-sourced Paperclip: the orchestration layer for zero-human companies"
 reader_id: "01kjxq71447v58pt3sfmjxx6kf"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b4-961f-e89c37047c05"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjxq71447v58pt3sfmjxx6kf"
@@ -13,7 +13,7 @@ published: "2026-03-04"
 saved_at: "2026-03-05"
 reading_time: "1 min"
 summary: "Paperclip is a new open-source tool to run fully autonomous businesses without human management. It helps organize tasks, goals, and agents working 24/7 with clear coordination and tracking. Anyone can try it easily by running a simple command to start managing their own zero-human company."
-content_hash: "2aea044181deeaad10d6e8406c6895d5eaaacb769f584edf3f20e421e783e4bd"
+content_hash: "297d46876b1b7be12d6f89104d73b08ac73b75952ce230316b0a4e115e697783"
 ---
 
 We just open-sourced Paperclip: the orchestration layer for zero-human companies

@@ -1,7 +1,7 @@
 ---
 title: "Zero human company install using Paperclip and Claude"
 reader_id: "01km131r6kbd1s9k1hzpyszmqz"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818d-8c81-c42586ef8a73"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km131r6kbd1s9k1hzpyszmqz"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "4 mins"
 summary: "Paperclip is a free tool that organizes AI coding agents into a virtual company with roles, budgets, and goals. It helps users manage many agents easily and prevents losing work or overspending. You can set it up quickly and control everything from one dashboard on your computer or phone."
-content_hash: "aeca556dbdc55b7f9ca109be51ef167c076caf01e71234873a4470f6fc4e0a3a"
+content_hash: "999eba66eac70a45ae0e941733e7d780c12f53af87b8e080e4c02efd1a44dbbb"
 ---
 
 Zero human company install using Paperclip and Claude

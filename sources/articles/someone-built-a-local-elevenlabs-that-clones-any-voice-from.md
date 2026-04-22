@@ -1,7 +1,7 @@
 ---
 title: "someone built a LOCAL ELEVENLABS that clones ANY voice from..."
 reader_id: "01kj06eptbnx89xn1vnbd2q87g"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a6-83c9-c3c10a64c8b2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj06eptbnx89xn1vnbd2q87g"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Voicebox is a free tool that clones any voice from just 3 seconds of audio and works entirely on your laptop. It creates natural, human-like speech in 10 languages without using the cloud or subscriptions. You can edit and produce podcasts with multiple cloned voices while keeping all your data private."
-content_hash: "313e4deb16314881b3ba79154ba43625e718cb780813e260240413ab6a62060a"
+content_hash: "b10fa87d5176e4609accbf8d2cf89d7d6b7aa8b8054363ec3ffcd8c8e9e8f176"
 ---
 
 someone built a LOCAL ELEVENLABS that clones ANY voice from 3 seconds of audio and generates speech in 10 languages

@@ -1,7 +1,7 @@
 ---
 title: "Once again, Anthropic is proving that they are by far..."
 reader_id: "01kfe9h9s226dv5ec2b531e0yw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e2-8d71-d85f46c3f744"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9h9s226dv5ec2b531e0yw"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "Anthropic is seen as a very dangerous company in AI. People using Claude may unknowingly support harmful goals. The author warns against funding Anthropic because they pose a big threat."
-content_hash: "1cff5d513953299b1217a4d1af1ce331e71be16934cf471efd8629fae725553c"
+content_hash: "dceb67fc86c8a345c2ccf64aa8d9da606e5dee19b974171660a955fa3ccb218f"
 ---
 
 Once again, Anthropic is proving that they are by far the most detrimental and dangerous company in this AI space.

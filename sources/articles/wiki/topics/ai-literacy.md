@@ -1,33 +1,33 @@
 ---
 topic: AI Literacy
-last_compiled: 2026-04-16
-sources_count: 1
+last_compiled: 2026-04-22
+sources_count: 5
 ---
 
 # AI Literacy
 
-## Summary [coverage: low -- 1 source]
-Written by Shreyas Naphad and published April 6, 2026 in Towards AI, this article argues that understanding five specific technical concepts — tokens, context window, temperature, hallucination, and RAG — separates people who vaguely use AI from people who use it effectively. The piece is deliberately non-technical: no code, no engineering prerequisites, and each concept is explained through everyday analogy. The target audience is anyone in tech, business, or education who interacts with AI tools and wants to move beyond surface-level usage.
+## Summary [coverage: medium -- 5 sources]
+This topic covers the practical vocabulary and mental models people need to work sensibly with modern AI systems. The relevant sources do not treat literacy as knowing definitions in isolation; they frame it as understanding the stack of models, apps, harnesses, limits, and trade-offs that determine what a system can actually do for you. This rebuild groups 5 sources into this topic. Representative sources include "Nvidia at CES, Vera Rubin and AI-Native Storage Infrastructure, Alpamayo", "I just processed 140,400,000 tokens in 48 hours", and "If You Understand These 5 AI Terms, You’re Ahead of 90% of People".
 
-## Key Thesis [coverage: low -- 1 source]
-AI literacy does not require engineering skills — it requires understanding a small set of foundational concepts deeply enough to apply them. Knowing these five terms changes how people write prompts, interpret AI behavior, evaluate AI products, and assess AI claims. The gap between vague AI users and informed AI users will compound in value over the next few years, making this conceptual layer increasingly consequential regardless of role.
+## Key Thesis [coverage: medium -- 5 sources]
+AI literacy now means operational judgment: choosing the right model-plus-app-plus-harness combination and recognizing where the limits are likely to bite.
 
-## Key Insights [coverage: low -- 1 source]
-- **Tokens are the atoms of AI language.** AI models do not read words or letters — they read tokens, which are chunks of text (sometimes a full word like "cat," sometimes a fragment like "un" or "tion," sometimes punctuation). Every product — ChatGPT, Claude, Gemini — counts tokens behind the scenes. API pricing is denominated in tokens per thousand. Understanding tokens explains why some prompts work better than others and why long conversations degrade.
-- **Context window is the AI's working memory.** The context window is the total amount of text, measured in tokens, that a model can see and consider at once — including instructions, conversation history, shared documents, and the model's own prior replies. It functions like a whiteboard: when full, something old must be erased to write something new. Claude's 200,000-token context window and Gemini's push toward 1 million tokens are meaningful precisely because window size determines what tasks are possible, not just how fast they run. Forgetting earlier parts of a conversation is not a bug — it is the whiteboard running out of space.
-- **Temperature controls creativity vs. precision.** Temperature is the setting that determines how random or predictable AI output will be. Low temperature (near 0) produces consistent, safe, expected responses — appropriate for summarization, coding, and data extraction. High temperature (near 1 or beyond) produces surprising, creative, risk-taking responses — appropriate for fiction, brainstorming, and marketing copy. Most consumer apps set a middle-ground default and hide this dial; developer APIs expose it directly.
-- **Hallucination is a structural feature, not a flaw to be patched.** AI language models are not databases — they predict the next most likely token based on patterns learned during training. When a model does not know something, it does not say so; it generates what sounds like a correct answer because that is what it was trained to do. The danger is not that AI makes mistakes but that it makes mistakes with identical confidence to when it is correct. The practical rule: never trust AI for facts, statistics, medical advice, or legal information without independent verification. Understanding hallucination does not mean stopping AI use — it means using it as a starting point, not an endpoint.
-- **RAG is the backbone of almost every useful AI product.** Retrieval-Augmented Generation solves the problem that a base model knows nothing about proprietary documents, internal policies, or recent events. When a user uploads a document, a RAG system breaks it into chunks, stores them in a vector database (which understands meaning rather than keywords), retrieves the most relevant chunks for a given query, and feeds them to the model as context alongside the question. Customer support bots that know company policies, legal document assistants, research paper summarizers — all RAG. Knowing this reframes what it means when an AI "knows your data": the model itself has not learned anything new; the context just changed.
+## Key Insights [coverage: medium -- 5 sources]
+- Basic terms matter because model behavior now depends heavily on the environment around the model.
+- The gap between free and paid tiers remains a repeated practical warning in the sources.
+- Good AI literacy is less about hype fluency than about knowing when to trust, when to verify, and when to change tools.
 
-## Industry Context [coverage: low -- 1 source]
-This article was published during a period of rapid enterprise AI adoption in 2026, when the gap between AI enthusiasts and AI-informed practitioners is becoming economically visible. The five concepts covered — tokens, context windows, temperature, hallucination, RAG — map directly to the design constraints that shape every AI product on the market. As AI tooling moves deeper into business workflows, the ability to evaluate AI behavior (why is it forgetting? why is it confident but wrong? how does it know my documents?) becomes a practical work skill, not a specialist concern. The framing of "top 10%" is aspirational shorthand for a real and growing divide between users who can reason about AI behavior and those who cannot.
+## Industry Context [coverage: medium -- 5 sources]
+As the corpus broadens into agents, coding tools, and research apps, the old chatbot-only frame becomes inadequate. Literacy is the minimum layer needed to make the rest of the wiki coherent.
 
-## Implications [coverage: low -- 1 source]
-- **Prompt quality improves with token awareness.** Knowing that models process tokens — not words — helps writers craft more efficient prompts, understand why long inputs cost more, and anticipate where context pressure will cause degradation.
-- **Context window management is a practical skill.** For any task involving long documents, extended conversations, or multi-step analysis, knowing the whiteboard will eventually fill means proactively structuring inputs: summarizing earlier stages, chunking work, and not expecting the model to track a 10,000-token conversation from start to finish.
-- **Temperature selection should match task type.** Using default middle-ground temperature for coding (should be low) or for creative writing (should be higher) produces suboptimal results. Any practitioner with API access should be deliberate about this setting.
-- **Verification is non-negotiable for consequential outputs.** Hallucination is not a temporary bug that future models will eliminate — it is structural to how language models work. Anyone using AI for legal, medical, statistical, or factual claims must build verification into their workflow, not treat AI output as a citation.
-- **Evaluating AI products requires understanding RAG.** When assessing whether to adopt a vendor's AI assistant, knowing that "it knows your data" means a search-and-inject pipeline — not genuine learning — changes the questions to ask: What is the chunking strategy? How is the vector database maintained? What happens when retrieved chunks are stale or irrelevant?
+## Implications [coverage: medium -- 5 sources]
+- Teach teams the workflow primitives, not just brand names.
+- Use literacy as a filter for tool selection and expectation-setting.
+- People who understand harnesses and limits waste less time on the wrong use cases.
 
-## Sources [coverage: low -- 1 source]
+## Sources [coverage: high -- 5 sources]
+- [[../../nvidia-at-ces-vera-rubin-and-ai-native-storage-infrastructure-alpamayo]]
+- [[../../i-just-processed-140400000-tokens-in-48-hours-01khy3na]]
+- [[../../i-just-processed-140400000-tokens-in-48-hours]]
+- [[../../ai-literacy-a-key-piece-of-an-executives-skill-set]]
 - [[../../if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people]]

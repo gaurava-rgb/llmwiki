@@ -1,7 +1,7 @@
 ---
 title: "How DoorDash uses AI Models to Understand Restaurant Menus"
 reader_id: "01k4t7smgn4ke41b0njjm7zsrb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ea-a392-daadc1ed4bf1"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k4t7smgn4ke41b0njjm7zsrb"
@@ -13,7 +13,7 @@ published: "2025-09-10"
 saved_at: "2025-09-10"
 reading_time: "8 mins"
 summary: "DoorDash uses OCR, large language models, and multimodal models to turn menu photos into structured digital menus.  \nA guardrail model checks image quality, OCR output, and LLM results to decide whether to publish automatically or route to a human.  \nThe hybrid system boosts automation while keeping accuracy and can improve with fine-tuning and better photo preprocessing."
-content_hash: "0d30bb64f6592dc9d85400164009072d120da15bddb0ed4c06d180faa5d12613"
+content_hash: "cc7b77d8598a68efbde90e98598c9aaac60fea68f0e7f341a926d91937cf93a0"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9ibG9nLmJ5dGVieXRlZ28uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0zOGp3diZuZXh0PWh0dHBzJTNBJTJGJTJGYmxvZy5ieXRlYnl0ZWdvLmNvbSUyRnAlMkZob3ctZG9vcmRhc2gtdXNlcy1haS1tb2RlbHMtdG8tdW5kZXJzdGFuZCIsInAiOjE3Mjg4OTk5MSwicyI6ODE3MTMyLCJmIjp0cnVlLCJ1Ijo1NDM3OTAzLCJpYXQiOjE3NTc1MTg3MDcsImV4cCI6MjA3MzA5NDcwNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.EQnm-4Ofk4_OSMw0cWlnSCTtJumTTYBkzzPbe5CZIAE?>) for more

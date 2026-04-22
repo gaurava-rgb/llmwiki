@@ -1,7 +1,7 @@
 ---
 title: "The Shape of AI: Jaggedness, Bottlenecks and Salients"
 reader_id: "01kcydcvcgp10dndtdjf76605v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810b-a9af-c1e4e6079460"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kcydcvcgp10dndtdjf76605v"
@@ -13,7 +13,7 @@ published: "2025-12-20"
 saved_at: "2025-12-20"
 reading_time: "8 mins"
 summary: "AI abilities are jagged: very strong on some tasks and weak on others. These weaknesses create bottlenecks that stop full automation until a key problem (a reverse salient) is fixed. When a bottleneck breaks, like better image generation with Nano Banana Pro, many tasks suddenly become much easier."
-content_hash: "aa950c29dd37cf01187c4db0d8ba3fae9ec9d2252f128603d32cffa2af7c7587"
+content_hash: "d4c3cef8c8b7e839c969623e35d522f80ed847f881f29e41d12c8d53f3d26864"
 ---
 
 ###  And why Nano Banana Pro is such a big deal

@@ -1,7 +1,7 @@
 ---
 title: "These 8 n8n automations can replace your entire marketing team"
 reader_id: "01jxyzxj69er89e3997zh3fxah"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8115-875b-ddda33ba6698"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01jxyzxj69er89e3997zh3fxah"
@@ -13,7 +13,7 @@ published: "2025-06-16"
 saved_at: "2025-06-17"
 reading_time: "2 mins"
 summary: "The article highlights eight n8n automations that can effectively replace a marketing team by handling tasks like creative testing and reporting. These tools work continuously and are designed for businesses seeking efficiency without high costs. The author shares links to free resources for each automation, making it easy for others to use them."
-content_hash: "6808900a453efefcdf2e58c177b5f3fa4ae4b5710de63563bc1d7ba67b2c79b7"
+content_hash: "7351857513b7a0eb250b06c01b62ead18d057a8978c998d3374d8f4e67aa9f2b"
 ---
 
 These 8 n8n automations can replace your entire marketing team. They handle creative testing, research, copy, reporting - and run 24/7 without asking for a raise.

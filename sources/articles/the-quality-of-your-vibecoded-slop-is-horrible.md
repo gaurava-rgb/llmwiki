@@ -1,7 +1,7 @@
 ---
 title: "The quality of your vibecoded slop is horrible"
 reader_id: "01kpa3hfshx8wnfh36ska7exry"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c2-9826-ed6c7a97def6"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpa3hfshx8wnfh36ska7exry"
@@ -13,7 +13,7 @@ published: "2026-04-15"
 saved_at: "2026-04-16"
 reading_time: "2 mins"
 summary: "The current code quality is very poor and needs major improvement. The author suggests using eight specialized subagents to clean, simplify, and strengthen the codebase. Each subagent will research, assess, and fix specific issues like duplication, weak types, unused code, and unclear comments."
-content_hash: "2df7af5a233abf662378e0efc4d6c8ae8f6837187e27580e0ef26f98f5f94945"
+content_hash: "7729ca183260339303724446f00bc9b1e205b956989308b0eb20701c66a558aa"
 ---
 
 The quality of your vibecoded slop is horrible. I've seen it. Absolute dogshit.

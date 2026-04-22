@@ -1,7 +1,7 @@
 ---
 title: "Pretty cool"
 reader_id: "01kevv4s6x1dtdn6a1mjkftycq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814d-9aaf-c4f64da1e9cf"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevv4s6x1dtdn6a1mjkftycq"
@@ -13,7 +13,7 @@ published: "2026-01-12"
 saved_at: "2026-01-13"
 reading_time: "1 min"
 summary: "You can watch free live TV channels worldwide using the VLC app. Just open VLC, go to network stream, and paste the provided .m3u link. If the video lags, increase the caching level in VLC settings."
-content_hash: "d7989477db6c8a9912d0fd6f2dc4d2c64d347e33768a97145ab6f4849e9ae2cd"
+content_hash: "95e3efc5504910c7ab0ae9634285aa85c6b9f66721e2be6c138910fde3f59760"
 ---
 
 Pretty cool

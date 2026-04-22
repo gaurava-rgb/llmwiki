@@ -1,7 +1,7 @@
 ---
 title: "MCP sucks honestly"
 reader_id: "01kkh4nm8wkm99p9e5eyn02hrg"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8154-a69b-d5ce2f6f47b1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkh4nm8wkm99p9e5eyn02hrg"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-12"
 reading_time: "1 min"
 summary: "The author finds MCP frustrating because it uses too much context and has poor authentication. They built a better CLI tool quickly but later learned Vercel had already made one. Perplexity is moving away from MCPs to use APIs and CLIs instead."
-content_hash: "b41cf84e00eaf55ea6aa554c795893ec0111647ca5a64f9b914153c29e1e7783"
+content_hash: "c64fa5b4d45e06d5f7951b5d714e4f4493dd99e5831d5f1d0eb0f1144fed438c"
 ---
 
 MCP sucks honestly

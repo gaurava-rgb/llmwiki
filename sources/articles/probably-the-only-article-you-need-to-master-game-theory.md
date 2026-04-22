@@ -1,7 +1,7 @@
 ---
 title: "Probably the only article you need to master “game theory”"
 reader_id: "01kj89x2f800awkmtcetdaec1h"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817c-94b0-e7154d0a8259"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89x2f800awkmtcetdaec1h"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "21 mins"
 summary: "Game theory is the math of smart decision-making, and mastering it means learning from many expert sources, not just one book. Using AI tools carefully helps you combine these ideas into a personalized learning system made just for how you learn best. This method works for game theory and can help you deeply understand any complex subject you want."
-content_hash: "5c47fdff5b5223e28f245c232c0f3bafe6cb4e1d8f6b869dcd8ae915e4b1e1e3"
+content_hash: "a5ee88c001064b917ba1bc13d1e2661572f097379e05b91ea945ba0542c10b7a"
 ---
 
 Probably the only article you need to master “game theory”.

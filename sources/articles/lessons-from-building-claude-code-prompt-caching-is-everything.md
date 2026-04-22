@@ -1,7 +1,7 @@
 ---
 title: "Lessons from Building Claude Code: Prompt Caching Is Everything "
 reader_id: "01khy3p5g7ct2y2618j2tgs3r2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81cc-8447-eaf145c19931"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khy3p5g7ct2y2618j2tgs3r2"
@@ -13,7 +13,7 @@ published: "2026-02-19"
 saved_at: "2026-02-20"
 reading_time: "5 mins"
 summary: "Prompt caching is crucial for making agent products like Claude Code faster and cheaper by reusing previous computations. To keep caches effective, avoid changing tools, models, or system prompts mid-conversation and instead use system messages for updates. Designing your system around prompt caching rules helps reduce costs, improve speed, and maintain stability."
-content_hash: "d387f1d2d41926efedd88cfec81ced0aa988096d255d09ab76d31082fa7c893a"
+content_hash: "dff85722a6d81601c88f7c453951d630c53c33de3543970576f570d5728abce6"
 ---
 
 ![Lessons from Building Claude Code: Prompt Caching Is Everything ](https://pbs.twimg.com/media/HBixJgAbsAAM61V.jpg)

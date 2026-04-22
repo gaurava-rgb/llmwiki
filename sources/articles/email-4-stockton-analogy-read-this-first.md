@@ -1,7 +1,7 @@
 ---
 title: "Email 4 Stockton Analogy READ THIS FIRST"
 reader_id: "01k7zz96nqxk8tmdh02thwhr6c"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8170-9623-c0bef076fb74"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k7zz96nqxk8tmdh02thwhr6c"
@@ -13,7 +13,7 @@ published: "2025-10-15"
 saved_at: "2025-10-20"
 reading_time: "3 mins"
 summary: "Both crises show how fragile a trust-based financial system is when local losses spread. In 2008, mortgage defaults slowly toppled global markets through complex securities. In 2023, a fast digital bank run spread panic in hours and regulators moved quickly to stop it."
-content_hash: "67ac3c8dafb962d77f95230ac71b95283909253e3bffe6d6acf5211b97e70a1f"
+content_hash: "aab4a215d028bb2f6b87afc0e0faa878a77cde40558bd4cd812eac230885bdb3"
 ---
 
 #  From Stockton to Silicon Valley: The Anatomy of Contagion

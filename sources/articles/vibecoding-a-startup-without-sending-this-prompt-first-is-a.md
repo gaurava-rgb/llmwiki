@@ -1,7 +1,7 @@
 ---
 title: "Vibecoding a startup without sending this prompt first, is a..."
 reader_id: "01km139xv00asfyeswt3rp4w2x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8184-b255-edf44f012cc7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km139xv00asfyeswt3rp4w2x"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-18"
 reading_time: "8 mins"
 summary: "Ernesto Lopez shares how he built a successful app that made $20,000 in 30 days with no experience. He explains the key steps: find a real problem, validate your idea, build a simple app fast, and market it well using creators and ads. Apps can create passive income and have huge potential to make many millionaires in the coming years."
-content_hash: "5af885bbf00c23abc62bc66c8f3ef80a93e0c989ed005ee4270500f118e1e7b0"
+content_hash: "c829dcd3dc47ea20c591bf0ae7adff1e8b784d7c4183c5626e25c0e130f268ef"
 ---
 
 Vibecoding a startup without sending this prompt first, is a waste of time.

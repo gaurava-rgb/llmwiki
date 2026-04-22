@@ -1,7 +1,7 @@
 ---
 title: "I created the Mathematical Foundations sequence to help adult students..."
 reader_id: "01kkskxzwagrj1j7et2wvy7k0f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a1-8aec-c91d4ddd869c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkskxzwagrj1j7et2wvy7k0f"
@@ -13,7 +13,7 @@ published: "2026-03-14"
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "Alex Smith created the Mathematical Foundations sequence to help adult learners build essential math skills. The courses prepare students for advanced studies in physical sciences and machine learning. Two new courses in Mathematical Methods are now available for STEM students."
-content_hash: "2136427f08b96d012744fecb07d3388195efb7e886b2e5e57806a931af1673c2"
+content_hash: "8f803a88233318e347cd40027d26b7cd4b6708be3be0516a797a64538ff98d6a"
 ---
 
 I created the Mathematical Foundations sequence to help adult students acquire the prerequisite skills needed to study higher-level math courses.

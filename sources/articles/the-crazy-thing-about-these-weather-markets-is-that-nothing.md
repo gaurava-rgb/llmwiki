@@ -1,7 +1,7 @@
 ---
 title: "the crazy thing about these weather markets is that nothing..."
 reader_id: "01kkj8wd1ddw4ffc262n3eystf"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8104-84eb-c3ee4d55d415"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkj8wd1ddw4ffc262n3eystf"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-13"
 reading_time: "2 mins"
 summary: "A trader uses common weather data to find big mispricings in Polymarket bets. He treats temperatures as probabilities and places tiny bets that pay huge returns. Others can copy his simple, systematic strategy online."
-content_hash: "db2102cd23001de317d44e96eb24cc3534bf0dca6bead33c1792da4c399be767"
+content_hash: "10d05ef78dd81d76042f4d37278857f13c6368bd5cd88798be637d563c77b8c6"
 ---
 
 the crazy thing about these weather markets is that nothing he’s using is secret

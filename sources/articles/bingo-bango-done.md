@@ -1,7 +1,7 @@
 ---
 title: "bingo bango done"
 reader_id: "01kevtkkj1k4nre8v4tkvtgykz"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8102-8cc6-cbdc5e069d9c"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevtkkj1k4nre8v4tkvtgykz"
@@ -13,7 +13,7 @@ published: "2026-01-13"
 saved_at: "2026-01-13"
 reading_time: "1 min"
 summary: "Google Flights, Booking.com, and Skyscanner will end in 2026. A user saved a lot on a $1,412 flight by paying only $186. Seven ChatGPT prompts help find cheaper airline prices."
-content_hash: "14ec4281b3d6ba5bd8146ae41cab7e9ab71d3df45f20149795e9d47004df7739"
+content_hash: "d0f2278685d9c3ff17ed6e1bea710375aa3458c4a8091b785a0a236034ea93ef"
 ---
 
 bingo bango done

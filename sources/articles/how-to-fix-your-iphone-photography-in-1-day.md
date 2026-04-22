@@ -1,7 +1,7 @@
 ---
 title: "How to fix your iPhone Photography in 1 day"
 reader_id: "01kfkphy82e2pjcjvs4mhq64ew"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8181-aef6-c18d6de2386f"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkphy82e2pjcjvs4mhq64ew"
@@ -13,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-22"
 reading_time: "8 mins"
 summary: "Your iPhone camera has powerful settings that most people never use. Adjusting these settings can greatly improve your photos without extra skill. Spend 10 minutes to change them and see the difference immediately."
-content_hash: "3b6019ca522663805c3be1a79702a42ac6e7f6d8fd4b96f0eb2db0b3794c355c"
+content_hash: "614b1c4e5f4ef87d8d2988e7f3b2a6ec0e82c0413e48449e8c7de66e46a4cfaa"
 ---
 
 ![How to fix your iPhone Photography in 1 day](https://pbs.twimg.com/media/G_M1P1JXYAY5wjQ.jpg)## The Ultimate iPhone Photography Settings Guide

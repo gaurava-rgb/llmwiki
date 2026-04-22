@@ -1,7 +1,7 @@
 ---
 title: "This paper unlocks every algorithm used by hedge funds"
 reader_id: "01kfdteqs7whkqng4gc1c4cggx"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816c-bdb8-e89f11485b6c"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdteqs7whkqng4gc1c4cggx"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "This paper reveals 151 trading algorithms used by hedge funds. The author also offers a free course and a YouTube series on building a quantitative hedge fund in Python. Live workshops with Q&A are available every two weeks for deeper learning."
-content_hash: "9fadd41a719315ec74fde3a19066f99d837791797e658250c7eca0793db8bd6d"
+content_hash: "748127a651b064fe62468c3596326cbd0910e537ec301bb7aa7718c471c46585"
 ---
 
 This paper unlocks every algorithm used by hedge funds.

@@ -1,7 +1,7 @@
 ---
 title: "Claude Code costs $17/month and runs out in 2-4 tasks"
 reader_id: "01khbwc2qqb14zt8yc86xfsf5q"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8108-adbf-f113ff166313"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwc2qqb14zt8yc86xfsf5q"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-13"
 reading_time: "2 mins"
 summary: "Claude Code costs $17 a month but allows only 2-4 tasks before running out. You can use free alternatives like Aider with Nvidia models or hackathon credits to code without paying. Just avoid sharing sensitive data on free tools and pay only for critical projects."
-content_hash: "d8f95a42d11f7d1ac0d40d25d7c1fad91e0e7abb3c35e215d4318505d63e8a75"
+content_hash: "744981f23464df571097bed03e6ea2980c6c9425199a6667035764c36c9f6b27"
 ---
 
 Claude Code costs $17/month and runs out in 2-4 tasks. The $200/month plan? That's rent money.

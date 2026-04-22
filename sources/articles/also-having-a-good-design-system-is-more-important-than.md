@@ -1,7 +1,7 @@
 ---
 title: "also: having a good design system is more important than..."
 reader_id: "01kjjay6d6xk9rcbah2avgk4a9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819a-be14-fd4568d4cb29"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjjay6d6xk9rcbah2avgk4a9"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-02-28"
 reading_time: "1 min"
 summary: "Having a good design system makes building user interfaces much easier. It helps developers create beautiful and consistent components quickly. Learning the names of UI components can greatly improve frontend design."
-content_hash: "bfa970e1a0084dff892704e31dc7fde35ec9a5a45a23ebcfa49e98110489d043"
+content_hash: "f2fef2ced389e41127c7e9f6e3b4c957b56814e4c0d9674d6bb3339334c25f79"
 ---
 
 also: having a good design system is more important than ever

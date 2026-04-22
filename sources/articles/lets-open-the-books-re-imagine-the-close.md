@@ -1,7 +1,7 @@
 ---
 title: "Let's Open the Books & Re-imagine the Close"
 reader_id: "01k08e0125cckaj93ph38mb5ke"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b1-a5c4-cd428c6c5bde"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k08e0125cckaj93ph38mb5ke"
@@ -13,7 +13,7 @@ published: "2025-06-26"
 saved_at: "2025-07-16"
 reading_time: "11 mins"
 summary: "The traditional monthly accounting close is outdated and too slow for today’s fast business world. Finance teams need a continuous close model that provides real-time, decision-ready data daily. This new approach helps CFOs act quickly and keep control with clear, ongoing financial insights."
-content_hash: "78cf4eb28b9b43940eb50812e98c550ab4b3e78089c166bbd553943c6076e2ff"
+content_hash: "edcdf86c6ae8beecc420c464f925f211628810051e7116d8280cabfa70ecb905"
 ---
 
 You unlocked this paid post courtesy of [ Jim Cook ](<https://substack.com/@cookflix>) . Upgrade your subscription to continue receiving paid posts from [ Cook's PlayBooks ](<https://substack.com/redirect/90b64759-9931-4ba6-89e8-c1ec3a79fd92?j=eyJ1IjoiNXl0ZzJyIn0.ryEcDvh0H1BtqDzk2D3bFioTwOse_WJZzUlg16XYYOE>) .

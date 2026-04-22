@@ -1,7 +1,7 @@
 ---
 title: "Claude + Nano Banana is going to make multiple casino..."
 reader_id: "01khr9xmvk30pwqc2g5t1a9n21"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817d-b196-cf13b4c2a4a4"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khr9xmvk30pwqc2g5t1a9n21"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-18"
 reading_time: "2 mins"
 summary: "Claude and Nano Banana help casino affiliates create many ads quickly and cheaply. This new way lets them test 30 ads a day instead of just 3 per week. The fastest creators will make millions because they adapt and act faster than others."
-content_hash: "22af70c01c0905d3e20fd158165e57d6e28df3bacb7c4a4f6c3806d3ffbebc81"
+content_hash: "a852c535c0c176b4c6696575a6b88740ebd9c1508135128273c4aec5a83b5aea"
 ---
 
 Claude + Nano Banana is going to make multiple casino affiliates millionaires this year.

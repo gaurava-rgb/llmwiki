@@ -1,7 +1,7 @@
 ---
 title: "Taste"
 reader_id: "01jyx4p8wszpqaj886secvrev8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8139-a6b5-ea2f5080a438"
 category: "tweet"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4p8wszpqaj886secvrev8"
@@ -13,7 +13,7 @@ published: "2025-06-03"
 saved_at: "2025-06-29"
 reading_time: "9 mins"
 summary: "Taste is a crucial competitive advantage for founders, influencing every decision in product development. It goes beyond aesthetics, requiring hard choices and a deep understanding of user experience. Taste shapes a product's identity, guiding teams to make intentional decisions that resonate with users and set them apart in the market."
-content_hash: "decf0f3ed7fa0cd56d699bc5d70c738ab33955e1969a2930e4f05a32241755a7"
+content_hash: "1867e907a2263eef8555a78484b140dd1b2c571ef1318911cf2c5be1c4b69264"
 ---
 
 ![Taste](https://pbs.twimg.com/media/GsisyPSasAED9SC.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "🚨 Fair warning:"
 reader_id: "01kmnwm4k0ngr4rh0xm7j539qn"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f3-be63-d1d0a4287f82"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwm4k0ngr4rh0xm7j539qn"
@@ -13,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "18 mins"
 summary: "Most people rarely question their own thinking and remain stuck at certain mental levels without realizing it. The mind grows through stages, each with new ways to see yourself and the world, but you must pass through them in order. Recognizing your current level helps you grow and stop repeating old patterns."
-content_hash: "ffa1db78b4ed05753d0cbb442380ba536551efb0403901818dc174ec33ac388b"
+content_hash: "95594be92e2a8f959d178f80082c49d3ae428a7b2ef050bb0d6b5f7efb2031f0"
 ---
 
 🚨 Fair warning:

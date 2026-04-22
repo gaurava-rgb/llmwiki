@@ -1,7 +1,7 @@
 ---
 title: "1. Install Readwise CLI"
 reader_id: "01km12xmg3djpdbw8mpg6cj0ja"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b4-97e9-f1b8a21c21c6"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km12xmg3djpdbw8mpg6cj0ja"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Readwise CLI lets you access everything you've saved in Readwise from the terminal. You can search, tag, and organize your highlights and articles easily. It also works with AI agents to help manage your reading data."
-content_hash: "267e3a4daec243c2986e30f6c1351b459b7587f31d0c77de6de25240e4276b01"
+content_hash: "3c15bb89c838f589d738cb1088e621c6dd592963fa8fe4e1e5c2f4fa8ea78b32"
 ---
 
 1. Install Readwise CLI

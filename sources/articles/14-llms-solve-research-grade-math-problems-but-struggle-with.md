@@ -1,7 +1,7 @@
 ---
 title: "1/4 LLMs solve research grade math problems but struggle with..."
 reader_id: "01kksg03ppdd3zhpa3v8dr9mqf"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818f-a827-ccc719781cb7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kksg03ppdd3zhpa3v8dr9mqf"
@@ -13,7 +13,7 @@ published: "2026-03-11"
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "A quarter of large language models can solve hard math problems but struggle with simple calculations. The authors built a computer inside a transformer to run programs quickly and accurately. This new method lets the model do all computations itself, making it much faster and more efficient."
-content_hash: "3338ce1537f6d763ff9dd4a10ed23865d7c85e8a78a4eaaaff3ca9288790edf0"
+content_hash: "57e9c389406912b410e86e53c324b11a6334425863efc725da51e16afa34e80e"
 ---
 
 1/4 LLMs solve research grade math problems but struggle with basic calculations. We bridge this gap by turning them to computers.

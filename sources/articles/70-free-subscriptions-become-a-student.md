@@ -1,7 +1,7 @@
 ---
 title: "70+ Free Subscriptions - Become a Student"
 reader_id: "01kkwfr9g0e63sjn9v1ygxf2bh"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816c-9db1-f303c60f2797"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkwfr9g0e63sjn9v1ygxf2bh"
@@ -13,7 +13,7 @@ published: "2026-03-13"
 saved_at: "2026-03-16"
 reading_time: "2 mins"
 summary: "Students can get over 70 free or discounted subscriptions for tools, software, and learning resources. The GitHub Student Developer Pack offers many of these benefits in one place. This can save students more than $10,000 a year."
-content_hash: "c9cc70be0aa2584785ac3cc414c44b0710c842186563351385120428d082cd73"
+content_hash: "c89e1ca2156a8a949d5ee9c66861bcfade75560ecafd7629c3ef2a9b32b73003"
 ---
 
 ![70+ Free Subscriptions - Become a Student](https://pbs.twimg.com/media/HDTw31WWgAMeLhe.jpg)

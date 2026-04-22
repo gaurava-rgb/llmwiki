@@ -1,7 +1,7 @@
 ---
 title: "Profound"
 reader_id: "01kevtwrp9m5s2d9jjjsfgf793"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d8-9092-c60b857174a0"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevtwrp9m5s2d9jjjsfgf793"
@@ -13,7 +13,7 @@ published: "2026-01-13"
 saved_at: "2026-01-13"
 reading_time: "22 mins"
 summary: "Many people fail to change because they try to fix actions, not their identity. True change comes from deep self-reflection and understanding your goals and mind. A one-day protocol can help you uncover what you really want and start a meaningful new life."
-content_hash: "8c219c6f63eb9c4341d55eb0d861c8f784e1891860bfab6d31c532103a5bcf02"
+content_hash: "3f4743295c1f140e817233f3f3c17c6779b9626b6b449a69f5421ce24bae42c2"
 ---
 
 Profound. Requires a reading and then a re-reading. No editorial or content edits from me (the backseat reader). Flawless. Chef’s kiss!

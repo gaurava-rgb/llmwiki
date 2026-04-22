@@ -1,7 +1,7 @@
 ---
 title: "so..."
 reader_id: "01kn5drbxzx0t1qkc1e04wt8qt"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815e-a13d-e84ace5472dd"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5drbxzx0t1qkc1e04wt8qt"
@@ -13,7 +13,7 @@ published: "2026-03-31"
 saved_at: "2026-04-01"
 reading_time: "3 mins"
 summary: "Garry Tan's website is very large and inefficient, loading 6.42 MB with 169 requests just for the homepage. It sends unnecessary files like test code, duplicate images, and uncompressed pictures, wasting bandwidth. The audit shows that using AI without proper review leads to poor quality and bloated code."
-content_hash: "37cd9bf155b551ffa7d56071b345e360ac990aca8e0b18f851e46b510c8b7b0b"
+content_hash: "1401ba30fdd793e892b16afe5af9311961f3e3219f1f6f3067390c14a44fcfb2"
 ---
 
 so... I audited Garry's website after he bragged about 37K LOC/day and a 72-day shipping streak.

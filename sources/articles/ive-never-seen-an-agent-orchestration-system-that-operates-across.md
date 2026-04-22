@@ -1,7 +1,7 @@
 ---
 title: "I’ve never seen an agent orchestration system that operates across..."
 reader_id: "01kjzh30ynexb2647ga9k09r8e"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817a-83c7-dd77abed10b8"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjzh30ynexb2647ga9k09r8e"
@@ -13,7 +13,7 @@ published: "2026-03-04"
 saved_at: "2026-03-05"
 reading_time: "1 min"
 summary: "Paperclip is a new agent orchestration system that works across all business functions. It has a clean design and great user experience, unlike others. It helps run autonomous companies with tools like org charts and goal alignment."
-content_hash: "219b640514deb0b5a751af9136f8c79d9e09ee7910f076216d0294e2ed912118"
+content_hash: "41f19b1a3307671e4440baff37869ac12b5f3d9184d975beb8c115ef12ae9910"
 ---
 
 I’ve never seen an agent orchestration system that operates across all business functions

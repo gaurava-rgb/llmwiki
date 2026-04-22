@@ -1,7 +1,7 @@
 ---
 title: "this article is what those $997 courses should have been"
 reader_id: "01km3cqkzdy0n0t2ysw7ecfcs9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81af-9b35-d99c5f1c3adb"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cqkzdy0n0t2ysw7ecfcs9"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "8 mins"
 summary: "There is no one best way to make money; you must find what fits your strengths and interests. Success comes from starting, learning, and pushing through failure with patience and action. Stop waiting for easy answers and begin working toward your goals today."
-content_hash: "b2b1f037887c0fe71fdbebc1fccc027cb0009f4540b4e9db5db4380e6fe33f0b"
+content_hash: "12f4dc1e1f6615f15537e1fd7ba75f47019b9f85c7367e9ff13a22703f11fb72"
 ---
 
 this article is what those $997 courses should have been.

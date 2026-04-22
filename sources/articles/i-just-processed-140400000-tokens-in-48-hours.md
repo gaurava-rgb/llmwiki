@@ -1,7 +1,7 @@
 ---
 title: "I just processed 140,400,000 tokens in 48 hours"
 reader_id: "01kk1qfrzvpr088vtfk9v6damt"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8118-b190-cfed3e608ace"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kk1qfrzvpr088vtfk9v6damt"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-03-06"
 reading_time: "8 mins"
 summary: "I just processed 140,400,000 tokens in 48 hours.\n\nRaw API bill: $1,677.82  \nMy actual cost: $50.00\n\nI’m moving my entire life into a self-hosted OpenClaw agent.\n\nIf you aren't using this \"cheat code\" setup, you're just donating money to Big Tech.\n\nThe 30x leverage setup:\n\n- Flat-rate loophole: Stop paying per token. Hook OpenClaw into a flat-rate coding plan for heavy lifting.  \n- Local heartbeats: OpenClaw pings 48×/day. Route these to a local Llama 3.2 via Ollama. Cost: $0.  \n- The 2-agent rule: Killed my 9-agent fleet ($100/night money pit). One for code. One for ops.  \n- Plan > chat: If you don't use a https://t.co/3gN0tX6fNj, you’re just burning cash in a chat box.\n\nI burned $100 in one night so you don't have to.\n\nThe Day 1 manual for infinite scale:"
-content_hash: "a15d971d158362efeff4743e9594ef8253035754639761ecbd42d650b3e20101"
+content_hash: "d15f3851619406f9901f416a0304b4d5a41b34f195a7a70dcbe27f2dd34a0179"
 ---
 
 I just processed 140,400,000 tokens in 48 hours.

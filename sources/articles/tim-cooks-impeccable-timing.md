@@ -1,7 +1,7 @@
 ---
 title: "Tim Cook's Impeccable Timing"
 reader_id: "01kprks6qfa07d9x9t4adatgde"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8187-a4d7-c867647b1cec"
 category: "rss"
 source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kprks6qfa07d9x9t4adatgde"
@@ -13,7 +13,7 @@ published: "2026-04-21"
 saved_at: "2026-04-21"
 reading_time: "11 mins"
 summary: "Tim Cook had an extraordinary run — and impeccable timing, both in terms of when he became CEO, and when he is stepping down."
-content_hash: "d2cd6bd2f73ab1d72d64e5ec7c49e1cecbb0db60d7bdd1f02a498e83352aebbb"
+content_hash: "c2822379b7665f145e3415e13a32e7677081b092e991ef96976f487c0ff7039d"
 ---
 
 Tim Cook had an extraordinary run — and impeccable timing, both in terms of when he became CEO, and when he is stepping down.

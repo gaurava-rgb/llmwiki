@@ -1,7 +1,7 @@
 ---
 title: "Here is the AI prompt you could use for this..."
 reader_id: "01kfkpcytzhn6d2s20b9fd2tn2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b5-a3e0-c27ddc409c8e"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpcytzhn6d2s20b9fd2tn2"
@@ -13,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-22"
 reading_time: "9 mins"
 summary: "Tailor your CV for each job by copying exact phrases and matching the job title to beat ATS filters. Use simple formatting and highlight numbers to prove your achievements. Apply quickly with thoughtful applications to stand out and get more interviews."
-content_hash: "5bd25d524560a695aaf8edcfef48f16fadcff942fd3ec923a666ff2933070130"
+content_hash: "e334d803b9d54dc8ebeed7312da663eb808a10be565659b89346cdef887e4253"
 ---
 
 Here is the AI prompt you could use for this to make yu bypass any ATS system:

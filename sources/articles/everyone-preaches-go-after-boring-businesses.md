@@ -1,7 +1,7 @@
 ---
 title: "everyone preaches \"go after boring businesses.\""
 reader_id: "01kk4hys158f3pnfqc1g9bzc11"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814a-bf9a-f0fb4874ed25"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4hys158f3pnfqc1g9bzc11"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "12 mins"
 summary: "Many people say to focus on boring businesses for AI services, but few actually do it. These businesses pay well for simple AI solutions that save time and solve clear problems. Success comes from showing value, fixing real issues, and selling to those who don’t understand AI yet."
-content_hash: "18f6080798fcafedba0d3897ba5638787c840c18dfcb054727fcf38c8643f1e5"
+content_hash: "e48ec231a1f70486d793e3e6104155a410e9f5f4b52c9b948a28ea8d4f51d131"
 ---
 
 everyone preaches "go after boring businesses."

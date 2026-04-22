@@ -1,7 +1,7 @@
 ---
 title: "i’ve literally spent 4 hours putting this together"
 reader_id: "01khr9wp502fgx3akkce4tar3v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816b-a4dc-e6a03222de98"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khr9wp502fgx3akkce4tar3v"
@@ -13,7 +13,7 @@ published: "2026-02-14"
 saved_at: "2026-02-18"
 reading_time: "13 mins"
 summary: "Paolo Trivellato shares a simple LinkedIn strategy to get massive attention by posting about big AI launches at the right time. This method can generate thousands of comments, leads, and booked calls quickly without spending on ads. Acting fast and using his proven formula can help businesses grow their recurring revenue significantly."
-content_hash: "e6e91bf062311199c426cc7772d576fc0282fe0dbf8d0549de79fdbff15bbd2a"
+content_hash: "164acb223ccaec383579e2ffb8d11a1c54627a850d7bd580ff3de9d5339e58b4"
 ---
 
 i’ve literally spent 4 hours putting this together

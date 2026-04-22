@@ -1,7 +1,7 @@
 ---
 title: "New agent-browser skill: Vercel Sandbox"
 reader_id: "01kkfb0vgxae34ch31eypzmffb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8187-bf52-dc144e5848b3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb0vgxae34ch31eypzmffb"
@@ -13,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "A new agent-browser skill called Vercel Sandbox lets you build web-browsing agents. It offers an isolated browser environment for tasks like navigation, screenshots, and automation. You can quickly start using it with Vercel Sandbox snapshots."
-content_hash: "30d6c65635bc61e617d1f406eeeb1785b0fd7fbd02f8281579b2a241922576c0"
+content_hash: "22dc43c63c37fff4ad32b6f94f0325066f45c4453b592a65146a1c94a50d664c"
 ---
 
 New agent-browser skill: Vercel Sandbox

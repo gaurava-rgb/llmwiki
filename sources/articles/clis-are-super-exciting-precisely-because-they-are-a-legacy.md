@@ -1,7 +1,7 @@
 ---
 title: "CLIs are super exciting precisely because they are a \"legacy\"..."
 reader_id: "01kjfk1em2wy3g02trk6f7s422"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815a-91ab-eb1aebeca8c5"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjfk1em2wy3g02trk6f7s422"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-27"
 reading_time: "1 min"
 summary: "CLIs are powerful because AI agents can easily use and combine them through the terminal. This lets agents build tools like dashboards or web apps quickly by interacting with CLIs. To succeed in 2026, products should be accessible to agents, ideally via CLI or similar interfaces."
-content_hash: "2055e5a664310f279c101ed99ab17285869ec97d40eb467e2bebbc975a1bd8c5"
+content_hash: "983b0d2acc7b33cb8b2958eb270371779a41bfc027fd9e1e7eb33a918f08a8d4"
 ---
 
 CLIs are super exciting precisely because they are a "legacy" technology, which means AI agents can natively and easily use them, combine them, interact with them via the entire terminal toolkit.

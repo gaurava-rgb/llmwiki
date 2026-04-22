@@ -1,7 +1,7 @@
 ---
 title: "This study is a goldmine of ideas for anyone building..."
 reader_id: "01khe9dd0d82mvh1fjh5f2shqk"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815c-9301-f62fe8d02056"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khe9dd0d82mvh1fjh5f2shqk"
@@ -13,7 +13,7 @@ published: "2026-02-14"
 saved_at: "2026-02-14"
 reading_time: "1 min"
 summary: "This study analyzes 542 real Upwork jobs about building AI agents. It reveals top use cases, industries, timelines, and costs. The information is valuable for anyone creating OpenClaw wrappers."
-content_hash: "5c51052ca5e76b7614e899ed73b552f197b2eef0a7c1ec6b3b2c90811220a8bb"
+content_hash: "cc2ccdf90524a33b9c816079204a16cdd3aebeb55fc3d9b48eebf8eb95cd01d3"
 ---
 
 This study is a goldmine of ideas for anyone building [@openclaw](<https://twitter.com/openclaw>) wrappers

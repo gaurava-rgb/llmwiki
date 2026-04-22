@@ -1,7 +1,7 @@
 ---
 title: "dude the kind of progress been made since last week..."
 reader_id: "01km1emkdpzyz9wfkps2dp3xc4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8181-80f4-de7d7e78caa1"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1emkdpzyz9wfkps2dp3xc4"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "dude the kind of progress been made since last week to better ai research is just insane.\n\n> AutoResearch (agentic research loop to runs experiments)\n> Unsloth studio (web UI to train and run LLMs)\n\nand now alphaXiv MCP."
-content_hash: "0b4a80657a7a8e49234e1de501c3d3f45a061592175a93051cdf363a0b5d0be0"
+content_hash: "97fe306ddd13d11c8cd623e3e669702fa8e48955ad3646d03be6dfb38b8dd224"
 ---
 
 dude the kind of progress been made since last week to better ai research is just insane.

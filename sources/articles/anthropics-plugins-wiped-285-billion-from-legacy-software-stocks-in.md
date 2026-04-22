@@ -1,7 +1,7 @@
 ---
 title: "Anthropic's plugins wiped $285 billion from legacy software stocks in..."
 reader_id: "01kj89xnqh3e352qgtq3et9f56"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8145-8f1b-dcf22e795037"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89xnqh3e352qgtq3et9f56"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "2 mins"
 summary: "Anthropic's new plugins caused a $285 billion drop in legacy software stocks in one day. Their Cowork tool helps people do complex knowledge work easily without coding. You can start using it quickly by installing Claude Desktop and enabling plugins."
-content_hash: "fc92678a226c1a5e7daf167679edaee0c6442fba7191825cd73c200c71734d33"
+content_hash: "d604b32aa92c733186fe8d54ca87274355038666698472167c44f80c20656826"
 ---
 
 Anthropic's plugins wiped $285 billion from legacy software stocks in a single day. They're now sitting in your Cowork sidebar.

@@ -1,7 +1,7 @@
 ---
 title: "Removes AI writing patterns from prose"
 reader_id: "01km3csdgdkxczdr2fqee0eh7g"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8120-a6b4-ca232badaa63"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3csdgdkxczdr2fqee0eh7g"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "1 min"
 summary: "Removes AI writing patterns from prose"
-content_hash: "964b83caabb5a5a4d2b29f6e6526f13f543c54f920a9673e652adbb5df7bedb3"
+content_hash: "7fa3be0499fefbe0f29c9662fa0cb3a3fc8234f72bbef335f5edda1beaa48c3c"
 ---
 
 Removes AI writing patterns from prose

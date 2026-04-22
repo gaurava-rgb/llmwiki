@@ -1,7 +1,7 @@
 ---
 title: "This guy built a distributed web crawler on Hetzner for..."
 reader_id: "01kmh1zt4s759gr0snn6qttxzt"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8197-8295-de711c38b6fb"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh1zt4s759gr0snn6qttxzt"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "2 mins"
 summary: "A developer built a distributed web crawler on Hetzner for $200 per month. He scaled it from 200 to 1,600 workers and faced challenges along the way. He will share his code and insights soon for others to learn from."
-content_hash: "cc507f88615cd01d07c00345b45061f09500fcf8f7345f758bec58add9442a0f"
+content_hash: "59911f7271fa0415540013bae9d65d3e5b3e1b8f30ab313abf63c9120987fdd9"
 ---
 
 This guy built a distributed web crawler on Hetzner for $200/mo and wrote about exactly he did it.

@@ -1,7 +1,7 @@
 ---
 title: "james has achieved distributed opencode"
 reader_id: "01kmnwjdvmx29xfvr4qq1wpc3s"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8160-8faf-da1011869ad5"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwjdvmx29xfvr4qq1wpc3s"
@@ -13,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "James created OpenCode, which lets code run on your laptop or in remote cloud sandboxes. If you close your laptop or delete the remote sandbox, your work stays safe and syncs back when you return. This system can restore sessions easily, even if the remote environment is destroyed."
-content_hash: "ef212e862aa1d6eb4346215ab851b84b1799e8497b09a5f945a0bdf63fa8aeed"
+content_hash: "1993220dde74a86a56777bad3a3205ffb65d28313ff1ba86032234f2c13cf3a7"
 ---
 
 james has achieved distributed opencode

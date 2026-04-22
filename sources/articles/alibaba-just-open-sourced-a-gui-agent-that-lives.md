@@ -1,7 +1,7 @@
 ---
 title: "🚨 Alibaba just open sourced a GUI agent that lives..."
 reader_id: "01kkfaxsshea25xjp47r0tdakc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8198-a18e-e9ad5986f3cd"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfaxsshea25xjp47r0tdakc"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Alibaba has released a new tool called Page Agent. It uses natural language to control web pages with just one JavaScript script tag. This tool works without any browser extensions or extra software."
-content_hash: "fd06cbc8c999afd4cce4f182855b15d80cbd2f3922f85d3e469cbe250469c962"
+content_hash: "4a6ddaef016f1794b518f2cd2370a720dc0d6fa91f1f3b3b9633d1f30454c85c"
 ---
 
 🚨 Alibaba just open sourced a GUI agent that lives inside your webpage and controls it with natural language.

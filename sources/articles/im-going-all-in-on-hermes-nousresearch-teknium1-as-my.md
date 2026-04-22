@@ -1,7 +1,7 @@
 ---
 title: "I'm going all in on Hermes (@NousResearch, @Teknium1) as my..."
 reader_id: "01kpa3h0wbeygyjbep2yqgb250"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8160-9606-e6590b805bb5"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpa3h0wbeygyjbep2yqgb250"
@@ -13,7 +13,7 @@ published: "2026-04-15"
 saved_at: "2026-04-16"
 reading_time: "4 mins"
 summary: "Moshe is fully using Hermes as his personal AI agent and coding system with six profiles sharing one private memory. The setup runs on two self-hosted machines with fail-safes, backups, and custom patches for reliability and control. He owns every part of the system, allowing easy upgrades, model swaps, and fixes without relying on external platforms."
-content_hash: "8bae1f17d1b5e55354615c5def967088fd59f7343c2d670bd8a5e2d944d760e5"
+content_hash: "21b88a1d1a9cc5054a903895314de4efe159e80b7dd2fde4650bdae4d4dbd7d1"
 ---
 
 I'm going all in on Hermes ([@NousResearch](<https://twitter.com/NousResearch>), @Teknium1) as my entire agent and coding stack. Six profiles. One shared self-hosted memory store. Zero hosted-coder dependencies.

@@ -1,7 +1,7 @@
 ---
 title: "how to build a bootstrapped startup without funding:"
 reader_id: "01kjb062nhydpdrtd64rzmqzw5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8132-a99a-f8a1b0d6a20e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb062nhydpdrtd64rzmqzw5"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-25"
 reading_time: "1 min"
 summary: "Build a startup by solving a problem you have and launch quickly without fancy tools. Charge customers from day one, keep costs low, and handle support yourself. Grow by sharing your journey online and avoid investors or partners who want equity."
-content_hash: "16431d108e35abb81540026783e7500c7d69f27c09b5a9fef0fe7574f1e6690d"
+content_hash: "8a2347d650502a4238ce558e35e7fe7a87286c5a81b15ae9c1bdc14b96d4dded"
 ---
 
 how to build a bootstrapped startup without funding:

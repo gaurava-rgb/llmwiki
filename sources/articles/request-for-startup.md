@@ -1,7 +1,7 @@
 ---
 title: "Request for startup"
 reader_id: "01kk6xperjxes3q3xk6f186xe1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e6-adcc-d176688f82b3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6xperjxes3q3xk6f186xe1"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "Request for startup\n\nThe only moat the Codex wrappers can have are visual aesthetics"
-content_hash: "752266097eaa089c55dda0e80618683b4f1e4e069884394f4dd2b560d59ea9a4"
+content_hash: "ce931de5f5333027bab546bc7825680a611175177ab7922d18996f2eab69f082"
 ---
 
 Request for startup

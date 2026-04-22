@@ -1,7 +1,7 @@
 ---
 title: "the only things you need to know:"
 reader_id: "01kfe9jzqgwysncwb5yw451ybr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8118-adeb-d700e77b47ca"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9jzqgwysncwb5yw451ybr"
@@ -13,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "Your account has a base score that affects how your tweets are shown. Tweets get judged quickly, mostly in the first 30 minutes, based on engagement like replies and likes. The algorithm uses a clear score system with no manual rules and favors posts with strong early activity."
-content_hash: "289dccadaa4c93a45ab9efca51128bfb639162b1d222df377bc1dec39d4d72eb"
+content_hash: "3b028b334c4a9e635a342d4f7ed9815d3145951d21dc0083ac5edbc98d39ae1e"
 ---
 
 the only things you need to know:

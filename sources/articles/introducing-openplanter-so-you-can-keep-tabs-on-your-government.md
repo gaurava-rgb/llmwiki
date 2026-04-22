@@ -1,7 +1,7 @@
 ---
 title: "introducing OpenPlanter, so you can keep tabs on your government..."
 reader_id: "01kj05qbecnqcddqns9rwwgq81"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8178-af9a-fb7799bb4b5e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05qbecnqcddqns9rwwgq81"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "OpenPlanter helps you watch your government by gathering and analyzing many kinds of data automatically. It finds important details and unusual patterns about people in power. This tool makes it easy to see what public records reveal about officials."
-content_hash: "fe842f5f1943a1b913d29ae5a2954cbe9d58e435a6562cf9695862cbc694bb1a"
+content_hash: "83d1d5e6ebc2a7d9bcdddd1d270d93fb154cf4011651ae4fcf5c9e33d1cd0f3f"
 ---
 
 introducing OpenPlanter, so you can keep tabs on your government since they're almost certainly keeping tabs on you.

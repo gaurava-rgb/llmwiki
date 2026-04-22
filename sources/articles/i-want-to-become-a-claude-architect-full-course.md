@@ -1,7 +1,7 @@
 ---
 title: "I want to become a Claude architect (full course)."
 reader_id: "01kksrbttfzhaszggzhmf5z5qv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810a-8e88-fe1d5923994b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kksrbttfzhaszggzhmf5z5qv"
@@ -13,7 +13,7 @@ published: "2026-03-15"
 saved_at: "2026-03-15"
 reading_time: "29 mins"
 summary: "The course teaches how to build and manage multi-agent systems using Claude, focusing on agent loops, tool design, and orchestration. It emphasizes clear task decomposition, structured data handling, and iterative refinement to improve reliability and reduce errors. Students practice with exams and projects to master skills like coordination, CI/CD integration, and confidence calibration for real-world applications."
-content_hash: "2aba9ae450a5fb9678882e93eb3696d89fcf664193bd0cfb0df821732afcfa62"
+content_hash: "446c44868e8579e77eee6552106819a43efb0d87cc1680f246bac003dc8eea17"
 ---
 
 ![I want to become a Claude architect \(full course\).](https://pbs.twimg.com/media/HDdc8ZNXIAANjop.jpg)

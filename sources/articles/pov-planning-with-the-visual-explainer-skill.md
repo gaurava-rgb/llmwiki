@@ -1,7 +1,7 @@
 ---
 title: "POV: Planning with the \"Visual Explainer\" skill"
 reader_id: "01kj06ecydpna0gpzrksa411km"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8149-ae0a-e757cf802e4e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj06ecydpna0gpzrksa411km"
@@ -13,7 +13,7 @@ published: "2026-02-19"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Nico Bailon created a \"Visual Explainer\" skill to help explain complex ideas clearly. It uses HTML pages with templates and CSS for consistent design. This makes understanding information easier than reading plain text."
-content_hash: "0fddc7152e77fca8a3316facd9c63e43d77b77d0c0b002933d30387baa745c39"
+content_hash: "919b930ae238a81f7dc4ef7f1b04af5bb890dddb7dbe427714458bdc2c92eb34"
 ---
 
 POV: Planning with the "Visual Explainer" skill. I can't go back to markdown plans after getting used to this.

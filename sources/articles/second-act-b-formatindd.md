@@ -1,7 +1,7 @@
 ---
 title: "Second Act (B format).indd"
 reader_id: "01jyx4pfkbxckyrphf5m22jac2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a9-be2e-ff1fda9dded5"
 category: "pdf"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4pfkbxckyrphf5m22jac2"
@@ -13,7 +13,7 @@ published: "2025-03-10"
 saved_at: "2025-06-29"
 reading_time: "18 mins"
 summary: "Weak ties in our networks can spread influence more effectively than close friends or family. Historical figures like Antonie van Leeuwenhoek and Grandma Moses show how accessing the right connections can lead to significant breakthroughs and success. Being in the right place within a network, rather than at the center or the edges, is often key to achieving one's goals."
-content_hash: "c03ffca7b5f4485fe782a30416676ab4f6e1cc24694c9008fd53937b348570ef"
+content_hash: "568b200a78b6bf923a612303d7054ffb234b438299646d388a3bec4642585de6"
 ---
 
 It is this inuence that makes the dierence to late bloomers trying to break into new domains.

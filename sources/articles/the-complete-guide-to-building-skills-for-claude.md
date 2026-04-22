@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide To Building Skills For Claude"
 reader_id: "01kk25cdxh3zw4xvyrf5vbrsc0"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c1-a914-de2c7826dd7b"
 category: "pdf"
 source_type: "File Upload"
 reader_url: "https://read.readwise.io/read/01kk25cdxh3zw4xvyrf5vbrsc0"
@@ -13,7 +13,7 @@ published: "2026-01-26"
 saved_at: "2026-03-06"
 reading_time: "19 mins"
 summary: "Skills teach Claude how to perform specific workflows reliably and consistently. This guide explains how to plan, build, test, and share skills for better automation and tool use. Using skills helps reduce errors, save time, and improve user experience across Claude platforms."
-content_hash: "fa87432c61ebc9f7eba4c00a53d168355905672e3765969041389cd1972f70f3"
+content_hash: "26045b6e5a89e0d4a23ed82968b717e6f2ed4cd103c587b8bee973082a6f35cd"
 ---
 
 The Complete Guide to Building Skills for Claude

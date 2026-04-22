@@ -1,7 +1,7 @@
 ---
 title: "applying to jobs is the dumbest shit you can ever..."
 reader_id: "01kevts37zy15pk93jv2tc1sej"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8112-8056-c1ccc65d2dd0"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevts37zy15pk93jv2tc1sej"
@@ -13,7 +13,7 @@ published: "2026-01-12"
 saved_at: "2026-01-13"
 reading_time: "1 min"
 summary: "Applying to jobs is mostly a waste of time because a few top people get most opportunities. Instead of applying, focus on building skills, making connections, and creating impact. When you become really good, recruiters will come to you."
-content_hash: "a8215081e919a4b16cd1defdd09f1cb84e05995d07e5a4739f59a4f98e5c8a98"
+content_hash: "7c786278cad0380274049d8de097baa345f1040b5353b7ad8dab031b47cdb7fb"
 ---
 
 applying to jobs is the dumbest shit you can ever do.

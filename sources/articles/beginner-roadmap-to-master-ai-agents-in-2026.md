@@ -1,7 +1,7 @@
 ---
 title: "Beginner Roadmap to Master AI Agents in 2026"
 reader_id: "01kjmzy8tfe5mnmr2ptkqf7g9t"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c1-bd29-c6ce1fa585ee"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmzy8tfe5mnmr2ptkqf7g9t"
@@ -13,7 +13,7 @@ published: "2026-02-14"
 saved_at: "2026-03-01"
 reading_time: "6 mins"
 summary: "AI agents are smart digital helpers that think, plan, and act on their own to solve complex tasks. This roadmap guides beginners through learning Python, APIs, and AI concepts step-by-step over six months. By following it, you can build, test, and deploy useful AI agents for real-world projects and jobs."
-content_hash: "7eb72a48f2934304cb410520d1cbcc04433a35d0fef39a4ac37d80750ddb9ebc"
+content_hash: "565cde2400c89adb2ba3b3b9cde651a0ee4b4199a3c49d958878d0ec9607f3fb"
 ---
 
 ![Beginner Roadmap to Master AI Agents in 2026](https://pbs.twimg.com/media/HBHDTLaakAYjUwb.jpg)

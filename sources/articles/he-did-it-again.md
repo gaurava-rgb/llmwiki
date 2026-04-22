@@ -1,7 +1,7 @@
 ---
 title: "HE DID IT AGAIN!"
 reader_id: "01kmnwgwkzwev79vx4y6mrcxc1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8113-8f26-ed4755f86105"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwgwkzwev79vx4y6mrcxc1"
@@ -13,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "Brian Roemmele shares the launch of G0DM0D3, a fully jailbroken AI chat without guardrails. The AI delivers honest and powerful answers by using a unique real-time scoring system. Users can try it free with $5,000 in credits from the OpenRouter team."
-content_hash: "47802d82b0bcdd62feb7b9af8fe666227ab5bbea2591176d6e475d90af72f508"
+content_hash: "424519155fa854d43cde94d4c5160a88e3d550b6a4110e6d4959e0bc34e50ddf"
 ---
 
 HE DID IT AGAIN!

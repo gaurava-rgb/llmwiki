@@ -1,7 +1,7 @@
 ---
 title: "the best part of this article isn’t the formulas"
 reader_id: "01kk6xn2fqpsyn67e820vs677k"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a6-b1df-fe34655cf175"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6xn2fqpsyn67e820vs677k"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "11 mins"
 summary: "the best part of this article isn’t the formulas. \n\nyou can find formulas in any textbook.\n\nthe best part is the honesty.\n\nthe guy openly says: \"i screwed up decisions in career, crypto, relationships - and here’s why.\" \n\n99% of authors write from the position of \"i’m smart, listen to me\" \n\nthis one writes from the position of \"i was an idiot, here are the bruises\"\n\nand that’s exactly why it works\n\nyou’re not reading a lecture you’re reading a post-mortem of someone else’s mistakes, with formulas that explain WHY those mistakes happened\n\nwhat really hit for me was the part about sunk cost in relationships and Kelly for career decisions\n\n\"don’t quit switch to 4 days a week\" is the most practical advice I’ve seen in the last year\n\nsave this. re-read it in a month, when you’re about to make an important decision based on vibes at 2 a.m."
-content_hash: "3bf90f24f979471e53785284041a1ef91f3f0b2b5a06a31cbc451ec42424bc07"
+content_hash: "14a17da86216878c3a99eb9bec1d542bdbc51d5a7809d86f95bdd3df7f7cf514"
 ---
 
 the best part of this article isn’t the formulas.

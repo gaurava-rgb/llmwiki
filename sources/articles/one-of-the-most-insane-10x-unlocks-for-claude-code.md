@@ -1,7 +1,7 @@
 ---
 title: "One of the most insane 10x unlocks for Claude Code..."
 reader_id: "01kkfb09vfg00dfhkgqwapqvh1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c1-afde-e21df1f3f9e8"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb09vfg00dfhkgqwapqvh1"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Claude Code can now live-prototype changes using a javascript tool with Chrome integration. This makes visual and iterative work much faster and easier. It's a powerful feature that many people overlook."
-content_hash: "c739c71f4fbc84ac6a5325643abfacb9416581dec9743c04482aabe85119fb98"
+content_hash: "cf0f3b2160aeabca7e989088fdccfd11afdbbccfc8c60ee657ba4b9af0c2e076"
 ---
 
 One of the most insane 10x unlocks for Claude Code, like literally a "I can't believe I haven't tried this" moments:

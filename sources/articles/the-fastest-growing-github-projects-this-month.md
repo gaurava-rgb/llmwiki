@@ -1,7 +1,7 @@
 ---
 title: "the fastest growing GitHub projects this month:"
 reader_id: "01kksf7vw3kebjzkybhw84tnpn"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817a-a310-c318f73a75f7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kksf7vw3kebjzkybhw84tnpn"
@@ -13,7 +13,7 @@ published: "2026-03-14"
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "The fastest growing GitHub projects this month focus on AI tools and agents. Top projects include a personal AI assistant, WiFi-based pose detection, and AI companion apps. The AI field is evolving very quickly, with new tools emerging all the time."
-content_hash: "3115d8fef6414e5c81184c7df09c031a8f77a63f9de1242317f40c49e0fafc93"
+content_hash: "231b654b089c130aefd9577729a6f2a888af0f47c8f3037395da1b79e9fd265e"
 ---
 
 the fastest growing GitHub projects this month:

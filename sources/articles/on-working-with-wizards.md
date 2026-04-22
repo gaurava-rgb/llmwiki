@@ -1,7 +1,7 @@
 ---
 title: "On Working with Wizards"
 reader_id: "01k4x86e94s1tsysmhbcdpzps8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c6-80a5-d0bff68e7f0d"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k4x86e94s1tsysmhbcdpzps8"
@@ -13,7 +13,7 @@ published: "2025-09-11"
 saved_at: "2025-09-11"
 reading_time: "9 mins"
 summary: "AI is shifting from a co-worker we guide to a wizard that conjures opaque results.  \nThat makes checking accuracy hard and weakens our chance to learn needed skills.  \nWe must learn when to summon the wizard, when to collaborate, and how to judge AI outputs."
-content_hash: "60b561eba46a96c5f167ff09e2c498eb795dd016b20793d2b97be625427b32ee"
+content_hash: "a879cd61fbb90ac9bc594cffc65d543d9e9f2509ff820ad85d208e76586ced0e"
 ---
 
 ###  Verifying magic on the jagged frontier

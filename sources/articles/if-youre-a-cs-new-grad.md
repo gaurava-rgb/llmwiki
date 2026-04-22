@@ -1,7 +1,7 @@
 ---
 title: "if you’re a CS new grad"
 reader_id: "01kj89pz8fxsrs89mnwq70b7mf"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813d-a6bd-f6745a33e196"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89pz8fxsrs89mnwq70b7mf"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "13 mins"
 summary: "Working hard often leads to just average results, so doing less and focusing on what truly matters can bring more happiness. Being a NEET means living life on your own terms, avoiding distractions, and building meaningful habits like reading and socializing. Jobs usually don't value you much, so protect your time and energy by working less and pursuing what makes you happy."
-content_hash: "31e67d6b2d898781365b700093de02d23a492a8088aed741cf38bcdbbe707323"
+content_hash: "c49bb152008740d02259b39676db74a2c4fce4e20d500bab9c55978db04a9ab9"
 ---
 
 if you’re a CS new grad,

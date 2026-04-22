@@ -1,7 +1,7 @@
 ---
 title: "the prompt that saved me 80% on AI costs"
 reader_id: "01kj3b6xj80qw726zjytwt6kjb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81eb-9f7d-f1c4100d8509"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj3b6xj80qw726zjytwt6kjb"
@@ -13,7 +13,7 @@ published: "2026-02-22"
 saved_at: "2026-02-22"
 reading_time: "1 min"
 summary: "Sharbel saved 80% on AI costs by using cheaper models for simple tasks. He stopped running expensive AI models on easy jobs like checking folders. Now, five AI agents cost him $140 per month."
-content_hash: "2db2e9f03dd31c0ed15da75d23ecfce105e5389b1668d2e915d6033921cc166c"
+content_hash: "3e7b25eef6eb072bc9ac677c9248125e4119ad7665b4a9c2cb85ecb182c9d546"
 ---
 
 the prompt that saved me 80% on AI costs.

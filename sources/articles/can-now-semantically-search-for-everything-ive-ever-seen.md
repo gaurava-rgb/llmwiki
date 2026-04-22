@@ -1,7 +1,7 @@
 ---
 title: "can now semantically search for everything ive ever seen"
 reader_id: "01kk6y1v23afq15krvx34ngw38"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818d-974c-e6d1ae634e81"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6y1v23afq15krvx34ngw38"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "JohnPhamous created a tool to semantically search everything he has seen online. It stores text data locally and helps avoid digging through Slack, Notion, or history. His main use is searching tweets he has viewed."
-content_hash: "77053f7188db35b97a3c032ff5d2f401665413a1656b5f6376baefc7e7c64315"
+content_hash: "3b6fe98ab76148643d8a52b6834881cb167ec0c14cf96412a5f6c5968c0333ce"
 ---
 
 can now semantically search for everything ive ever seen

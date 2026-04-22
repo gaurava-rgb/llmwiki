@@ -1,7 +1,7 @@
 ---
 title: "1. Install Readwise CLI"
 reader_id: "01km1empncgnmbfb8ehknj51ma"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8138-a546-e1edc186bf8c"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1empncgnmbfb8ehknj51ma"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "1. Install Readwise CLI\n2. OpenClaw, Claude Code, Codex, or any coding agent can now:\n\n* Search your entire readwise library\n* Read full content of anything you've saved\n* Tag, create highlights, organize on your behalf\n* Pipe reading data into any workflow\n\nYour agent now knows everything you've read :)"
-content_hash: "e73fd96b9c6f6927951aa7e8f7bd9b6f4affd8f6d8689eb31d6a521f0d334f30"
+content_hash: "423ba416bc084351a399a88495da44df62f9c8ec9c34c30885dc12672d248eb2"
 ---
 
 1. Install Readwise CLI

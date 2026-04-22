@@ -1,7 +1,7 @@
 ---
 title: "Spot on"
 reader_id: "01kmnwhx96b7h14tgwy47skk8p"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8148-9f85-d5fdf2574974"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwhx96b7h14tgwy47skk8p"
@@ -13,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "10 mins"
 summary: "The Agentic EHR is a new kind of medical record system where AI agents do most of the work and doctors just approve it. This system saves time by automating tasks like coding, prescriptions, and insurance approvals. It will help small clinics and virtual providers give better care at lower cost than today’s EHRs."
-content_hash: "1c577ae54a7df129c52d098732936d66c7caa16bc0ce7e362aeaa199b4fd0a00"
+content_hash: "5b05196003a4ff9018f429340049f01451ee3f50d51a56d5bd50ea3610e6d8de"
 ---
 
 Spot on.

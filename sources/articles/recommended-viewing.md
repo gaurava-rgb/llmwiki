@@ -1,7 +1,7 @@
 ---
 title: "recommended viewing!"
 reader_id: "01kmh26896jspxcgpfjeb7s8zq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8157-a9e8-e5ad9498003e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh26896jspxcgpfjeb7s8zq"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "recommended viewing! Marlene has great energy and if you aren't well versed in agentic coding yet, this is a great intro talk."
-content_hash: "cff7e680b5181500b918ab53d88e7546f9416216e86b533726eb82539926e46c"
+content_hash: "eb7462a13008c79e0e9308afad50820b468f204f0f59a07a4ba35b56bc84363c"
 ---
 
 recommended viewing! Marlene has great energy and if you aren't well versed in agentic coding yet, this is a great intro talk.

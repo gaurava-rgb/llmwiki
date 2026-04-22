@@ -1,7 +1,7 @@
 ---
 title: "for all of you guys that are trying to figure..."
 reader_id: "01khvg0zp0p5s4yc6ds86w0e3m"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81bd-87d2-c1da4c54be6d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khvg0zp0p5s4yc6ds86w0e3m"
@@ -13,7 +13,7 @@ published: "2026-02-18"
 saved_at: "2026-02-19"
 reading_time: "1 min"
 summary: "Matthew Berman has created OpenClaw and used 2.54 billion tokens to improve it. He shares 21 daily use cases that help with work and life. Files and videos are available to help others get the most from OpenClaw."
-content_hash: "a768d6dfcc91de687c6824c8acf06252f0c2899eefbab1d53acebf4d6eabed12"
+content_hash: "f71dd936301f73ca52042d4cc5838aa2b4d9e30be6d77bb3bee671d278dfc38a"
 ---
 
 for all of you guys that are trying to figure out how to get the most out of OpenClaw

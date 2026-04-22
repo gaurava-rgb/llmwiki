@@ -1,7 +1,7 @@
 ---
 title: "I just processed 140,400,000 tokens in 48 hours"
 reader_id: "01khy3nancac4cv8ra6b8ps8ah"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b8-b4c1-e0190b00842e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khy3nancac4cv8ra6b8ps8ah"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-20"
 reading_time: "8 mins"
 summary: "Ziwen processed over 140 million tokens in 48 hours using a self-hosted OpenClaw agent and only spent $50 instead of $1,677. He advises routing routine checks to a free local model to save costs and avoiding switching AI models mid-task to keep context. The key is to use a stable paid plan with fallback models for efficient, affordable AI work."
-content_hash: "d594e3186414d83cce428de1987171337b279c356140f99a3166e858bc7cf418"
+content_hash: "670b38243106c3983f0644e655229c741913135e05f010804bfbaa856aef1c8d"
 ---
 
 I just processed 140,400,000 tokens in 48 hours.

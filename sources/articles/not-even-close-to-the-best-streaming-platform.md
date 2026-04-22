@@ -1,7 +1,7 @@
 ---
 title: "Not even close to the “best” streaming platform"
 reader_id: "01kfkpjnhhq0z1a6rncacxg2st"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810c-90c8-f36ad447347c"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpjnhhq0z1a6rncacxg2st"
@@ -13,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-22"
 reading_time: "1 min"
 summary: "This text says the streaming platform is not the best. It suggests using Radarr, Sonarr, Deluge, Plex, and Overseerr for automation. The account shares free tools and tips to learn skills and access content."
-content_hash: "10f223cbaa116353fdd4e08a7a2e621a52c2da2d559811ebc3d5427cde14da5e"
+content_hash: "fbfe5ef44b2c50698200b1b33d32f88b29e902ebae456cf707b62356725d4071"
 ---
 
 Not even close to the “best” streaming platform.

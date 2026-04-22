@@ -1,7 +1,7 @@
 ---
 title: "i actually did it"
 reader_id: "01kk4h3d5426p72rs1tambwz6d"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8141-96b0-ced6294c769c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4h3d5426p72rs1tambwz6d"
@@ -13,7 +13,7 @@ published: "2026-03-06"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "A person used AI to build a Polymarket trading bot from two pages of formulas. The bot made about $150 a day after just one prompt. This shows powerful money-making tools are now easy to create with AI."
-content_hash: "b8f979ce0a8688e0fbde22b9c2620a0cada1bc712c228139584a5430de9f69c4"
+content_hash: "8d7eaa44c37ffacb15b58e7988553273c6c21c1953180acb53c9936323a004b0"
 ---
 
 **i actually did it. i dropped both pages into Claude and wrote one prompt**

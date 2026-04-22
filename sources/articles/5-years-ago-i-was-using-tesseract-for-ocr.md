@@ -1,7 +1,7 @@
 ---
 title: "5 years ago I was using tesseract for OCR"
 reader_id: "01km3cx421tnqf0h0a4kkkpy6h"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818b-8a20-c0bd819df936"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cx421tnqf0h0a4kkkpy6h"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "1 min"
 summary: "Five years ago, using Tesseract for OCR was very difficult and gave poor results. Today, GLM-OCR is a powerful model that supports high resolution and many languages. It can recognize text, LaTeX, and tables much better and more easily."
-content_hash: "a304122f1cc3bbee52498679d7863f6a91f86969ec2cc6448810d5993054be68"
+content_hash: "a22818876bf2b165f9800e6500440cb8350da5ea50ca7ea2755e3ef901e890f2"
 ---
 
 5 years ago I was using tesseract for OCR

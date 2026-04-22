@@ -1,7 +1,7 @@
 ---
 title: "Why this works:"
 reader_id: "01km6g3mzfqsv041jt6hk2m40h"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d9-9e18-c0e0a5c7299d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km6g3mzfqsv041jt6hk2m40h"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-20"
 reading_time: "3 mins"
 summary: "Breaking a large AI skill file into smaller, focused files helps Claude stay focused and remember important details. Each file loads only what Claude needs at each step, improving quality and making fixes easier. This modular approach is like how developers organize code into modules for better results."
-content_hash: "44f0e9626ff8cf63da33c796a959497cb739b29ead0239f926355e523abe7309"
+content_hash: "b07af8753d5279037150e18872f528be70a6bbc2aa3be60ee4c8443704b47ddf"
 ---
 
 Why this works:

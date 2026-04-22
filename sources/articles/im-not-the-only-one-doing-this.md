@@ -1,7 +1,7 @@
 ---
 title: "I'm not the only one doing this"
 reader_id: "01km6g4k07abt7x9psy141j3rq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8114-af02-d97160a09203"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km6g4k07abt7x9psy141j3rq"
@@ -13,7 +13,7 @@ published: "2026-03-20"
 saved_at: "2026-03-20"
 reading_time: "2 mins"
 summary: "Many talented people are working hard to build and improve AI models and tools. They share knowledge, create open-source projects, and push technology forward. Together, they help make AI more accessible and powerful for everyone."
-content_hash: "ab014d3170f9b33a83481f6f854e034278d397fa6557b39f5c08d4af5b2e43d7"
+content_hash: "dcd7cd037b2e93820d1302330d8ab3df23b1623bcf7283cf6f11e11519743880"
 ---
 
 I'm not the only one doing this.

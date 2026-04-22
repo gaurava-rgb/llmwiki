@@ -1,7 +1,7 @@
 ---
 title: "𝗠𝗖𝗣 vs 𝗔𝗴𝗲𝗻𝘁 𝗦𝗸𝗶𝗹𝗹𝘀"
 reader_id: "01kj89z1tehbzc8s069rnwf9qp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813c-a08d-ff44b16cb547"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89z1tehbzc8s069rnwf9qp"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "MCP uses fixed API calls for clear and predictable coding, while Agent Skills let the agent decide how to solve problems using natural language. Both are useful: MCP is best for direct infrastructure tasks, and Skills guide agent behavior. A new Agent Skills repository helps build AI apps and improve Weaviate code."
-content_hash: "7985b189f5b7fbe95b6a5858ee0620d3099d591e5d9f1d96d54588bbfa295a94"
+content_hash: "f5ded7c409339dd963a19c2c5de6dab6486ae62061a8a359f1e9f90d54776041"
 ---
 
 𝗠𝗖𝗣 vs 𝗔𝗴𝗲𝗻𝘁 𝗦𝗸𝗶𝗹𝗹𝘀

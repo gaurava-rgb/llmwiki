@@ -1,7 +1,7 @@
 ---
 title: "yesterday a friend messaged me: \"i have 48 hours before..."
 reader_id: "01kjt0a29vjqz9c9rz91zq994v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8179-9482-f3ff39928d6e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt0a29vjqz9c9rz91zq994v"
@@ -13,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-03"
 reading_time: "1 min"
 summary: "A data engineer shared a trading strategy that predicts trader panic, not event outcomes, to trade against the crowd. The bot triggers trades when price, volume, and order conditions align, aiming for profit by exploiting market panic. After rewriting the strategy in Python, the user made a small profit in the first week."
-content_hash: "1dca9ccee22a791d592276e79d6e9988027de73b1a16f87555d9bc045b98b0da"
+content_hash: "80364cddf609676c8604738793d4ee4a020ff17122958278820f0e9195ea616a"
 ---
 
 **yesterday a friend messaged me: "i have 48 hours before the lawyers find out. you need to see this"**

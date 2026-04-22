@@ -1,7 +1,7 @@
 ---
 title: "Solid Skills setup"
 reader_id: "01kjb0c43stndy4vdeyp04wc5n"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814c-9c22-f65a177efacc"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb0c43stndy4vdeyp04wc5n"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-25"
 reading_time: "5 mins"
 summary: "Claude Code skills are special instruction sets that help automate tasks and improve workflows. Morgan uses skills for app design, user research, and finding new app ideas, which save time and boost quality. He encourages others to start simple by turning repetitive tasks into skills to see the benefits."
-content_hash: "c540dc36022c609ad18b566410b609876dad12d6b2ddfd7aaf64f02e616a3160"
+content_hash: "21e01fa8d6d100d37eb4333e32f154f6fb4ee0b38336b0714383aac4443d9e4a"
 ---
 
 Solid Skills setup.

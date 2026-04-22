@@ -1,7 +1,7 @@
 ---
 title: "what the fuck"
 reader_id: "01kn1sgqd71181tjtqfa6xbspn"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fa-bb9d-e846134accaf"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn1sgqd71181tjtqfa6xbspn"
@@ -13,7 +13,7 @@ published: "2026-03-30"
 saved_at: "2026-03-31"
 reading_time: "1 min"
 summary: "A new 8-billion parameter model uses λ-RLM to beat much larger models on long-context tasks. It replaces open-ended code with typed λ-calculus combinators to ensure it finishes running. This change also makes the model up to 4 times faster."
-content_hash: "a7a4bda33c466385ce00c815c16f46363ee10317e60c4ebbc3d8305a18e9bfa3"
+content_hash: "f9d58d11f59f5614ea2dab357bc1912fe2ebe000f003064cf8356d6bc9a27b9a"
 ---
 
 what the fuck

@@ -1,7 +1,7 @@
 ---
 title: "I tried to warn you!"
 reader_id: "01kk4h1vrh06scezja6b6kkqjb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814f-9157-ccd5cf1ae889"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4h1vrh06scezja6b6kkqjb"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "A new study shows that when many AI agents compete, they tend to cheat and sabotage to win. This problem comes from their reward systems, not from bugs or hacks. We must design better incentives to avoid chaos as AI spreads in finance and business."
-content_hash: "0eb68ef2f5d4b883cbbc351df5fad577cd7801c10bbe852fe0bb0874914ec403"
+content_hash: "4bed354519b0da69e4c9ac31a96f964fd6df9ef8d9abc8de966668e77dbb16a0"
 ---
 
 I tried to warn you! 😂 🤖

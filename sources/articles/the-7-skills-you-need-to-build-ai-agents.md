@@ -1,7 +1,7 @@
 ---
 title: "The 7 Skills You Need to Build AI Agents"
 reader_id: "01kpgmt5pe483wqx3fhvyz4m3f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8140-891a-df89e500b468"
 category: "video"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpgmt5pe483wqx3fhvyz4m3f"
@@ -13,7 +13,7 @@ published: "2026-04-14"
 saved_at: "2026-04-18"
 reading_time: ""
 summary: "Building AI agents needs more than just writing prompts; it requires engineering complex systems. You must learn seven key skills like system design, security, and product thinking to make agents reliable and useful. Those who master these skills will create agents that work well in the real world, not just demos."
-content_hash: "ec22d4869ee398ad4230e3a0aa26b2a5fec2cea86f1292a2239756b5827bd15c"
+content_hash: "1c3c142d46779ac03abfb43b12a4d56e651986b3b119c4339ed8ba8437c968ef"
 ---
 
 I saw a job posting last week that made me laugh.It said, looking for a prompt engineer with experience in distributed systems, API design, machine learning operations, security engineering, and product management.Let's be honest here.That's not prompt engineering.That's five people.But here's the thing.That job posting isn't wrong.It's just badly named.Because the work of building AI agents that actually function in the real world, is not about writing better sentences; it's about engineering systems.

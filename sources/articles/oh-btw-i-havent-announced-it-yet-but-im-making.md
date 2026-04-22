@@ -1,7 +1,7 @@
 ---
 title: "Oh btw, I haven't announced it yet but I'm making..."
 reader_id: "01kj05vzcs2zttzjk76z0rk5n6"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8130-be1e-e5ebabe3e9a5"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05vzcs2zttzjk76z0rk5n6"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Matt Pocock is creating a Claude Code course. It will teach software basics from the ground up. He shared his AI coding workflow and skills online."
-content_hash: "743db012c518ddcb49f44a23ba1fe98167faec877c1ae72fe27c1e30fae2574b"
+content_hash: "ed46ebd6e00c73a46c8e2dbd2eaf8f54d01259a72ddc40baee30dae761ea83af"
 ---
 
 Oh btw, I haven't announced it yet but I'm making a Claude Code course

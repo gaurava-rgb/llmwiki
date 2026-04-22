@@ -1,7 +1,7 @@
 ---
 title: "if anyone's interested in trying Obsidian out, i've put together..."
 reader_id: "01kj05p7qs58k0krcpb2x2x6rc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8183-a2cf-c88edff8c07d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05p7qs58k0krcpb2x2x6rc"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Conrad House created a simple file structure and a skill for Obsidian to help keep notes updated. He says using Obsidian with Claude makes organizing and visualizing ideas easier. The setup can be customized to fit different workflows and includes features like auto-documentation and GitHub integration."
-content_hash: "8d64f915ea6065875c3710592913ddc85fa9206c6460b65bd4b22ce5b945c03e"
+content_hash: "2cd889012f95195a4327ab0effea441df62b2215c41aaf6bde2467f0df7b67e8"
 ---
 
 if anyone's interested in trying Obsidian out, i've put together a skeleton framework of the file structure im using including a basic /obsidian skill for Claude that helps keep notes updated.

@@ -1,7 +1,7 @@
 ---
 title: "\"OpenAI has <30 PMs for 2,000+ staff - we want..."
 reader_id: "01jxz0a4a5dx3bm2qcv4mt11n8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e0-85d5-e54e83807ecf"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01jxz0a4a5dx3bm2qcv4mt11n8"
@@ -13,7 +13,7 @@ published: "2025-06-15"
 saved_at: "2025-06-17"
 reading_time: "1 min"
 summary: "OpenAI has fewer than 30 product managers for over 2,000 employees, highlighting their unique approach to AI development. In an interview, Nate Gonzalez discusses how they use ChatGPT at work and their focus on quick user feedback rather than perfection. He also shares insights on what they look for when hiring new product managers."
-content_hash: "1876b4a2921ece2bfd87f6850a13bd78b8b020a0d4e8b32e64ecc23c05b3647c"
+content_hash: "f1b5b4746bd25147c4a62fa182f4efbf2a211a5a6b6f442a3119d29248062432"
 ---
 
 "OpenAI has <30 PMs for 2,000+ staff - we want to show what it's like to build on top of AI."

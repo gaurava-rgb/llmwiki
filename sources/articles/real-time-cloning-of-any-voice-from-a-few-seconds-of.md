@@ -1,7 +1,7 @@
 ---
 title: "real-time cloning of any voice from a few seconds of..."
 reader_id: "01k51xtzeqwn4xqrk66h01mpee"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c0-b7ae-de3fe59e335a"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k51xtzeqwn4xqrk66h01mpee"
@@ -13,7 +13,7 @@ published: "2025-09-13"
 saved_at: "2025-09-13"
 reading_time: "1 min"
 summary: "real-time cloning of any voice from a few seconds of audio"
-content_hash: "aeae37fcb2708095b5b65f7a9d9961b317b1258994e81105e09ebf787a59e103"
+content_hash: "e3a1377acfcb5173ba676fc0cc4b15c963dcb5f52a03bdc4467b7cc817301db4"
 ---
 
 real-time cloning of any voice from a few seconds of audio

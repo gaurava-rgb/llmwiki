@@ -1,7 +1,7 @@
 ---
 title: "a lot of engineering orgs (Stripe, Ramp, Coinbase) are building..."
 reader_id: "01km3cxknpgmfb48c4eb6nj39w"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a9-bd1c-f90a0af4222b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cxknpgmfb48c4eb6nj39w"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "7 mins"
 summary: "Many companies like Stripe and Coinbase build internal cloud coding agents to help developers work faster. Open SWE is a free, open-source framework that lets any team create similar coding agents with safe cloud sandboxes and useful tools. It works with Slack, GitHub, and Linear, and can be customized to fit different workflows and needs."
-content_hash: "af1d3702fca2e8e5af665a0c959345db7650c552fa4fa9a0118ebf04cfcbb5f5"
+content_hash: "41113d56e8ab80064b3e68d7b6c9c9d22bcca1a2f287912dc62b7e156c0dba00"
 ---
 
 a lot of engineering orgs (Stripe, Ramp, Coinbase) are building internal cloud coding agents

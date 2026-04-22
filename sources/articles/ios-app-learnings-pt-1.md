@@ -1,7 +1,7 @@
 ---
 title: "iOS app learnings pt. 1"
 reader_id: "01kk99mzgv2nt1fx3kjgxn0xdq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817e-90da-f5b48f556bea"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk99mzgv2nt1fx3kjgxn0xdq"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-09"
 reading_time: "5 mins"
 summary: "Build apps that solve your own problems first and find others who share them. Focus on making your app thoughtful and well-crafted, not just quick and sloppy. Anyone can learn and create something great with passion and persistence."
-content_hash: "74fc7c4c5da128dcf3d49e23c9aa9c0617c08c3752bf39534d6254f290c9a727"
+content_hash: "975d4a485b4f32cc36e51203817fb938cb2c0abb3a26e70313d430880bf2fb3e"
 ---
 
 ![iOS app learnings pt. 1](https://pbs.twimg.com/media/HCu8fF6WYAA6ll-.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "How to Get Whatever You Want • Jim Rohn"
 reader_id: "01jxkfejjrbrad5hv8j6g0db98"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817b-a197-c3aa47ea4f58"
 category: "video"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01jxkfejjrbrad5hv8j6g0db98"
@@ -13,7 +13,7 @@ published: "2025-04-11"
 saved_at: "2025-06-13"
 reading_time: ""
 summary: "To get what you want, start by asking clearly and specifically. Remember, success is abundant, so don't hesitate to ask for it. Believe in your goals like a child and take action to achieve them."
-content_hash: "694366821d44771cbfdcc7828da71fe6e78fb04e43f52c2c6f12ea84b493f5fe"
+content_hash: "d71369dda079be888efe5dde11bf8b3950e615342ed14ea47f5130a5936dd0aa"
 ---
 
 How to Get Whatever You Want:that's the titleof the next set of notes.How to getwhatever you want.Here's what it says:if you’re ready,it says...ask.That's it!End of notes.End of notes.Ask.If there’s one art in lifeto learn extremely well,that’s got to beone of them!The art of asking.The art of asking.What does "ask" mean?Ask means...what do you want?What do you want?And the formula is staggering:it says, "Ask and... what?...you shall receive."A guy ought to look into that.See, you've got to be betterthan a good worker;you've got to beA good asker.

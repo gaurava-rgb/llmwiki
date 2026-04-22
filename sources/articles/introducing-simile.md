@@ -1,7 +1,7 @@
 ---
 title: "Introducing Simile"
 reader_id: "01khbwb6s5fw71qfdyap2vm12b"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816a-b03f-ca56f2718ad0"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwb6s5fw71qfdyap2vm12b"
@@ -13,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-13"
 reading_time: "1 min"
 summary: "Simile is a new project focused on simulating human behavior. They raised $100 million from top investors and experts. The team invites others to join their work at x.com."
-content_hash: "1750db41a23312e27a7bfecf74d7aba3f6e0976796f1d8aa59b6c77173e8c875"
+content_hash: "877f37c99412c61536d6634b90d4577e35ce483f9b4cacbe53727551f8db7872"
 ---
 
 Introducing Simile.

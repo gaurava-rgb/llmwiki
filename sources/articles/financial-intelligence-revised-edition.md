@@ -1,7 +1,7 @@
 ---
 title: "Financial Intelligence, Revised Edition"
 reader_id: "01k7mcma7rd50npfe2sxcg0ky9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8145-b075-f0419b75a8d7"
 category: "pdf"
 source_type: "File Upload"
 reader_url: "https://read.readwise.io/read/01k7mcma7rd50npfe2sxcg0ky9"
@@ -13,7 +13,7 @@ published: "2012-11-21"
 saved_at: "2025-10-15"
 reading_time: "5 hrs 13 mins"
 summary: "Finance mixes art and science: numbers rely on rules, estimates, and assumptions. Profit on the income statement is based on promises, not cash, so cash flow shows whether a company can actually pay bills and invest. Good managers spot where accounting choices affect results and question the numbers."
-content_hash: "8d54a647885e5768cc6b07ef33bb74fec76f5967c444ccaedc661fb0e0854515"
+content_hash: "57c530811a28c020940fcf171336bb47761ffedad3b9224d87f480dd83aa3073"
 ---
 
 har v ard business re v iew press

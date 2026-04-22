@@ -1,7 +1,7 @@
 ---
 title: "At top firms, the quant interview does not care if..."
 reader_id: "01kkfaz53ze1zkfeqa3syks05t"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815d-a1b9-c8b78991c8d8"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfaz53ze1zkfeqa3syks05t"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "11 mins"
 summary: "This text explains how to calculate and analyze investment returns using Python with real price data. It covers key concepts like total returns, annualized returns, volatility, Sharpe ratio, wealth index, and drawdowns. The guide ends with a complete code pipeline to help users apply these methods to their own investments."
-content_hash: "3c17169978692c7dc3309249634abaceeec865e1efe226b97e0cc75c5c4d18e6"
+content_hash: "13473d4e4e5450df5680c45d9bc076f2dac2c6f66cdfe1c62b1d2332d9bd5dcf"
 ---
 
 At top firms, the quant interview does not care if you went to MIT or Ivy League schools. It tests whether you understand the foundation.

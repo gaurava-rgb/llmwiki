@@ -1,7 +1,7 @@
 ---
 title: "Let me make a version of this for the Indian..."
 reader_id: "01km1emy7zjpra745be43evvts"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810c-80ad-e0411943f1df"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1emy7zjpra745be43evvts"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Let me make a version of this for the Indian spring with some added info and where to get them . \n\n- Oxford Shirts (100% cotton, 150 gsm. light colors. @thelayerproject , @monksofmethod ) \n\n- Rugby Jersey (Pique cotton, @thelayerproject )\n\n- Linen Shirt (60-100 LEA, @thelayerproject, Tailorzclothing, Bombay shirt company ) \n\n- Chambray Shirt  (@monksofmethod, @thelayerproject @BombayShirtsUSA ) \n\n- White T-Shirt  (The Sawyer in Suvin and India cotton @thelayerproject , Bamboo @GoAthlos )\n\n- Harrington Jacket (Linen G9 @thelayerproject , good ones also @UniqloIn )   \n\n- Chore Jacket ( The Conrad in heavy Linen from @thelayerproject )    \n\n- Chino Shorts  (Mark and spencer ) \n\n- Linen Shorts  (Mark and Spencer. Make sure the inseam isn't longer than 7 inches ) \n\n- Jeans  (@monksofmethod , https://t.co/9gPyecqQHM) \n\n- Chinos (tailorz clothing, https://t.co/9gPyecqQHM) \n\n- Loafer (@jootawaala) \n\n- Boat shoe (@jootawaala) \n\n-Unstructured 2 button Jacket ( The Newman in linen @thelayerproject )"
-content_hash: "ad376d4b10d9cf2db594f0b73888e14182ffbda26a64705e051c3228713106bf"
+content_hash: "a99801c834e89635c40d05cbb6a390f5490497a807321a81b61f781eeaee313f"
 ---
 
 Let me make a version of this for the Indian spring with some added info and where to get them .

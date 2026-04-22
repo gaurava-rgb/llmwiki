@@ -1,7 +1,7 @@
 ---
 title: "One of the main factors in me passing the technical..."
 reader_id: "01kkyhky8t9g1je0r9p7zq0bgd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811f-9280-d0305e0d7d69"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkyhky8t9g1je0r9p7zq0bgd"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-17"
 reading_time: "2 mins"
 summary: "Goreng passed his technical interview by quickly learning with the help of AI agents over a weekend. The AI acted like a personal tutor, asking questions, tracking progress, and giving quizzes to improve his understanding. This interactive learning method helped him prepare efficiently and land the job."
-content_hash: "5b25cbeb1ea665eff395e0b0a9cf0b78cc7453c35d2f965c73ec9ee03a0a47a7"
+content_hash: "991d48e6cca36b4a64bc945ed01a41666503f408c9c198dd8a5bdf8f982b9d42"
 ---
 
 One of the main factors in me passing the technical interview (and getting the job) was because I managed to cram A LOT of learning over a weekend, primarily using AI agents to learn

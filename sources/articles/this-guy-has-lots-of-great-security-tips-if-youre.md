@@ -1,7 +1,7 @@
 ---
 title: "This guy has lots of great security tips if you're..."
 reader_id: "01kjv338ymmzxbrq0w946s9bg3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8107-beb7-df76228be56a"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv338ymmzxbrq0w946s9bg3"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "This guy has lots of great security tips if you're coding with AI, great follow @elvissun"
-content_hash: "034a58758b0490613c4b84ea785df79e4f9f1d5c930db722204e64cc6eb30c18"
+content_hash: "a90aa0570ff2d5bc2828284add4c57ad2e4e2559715232e20200efccf8ea8937"
 ---
 
 This guy has lots of great security tips if you're coding with AI, great follow [@elvissun](<https://twitter.com/elvissun>)

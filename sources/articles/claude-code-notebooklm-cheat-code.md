@@ -1,7 +1,7 @@
 ---
 title: "Claude Code + NotebookLM = CHEAT CODE"
 reader_id: "01kk0scq4130cwkhrzayegk1c5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8159-a01d-c29a9c1cf7f0"
 category: "video"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kk0scq4130cwkhrzayegk1c5"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-06"
 reading_time: ""
 summary: "Claude Code and NotebookLM work together to scrape YouTube captions, analyze data, and create deliverables like slide decks for free. This setup saves time and money by automating research and content creation without using many tokens. Anyone can use simple commands to build powerful workflows for trending video analysis inside Cloud Code."
-content_hash: "c780e9378c87efb108b16bbe1c50340d3cf0d097e2d5b7339031e312c31d62cb"
+content_hash: "2cc536315ce1041109873db3c204b992494e450516b8ecb768b0d584b44ec570"
 ---
 
 Claude Code might be the most powerfulresearch agent on the planet, but youneed to add this one tool to unlock it.Now, most people's version of ClaudeCode research is just telling it to usethe web search tool and praying thatwhatever it comes back with is goodenough. But we can do better becausewhat if I told you with just fiveminutes of setup, we could createworkflows inside of Cloud Code that areable to scrape any section of YouTube,pull their captions, push thatinformation to a free, robust, pre-builtrag system that is able to do all theheavy lifting and analysis for us, andthen take that analysis and give usdeliverables like slide decks,infographics, podcasts, you name it. Allwhile costing us virtually zero tokens.

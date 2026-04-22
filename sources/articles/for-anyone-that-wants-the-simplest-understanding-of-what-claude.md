@@ -1,7 +1,7 @@
 ---
 title: "for anyone that wants the simplest understanding of what Claude..."
 reader_id: "01kjcyhm8tmpmy4ptmxdq4dtzp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e4-b6e7-ca32c49cb725"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjcyhm8tmpmy4ptmxdq4dtzp"
@@ -13,7 +13,7 @@ published: "2026-02-26"
 saved_at: "2026-02-26"
 reading_time: "1 min"
 summary: "Claude Code helps you run commands and access files easily. It connects tools and automates your work. It is becoming a powerful system for developers."
-content_hash: "fc5865595d21ccfbc33bdbab01a24fafdc9414792628fdb78c9d48705cbe374d"
+content_hash: "957c83983b30539ac567dcbe7dbc22515475ec055f1f7c65c5cd4f835e204f8e"
 ---
 
 for anyone that wants the simplest understanding of what Claude Code is and how to use it

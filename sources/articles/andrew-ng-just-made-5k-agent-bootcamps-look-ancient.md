@@ -1,7 +1,7 @@
 ---
 title: "🚨 Andrew Ng just made $5k agent bootcamps look ancient"
 reader_id: "01kj05nerh5vtr3vzmc7tsb04z"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811a-80c7-eb7644b040cb"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05nerh5vtr3vzmc7tsb04z"
@@ -13,7 +13,7 @@ published: "2026-02-21"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Andrew Ng and Anthropic released a free course to build and use agent skills easily. The course teaches creating custom workflows and deploying them everywhere. You can learn to make agents smarter in under two hours."
-content_hash: "1b121f6ccc9c8900fa2c751fcdac0bf971b7f5310ada6511cd4f42aac3d428ed"
+content_hash: "e6f480258335d008f7a31bf3970dfd9f6d910a38dec3e3a697fd54936fa8bdd7"
 ---
 
 🚨 Andrew Ng just made $5k agent bootcamps look ancient.

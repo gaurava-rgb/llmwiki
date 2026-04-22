@@ -1,7 +1,7 @@
 ---
 title: "The \"Visual Explainer\" agent skill just crossed 3.5K stars on..."
 reader_id: "01kjmz7qr3z16vq50cjt7tspr6"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8102-97ad-cbd341bc2ccc"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmz7qr3z16vq50cjt7tspr6"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-01"
 reading_time: "1 min"
 summary: "The \"Visual Explainer\" skill on GitHub recently gained over 3,500 stars. It helps explain complex ideas clearly using rich HTML and stylish templates. The latest update added new commands and design improvements."
-content_hash: "f07eec8d771b4012f831494d6b2af16bc11d8a4fb4befdf5575506a55440eced"
+content_hash: "9a8b74a523a1f5e2a914c08837279134a669aeba5224e16b0aabb90612943108"
 ---
 
 The "Visual Explainer" agent skill just crossed 3.5K stars on GitHub 🎉

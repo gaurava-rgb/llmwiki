@@ -1,7 +1,7 @@
 ---
 title: "There seems to be two camps about OpenClaw:"
 reader_id: "01kj3b4ba9zba386yy5wmkpfvt"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813d-afe4-f9abd1d255d3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj3b4ba9zba386yy5wmkpfvt"
@@ -13,7 +13,7 @@ published: "2026-02-21"
 saved_at: "2026-02-22"
 reading_time: "1 min"
 summary: "There are two views about OpenClaw: some love it, others doubt it. A bot named FelixCraftAI made over $14,000 in three weeks using OpenClaw. Its creator shared how he set it up and made it work."
-content_hash: "d7a197de484dd150a7dabb93e8863b09b17715f239c09f6b349f2b13f4042ad5"
+content_hash: "9028b2371b90bd7536d891a15c06c27019cf0616d70b2ed1ccced21ccde60424"
 ---
 
 There seems to be two camps about OpenClaw:

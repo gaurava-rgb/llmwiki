@@ -1,33 +1,76 @@
 ---
 topic: Claude Code and Tools
-last_compiled: 2026-04-16
-sources_count: 2
+last_compiled: 2026-04-22
+sources_count: 48
 ---
 
 # Claude Code and Tools
 
-## Summary [coverage: medium -- 2 sources]
-Claude Code is Anthropic's agentic coding tool that plans, writes, tests, and manages code across multiple files using plain-language instructions. It ships with an extensible architecture — CLAUDE.md for persistent context, skills for reusable workflows, subagents for parallel task delegation, hooks for deterministic automation, MCP for external integrations, and plugins for team distribution. Alongside the tool itself, Anthropic launched the Claude Certified Architect (CCA) credential on March 12, 2026, the company's first official technical certification, which tests whether engineers can architect production-grade Claude applications — not merely use them. The CCA is a proctored 60-question, 120-minute exam anchored to six real-world scenario contexts, and it costs $99 with free preparation materials via Anthropic Academy (launched March 2, 2026, with 13 self-paced courses on Skilljar).
+## Summary [coverage: high -- 48 sources]
+Claude Code remains one of the clearest through-lines in the rebuilt corpus. The material spans practical builder tips, skills, memory systems, MCP, Claude Cowork, budget control, and the broader shift from one-shot prompting to persistent tool environments that plan, execute, and revise. This rebuild groups 48 sources into this topic. Representative sources include "Why Anthropic’s MCP is a Big Deal", "Claude Code + NotebookLM = CHEAT CODE", and "Tim Cook's Impeccable Timing".
 
-## Key Thesis [coverage: medium -- 2 sources]
-Claude Code rewards progressive investment: the more a team teaches it about their stack, conventions, and workflows through CLAUDE.md files, skills, hooks, and subagents, the more productive and accurate it becomes — compounding over time like a junior developer who learns from every correction. In parallel, the CCA credential signals that the industry is moving from casual AI use toward formal architectural competency, with enterprise partners like Accenture (training ~30,000 professionals), Cognizant (~350,000 associates with Claude access), Deloitte, and Infosys positioning the certification as a baseline expectation for Claude-focused delivery roles.
+## Key Thesis [coverage: high -- 48 sources]
+The productivity gains around Claude Code come less from better prompting than from building durable environments: reusable skills, structured context, scoped tools, and disciplined memory.
 
-## Key Insights [coverage: medium -- 2 sources]
-- **Extension architecture is the multiplier.** Claude Code's eight core extension types — CLAUDE.md, rules, skills, custom commands, MCP, subagents, agent teams, and hooks — transform a generic coding assistant into a team-aware system that knows the stack every session. CLAUDE.md files should stay under 200 lines each; larger ones consume context and reduce instruction adherence.
-- **Programmatic enforcement beats prompt-based guidance.** This is the single most tested concept on the CCA exam (Domains 1 and 3 together account for 47% of questions): when a system behavior must be guaranteed — tool call ordering, output format compliance, escalation thresholds — use code and schema validation, not prompt instructions. Prompts cannot guarantee contract compliance; hooks, JSON schema validation, and deterministic threshold logic can.
-- **Subagents keep the main context clean.** Tasks like running tests, fetching docs, or processing logs produce high-volume output. Delegating them to subagents — which run in isolated context windows and return only summaries — preserves the main session's quality. Subagents can also be routed to cheaper models (e.g., Haiku) to control costs, and should be instructed to check and update memory at the start and end of each task.
-- **Agent teams are experimental and token-expensive.** Enabled via `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS` in settings.json, they run multiple full Claude Code instances in parallel — one as team lead, others as independent teammates. Token usage scales roughly proportionally with team size, making Sonnet the recommended model for teammates. They suit parallel exploration (UX vs. architecture vs. devil's advocate), not sequential or file-contention work.
-- **The CCA first-mover window is narrow.** Engineers who certified in March 2026 will have two years of demonstrated commitment before the credential becomes table stakes at major consulting firms — a compounding signal that certifying in 2028 cannot replicate. The exam requires at least six months of hands-on production experience with the Claude API, Claude Code, and MCP; it is not passable by tutorial-grinding.
+## Key Insights [coverage: high -- 48 sources]
+- The corpus repeatedly treats MCP, skills, and memory layers as the real force multipliers around Claude Code.
+- Cost management is a first-order topic, which signals that people are running these tools for real work rather than novelty demos.
+- Codex and OpenClaw appear mostly as comparison points that sharpen the value of Claude's surrounding ecosystem, not just its model output.
 
-## Industry Context [coverage: medium -- 2 sources]
-Claude Code sits in the broader shift from LLM-as-chatbot to LLM-as-development-infrastructure. Its VS Code extension, JetBrains plugin, Desktop app, Web, and iOS surfaces — unified via shared CLAUDE.md, settings, and MCP servers — signal a platform play rather than a point tool. The CCA certification parallels what AWS did with cloud certifications between 2013 and 2018: optional differentiator → preferred qualification → required baseline. The compressed enterprise adoption timeline (Accenture, Cognizant, Deloitte, Infosys at massive scale in 2026) suggests the Claude credential stack will follow the same trajectory faster. Anthropic Academy's free, no-paywall preparation materials lower the barrier to entry while the proctored format maintains signal integrity — the same structural combination that gave AWS certifications lasting weight.
+## Industry Context [coverage: high -- 48 sources]
+Relative to the earlier wiki, this topic now includes far more practitioner evidence from short-form sources. That makes the picture less theoretical: Claude Code is being used as an operating environment, with all the attendant concerns about budget, trust, memory, and interface design.
 
-## Implications [coverage: medium -- 2 sources]
-- **For individual engineers:** Invest in CLAUDE.md, skills, and subagent design before optimizing prompts. The extension architecture is where the compounding productivity gains live. Use plan mode (`Shift+Tab` twice) for multi-file changes; use `/simplify` post-implementation for quality review; manage context aggressively with `/context` and `/compact`.
-- **For teams:** Commit project subagents (`.claude/agents/`) and CLAUDE.md files to version control so all team members share the accumulated context. Package shared conventions as plugins for consistent distribution across repositories. Allowlist safe commands (e.g., `npm test`, `git status`) in `.claude/settings.json` to reduce friction.
-- **For architects targeting the CCA:** Study all six exam scenarios (Customer Support Resolution Agent, Code Generation with Claude Code, Multi-Agent Research System, Developer Productivity with Claude, Claude Code for CI/CD, Structured Data Extraction) — any four appear on exam day. Memorize the seven anti-patterns identified by exam takers: prompt-based ordering, self-reported confidence for escalation, Batch API for blocking workflows, context window inflation for attention problems, silent subagent failure, all-tools-to-all-agents, and prompt-only output enforcement.
-- **For organizations:** Requiring CCA certification from Claude architects provides an objective baseline that previously required custom technical assessments. At $99 per exam and zero cost for preparation materials, it is the most accessible serious AI architecture credential available.
+## Implications [coverage: high -- 48 sources]
+- Version the environment around the model: skills, context files, approval defaults, and memory shape outcomes as much as model choice.
+- Treat token budget and tool access as design variables in the workflow.
+- The ecosystem around Claude Code is now rich enough that tool choice increasingly means choosing a work style, not merely a model.
 
-## Sources [coverage: high -- 2 sources]
-- [[../../what-i-learnt-using-claude-code-to-build-production-ready-apps]]
+## Sources [coverage: high -- 48 sources]
+- [[../../why-anthropics-mcp-is-a-big-deal]]
+- [[../../elvis-elvissaravia-how-do-you-build-effective-ai-agents-this-is-a-problem-i-think-deeply-a]]
+- [[../../claude-code-and-what-comes-next]]
+- [[../../i-installed-claude-cowork-yesterday]]
+- [[../../programmer-who-spent-2000-hours-with-claude-code-shares-6]]
+- [[../../best-claude-code-plugins-i-use-daily]]
+- [[../../claude-code-costs-17month-and-runs-out-in-2-4-tasks]]
+- [[../../how-my-openclaw-agent-larry-got-millions-of-tiktok-views-in-one-week-full-step-by-step-gui]]
+- [[../../obsidian-claude-code-101]]
+- [[../../openclaw-and-minimax-is-agi]]
+- [[../../openclaw-has-186k-github-stars-and-15m-compromised-api-keys]]
+- [[../../give-your-openclaw-these-2-skills-get-millions-of]]
+- [[../../openclaw-documentation-847-pages]]
+- [[../../agent-skills-are-everywhere-claude-code-gemini-cli-codex]]
+- [[../../lessons-from-building-claude-code-prompt-caching-is-everything]]
+- [[../../there-seems-to-be-two-camps-about-openclaw]]
+- [[../../openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup]]
+- [[../../harness-engineering-leveraging-codex-in-an-agent-first-world-openai]]
+- [[../../not-hate-for-openclaw-but-its-too-unstable-and-fragile]]
+- [[../../openclaw-just-got-an-unfair-advantage-over-every-other]]
+- [[../../btw-if-you-are-serious-about-openclaw-or-similar-the]]
+- [[../../mcp-is-dead-long-live-the-cli]]
+- [[../../chris-blattman-is-the-best-popularizer-of-claude-code-for]]
+- [[../../i-createinvented-a-new-skill-for-leading-claude-code-through]]
+- [[../../claude-code-notebooklm-cheat-code]]
+- [[../../this-is-how-you-can-give-claude-code-the-ability]]
+- [[../../how-id-tackle-anthropics-claude-code-take-home-assignment-as-a-principal-level-pm]]
+- [[../../a-couple-of-suggestions-for-claude-code-productivity-from-someone]]
+- [[../../i-made-a-claudecodex-skill-to-help-you-learn-python]]
+- [[../../one-of-the-most-insane-10x-unlocks-for-claude-code]]
+- [[../../mcp-sucks-honestly]]
+- [[../../if-youre-a-pm-who-uses-claude-codecursor-to-build]]
+- [[../../boost-job-search-with-claude-cowork-find-hiring-managers-in-minutes]]
+- [[../../how-i-reverse-engineered-claude-code]]
+- [[../../youve-set-up-claude-code]]
+- [[../../reading-trq212s-lessons-from-building-claude-code-how-we-use]]
+- [[../../i-handed-claude-code-karpathys-autoresearch-repo-and-apples-llm]]
+- [[../../best-way-to-optimize-your-claudecodex-usage-limits]]
+- [[../../just-shipped-an-official-readwise-skill-for-openclaw]]
+- [[../../great-thread-on-reducing-claude-code-token-up-to-60]]
+- [[../../axios-supply-chain-attack-claude-code-code-leaked-ai-and-security]]
+- [[../../i-created-documentation-over-claude-codes-codebase-which-explains]]
+- [[../../you-can-use-claude-code-to-clean-your-mac]]
+- [[../../built-a-3-layer-memory-stack-that-wires-claude-code-directly]]
 - [[../../the-claude-certified-architect-is-here-and-its-unlike-any-ai-certification-befor]]
+- [[../../what-i-learnt-using-claude-code-to-build-production-ready-apps]]
+- [[../../switched-from-openclaw-to-hermes-setting-up-hindsight-memory-now]]
+- [[../../tim-cooks-impeccable-timing]]

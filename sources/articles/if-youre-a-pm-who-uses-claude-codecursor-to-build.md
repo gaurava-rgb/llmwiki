@@ -1,7 +1,7 @@
 ---
 title: "If you're a PM who uses Claude Code/Cursor to build..."
 reader_id: "01kkj8rsh9p1ws9pknnnnt92g7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8153-b469-e2679854a303"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkj8rsh9p1ws9pknnnnt92g7"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-13"
 reading_time: "2 mins"
 summary: "This tool stack helps product managers quickly find and use past research and decisions without manual copying. It uses Obsidian to store notes locally and qmd to search them with advanced methods, keeping data private. This saves time and makes each new note more valuable for future work."
-content_hash: "c1b7611e35e23dbf9761725e06a23d7c04b0edef1cb6e867433a976b5d9a75fb"
+content_hash: "ba0394c934cc36b67c4fe320598c9808d4624b6ba7a7a00accd360e86830434f"
 ---
 
 If you're a PM who uses Claude Code/Cursor to build and execute research, strategy, and discovery work, this stack cuts context setup from 15 minutes of pasting to under a minute.

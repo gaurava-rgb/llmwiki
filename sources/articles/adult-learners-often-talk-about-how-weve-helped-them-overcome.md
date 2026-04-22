@@ -1,7 +1,7 @@
 ---
 title: "Adult learners often talk about how we've helped them overcome..."
 reader_id: "01kmnwqkww3f1wyrepv0x80151"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815c-b3a6-cba0e9a1a8d2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwqkww3f1wyrepv0x80151"
@@ -13,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "Adult learners often overcome childhood math struggles by filling in missing skills. Alex Smith created courses to help adults build strong math foundations. These courses prepare students for advanced studies in science and engineering."
-content_hash: "6206a3614a80b19427eb799d6c5de56631563db329c040d3463990d283c6124d"
+content_hash: "a16e852c843b8fda38fd36b2b165c9c9f21fa51c5f7dcb01929da81993501b72"
 ---
 
 Adult learners often talk about how we've helped them overcome childhood math trauma.

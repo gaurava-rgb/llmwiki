@@ -1,7 +1,7 @@
 ---
 title: "How I stopped burning 75% of my Claude budget and saved $500/month\""
 reader_id: "01knqbz95zszsq3b6cef3e42dj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8159-ade8-dc5330faebdb"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqbz95zszsq3b6cef3e42dj"
@@ -13,7 +13,7 @@ published: "2026-04-07"
 saved_at: "2026-04-08"
 reading_time: "4 mins"
 summary: "The author saved $500 a month by cutting 75% of wasted Claude tokens using a caveman-style plugin and better task batching. They avoided downtime by sending early “warm-up” messages to reset usage windows. Other tips include editing prompts instead of replying, using Projects to avoid re-uploads, and saving context once in Memory."
-content_hash: "1d50dbbf9ee7cbf519f3305512b46b3fa705ebe56885292f424e57c1c5ac289a"
+content_hash: "cffd7bc3e45dd29e54811e64e213cca190c801bf18e2b9d3fe17827cfbda3385"
 ---
 
 ![How I stopped burning 75% of my Claude budget and saved $500/month"](https://pbs.twimg.com/media/HFNMZXdaIAA3w0h.jpg)

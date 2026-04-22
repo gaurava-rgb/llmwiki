@@ -1,7 +1,7 @@
 ---
 title: "best way to optimize your claude/codex usage limits"
 reader_id: "01kmhj9vcv95x4jb83679jh3qa"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8198-8666-db189b286c1d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmhj9vcv95x4jb83679jh3qa"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-25"
 reading_time: "1 min"
 summary: "best way to optimize your claude/codex usage limits.\n\n> install ollama in your local system  \n> download gpt-oss, qwen, minimax models  \n> open cli and hit `ollama launch claude`  \n> pick any ollama model in claude code cli  \n> get antigravity or cursor free tier  \n\nnow just use claude opus and gpt-5 for planning and writing the first iteration of the code. if your usage limit hits, then move to antigravity opus or gemini pro for further coding tasks. do not use these premium models for tasks like fixing bugs and writing docs.\n\nif your task is writing docs, instruction prompts, fixing bugs, high-level orchestration flow, writing logs, and testing scripts, always choose the ollama x claude combination.\n\nswitching between tools will help you deliver everything without interruption."
-content_hash: "523ca988533b0cadb6f22030d51b4e6c11c5192c040e317d1cc5286d47c119ad"
+content_hash: "2dc46c1a1265fce2c5c3be27b209c1ba4b180c9c96c11d51789c246553478222"
 ---
 
 best way to optimize your claude/codex usage limits.

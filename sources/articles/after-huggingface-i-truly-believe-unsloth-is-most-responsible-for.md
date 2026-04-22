@@ -1,7 +1,7 @@
 ---
 title: "After Huggingface, I truly believe Unsloth is most responsible for..."
 reader_id: "01kmgd3y49nvham2yrfc0wps5b"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8172-bf28-fe4a32b1fb06"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmgd3y49nvham2yrfc0wps5b"
@@ -13,7 +13,7 @@ published: "2026-03-23"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "Unsloth is helping many people use deep learning easily, just like Huggingface. Their Qwen3.5 models work well and can be trained with simple tools. You only need a dataset or a way to check answers to train your own model."
-content_hash: "adadf20bc1ebaeafa948f0248e589525ebb11a400452627d79bb2cc006988daf"
+content_hash: "e0a03e3cb8629d1d1d9e5bbcbbcb65d9e9f7b0932a97e21165a260c4dee6b735"
 ---
 
 After Huggingface, I truly believe Unsloth is most responsible for the democratization of deep learning.

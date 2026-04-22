@@ -1,7 +1,7 @@
 ---
 title: "This 2-hour lecture by Andrej Karpathy - co-founder of OpenAI..."
 reader_id: "01knqbzjdzx6xath13hh90bktd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8164-a9b6-e5a4effeaa07"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqbzjdzx6xath13hh90bktd"
@@ -13,7 +13,7 @@ published: "2026-04-07"
 saved_at: "2026-04-08"
 reading_time: "4 mins"
 summary: "Andrej Karpathy's lecture explains how GPT works and why some messages cost more tokens. Using \"caveman Claude\" and smart tricks can save you hundreds of dollars monthly by cutting token waste. Simple habits like batching questions and saving context reduce unnecessary costs and downtime."
-content_hash: "14dcc892783d859bab04d6763537cdf8365ddb570920b977de7f433f4f4a0dd0"
+content_hash: "119802338285243dbed7f0af41936fb22ad852246a3b86174030253b1b19766e"
 ---
 
 This 2-hour lecture by Andrej Karpathy - co-founder of OpenAI, the man who coined "vibe coding" - will build GPT from scratch and show you exactly why message 30 costs you 31x more than message 1.

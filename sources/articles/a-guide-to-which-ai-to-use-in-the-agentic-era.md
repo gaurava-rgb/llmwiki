@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Which AI to Use in the Agentic Era"
 reader_id: "01khq70vhvrx4heanshbbfx5hy"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f3-b9e1-e80c2edf46c2"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01khq70vhvrx4heanshbbfx5hy"
@@ -13,7 +13,7 @@ published: "2026-02-18"
 saved_at: "2026-02-18"
 reading_time: "12 mins"
 summary: "AI use has evolved from simple chatbots to smart agents that can do tasks for you using different tools. To get the best results, you need to choose the right AI model, app, and harness based on what you want to achieve. Paying for advanced models like ChatGPT, Claude, or Gemini and using powerful apps will help you work smarter and get more done."
-content_hash: "0b01837d818e1f23d24dc42977a020c0b89b5233c596c7cfd0d3c9532599cb18"
+content_hash: "9f0b1ed3f79f1dab29e8fece101de70ae2d8924392a200e3ba2125b274ea9f74"
 ---
 
 ###  It's not just chatbots anymore

@@ -1,7 +1,7 @@
 ---
 title: "Instead of doomscrolling on TikTok, watch this instead"
 reader_id: "01kk6xprjy5zpvtn8fvpb8zad9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8160-8fda-c7633ad542c3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6xprjy5zpvtn8fvpb8zad9"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "Instead of doomscrolling on TikTok, watch this instead."
-content_hash: "9949998aa5f9642c866bcd083e67ba33c2ea3669ad9c217bcd87d087293af074"
+content_hash: "e137d822e4775c4cbc8d03f6f4d14ad00c2b3bbe7eb6e6772b89334a868435b1"
 ---
 
 Instead of doomscrolling on TikTok, watch this instead.

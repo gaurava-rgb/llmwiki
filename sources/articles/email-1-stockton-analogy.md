@@ -1,7 +1,7 @@
 ---
 title: "Email 1 Stockton Analogy"
 reader_id: "01k7zza7qfw70mzc9yqj4yj0b5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81aa-b8a1-ebcf16124610"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k7zza7qfw70mzc9yqj4yj0b5"
@@ -13,7 +13,7 @@ published: "2025-10-15"
 saved_at: "2025-10-20"
 reading_time: "5 mins"
 summary: "Stockton became the geographic symbol of the 2008 housing crash because mass foreclosures there exposed fragile mortgage-backed securities. Wall Street and global finance were the true financial epicenter, while Washington scrambled to contain contagion. The lesson: local failures can quickly cascade into systemic crises, so containment must be swift."
-content_hash: "5fcffdb5040ed22ef308e88e3ce2e1515718750b2d5661c61f9f3ce0ccb45a0c"
+content_hash: "1bbd8f2586af1489ac3414e32d6b2b667bdd4a8b60083b8fae52cfeeb1f1a077"
 ---
 
 Here's some of the info that I have compiled:

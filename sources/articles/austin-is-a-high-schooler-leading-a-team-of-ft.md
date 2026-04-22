@@ -1,7 +1,7 @@
 ---
 title: "Austin is a high schooler leading a team of FT..."
 reader_id: "01kkfb4wde3t39d3s5f3wmm17s"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b5-8911-f5b998b6ba56"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb4wde3t39d3s5f3wmm17s"
@@ -13,7 +13,7 @@ published: "2026-03-11"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Austin is a high school student leading full-time engineers to build the best AP test prep. He created an advanced learning diagnostic that finds exact skill gaps. Austin is also learning how to lead and earn trust from experienced professionals."
-content_hash: "d8e014c9f182988130398b86eee7c056e397f30bc6e8453348b633b29fd8a3bb"
+content_hash: "bd95f7e3d06629db0f6c5dc27ab21a8c642aa82d77792188f9e3d38547cde5c0"
 ---
 
 Austin is a high schooler leading a team of FT engineers to build the world’s best AP test prep.

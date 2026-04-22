@@ -1,7 +1,7 @@
 ---
 title: "This is the age of CEOs crushing 10 people’s work..."
 reader_id: "01kj05vddm4yzwzvv59jgtpmc3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c3-9480-dee8734e0f2f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05vddm4yzwzvv59jgtpmc3"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "CEOs are working hard using AI tools like Claude Code to do the work of many people. Howie Liu announced Hyperagent, a smart platform that helps teams work better with AI agents. These agents learn company methods and assist in real-time, making work faster and smarter."
-content_hash: "1dcef229ff3c1430cdfed31c2bef7d7e416923c5238cf15789b3c93b0bc13259"
+content_hash: "dd96e9c4264097833682cb148d0f4aa7ea0cb140f8a1fe607d4a02567da67881"
 ---
 
 This is the age of CEOs crushing 10 people’s work with Claude Code in nights and weekends and I am so here for it

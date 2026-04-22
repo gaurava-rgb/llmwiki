@@ -1,7 +1,7 @@
 ---
 title: "Best (free) open source apps (Mac edition)"
 reader_id: "01kn3nnjvndhnemywvqk0ykd8p"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b2-9713-d118b3b4e0d7"
 category: "video"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn3nnjvndhnemywvqk0ykd8p"
@@ -13,7 +13,7 @@ published: "2026-02-27"
 saved_at: "2026-04-01"
 reading_time: ""
 summary: "This video shares useful free and open-source apps for Mac users. It includes tips for managing windows, clipboard, and audio, plus handy shortcuts. The creator also offers bonus Mac tips and invites viewers to share favorite apps."
-content_hash: "24647fcab89622815ea5d145527cc51a4ab92e9f1fbcdd4de7de4d34391bd891"
+content_hash: "5e5c730fc27078f1e8d92012d30974218d3ed6d7180ed0248ac9e88c2d230558"
 ---
 
 I don't like subscriptions. I do likefree stuff, though. So, today I'm goingto show you some cool and useful freeand open-source apps. But Mac OS isn'topen-source. No. Shall we begin? Oh,and if you haven't watched part one ofthis series, maybe check that one outafterwards.

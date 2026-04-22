@@ -1,7 +1,7 @@
 ---
 title: "Big tip: as  gets longer than 200 lines, put..."
 reader_id: "01kj5h2qq9492cfe930gcbhcs4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e0-9aff-c78579f75989"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj5h2qq9492cfe930gcbhcs4"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-23"
 reading_time: "1 min"
 summary: "Boris Cherny runs many Claude AI sessions at once to write and fix code fast. He uses a special file where Claude learns from its mistakes and improves over time. This method makes Claude work like a team of expert engineers and saves a lot of time."
-content_hash: "305f13ac09abf54896ba9d27667176e0728661e7a9503748d5f0376a4efd5d47"
+content_hash: "477403858e386efaffb94cd5b9a694e862f22089646e949a0d5d0f3ea4a24541"
 ---
 
 Big tip: as [Claude.md](<http://Claude.md/>) gets longer than 200 lines, put in _triggers_ so Claude knows if you touch evals with this __generator._ filename splat, load docs/[EVALS.md](<http://EVALS.md/>).

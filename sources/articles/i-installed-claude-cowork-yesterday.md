@@ -1,7 +1,7 @@
 ---
 title: "I installed Claude Cowork yesterday"
 reader_id: "01kevtt2av6wwbgpvc4r405pv8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815d-88e8-f0ee362b2ab7"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevtt2av6wwbgpvc4r405pv8"
@@ -13,7 +13,7 @@ published: "2026-01-13"
 saved_at: "2026-01-13"
 reading_time: "1 min"
 summary: "The author installed Claude Cowork and it quickly finished two months of work in just two hours. This made the author feel both very productive and unsure about their job. Now, they have no tasks left and are confused about what to do next."
-content_hash: "bbc482118295bc8fea53d0e06d8e09b19f8969fad21c53175e3ee1b45f3b7bde"
+content_hash: "12f20f95f93ce1d26fe0f55418784f843c140f2779420a494a6e6c9f6a7505f9"
 ---
 
 I installed Claude Cowork yesterday

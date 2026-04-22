@@ -1,7 +1,7 @@
 ---
 title: "IMO Anthropic should just hire this little guy"
 reader_id: "01kjmz78xdcx596j3k3yc24kn1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d4-b294-cd394122b3d3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmz78xdcx596j3k3yc24kn1"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-03-01"
 reading_time: "1 min"
 summary: "Alex Fazio built a smart tool called Ralph to improve his Claude workflow. Ralph uses best practices and handles complex code reviews well. The author thinks Anthropic should hire him for his skills."
-content_hash: "4bf71772f2fad0a085b2eff2d0102d1711100aaecb6327ff0ba8703b67f0780b"
+content_hash: "1b1c16b9cf0de1742c7cf919bf05781d1177fc71d5e775cae5556a02797854de"
 ---
 
 IMO Anthropic should just hire this little guy

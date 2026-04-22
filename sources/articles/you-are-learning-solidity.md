@@ -1,7 +1,7 @@
 ---
 title: "You are learning Solidity?"
 reader_id: "01kf3zaad90rxmvndyg9n13h54"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c9-aad4-e45573b49092"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kf3zaad90rxmvndyg9n13h54"
@@ -13,7 +13,7 @@ published: "2026-01-16"
 saved_at: "2026-01-16"
 reading_time: "1 min"
 summary: "The author bought a bot that found a trader making $6 million by copying his moves. This trader uses smart timing and big trades, not super-fast bots. The author now copies this trader automatically instead of guessing."
-content_hash: "f0bb6a90c1444f3b1ac19c1c76ad6e998c442d85e7e5058fb2492c7bb5f76195"
+content_hash: "54cdc715ef0ee161aa42bb5d6100a89f11b673779da37ab75d040fe7389add23"
 ---
 
 You are learning Solidity? And I bought Claude Code for $20 and found a ghost with $6.1M profit.

@@ -1,7 +1,7 @@
 ---
 title: "I promise you you’re vibe coding wrong"
 reader_id: "01jyx4q5vxyywkx2h1crskr119"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b9-85b4-d7437a16af71"
 category: "tweet"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4q5vxyywkx2h1crskr119"
@@ -13,7 +13,7 @@ published: "2025-05-18"
 saved_at: "2025-06-29"
 reading_time: "2 mins"
 summary: "The author, Vasuman Moza, shares a structured approach to coding that avoids chaos and confusion. By using ChatGPT to outline a detailed product architecture and a step-by-step plan, developers can maintain control and produce clean, testable code. This method emphasizes small, focused tasks to streamline the development process."
-content_hash: "7a864dc92ad1f8c56dea1b79fe8a123171c4e46d2b45fc3a8475808820997972"
+content_hash: "e19bf5f29e24423a387e6de8dede81448fe19af72d9d93c30b1665f5e08d918b"
 ---
 
 I promise you you’re vibe coding wrong

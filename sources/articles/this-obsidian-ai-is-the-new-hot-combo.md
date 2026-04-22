@@ -1,7 +1,7 @@
 ---
 title: "this Obsidian + AI is the new hot combo"
 reader_id: "01kjcybe0pmk4jeryqte8apqe4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817c-8f95-f663330cddd4"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjcybe0pmk4jeryqte8apqe4"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-26"
 reading_time: "9 mins"
 summary: "Obsidian and Claude AI work well together to boost writing and thinking efficiency. Keep AI-generated files separate from your main Obsidian vault to keep notes organized. Using folders, tags, and a \"Polaris\" section helps Claude better understand and connect your ideas."
-content_hash: "b71d8767a2e76a9eda55278c895b57ce947134e0b9ab0b2e982fbbd9ea9171c6"
+content_hash: "b63e3970952b184e28ffca7e18cc87a3ba9ed86e11697e86d3abf271b2282724"
 ---
 
 this Obsidian + AI is the new hot combo.

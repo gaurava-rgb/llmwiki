@@ -1,7 +1,7 @@
 ---
 title: "Most of your \"Opus tasks\" aren't actually Opus tasks"
 reader_id: "01khv0tvgvzm18sv01ef6ekg1z"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8102-a007-c717dcb7c76b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khv0tvgvzm18sv01ef6ekg1z"
@@ -13,7 +13,7 @@ published: "2026-02-18"
 saved_at: "2026-02-19"
 reading_time: "1 min"
 summary: "Most tasks labeled \"Opus\" don't need the expensive Opus model. Using the cheaper Sonnet model works well for about 95% of work. A simple code change helps the AI remind you to pick the right model and save costs."
-content_hash: "468a0075be115381695a1b45a76aaaec88d0efa5cc76c4fa103902a5cadf42ff"
+content_hash: "76360276416a8571f9b43cb4369ac47d73dcbcde456a01e247702fa15bfe7439"
 ---
 
 Most of your "Opus tasks" aren't actually Opus tasks. File reads, status checks, basic code changes don't need the $15/$75 model.

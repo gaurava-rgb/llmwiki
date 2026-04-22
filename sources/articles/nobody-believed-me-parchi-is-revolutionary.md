@@ -1,7 +1,7 @@
 ---
 title: "Nobody believed me, Parchi is revolutionary"
 reader_id: "01kj8a1qeptbpq73gny70y8qn2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813d-88e5-daa23bf156c6"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj8a1qeptbpq73gny70y8qn2"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Nobody believed me, Parchi is revolutionary."
-content_hash: "93d82ebb96e2a51ce9b872c3744d1f636bff006dfc7ba7b0889d184f21c20964"
+content_hash: "aae3f5b31581661e406b11241eb9e65bca3d9cfd0c636fb79b41434572ed8727"
 ---
 
 Nobody believed me, Parchi is revolutionary.

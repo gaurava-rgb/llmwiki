@@ -1,7 +1,7 @@
 ---
 title: "Such a short domain deserves a simple website"
 reader_id: "01kj89wfa1dfkhe8bdy360phnz"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8187-a771-e75f32805f54"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89wfa1dfkhe8bdy360phnz"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Such a short domain deserves a simple website. \n\nBuilt in rust."
-content_hash: "e16ff7de56796b00e5cbdf72ae9fa3b41fa8af943d23ea72a4813ecf3420caa1"
+content_hash: "66674329b2a45da84c8b8895881c776f1d9990943061a3355868a8740f3c70c1"
 ---
 
 Such a short domain deserves a simple website.

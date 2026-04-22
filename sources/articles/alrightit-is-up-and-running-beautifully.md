@@ -1,7 +1,7 @@
 ---
 title: "alright...it is up and running beautifully"
 reader_id: "01kmaybwhxsskwmm2qcn09qmf7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814c-8344-cdf4318c779f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmaybwhxsskwmm2qcn09qmf7"
@@ -13,7 +13,7 @@ published: "2026-03-22"
 saved_at: "2026-03-22"
 reading_time: "2 mins"
 summary: "Polyclaude is a plugin that helps you plan projects by looking at them from six different viewpoints. It automatically chooses the best three perspectives to give you a well-rounded assessment. You can customize it or use it as is, making brainstorming and planning easier."
-content_hash: "76fce54542650bf3f46acf2841cbb3b4eb43d62d92c2764752f5f6f101c6e93b"
+content_hash: "ed342f7968c1044b601d127394c9681d5728f4f59c0e42a3335e4a055a590685"
 ---
 
 alright...it is up and running beautifully.

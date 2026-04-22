@@ -1,7 +1,7 @@
 ---
 title: "Built a 3-layer Memory Stack that wires Claude Code directly..."
 reader_id: "01kn79aa2magpjn3zmevdgzjt7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816c-8d76-f564e9a808e1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn79aa2magpjn3zmevdgzjt7"
@@ -13,7 +13,7 @@ published: "2026-04-01"
 saved_at: "2026-04-02"
 reading_time: "5 mins"
 summary: "WorldofAI built a 3-layer Memory Stack that connects Claude AI directly to Obsidian, so it remembers your project details and goals. This system cuts time spent re-explaining context by 85% and makes Claude a smart collaborator. It organizes information clearly and uses tools to turn all your knowledge into a searchable brain."
-content_hash: "d8d4737601693faa1a0296c542233a7e8064e561246ff0e83baf4dfc547882c2"
+content_hash: "5869334f1bdd7ecc9a4655757dd6465b1589c0dd3b3df70a9f6ffe62ef88dbb8"
 ---
 
 Built a 3-layer Memory Stack that wires Claude Code directly into Obsidian with skills so it never forgets your project DNA, your notes, your standards, or your goals.

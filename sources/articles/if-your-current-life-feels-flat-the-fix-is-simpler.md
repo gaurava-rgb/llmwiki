@@ -1,7 +1,7 @@
 ---
 title: "If your current life feels flat, the fix is simpler..."
 reader_id: "01kj3b8zpcpq73g6a6zn22h790"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e7-8cc4-fa65dbbca50d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj3b8zpcpq73g6a6zn22h790"
@@ -13,7 +13,7 @@ published: "2026-02-21"
 saved_at: "2026-02-22"
 reading_time: "8 mins"
 summary: "Life feels flat because you stick to the same routine every day. Doing new, short adventures called side quests adds stories and confidence to your life. These experiences make you more interesting, open doors, and build your personal aura."
-content_hash: "ffb31597162f1e061463f3f25ffbc6bd3081d89026b6e866ef05d24e610f7d18"
+content_hash: "bc69109386d4f3839c06068f6259b89d7f01de100b894db1d278aa2f49b9faca"
 ---
 
 If your current life feels flat, the fix is simpler than you think. Book the trip you have been putting off. Sign up for the class you have been curious about. Say yes to the thing that makes you feel anxious but alive.

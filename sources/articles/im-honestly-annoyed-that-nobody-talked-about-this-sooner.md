@@ -1,7 +1,7 @@
 ---
 title: "I'm honestly ANNOYED that nobody talked about this sooner"
 reader_id: "01kk4hw2xtqcg90mqq4jd9q8t5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d6-9255-f6d3fcc31d48"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4hw2xtqcg90mqq4jd9q8t5"
@@ -13,7 +13,7 @@ published: "2026-03-06"
 saved_at: "2026-03-07"
 reading_time: "4 mins"
 summary: "Most people use AI by typing new prompts every time, which wastes time and effort. Instead, you can delegate tasks to AI by setting up systems that run automatically with your context and instructions. This way, AI works like a team member and saves you days, not just minutes."
-content_hash: "7ccfb0ca900efe3f3cdd8c196c837c829495e2eac7c2ed2068be9a1a44b000f8"
+content_hash: "c2642798c3830330e4e604e31b5947d36b2d3c4d0deb9ff09a98233193d12d84"
 ---
 
 I'm honestly ANNOYED that nobody talked about this sooner

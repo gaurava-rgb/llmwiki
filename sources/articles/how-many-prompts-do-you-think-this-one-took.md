@@ -1,7 +1,7 @@
 ---
 title: "How many prompts do you think this one took ?"
 reader_id: "01kk6y3gs6j4g22eemxmbjedfw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81bf-936f-c37d5b1cf105"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6y3gs6j4g22eemxmbjedfw"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "How many prompts do you think this one took ?"
-content_hash: "b99140bfcd7e3df0bf9c6a7159fde20bcd6ec660bce3e8ed527e70da2a37106b"
+content_hash: "1c7432da0293f12f1dc13804e5f2b09ca311497bcf86b1889d1212e63006859b"
 ---
 
 How many prompts do you think this one took ?

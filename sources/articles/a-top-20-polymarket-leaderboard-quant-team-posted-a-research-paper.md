@@ -1,7 +1,7 @@
 ---
 title: "A top-20 Polymarket leaderboard quant team posted a research paper..."
 reader_id: "01kjt08m9fazkza5byssvwx9rp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ee-b349-df8b6a3ff55f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt08m9fazkza5byssvwx9rp"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-03"
 reading_time: "1 min"
 summary: "A top Polymarket quant team briefly shared a secret bot strategy that earns $500–$2,000 daily. The bot places YES and NO orders to collect rewards and hedges automatically for profit. Anyone with basic tools and two hours can build this bot and make money on low-competition markets."
-content_hash: "25104ac721e0648f52764f6ffa6ec266c79e1ee1009dbeb4254f0b4c67ce0311"
+content_hash: "a5a6a44e67e679a73d34c7d8603f8dd7bf0af9e582ccc0ac158d54c7e1828d37"
 ---
 
 A top-20 Polymarket leaderboard quant team posted a research paper and deleted it 20 seconds later. I managed to screenshot it.

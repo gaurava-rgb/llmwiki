@@ -1,7 +1,7 @@
 ---
 title: "I built this as a side for personal use"
 reader_id: "01kjmz85df9q8r0433356wqt6f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8111-8660-d0a49f3c5d9c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmz85df9q8r0433356wqt6f"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-01"
 reading_time: "4 mins"
 summary: "SitDeck is a free, real-time dashboard that shows live data from over 180 sources about the world’s events. It helps users track things like conflicts, weather, and cyber threats all in one place. The creator made it for personal use but now offers it free for everyone to monitor the situation easily."
-content_hash: "cee18b92757637e8e71615c042d3b76131ff796956110e96e4cdd209df0b9084"
+content_hash: "c5fde173d51068dc7c0e1232f97d88ba5c54ae9f504dbcadbed5fcddb163f1b3"
 ---
 
 I built this as a side for personal use. But, it turned out to be so much more and so much better than I ever hoped, I am releasing it as a product for everyone.

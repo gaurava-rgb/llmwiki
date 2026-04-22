@@ -445,3 +445,44 @@ Checks run:
 python3 -m unittest discover -s tests
 .venv/bin/python -m py_compile sync_to_notion.py
 ```
+
+## 2026-04-22 - Sprint 4 Wiki Rebuild Refresh
+
+Requested outcome:
+
+- Rebuild the compiled wiki from the current raw Reader corpus.
+- Keep the result measurable, testable, and logged.
+
+Actions completed:
+
+- Confirmed the earlier full wiki rebuild had already regenerated the compiled
+  wiki from the then-current 750 raw source files.
+- Detected a one-item gap between the local raw capture layer and Notion's
+  current Raw Sources state.
+- Reran `reader/capture_reader_to_markdown.py --apply` to refresh the local raw
+  corpus from Reader.
+- Captured 1 new raw source file:
+  `john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor.md`.
+- Refreshed raw-source frontmatter and manifest metadata so Notion page IDs are
+  now carried through the local raw layer.
+- Incrementally updated the compiled wiki instead of regenerating every topic
+  again:
+  - bumped the corpus totals from 750 to 751 sources,
+  - added the new Stratechery source to the Apple topic,
+  - updated compile state and wiki logs.
+
+Measurable outcome:
+
+- Local raw corpus now contains 751 captured source markdown files.
+- Compiled wiki now reflects 751 classified sources.
+- Topic count remains 21.
+- Concept count remains 5.
+- Apple topic source count increased from 21 to 22.
+
+Checks run:
+
+```bash
+.venv/bin/python reader/capture_reader_to_markdown.py --apply
+python3 -m unittest discover -s tests
+git diff --check
+```

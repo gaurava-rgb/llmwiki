@@ -1,7 +1,7 @@
 ---
 title: "every company needs a well structured company knowledge graph for..."
 reader_id: "01kjb0712xkhx8fsxznm6cy7mk"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ef-a163-e1598e50bdbd"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb0712xkhx8fsxznm6cy7mk"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-25"
 reading_time: "8 mins"
 summary: "Every company needs a well-structured knowledge graph to organize and connect all its information in one place. This graph helps AI agents understand context and assist with complex tasks like strategy and decision-making. With the right structure, AI can maintain and improve the knowledge base, making companies smarter and more efficient."
-content_hash: "7d62fb44ae912d87d7904e33b112b0ea999f1750471c5ce4d7140cb7665095fb"
+content_hash: "d6470e360dc6889511d5c103141c4ccb185a5ab532b96b8fa4d350215cc6ed1b"
 ---
 
 every company needs a well structured company knowledge graph for agents

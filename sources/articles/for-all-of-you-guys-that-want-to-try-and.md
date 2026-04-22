@@ -1,7 +1,7 @@
 ---
 title: "for all of you guys that want to try and..."
 reader_id: "01kj8a24vghc0jj366mcy2fbwj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d7-b39e-c5149e67595d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj8a24vghc0jj366mcy2fbwj"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "for all of you guys that want to try and take yourself from a Claude beginner to level 2\n\nwatch this ASAP"
-content_hash: "60870ce3d8ca1933266088022307087cba25abe7ca7cbd24ba93d95212339e9c"
+content_hash: "9bf46ab8be0b881ef837e3dd1c5d2d0831639c1c305e19c5cc25807d67cf85e5"
 ---
 
 for all of you guys that want to try and take yourself from a Claude beginner to level 2

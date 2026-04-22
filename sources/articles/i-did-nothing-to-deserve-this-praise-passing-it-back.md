@@ -1,7 +1,7 @@
 ---
 title: "I did nothing to deserve this praise, passing it back..."
 reader_id: "01kmh207qvqcxfkby18fsp8ntb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fd-bb8b-f9b763ca6f98"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh207qvqcxfkby18fsp8ntb"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "0xSero feels grateful but gives credit to his teachers. Many people thank him for making self-hosting easier. His work is helping others run advanced AI models on personal devices."
-content_hash: "bb54c24f289377ea4268d4ced1eb5c2a26e4812acd2ee7200f7e728ff7617c24"
+content_hash: "d68cb78d6235bc7d4cddca38d4d93562999807443f29850ff94bc21af197450b"
 ---
 
 I did nothing to deserve this praise, passing it back to my teachers:

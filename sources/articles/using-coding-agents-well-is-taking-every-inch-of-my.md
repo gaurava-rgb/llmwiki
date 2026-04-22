@@ -1,7 +1,7 @@
 ---
 title: "\"Using coding agents well is taking every inch of my..."
 reader_id: "01knk3119zvwhwhhrs0mhckj9y"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8167-913e-f427b73dece6"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knk3119zvwhwhhrs0mhckj9y"
@@ -13,7 +13,7 @@ published: "2026-04-02"
 saved_at: "2026-04-07"
 reading_time: "2 mins"
 summary: "Using coding agents well requires deep experience and is mentally tiring. There are limits to how much we can manage at once without burning out. Mid-career engineers must learn new skills to use AI responsibly and effectively."
-content_hash: "2a4c273c432426d80be7e7c40a8d5292eb5944350a489c1abe5d10164349793e"
+content_hash: "b742da486206bbbfd5eecff2e5e6603e13be148fd012cb41414aad58f99ce4f0"
 ---
 
 "Using coding agents well is taking every inch of my 25 years of experience as a software engineer, and it is mentally exhausting.

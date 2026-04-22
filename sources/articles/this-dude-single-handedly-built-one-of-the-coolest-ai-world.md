@@ -1,7 +1,7 @@
 ---
 title: "this dude single-handedly built one of the coolest ai world..."
 reader_id: "01kj06dfm9d5ccb2f72adz8dvx"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ec-b491-c62ed78b8ba9"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj06dfm9d5ccb2f72adz8dvx"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "One person built an amazing AI world model that tracks planes, satellites, and traffic in real time. The interface looks like a mix of Google Earth and a video game. This powerful tool shows how AI can give people incredible abilities."
-content_hash: "cb2f94c655fada63b9919f41d1836875963bd6ac662440d7d2e92f03ee1fbf65"
+content_hash: "9202700b3e2afcebd7d1b297fe91be92579e8b45385458caca61119d09ecaf3c"
 ---
 
 this dude single-handedly built one of the coolest ai world models tracking everything from planes, satellites and even traffic IN REAL-TIME.

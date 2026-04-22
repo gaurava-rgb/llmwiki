@@ -1,7 +1,7 @@
 ---
 title: "cold outreach doesn't work in old industries"
 reader_id: "01kfe9jhhbdy7gqyqwq1cvck7m"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ac-ac13-c129435c83a5"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9jhhbdy7gqyqwq1cvck7m"
@@ -13,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "Cold outreach often fails in old industries. Dressing the part and speaking their language helped us get meetings in hotels. To succeed, blend in and be confident when reaching out."
-content_hash: "8171734ef7f23ae0a29a0daf489748ecfaae6c8d452e9ed693cb0fa6a7358700"
+content_hash: "e214e7249c686d7bc792be6506ed8aff3973758cf8814c7861b1a66abc05b440"
 ---
 
 cold outreach doesn't work in old industries.

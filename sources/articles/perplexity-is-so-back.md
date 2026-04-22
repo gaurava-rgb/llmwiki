@@ -1,7 +1,7 @@
 ---
 title: "Perplexity is so back"
 reader_id: "01kjb08y4gzey9xe4409cpthc1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817a-9312-f70fb85b576c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb08y4gzey9xe4409cpthc1"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-25"
 reading_time: "7 mins"
 summary: "AI works best when many specialized models collaborate together, like a team playing music. A new product uses this idea by combining 19 models to handle tasks more powerfully and accurately. This approach makes AI the true \"computer\" of the future, working autonomously to read, create, and manage information."
-content_hash: "b5ddcba5fc3d7282f43a6879f0fae7e20c0978831c2756ad2519d3999145a70b"
+content_hash: "a46a23725de095ea5a1e09e74e4ad711b56d8c0a15751c6b1fabff1bc588ebe5"
 ---
 
 Perplexity is so back

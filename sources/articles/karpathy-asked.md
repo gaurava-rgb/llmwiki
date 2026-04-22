@@ -1,7 +1,7 @@
 ---
 title: "Karpathy asked"
 reader_id: "01kkvj4h5g55jhg3047bxrmhhp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811c-a2e2-f5413e92fae1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkvj4h5g55jhg3047bxrmhhp"
@@ -13,7 +13,7 @@ published: "2026-03-15"
 saved_at: "2026-03-16"
 reading_time: "1 min"
 summary: "Andrej Karpathy wants a new kind of IDE focused on agents instead of files. Elliot Arledge created OpenSquirrel, a Rust-based tool with this idea. It supports several AI coding models and aims to improve the user experience from the ground up."
-content_hash: "08d4f985582c950793acddcedd4c1d8e7f5e541e097890255acd6eb1edb86bb0"
+content_hash: "7b77b34afb3277f27116b9ae5ee9c608e6ff3f11ac3b77c93b78878bcd18d721"
 ---
 
 Karpathy asked. I delivered.

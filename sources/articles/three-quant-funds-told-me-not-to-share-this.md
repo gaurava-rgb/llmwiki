@@ -1,7 +1,7 @@
 ---
 title: "Three quant funds told me not to share this"
 reader_id: "01kk99q9rty859ensm0z18vgrd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8144-b178-d0cbe497745c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk99q9rty859ensm0z18vgrd"
@@ -13,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-09"
 reading_time: "34 mins"
 summary: "Hedge funds use complex, automated systems with advanced math and technology to trade prediction markets. They exploit small inefficiencies and manage risk across thousands of markets, unlike retail traders who rely on gut feelings. Understanding these methods reveals how professional prediction market desks gain consistent advantages."
-content_hash: "e73c94800c1ff870304981e9e2b61b499205fdb600b4c7c7d51035d712f1a648"
+content_hash: "a815a9249a99ee8b8fed291ddfa7d925fee0775868c8a8c8e60153aa55d0fc0f"
 ---
 
 Three quant funds told me not to share this.

@@ -1,7 +1,7 @@
 ---
 title: "And I am not joking it is fraeking crazy that..."
 reader_id: "01kkfaw5221fs5a8mj3q8sw8js"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8170-83a0-c294c285a663"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfaw5221fs5a8mj3q8sw8js"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "The tool fff.nvim can search the entire Linux repository quickly and accurately. It performs exact and fuzzy code searches with very little delay. This makes code searching fast and typo-resistant."
-content_hash: "f00a1b7ca7f2273b58d632721b9a7aa9a065983aa67ba17366329f52e7702f81"
+content_hash: "535bbf674aaaf0ad918b94f242a792acb5d586ff5cda8c1bb43b92f3245b29c3"
 ---
 
 And I am not joking it is fraeking crazy that fff can do exact file search code search on the whole linux repo (7GB, 100k files) in real time

@@ -1,7 +1,7 @@
 ---
 title: "lifehack nobody talks about:"
 reader_id: "01kj89mjkxpapbg2s6v39eghfv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b1-a63f-dabbafafdeee"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89mjkxpapbg2s6v39eghfv"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Using Obsidian with Claude Code can make your digital notes smarter. Custom commands help track ideas, answer questions in your voice, and find hidden patterns. The better the context you give, the better the tool works for you."
-content_hash: "16719a662951a8887d84f784b337f8a2d0d1dc226ceb72c84836166fd2a65a42"
+content_hash: "e7e7870d5068df3d0c5315a5f98a82ce3bd0c1170c5493ce4f05acaf8dead025"
 ---
 
 lifehack nobody talks about:

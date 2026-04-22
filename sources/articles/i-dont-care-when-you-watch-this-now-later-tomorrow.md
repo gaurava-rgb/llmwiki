@@ -1,7 +1,7 @@
 ---
 title: "i don't care when you watch this, now, later, tomorrow"
 reader_id: "01kj89kfb6n6tq524a4js12530"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-812c-a87a-e5b6274383ff"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89kfb6n6tq524a4js12530"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "The author urges you to watch a helpful video by Theo about AI agents and managing files. They admit they were doing things wrong before watching it. The video explains important tips and is very useful right now."
-content_hash: "8a984d6393b4a82bc47aa5c1e4221cb0bcdd2dacb241c4ee025c5c25a96e8a3b"
+content_hash: "73d57b7cbfd66167093503d2db129c46607dd1d1109ed74bcef3ee3293150d7c"
 ---
 
 i don't care when you watch this, now, later, tomorrow.

@@ -1,7 +1,7 @@
 ---
 title: "Fuck it"
 reader_id: "01khbvypy5chqp59spvwz797ka"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8197-a5e5-f36a23d9a4ef"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbvypy5chqp59spvwz797ka"
@@ -13,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-13"
 reading_time: "6 mins"
 summary: "This text shares a detailed prompt to build a $100K/year one-person business using AI tools like Claude Opus 4.6. It outlines steps for choosing a business model, creating offers, acquiring clients, delivering services, and scaling with AI. The focus is on practical, fast, and repeatable systems without teams or funding."
-content_hash: "ba150327b1035695e3bce4f4910d0457ff6e486ddf19eea688e086cda702df53"
+content_hash: "a01fb37deb749e6cc5aa4a2de0cdfdc42eaa34c1c8e13b21d6f26cade240944b"
 ---
 
 Fuck it.

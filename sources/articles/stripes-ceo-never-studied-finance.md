@@ -1,7 +1,7 @@
 ---
 title: "Stripe's CEO never studied finance"
 reader_id: "01jzyd49phsx5r8v3r82vben3m"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8150-8ea2-da0734d7ca77"
 category: "tweet"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jzyd49phsx5r8v3r82vben3m"
@@ -13,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-07-12"
 reading_time: "3 mins"
 summary: "Stripe's CEO, Patrick, never studied finance but learned by reverse-engineering PayPal and asking why things were so complex. He built Stripe with simple code and deep understanding, disrupting the payment industry. His success shows that questioning everything and sharing expertise leads to innovation and leadership."
-content_hash: "6377e49462cf72d7c5bc03babe66c36047a756943aa765245c19834afd6c435c"
+content_hash: "56f4cae3fa3da192bdc8014cdac006679f28eabe69cbb61f98d1cfbc398c7ac1"
 ---
 
 Stripe's CEO never studied finance.

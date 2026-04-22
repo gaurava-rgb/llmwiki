@@ -1,7 +1,7 @@
 ---
 title: "Student ID benefits"
 reader_id: "01kfkpgckcjr8hhbay9vm8pntj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c4-ad6a-fe808a024f0a"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpgckcjr8hhbay9vm8pntj"
@@ -13,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-22"
 reading_time: "2 mins"
 summary: "Student IDs provide many benefits like free or discounted software, cloud credits, and learning resources. Students can access tools from big companies like GitHub, Google, Microsoft, and Apple. These perks help students save money and learn new skills easily."
-content_hash: "d177fabf2752592af89371b714a7390243c7693046efd7c2a088fe9b18764526"
+content_hash: "b439153cdc5a980cb99733bb12c4e31e32fd7319ffdeee33e7b096fd2e435d20"
 ---
 
 Student ID benefits

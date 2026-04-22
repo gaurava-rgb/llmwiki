@@ -1,7 +1,7 @@
 ---
 title: "Ten years ago, when I was still in university, I..."
 reader_id: "01kmgd3khssg0certppfdgrz81"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8130-80a2-c0c20259504d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmgd3khssg0certppfdgrz81"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "Ten years ago, I made a bot to collect job ads and salary data from Indeed. I analyzed the data and saw that distributed systems jobs paid more than data or ML jobs. This made me choose to focus on distributed systems."
-content_hash: "0b8d0e6edaf83270e2eb597248bda32d77e3d6e0c967d85551611d8c6ef1e377"
+content_hash: "cd3ab27d963c6eeadd519ed33e888a6e856aca3b008cd4568f81357fc313c3a8"
 ---
 
 Ten years ago, when I was still in university, I wrote a bot to scrape all indeed job postings and their expected salaries. I ran histograms on the total income I'd expect, and found correlations to skills. This is why I decided to focus on distributed systems instead of data / ML jobs. They simply made more money

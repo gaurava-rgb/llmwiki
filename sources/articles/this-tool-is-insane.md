@@ -1,7 +1,7 @@
 ---
 title: "This tool is insane"
 reader_id: "01kj89vc2yk11rdp90gav2sz9x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8182-afae-f3ad369bf016"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89vc2yk11rdp90gav2sz9x"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "This free tool lets you upload an image and move the camera in 3D to get new angles. It’s easy to use and creates cool effects fast. The author is also launching Cartoon Hero 3.0 soon to help make cartoons faster and better."
-content_hash: "260ac06e574810824e88673cab1d9391c66cd3f7c9ba93e831986d996582e472"
+content_hash: "ec502535a53caab499b0d8575120561fadf97f866e37672b193ef7404c3b4f28"
 ---
 
 This tool is insane.

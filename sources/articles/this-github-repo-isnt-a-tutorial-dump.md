@@ -1,7 +1,7 @@
 ---
 title: "This GitHub repo isn’t a tutorial dump"
 reader_id: "01khbwkcpq9msnkhtgy91rt1qh"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8196-b776-f58c358b567a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwkcpq9msnkhtgy91rt1qh"
@@ -13,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-13"
 reading_time: "1 min"
 summary: "This GitHub repo has 28 ready-to-use AI projects, not just tutorials. It covers areas like machine learning, healthcare AI, computer vision, and data analysis. Ten more advanced projects will be added soon."
-content_hash: "7b599d273b366b1716fcee1c720bb4eb2ed0214b14d807151bf6750c7d3be9db"
+content_hash: "362a661db3b1f96447f613fc97f972e2b8539f1934d22c780ed96ac9471352bd"
 ---
 
 This GitHub repo isn’t a tutorial dump.

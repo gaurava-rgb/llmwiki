@@ -1,7 +1,7 @@
 ---
 title: "LLM Knowledge Bases"
 reader_id: "01kn9w4yz77jgp826bgw32vt2f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8197-a926-ebb8ccd43359"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn9w4yz77jgp826bgw32vt2f"
@@ -13,7 +13,7 @@ published: "2026-04-02"
 saved_at: "2026-04-03"
 reading_time: "3 mins"
 summary: "The author uses large language models (LLMs) to build and maintain personal knowledge bases as markdown wikis from various sources. These LLMs help organize, update, and answer complex questions about the data, all managed through tools like Obsidian. This approach enables efficient research by automating data compilation, enhancement, and output generation without manual editing."
-content_hash: "ebae03807e36aac78a9dc2be571a8951ea55f08fbb3a11029a3772a84c1f0f56"
+content_hash: "2643a919f1d2c15ff5b654299a757e18c3c5c62718625866c5db01bd25593263"
 ---
 
 LLM Knowledge Bases

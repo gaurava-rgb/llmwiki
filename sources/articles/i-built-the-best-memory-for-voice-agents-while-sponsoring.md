@@ -1,7 +1,7 @@
 ---
 title: "I built the best memory for voice agents while sponsoring..."
 reader_id: "01kjv339begrq30pfjj2tcacc2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8176-9e58-ec49fe3d137b"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv339begrq30pfjj2tcacc2"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "I built the best memory for voice agents while sponsoring @YCombinator hackathon.\n\nIntroducing: Voice AI + Memory!\n\nWe built a deep @supermemory integration for @pipecat_ai, so now even your agents have great memory\n\nWith user profiles, these are almost-instant latency as well :)"
-content_hash: "ea766a74b7773b9746ff674f71e4c71852bb67384038bb42f69b664eb20a74c9"
+content_hash: "1e31f33f5818b625f3f3eff325cd02d69987be9975528523c43b715ddee23cc1"
 ---
 
 I built the best memory for voice agents while sponsoring [@YCombinator](<https://twitter.com/ycombinator>) hackathon.

@@ -1,7 +1,7 @@
 ---
 title: "Email 2 Stockton Analogy"
 reader_id: "01k7zz9xv79sncvqvgjsytt2mv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81de-ace7-f16c9ffe000b"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k7zz9xv79sncvqvgjsytt2mv"
@@ -13,7 +13,7 @@ published: "2025-10-15"
 saved_at: "2025-10-20"
 reading_time: "3 mins"
 summary: "In March 2023 the Fed created the Bank Term Funding Program to lend banks cash using Treasuries and MBS as collateral valued at face value.  \nThe FDIC, Fed, and Treasury used the Systemic Risk Exception to guarantee all deposits at Silicon Valley and Signature Banks to stop a fast digital-era bank run.  \nThis was the first major use of that authority since 2008 and showed that speed, not size, now defines systemic risk."
-content_hash: "8824087767ef3091d94310afbe8e853b60c844d2958ae1085f4feaa3dcfdd05e"
+content_hash: "af359e0c733b10235d03cf19e4907c07f3a6238f438e55d16194e4b8b296ef16"
 ---
 
 he program created to stabilize the banking system in the wake of the **Silicon Valley Bank (SVB)** collapse was called the **Bank Term Funding Program (BTFP)** .

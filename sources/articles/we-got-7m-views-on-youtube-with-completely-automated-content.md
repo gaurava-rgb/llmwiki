@@ -1,7 +1,7 @@
 ---
 title: "We got 7M views on YouTube with completely automated content"
 reader_id: "01kk99kqmvssd073tjp7btcv7x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a6-8607-dd263a61707a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk99kqmvssd073tjp7btcv7x"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-09"
 reading_time: "4 mins"
 summary: "The author and a partner automated their YouTube channel to create hundreds of videos quickly using viral clips and custom CTAs. They used Python scripts to scrape and stitch videos, then scheduled posts for growth. This method helped them gain 7 million views without manual uploading."
-content_hash: "e1255e2f58c754e2f570ab331c396375df6b6d232f4a4efc6858dec40ff3e2ea"
+content_hash: "d999b06b460552f6cb02df4fe0afb59789020c104d4ac6c20bb0a2d88d74bfc2"
 ---
 
 ![We got 7M views on YouTube with completely automated content](https://pbs.twimg.com/media/HC6KsJWaUAAzRI3.jpg)

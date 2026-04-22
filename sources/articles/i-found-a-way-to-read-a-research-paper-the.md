@@ -1,7 +1,7 @@
 ---
 title: "I found a way to read a research paper the..."
 reader_id: "01kkvhvn98eq6casfs1g0pmrqq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8164-bc15-eefe55b2990a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkvhvn98eq6casfs1g0pmrqq"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "4 mins"
 summary: "A Cambridge student showed a new way to read research papers by asking five smart questions instead of just skimming summaries. These questions help you see what a paper really proves, what it misses, and how it fits into bigger debates. This method turns reading into true understanding, teaching you to think like an expert much faster."
-content_hash: "abf60354594a3b58f39db570f970786fcb92aef4cc339c3203d4a7a450bbbba5"
+content_hash: "fc2dd0094e53b99a81ed409b9df42ca3b2914530807f6f6ce5b2c2ff3a32c5f9"
 ---
 
 I found a way to read a research paper the way academics actually read them.

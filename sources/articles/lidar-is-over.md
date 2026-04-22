@@ -1,7 +1,7 @@
 ---
 title: "LiDAR is over"
 reader_id: "01kkfatz1218yqcnx4pzmy1rtw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8185-9592-d9a6e578604f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfatz1218yqcnx4pzmy1rtw"
@@ -13,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "A new memory system called LoGeR helps reconstruct 3D scenes over long distances. It works fast and handles many frames without extra steps. LoGeR performs as well or better than current complex methods."
-content_hash: "7e40e648cc2d762498849840002f8cf66531c697cf1679db208df08a20efe813"
+content_hash: "e8006ea3c788ad17617e6621e93851dedecb45421919677fbf1bd7dc324b6ce9"
 ---
 
 LiDAR is over

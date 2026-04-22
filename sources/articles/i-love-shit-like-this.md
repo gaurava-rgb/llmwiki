@@ -1,7 +1,7 @@
 ---
 title: "i LOVE shit like this"
 reader_id: "01kj05t4gbwv9gsyswn6xkfvrb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f9-a478-c9905af93009"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05t4gbwv9gsyswn6xkfvrb"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "A new tool helps kids learn coding by stacking colorful blocks. Behind the scenes, AI agents write the actual code automatically. The app was inspired by the creator’s 12-year-old daughter and makes coding fun like a game."
-content_hash: "e923a1e85ae6454492c704cbdf3628bf4e667cfb559f0705ec3f768d0933b9da"
+content_hash: "07208bf0064dca1cb8bd0cd5d24141a9c5607f88acb15816869c64da63e0f96f"
 ---
 
 i LOVE shit like this

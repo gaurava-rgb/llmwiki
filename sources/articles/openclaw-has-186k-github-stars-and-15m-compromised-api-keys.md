@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw has 186K GitHub stars and 1.5M compromised API keys"
 reader_id: "01khbvnqgnfvbmcavtvqeb21th"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815d-94bf-f97d54fcd447"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbvnqgnfvbmcavtvqeb21th"
@@ -13,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-13"
 reading_time: "2 mins"
 summary: "OpenClaw is popular but has serious security problems with leaked API keys. The author built a safer AI agent using strong sandboxing and strict permissions. This new tool runs securely, respects user control, and needs no coding to use."
-content_hash: "a3da6342470707c43c8f7f9476df0ffa16eaebf739541c2e5fdaa6d13ff1e840"
+content_hash: "989db57aec172c7626db5323c1ae3ef0f422d014b9f571b95f0511d2b36d5c0f"
 ---
 
 OpenClaw has 186K GitHub stars and 1.5M compromised API keys. I needed a secure alternative.

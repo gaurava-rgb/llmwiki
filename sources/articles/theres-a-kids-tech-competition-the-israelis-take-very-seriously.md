@@ -1,7 +1,7 @@
 ---
 title: "There's a kids' tech competition the Israelis take very seriously"
 reader_id: "01kdetvg2v4xd4fpz140e68npt"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ff-8481-c904913c7e3b"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kdetvg2v4xd4fpz140e68npt"
@@ -13,7 +13,7 @@ published: "2025-12-26"
 saved_at: "2025-12-27"
 reading_time: "2 mins"
 summary: "A group of hijabi girls from Texas surprised the tech world by repeatedly beating top Israeli teams at a major kids' robotics competition. Their calm, skilled work and quick troubleshooting earned them respect and the championship. The program behind them, Itkan, teaches kids advanced CAD and AI and is expanding across the US and UK to help communities prepare children for future tech careers."
-content_hash: "1b84d3fb0edd07a4f7125354106fc75cdd93532b5e13f01dd65783dc795c8910"
+content_hash: "d1e01c287c5efd432a6fd8455ad17ef109471b345446dd9442293ffdc5fc26d8"
 ---
 
 There's a kids' tech competition the Israelis take very seriously.

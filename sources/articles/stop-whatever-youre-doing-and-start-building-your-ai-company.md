@@ -1,7 +1,7 @@
 ---
 title: "Stop whatever you're doing and start building your AI company"
 reader_id: "01kjb0bsqnkmmge6yv5xq23tc1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8192-af87-e10d13779b9b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb0bsqnkmmge6yv5xq23tc1"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-25"
 reading_time: "1 min"
 summary: "The future belongs to AI-powered companies. Matthew Berman built an advanced system called OpenClaw using billions of tokens. He shares how it improves work with smart tools and solves key security issues."
-content_hash: "1a47caf5b320386271d975b8ba4fd33314e53b334a74cb720d39099c7d6cd3b4"
+content_hash: "402d72a4cbae426286a316c5fd41e58346b434426777b68367dc43d3b38ae09d"
 ---
 
 Stop whatever you're doing and start building your AI company. 🦞

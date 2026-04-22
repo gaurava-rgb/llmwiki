@@ -1,7 +1,7 @@
 ---
 title: "how to get a us mobile number in india (the..."
 reader_id: "01kfe9j16nkesgtpbvfry018cj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8140-84e4-ebca0085f6f4"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9j16nkesgtpbvfry018cj"
@@ -13,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "You can get a real US mobile number in India using Sonetel with easy verification. The basic plan costs about $1.99/month and supports SMS and OTPs for signups. This service is reliable, cheaper, and better than borrowing numbers from friends."
-content_hash: "765210ceb514ff3b03efc09692e153ad2b282c5fd53b18ce30c7bc8e0e500ab1"
+content_hash: "290be9a47a387a8d54b1d1e6521fbd429d08fba36c3b6bfccc9179e6ac7bc7f6"
 ---
 
 how to get a us mobile number in india (the no-drama way 🇮🇳➡️🇺🇸)

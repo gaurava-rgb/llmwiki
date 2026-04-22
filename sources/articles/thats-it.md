@@ -1,7 +1,7 @@
 ---
 title: "That's it"
 reader_id: "01kj05qvs9arbw8s5r0f9xsa93"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813a-8d91-d18fd8f8085b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05qvs9arbw8s5r0f9xsa93"
@@ -13,7 +13,7 @@ published: "2026-02-21"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "OpenAI has succeeded with their project. A user created a native Codex app for the iPhone. The app runs locally and lets users interact with Codex on their network."
-content_hash: "caa3875ab5a1bfdfd296025526efa419c063bf350077db3d1bd7550a456ed73c"
+content_hash: "d0564d3c19e7433127f90355e0393229306b82f4319357928e040fd66cb3c630"
 ---
 
 That's it

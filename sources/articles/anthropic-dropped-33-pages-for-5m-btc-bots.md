@@ -1,7 +1,7 @@
 ---
 title: "Anthropic dropped 33 pages for 5m BTC bots"
 reader_id: "01kkfazh3ktb85387jn4azh5gg"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ca-ad14-f05b68825459"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfazh3ktb85387jn4azh5gg"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Anthropic shared a 33-page guide to build bots trading Bitcoin and Ethereum in fast, 5-minute markets. The strategy uses quick probability updates and small trades to exploit price gaps and earn steady profits. This automation turned a $50 balance into $853 overnight by capturing many small gains."
-content_hash: "b9adde148ae1c65f5fae30320d0824bcdefa24de8a84d3cc86001a96f0c782d0"
+content_hash: "3df2f254185086eb7f48c03d483a8ace49fd031ce775564e0ba45dda88e61304"
 ---
 
 **Anthropic dropped 33 pages for 5m BTC bots**

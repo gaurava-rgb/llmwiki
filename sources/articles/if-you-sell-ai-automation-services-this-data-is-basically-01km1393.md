@@ -1,7 +1,7 @@
 ---
 title: "If you sell AI automation services, this data is basically..."
 reader_id: "01km1393f011pjbz6wh30jtn9n"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8148-912b-e938acbe3343"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km1393f011pjbz6wh30jtn9n"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "4 mins"
 summary: "Most businesses want AI to save time and improve efficiency, not just increase revenue. They aren’t worried about cost but don’t know where to start or who to trust. If you offer clear guidance and proven results, companies with real budgets will pay you."
-content_hash: "9500fd45c151a6b6e658efcfa94ea7ccb12606ee2c6e207512dcacc672971ab1"
+content_hash: "89f91eaee9ed1dea2bfaaffb27577abe99fd87925f823f1e268b991e516dc0d9"
 ---
 
 If you sell AI automation services, this data is basically your entire marketing strategy.

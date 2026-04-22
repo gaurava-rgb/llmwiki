@@ -1,7 +1,7 @@
 ---
 title: "this russian guy found a way to learn anything 10x..."
 reader_id: "01kjb05a8stc7mv7cq43cew6by"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c6-ab06-ca8b9ec1efc7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb05a8stc7mv7cq43cew6by"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-25"
 reading_time: "1 min"
 summary: "A Russian man found a way to learn things 10 times faster using AI tools. He combines videos and notes, removing repeated information to save time. This method turns your notes into a powerful AI workspace."
-content_hash: "7cf276f7686cb9fcc75cdaec624bdc05bd89219fb4296981d7a7c318ea64f4fa"
+content_hash: "98054361669e99be4e58c48c5fc17aa8bf1733e9771d68b506406ab09c98e7cb"
 ---
 
 **this russian guy found a way to learn anything 10x faster** 🚨

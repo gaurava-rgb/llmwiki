@@ -1,7 +1,7 @@
 ---
 title: "Apple will either acquire this or sherlock it within 18..."
 reader_id: "01kj05s5xvhqzr8x2j4angpkxd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810e-b954-f2d002b34a4e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj05s5xvhqzr8x2j4angpkxd"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "2 mins"
 summary: "Apple may buy or copy Rork's new tool within 18 months. Rork Max can create native Swift apps quickly from a browser, replacing the old Xcode IDE. This could change how millions of Apple developers build and publish apps."
-content_hash: "fee621c0bed7e700bedff3a6d13a03a255ed9a9c473b9194633f22f8e7c4bf70"
+content_hash: "b11213121e68d41e13722bc966a0f8b85de47556753f63c69e5faf8771acc1f5"
 ---
 
 Apple will either acquire this or sherlock it within 18 months. They can’t let a third party own the fastest path from idea to App Store.

@@ -1,7 +1,7 @@
 ---
 title: "Tl/dr — use Marker to convert PDFs if you care..."
 reader_id: "01km1321fb3qak9086n451wn4f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815a-a32c-f67612180722"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km1321fb3qak9086n451wn4f"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Use Marker to convert PDFs if you want accurate figures, tables, and equations. Use ODL for fast conversion of mostly text files. Different tools work better depending on what you need from the PDF."
-content_hash: "f596f4f96050a09009b25b67bc5cd527a32df1f9d0b26a0257182e06339d9728"
+content_hash: "0dfe52a7cfc10ae4aacea1e65e7c8db4a0d045bb2a6efa478facab502fcf956d"
 ---
 
 Tl/dr — use Marker to convert PDFs if you care about getting figures/tables/equations correct. Use ODL if you mostly care about text and have a large number of files you want converted quickly.

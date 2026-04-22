@@ -1,7 +1,7 @@
 ---
 title: "The business opportunities this creates:"
 reader_id: "01kj5h6e5s49bevj9zx5htr0na"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f5-b441-e09b7505462e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj5h6e5s49bevj9zx5htr0na"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-23"
 reading_time: "1 min"
 summary: "Google's new WebMCP lets AI agents use any website as a tool. This creates chances for businesses to monitor competitors, find leads, and track prices automatically. It also helps small teams do big research with AI-powered agents."
-content_hash: "dbb9fb56ed206e79e585ea9d62cabcced7bea1b2c6999db9f5cc8478ba8add67"
+content_hash: "76a80fc75d537fef9cc4f59fff997ff0a2e428870c91fed466bb2beb0169ab13"
 ---
 
 The business opportunities this creates:

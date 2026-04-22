@@ -1,7 +1,7 @@
 ---
 title: "there’s a website tracking public GitHub repos in real time..."
 reader_id: "01khbwm0w28bwv843y7d4qx38n"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8138-9b60-d1f8c6be1ce9"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwm0w28bwv843y7d4qx38n"
@@ -13,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-13"
 reading_time: "1 min"
 summary: "there’s a website tracking public GitHub repos in real time just to catch leaked API keys.\n\nyou can find keys from openai, claude, gemini, and others."
-content_hash: "ca30068913f6c9781bd2c848cc0c939ef29e6ceb7f3c37fec1e907133d07a6b4"
+content_hash: "eb50f7ef6d9902221276dfca14e698e78d7ed2728194867d8a9f5d91ec7ce354"
 ---
 
 there’s a website tracking public GitHub repos in real time just to catch leaked API keys.

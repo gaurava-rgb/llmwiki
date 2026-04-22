@@ -1,7 +1,7 @@
 ---
 title: "I Applied to 500 Jobs. Got Zero Interviews. Then I Tried This. Everything Changed. "
 reader_id: "01kf98w9wch0narmcncys2dfht"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8155-bdd4-c51916764d91"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kf98w9wch0narmcncys2dfht"
@@ -13,7 +13,7 @@ published: "2026-01-16"
 saved_at: "2026-01-18"
 reading_time: "4 mins"
 summary: "Applying to many jobs online rarely works because competition is huge and chances are low. Instead, focus on networking, referrals, and direct outreach to stand out and get better results. Spending most effort on these “empty doors” leads to more interviews and faster job offers."
-content_hash: "45dae9700d33a9463724dc981ab1f816304e57d3251899d0845d1bfba928fdbf"
+content_hash: "479fe63d8029a16fdf2f63fd6f551de02d157936793fc70f691e437439f74437"
 ---
 
 ![I Applied to 500 Jobs. Got Zero Interviews. Then I Tried This. Everything Changed. ](https://pbs.twimg.com/media/G-0qZDtaYAAe-4m.jpg)![Image](https://pbs.twimg.com/media/G-0o6u6aQAIB8Ev.jpg)

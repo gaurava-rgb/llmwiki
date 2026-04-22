@@ -1,7 +1,7 @@
 ---
 title: "How I Reverse Engineered Claude Code "
 reader_id: "01kkwfnqec0122tsx0jn6jj736"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f2-90dc-d7854b202c9a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkwfnqec0122tsx0jn6jj736"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "5 mins"
 summary: "The author spent a week reverse engineering Claude Code, a large closed binary that bundles JavaScript code and serves as a prompt delivery system for Anthropic's AI. Inside, many hidden features are controlled by flags and telemetry, showing Anthropic ships code early but enables features later. The main product is the complex prompt that guides the AI, while the binary is just the container."
-content_hash: "7dad5a1a02b4883099550099167e00d938b9faffddd5c280807cea8c54ca1ba0"
+content_hash: "7bf4f0b54f3272f36c06748734ec3b270a1fbfbb17862766ccf653be74589c6b"
 ---
 
 ![How I Reverse Engineered Claude Code ](https://pbs.twimg.com/media/HDhQXuLbMAA7Vt1.jpg)

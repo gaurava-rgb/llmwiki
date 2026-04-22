@@ -1,7 +1,7 @@
 ---
 title: "Big day today"
 reader_id: "01kpa8nnx2a8gv4q2j8d7jn89w"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f2-81c7-d96e43d9746b"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpa8nnx2a8gv4q2j8d7jn89w"
@@ -13,7 +13,7 @@ published: "2026-04-15"
 saved_at: "2026-04-16"
 reading_time: "2 mins"
 summary: "Pipecat version 1.0 is a popular AI framework for real-time, multi-modal applications. The new Pipecat Subagents library helps run many AI tasks in parallel with shared context. A fun game called Gradient Bang uses this tech and lets players manage multiple AI models in a space trading setting."
-content_hash: "78527ca00e3e40df8ed5647992849d5075681bdbca66c031ce8f6a7b9b33e8d2"
+content_hash: "962c2580565e54bae73d596860bc1750bf7ce3d81769d875844db4aa5574ce55"
 ---
 
 Big day today. Pipecat version 1.0. Two years in the making. The most widely used framework for voice agents, but not just voice agents. Pipecat is a framework for realtime, multi-modal, multi-model AI applications. Contributions from NVIDIA, all the foundation labs, AWS, GCP, and Azure. Used by thousands of startups, scale-ups, and enterprises.

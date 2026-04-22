@@ -1,7 +1,7 @@
 ---
 title: "I forked AutoResearch and adapted it to run on macOS..."
 reader_id: "01kk6xek94d5x08j7dcpz32154"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8165-a39d-c39ece3f4ae2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6xek94d5x08j7dcpz32154"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "I forked AutoResearch and adapted it to run on macOS using Metal. Welcome!"
-content_hash: "1fe59830157b3374447576bf789d601a105651eac1c4a48773b6b61b277aa6e6"
+content_hash: "ff57a16512f326eccea73d947c4dfda950149b8a2ac8fc0afb8a5753a0c8ba64"
 ---
 
 I forked AutoResearch and adapted it to run on macOS using Metal. Welcome!

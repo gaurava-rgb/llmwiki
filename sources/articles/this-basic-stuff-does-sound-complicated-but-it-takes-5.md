@@ -1,7 +1,7 @@
 ---
 title: "This basic stuff does sound complicated but it takes 5..."
 reader_id: "01kkvhw9rwc8p1v6yt469771fk"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815f-a8cd-cad2c247b57f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkvhw9rwc8p1v6yt469771fk"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "1 min"
 summary: "Setting up a VPS is quick and easy, taking only five minutes. Use tools like Tailscale and Cloudflare to keep your server safe by limiting access. Never expose your VPS directly to the internet to avoid hacks and attacks."
-content_hash: "31c798d41253d4eccd0cc7dcf71cc657a65faaef186774e9d04f6460706d4355"
+content_hash: "20dadf51b13617007387ff8383eff813405a7bfa39dbfb220ae32f530f47f5c9"
 ---
 
 This basic stuff does sound complicated but it takes 5 minutes to set up

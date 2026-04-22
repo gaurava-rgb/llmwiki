@@ -1,7 +1,7 @@
 ---
 title: "HOW TO VIBE CODE BEAUTIFUL UI"
 reader_id: "01kj89sxa2qpz81m0deyg9pth3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a8-b7ec-c448a3a014d2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89sxa2qpz81m0deyg9pth3"
@@ -13,7 +13,7 @@ published: "2026-02-22"
 saved_at: "2026-02-24"
 reading_time: "2 mins"
 summary: "Start by sketching your design and showing AI clear visuals to copy. Use mood boards and unique fonts to make your UI feel fresh and consistent. Always create a design system first and avoid vague instructions like \"make it look clean.\""
-content_hash: "49ec106c950b9458578cc2eaaa267b48d125fe4a6917fc54798d39d57fe12d6f"
+content_hash: "5e79474121a79f1616b30747daeb4c015e015bb277fcd25bf3d7d48b1dc7fb1c"
 ---
 
 HOW TO VIBE CODE BEAUTIFUL UI

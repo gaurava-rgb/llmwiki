@@ -1,7 +1,7 @@
 ---
 title: "Run this prompt frequently"
 reader_id: "01kk4j0k49mg9tqn3wchmzfvn4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8115-8155-f933164dbf05"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4j0k49mg9tqn3wchmzfvn4"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "Run this prompt often to get useful insights. It helps you gather and review all your Claude sessions on your computer. You can see what actions can become skills, plugins, agents, or notes."
-content_hash: "178e7e9e5bbfa82232779211f38fd07ff935d908dab762e8c632ab42f0dcda7d"
+content_hash: "96df05365cfc0764212889402fee1e0edab1002365aed46160354d7b138be90d"
 ---
 
 Run this prompt frequently.

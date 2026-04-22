@@ -1,7 +1,7 @@
 ---
 title: "Trader turned $120 into $4,800 with a single weather bet..."
 reader_id: "01kfe9k36ms7r3r07tzpr6f09g"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8126-a04c-eba08607ca84"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9k36ms7r3r07tzpr6f09g"
@@ -13,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "A trader made over $20,000 by betting on weather predictions every day. He spends less than $100 per bet and buys YES options below 10 cents. His biggest win turned $120 into $4,800 with one bet."
-content_hash: "a7b9aff5c2246031a1841de6b6f97afefb8520ff380421fe72e3c3972f32d197"
+content_hash: "ca5a6add1bab832d9c59bd22dee9cfefbedffcfd168aa08ce73ad643465b9c23"
 ---
 
 **Trader turned $120 into $4,800 with a single weather bet on Polymarket**

@@ -1,7 +1,7 @@
 ---
 title: "the people learning this now will be untouchable in 3 months."
 reader_id: "01kfdste38kqbwpw8r0shga345"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8121-aa57-c10e132a40f2"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdste38kqbwpw8r0shga345"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "4 mins"
 summary: "Ralph is an AI that builds software by breaking work into small tasks and working on them automatically. It helps you finish projects much faster by running while you rest and fixing mistakes each round. Learning to use Ralph now can make you much more productive than others in just a few months."
-content_hash: "9d07898cd92d5312f29081b47860357f8ef510c0940089a1259cff07ac8f4cd9"
+content_hash: "8950d45e45d6da4f92d4e12c1f0ecc7703fc60954f72401bb364c4801c84b15c"
 ---
 
 ![the people learning this now will be untouchable in 3 months.](https://pbs.twimg.com/media/G-5SxMWXQAAzDnC.jpg)

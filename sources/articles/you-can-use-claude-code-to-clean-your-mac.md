@@ -1,7 +1,7 @@
 ---
 title: "You can use Claude Code to clean your Mac"
 reader_id: "01kn5djhw0w5bpgtd3p139ga3q"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8100-9c39-e41754959e65"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5djhw0w5bpgtd3p139ga3q"
@@ -13,7 +13,7 @@ published: "2026-01-03"
 saved_at: "2026-04-01"
 reading_time: "1 min"
 summary: "Claude Code cleaned my Mac and freed 7.3GB by removing caches (NPM, Yarn) and old Homebrew packages.  \nIt acted like CleanMyMac or CCleaner using a single prompt.  \nThis shows prompts can replace some app functions."
-content_hash: "5e20fd84acfe5ce6bac419061046275d69246533e45b9ebb619452c0970cab57"
+content_hash: "b6bf1b3a3a492813ee555e02d1cb51a6f145f709215b8697abf13581f2e85891"
 ---
 
 You can use Claude Code to clean your Mac

@@ -1,7 +1,7 @@
 ---
 title: "Here's 22 of the commands I am using with Obsidian..."
 reader_id: "01kjb06drmay8b8bamhywz3hwr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8188-992b-cf3f4e46010d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb06drmay8b8bamhywz3hwr"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-25"
 reading_time: "2 mins"
 summary: "Obsidian and Claude Code can create a personal system to organize your work and ideas using markdown notes. You write and link your vault, and AI agents help by reading and suggesting based on your data. This setup makes the AI think like you, improving over time as you add more context."
-content_hash: "b16aaed428e450843a4086b221197aa53410f001f48d08c3ca4136349d8c599e"
+content_hash: "21e21e2b4a6be5c109b137356bfd23bbe34956e9439fd88a7de919e440f514e6"
 ---
 
 Here's 22 of the commands I am using with Obsidian and Claude Code with descriptions.

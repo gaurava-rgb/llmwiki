@@ -1,7 +1,7 @@
 ---
 title: "This shortcut has helped me ship way way way faster..."
 reader_id: "01kj89n5mb0naq7aswcv5njmy9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8190-9958-ccbeae76a1dc"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89n5mb0naq7aswcv5njmy9"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "The author uses a shortcut to run Claude Code faster by skipping permission questions. This saves a lot of time and speeds up work significantly. They also automated book PDF generation with AI, making tasks much quicker and easier."
-content_hash: "a7d8bacd4ea4d17f614d5cdfc262749dfd00a67a5894f3fb59c1fd98362f1f91"
+content_hash: "c5fd888d89cb2dc88969354b5e81bb6b3a86864580f585a4d1f25070f341e6d3"
 ---
 
 This shortcut has helped me ship way way way faster, I've been using it manually before but now I just run every Claude Code bypassing permissions

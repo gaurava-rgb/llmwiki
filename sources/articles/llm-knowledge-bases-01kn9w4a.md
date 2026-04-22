@@ -1,7 +1,7 @@
 ---
 title: "LLM Knowledge Bases"
 reader_id: "01kn9w4aak2yz3w043cwhm3y7j"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8169-a34a-e4220ff1c50c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn9w4aak2yz3w043cwhm3y7j"
@@ -13,7 +13,7 @@ published: "2026-04-02"
 saved_at: "2026-04-03"
 reading_time: "3 mins"
 summary: "Andrej Karpathy uses large language models (LLMs) to build and maintain personal knowledge bases from various research materials. The LLM compiles data into markdown files, answers complex questions, and improves the wiki automatically. All work is done mostly by the LLM and viewed through Obsidian, making research easier and more organized."
-content_hash: "e914831ab73b0acbee5b4342513ebc3144c0bc66f91682ec9b82aa549b039d10"
+content_hash: "471a61120bc41f6c04facf84fd7e161d34f7352ed9cc7fc4f38ab0227ebcee1e"
 ---
 
 LLM Knowledge Bases

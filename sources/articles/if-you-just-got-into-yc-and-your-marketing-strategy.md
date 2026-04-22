@@ -1,7 +1,7 @@
 ---
 title: "if you just got into YC and your marketing strategy..."
 reader_id: "01k4jyeqfgsvr42c4wt3sdgg72"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8137-9e23-df90a23438ed"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k4jyeqfgsvr42c4wt3sdgg72"
@@ -13,7 +13,7 @@ published: "2025-09-05"
 saved_at: "2025-09-07"
 reading_time: "1 min"
 summary: "Don’t rely only on Product Hunt—build a real multi-channel marketing plan.  \nB2B: verify prospect emails, cold-email them into a weekly podcast/newsletter, run conversion ads, pixel and remarket, and nurture leads for months — $1M ARR in 12 months is unlikely.  \nB2C: create massive organic content, use influencers and SEO, amplify with paid ads and remarketing, and you can reach $1M ARR in 12 months."
-content_hash: "7bdbe73b5dd032993d3ee124af0ac104509cc7025ea3ff5bf72872718623e847"
+content_hash: "4226643e6762da12295acbf0d6e876665584eecbaa520764e07a579d65a65c66"
 ---
 
 if you just got into YC and your marketing strategy is “product hunt” please for the love of god read this so i dont have an aneurysm

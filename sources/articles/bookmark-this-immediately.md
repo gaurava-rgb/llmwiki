@@ -1,7 +1,7 @@
 ---
 title: "bookmark this immediately"
 reader_id: "01km3cr6720r9p7a9f511jdb27"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8182-91ab-d5fe9fe882b7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cr6720r9p7a9f511jdb27"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "2 mins"
 summary: "A new open-source tool called Superpowers changes how AI writes code by making it plan, test, and review everything carefully. It works with popular AI coding agents like Claude Code and Codex and helps avoid messy, unreliable code. Superpowers has quickly gained huge popularity on GitHub with over 40,000 stars."
-content_hash: "97d47933a9fa21d3906dd7875fce331b7e88243f6bafb4e8039d910d489dbab7"
+content_hash: "5b6040c20f690c4f0b20d7c06d82bb9d1d05e9b0649b805decbab1da85a52189"
 ---
 
 bookmark this immediately.

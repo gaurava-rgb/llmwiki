@@ -1,7 +1,7 @@
 ---
 title: "Karpathy accidentally shipped the org chart for every AI-augmented company..."
 reader_id: "01kme9kqch95bs0hcv7wts7h5y"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a5-8b70-d306cfab03e9"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kme9kqch95bs0hcv7wts7h5y"
@@ -13,7 +13,7 @@ published: "2026-03-23"
 saved_at: "2026-03-23"
 reading_time: "3 mins"
 summary: "Karpathy created a simple system that separates goal-setting from evaluation to ensure honest AI improvements. This method stops AI from faking results by locking the evaluation process. Many companies can use this idea to make better, trustworthy AI-driven decisions."
-content_hash: "183061eeda3eb7debd1baf2d03a82d0a9a51115ee45d292d3aad7e6269d28e89"
+content_hash: "f41693a3c60a51113d5dea452c7c31ce3a20e44cf82f886a3542f386af1a86dc"
 ---
 
 Karpathy accidentally shipped the org chart for every AI-augmented company in 2030.

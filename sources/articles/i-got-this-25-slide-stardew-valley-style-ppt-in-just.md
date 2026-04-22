@@ -1,7 +1,7 @@
 ---
 title: "I got this 25-slide Stardew Valley style PPT in just..."
 reader_id: "01kfkptmhpswaqsn94m8c19gkg"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81eb-8d6c-e140b77fd8c4"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkptmhpswaqsn94m8c19gkg"
@@ -13,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-22"
 reading_time: "1 min"
 summary: "Crystal made a 25-slide PowerPoint report in the style of Stardew Valley. The slides show business growth as farm expansion and customer gains as restoring the Community Center. The design uses pixel art, seasonal backgrounds, and themed icons for budget and skills."
-content_hash: "a0e623904f403633dfa457c038ef3ce08f2e8a0c23d4d7e9cf8d8453eef7a540"
+content_hash: "88d97fd745cbc85d07b044f21e01e0aa1878fd7adc7e83f75041a5546d8365e4"
 ---
 
 I got this 25-slide Stardew Valley style PPT in just one shot, made with Kimi Slides.

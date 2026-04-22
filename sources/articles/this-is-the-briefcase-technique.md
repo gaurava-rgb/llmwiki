@@ -1,7 +1,7 @@
 ---
 title: "This is The Briefcase Technique"
 reader_id: "01kmnwn5v4ek7fxn0pehs442rr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81a7-82bc-f1f9fe457a42"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwn5v4ek7fxn0pehs442rr"
@@ -13,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "The Briefcase Technique helps you get better jobs and clients by showing detailed plans. Many people have used it to ask for much higher pay. It works because it shows you are serious and prepared."
-content_hash: "6671b934be9c8da7f0b5378bb2d2443a6b9f4afaef52e6588d8640518746b7ff"
+content_hash: "3f857d38c88a07c485dcb14d230b00a94a291bfbfa0aa08b7dde7fe3a2f8ce7d"
 ---
 
 This is The Briefcase Technique

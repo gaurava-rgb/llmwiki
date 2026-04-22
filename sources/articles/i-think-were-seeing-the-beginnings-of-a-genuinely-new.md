@@ -1,7 +1,7 @@
 ---
 title: "I think we’re seeing the beginnings of a genuinely new..."
 reader_id: "01kjjayvwzyct173hzecb7519x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818b-9ee1-ed6f46427db0"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjjayvwzyct173hzecb7519x"
@@ -13,7 +13,7 @@ published: "2026-02-27"
 saved_at: "2026-02-28"
 reading_time: "1 min"
 summary: "A new art form is emerging that feels fresh and different. Many people on social media do not understand it yet. This change brings excitement after a long period of little innovation in art."
-content_hash: "d895a582aef0c4588005ed631f3aaa003957b70bb6696bf68d057328b8bc3387"
+content_hash: "503dfbd4fadd0e703d58f8486dc54026b1a91b87ad2f257f78b508b744f899ba"
 ---
 
 I think we’re seeing the beginnings of a genuinely new art form here.

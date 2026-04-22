@@ -1,7 +1,7 @@
 ---
 title: "Zero human company install using Paperclip and Claude"
 reader_id: "01km1ep3y02hk1n847g5qy0y2e"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8100-bd6c-f8219965c0e0"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1ep3y02hk1n847g5qy0y2e"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "4 mins"
 summary: "Zero human company install using Paperclip and Claude"
-content_hash: "b3e2a013b1cd3bdfd813d3f78e0dd14f34fff87b6cfeefded5707d681a70f84a"
+content_hash: "5ff2122e8dfea9ac7bf46956c74b569800c1eaade0d33df5bd59842161cd64fa"
 ---
 
 Zero human company install using Paperclip and Claude

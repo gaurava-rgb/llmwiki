@@ -1,7 +1,7 @@
 ---
 title: "Great list"
 reader_id: "01kjmz9dxg6z1379gjbwjxnx6v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8179-99f3-ffce0f3e8e6e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmz9dxg6z1379gjbwjxnx6v"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-03-01"
 reading_time: "2 mins"
 summary: "This text lists simple steps to start using AI tools like Claude Code, Perplexity Computer, and OpenClaw today. It encourages learning automation and prompt engineering to improve AI results. Joining the Build With AI community can help you build AI-driven business solutions."
-content_hash: "ca90e573d32ba4fbe21f53d1f012142853bf0b316085168e47b6e3178409ca62"
+content_hash: "93c8f0e81565fc9fd66f1e9e38cf45b062f29b6c6123a2d81756c45d16c56508"
 ---
 
 Great list. Here's how to actually start each one today:

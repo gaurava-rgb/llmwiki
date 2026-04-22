@@ -1,7 +1,7 @@
 ---
 title: "Got 2nd place in the @GoogleDeepMind SG hackathon!"
 reader_id: "01kevttncqtwzmnknwdb6f8wt2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8138-a017-e27a80abfe43"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevttncqtwzmnknwdb6f8wt2"
@@ -13,7 +13,7 @@ published: "2026-01-12"
 saved_at: "2026-01-13"
 reading_time: "1 min"
 summary: "Ruban won 2nd place in the Google DeepMind Singapore hackathon. He built a web app that turns 2D topo maps into 3D colorful views and lets you explore with a live AI guide. The project uses USGS maps, AWS terrain data, and the Gemini live API for an interactive experience."
-content_hash: "36c90b85f8b5a84ef1addd9783111d7473cf85b802a290ff5b5244cf097db0e4"
+content_hash: "377031316a82faf54cb3be50b57c490cbd495660a14e5264ed9842954a5cf842"
 ---
 
 Got 2nd place in the [@GoogleDeepMind](<https://twitter.com/GoogleDeepMind>) SG hackathon!

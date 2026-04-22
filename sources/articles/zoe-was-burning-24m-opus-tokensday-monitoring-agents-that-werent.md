@@ -1,7 +1,7 @@
 ---
 title: "zoe was burning 24M+ opus tokens/day monitoring agents that weren't..."
 reader_id: "01kjv338vddgheqw8yhpjq1w9z"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813a-be75-d56cea3a6500"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv338vddgheqw8yhpjq1w9z"
@@ -13,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-04"
 reading_time: "9 mins"
 summary: "zoe was burning 24M+ opus tokens/day monitoring agents that weren't running.\n\nreplaced her cron with a 2-layer system:\n- bash pre-check, zero tokens when idle\n- webhook fires opus only when needed.\n\n~95% token reduction and more reliable output. details below.\n\n(set up a cron to watch this performance, if it works well I'll double down on this event driven stack, seems like the future)"
-content_hash: "db0593ff82a06d76d816ba516ee793430951ac09f6838b651c11ef6de25ccf56"
+content_hash: "f1a7fa6ded6feef4a75b4d7ee249a311a6d0fb42a5ac281e96a85b6b69d00d23"
 ---
 
 zoe was burning 24M+ opus tokens/day monitoring agents that weren't running.

@@ -1,7 +1,7 @@
 ---
 title: "deadass should be gatekeeping stuff like this"
 reader_id: "01kj8a091tddehat6n4h2cm0ax"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8139-a632-da6c5992b4b6"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj8a091tddehat6n4h2cm0ax"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "12 mins"
 summary: "deadass should be gatekeeping stuff like this\n\nbut i know NO ONE on twitter implements a thing\n\nso it's safe to give away secrets that printed me 6-figs\n\nyou can be the exception tho and don't just bookmark it like usual:"
-content_hash: "00a7e16fdf947dca8a762886a974d12d8052cf04a2dadb961044c344a879784d"
+content_hash: "123439eb46e70ae3e29a0886459858efa221984ac817fa3c797fbe57db7a6361"
 ---
 
 deadass should be gatekeeping stuff like this

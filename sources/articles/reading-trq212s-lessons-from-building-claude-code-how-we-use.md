@@ -1,7 +1,7 @@
 ---
 title: "Reading @trq212's \"Lessons from Building Claude Code: How We Use..."
 reader_id: "01km13azcsxfeb0bx7e5mym03v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8136-9123-fd3a2112eb8f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km13azcsxfeb0bx7e5mym03v"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "2 mins"
 summary: "Muratcan Koylan improved his open-source Agent Skills repo by making skills more practical and usable for AI agents like Claude. He added clear instructions, Gotchas sections, and composable code to help agents perform tasks better. The repo aims to teach context engineering as a skill set, not just provide tools, benefiting AI developers worldwide."
-content_hash: "073217841c0fd9c26014c5616ae90df99de254efec1dd46b751e357fe081f5cb"
+content_hash: "7ff3a42a7ef61378fe944ce8ad75475a712d885fe812d6e4af58ac9f8e7aaa0b"
 ---
 
 Reading [@trq212](<https://twitter.com/trq212>)'s "Lessons from Building Claude Code: How We Use Skills" made me rewrite my entire skills repository.

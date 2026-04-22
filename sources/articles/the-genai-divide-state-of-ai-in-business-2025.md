@@ -1,7 +1,7 @@
 ---
 title: "The GenAI Divide: State Of AI In Business 2025"
 reader_id: "01k3c3165nxbqwpc69jm1sk8h1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817c-8ab5-e36ed2f9d3ef"
 category: "pdf"
 source_type: "File Upload"
 reader_url: "https://read.readwise.io/read/01k3c3165nxbqwpc69jm1sk8h1"
@@ -13,7 +13,7 @@ published: "2025-07-13"
 saved_at: "2025-08-23"
 reading_time: "28 mins"
 summary: "Many companies run GenAI pilots but only about 5% reach production, so adoption is high but transformation is low.  \nBudgets favor visible uses like sales and marketing while back-office automation gets too little funding, and external partners succeed more than internal builds.  \nSuccessful organizations buy adaptive, learning tools that embed in workflows, empower line managers, and partner closely with vendors."
-content_hash: "6c5174bbada272ed912ede3024b7a39ed8b45a1de1d0acc1c6ce30bdcf338726"
+content_hash: "925229b171594bf883768a4edf31fa8b5cc42156cf4dacef0de7dbf93cff2897"
 ---
 
 #  **The GenAI Divide** STATE OF AI IN BUSINESS 2025

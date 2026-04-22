@@ -1,7 +1,7 @@
 ---
 title: "Giving your AI a Job Interview"
 reader_id: "01k9tzkdzhxhm47c45wrja0vg2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8126-bcfb-fc2b246b2d42"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k9tzkdzhxhm47c45wrja0vg2"
@@ -13,7 +13,7 @@ published: "2025-11-12"
 saved_at: "2025-11-12"
 reading_time: "8 mins"
 summary: "AI benchmarks give a rough measure of ability but miss many real-world skills and quirks.  \nPeople should \"interview\" models with realistic tasks and repeated tests to see how they actually behave.  \nOrganizations must evaluate AIs on the specific work and judgments they need, not just public scores."
-content_hash: "753953fe2726264fa5398c2930a1e393e0f06d4ee8ec65dcc3d4f4043edb818a"
+content_hash: "7e22f0def4f2d4b00d45a77bd3b4245e780efad9fe910a0ab621d32556e386e0"
 ---
 
 ###  As AI advice becomes more important, we are going to need to get better at assessing it

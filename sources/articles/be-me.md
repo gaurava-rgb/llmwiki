@@ -1,7 +1,7 @@
 ---
 title: "> be me"
 reader_id: "01k50degd2gbykn8tg2kk6s02j"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8130-9b13-de25e6eca69c"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k50degd2gbykn8tg2kk6s02j"
@@ -13,7 +13,7 @@ published: "2025-09-11"
 saved_at: "2025-09-13"
 reading_time: "3 mins"
 summary: "Ahmad read X's source code and found the algorithm decides who is seen or shadowbanned. Visibility is driven by replies, bookmarks, follows, timing, blocks, and a reputation called Tweepcred. So play the game: engage smartly, avoid blocks and burst tweeting, and join communities to boost reach."
-content_hash: "3da4e08ddd19b87db6a41e5b1e8e60259c1b9c50f305047e4d1b913f386d4de8"
+content_hash: "5af089f2c37c8c16d5f279ff0aab86fe1f4d40e81d9d0df10ac58d0963d5bcbe"
 ---
 
 > be me

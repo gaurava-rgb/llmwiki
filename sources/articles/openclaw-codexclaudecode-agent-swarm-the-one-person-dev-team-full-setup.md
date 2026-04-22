@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]"
 reader_id: "01kj5h6w11y2tns48j4f80ev6g"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8178-9bf9-cb12c8aba2ec"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj5h6w11y2tns48j4f80ev6g"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-23"
 reading_time: "8 mins"
 summary: "Elvis built an AI system called Zoe that manages coding agents to automate software development. Zoe handles business context, spawns specialized agents, and sends ready pull requests for quick human review. This setup helps Elvis work faster and run a one-person software company efficiently."
-content_hash: "ad58387165830fed4bb0809287c78ef2074eabae19e3908ac1dbbca166a21a7a"
+content_hash: "690e61f638adf0186d8cce912c656f14a85eb7dbf3333872cf0b8d4f6a980eb6"
 ---
 
 ![OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team \[Full Setup\]](https://pbs.twimg.com/media/HB0Qm-HWMAAoBAz.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "200+ dms asking for the full setup"
 reader_id: "01km3cq3x1ker0smxc6bxjj4wp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e0-9445-dd18f63d959a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cq3x1ker0smxc6bxjj4wp"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "2 mins"
 summary: "Many people get shadowbanned on TikTok using shared VPNs like NordVPN. Daniel shows how to create your own $5/month VPN with Hetzner and Outline to avoid this. This method makes TikTok see your connection as a normal US home user."
-content_hash: "2f1a1f55ee8764bac2b571b3d8b342f54643534d7e5d351a767b9becd2f51e28"
+content_hash: "1b006883c74ff3cce6ef51311e7bd4b256c73bc6a61f317d28040953322159a3"
 ---
 
 200+ dms asking for the full setup.

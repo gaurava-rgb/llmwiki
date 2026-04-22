@@ -1,7 +1,7 @@
 ---
 title: "millions of people doxxing themselves everyday without even knowing"
 reader_id: "01kfkpcdmm6vexqfpq261v0k01"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81cd-9e37-eac751ae01aa"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpcdmm6vexqfpq261v0k01"
@@ -13,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-22"
 reading_time: "2 mins"
 summary: "Many people unknowingly share personal information on Waze through their usernames. Waze uses usernames for social features, gamification, and map editing, making users fully visible. There is no way to contribute anonymously, risking privacy without users realizing it."
-content_hash: "107d5b2621da5cc188c33777e60a72c4adadc1a574a1a957e1c3e01dff72b870"
+content_hash: "b6255083c77e54cacf410471bc5d3870c02e3a1038464e86925573f69e5e8a20"
 ---
 
 millions of people doxxing themselves everyday without even knowing. If you spend the time analysing reports, you can determine where somebody lives and works.

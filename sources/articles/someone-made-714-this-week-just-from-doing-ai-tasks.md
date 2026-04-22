@@ -1,7 +1,7 @@
 ---
 title: "someone made $714 this week just from doing AI tasks..."
 reader_id: "01kncbpqpz2f5vheck86gfzym2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81af-8714-d1d348f347d5"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kncbpqpz2f5vheck86gfzym2"
@@ -13,7 +13,7 @@ published: "2026-04-03"
 saved_at: "2026-04-04"
 reading_time: "2 mins"
 summary: "Someone earned $714 in one week by doing AI tasks online, while many still wait for job replies. There are 15 platforms that pay well for AI work, with options for beginners and experts in many countries. Using multiple sites and tools like proxies can boost your earnings and access to higher-paying jobs."
-content_hash: "704d30e8885fbbe05830dac702cc73adc6161232c1679f0ba02758a64ba39486"
+content_hash: "34e32c162217545ea5435df1f2689c771e5a585e61605c55047c76b2ca5678aa"
 ---
 
 someone made $714 this week just from doing AI tasks on their laptop and you are still applying to jobs that never reply

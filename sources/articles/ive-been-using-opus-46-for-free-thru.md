@@ -1,7 +1,7 @@
 ---
 title: "I’ve been using opus 4.6 for free thru"
 reader_id: "01kk4j03as2v7g41dtjc0rtw9x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815f-8085-ea376ccc5459"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4j03as2v7g41dtjc0rtw9x"
@@ -13,7 +13,7 @@ published: "2026-03-06"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "The author uses Opus 4.6 for free via nebula.gg. They suggest using Claude for free through Amazon customer support. The author also shares tips on testing agentic tools efficiently."
-content_hash: "675a8dfbe7cafaf7563c8d6516d76ce41246e7ea35e75bbed9fb802fe78ae4ac"
+content_hash: "5ce44cb93053e4a782a5f5be8a5fc57d8ebdc73d3cb8062fd1729daaaf8ddc1e"
 ---
 
 I’ve been using opus 4.6 for free thru [nebula.gg](<http://nebula.gg/>)

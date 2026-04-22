@@ -1,7 +1,7 @@
 ---
 title: "I handed Claude Code @karpathy's autoresearch repo and Apple's \"LLM..."
 reader_id: "01km3cvp8m03ykftshjkpk9v4c"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c2-bd3b-e77240eddecb"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cvp8m03ykftshjkpk9v4c"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "2 mins"
 summary: "Dan Woods got the Qwen3.5-397B model running on his M3 Max with some custom optimizations, reaching about 6 tokens per second. He replaced Python with metal shaders to improve speed and reduce memory use. There is still room to optimize, especially with caching and hardware advantages."
-content_hash: "436492353fcfa226c9091457749edcf92a0fe955816c806a1462586b0ec0647a"
+content_hash: "57509088ad34f291efb23f7ba3ccc72bcf16a24e64a5e178707de9c971a4ebda"
 ---
 
 I handed Claude Code [@karpathy](<https://twitter.com/karpathy>)'s autoresearch repo and Apple's "LLM in a Flash" paper, told it to get Qwen3.5-397B running on my M3 Max 48GB... it did!

@@ -1,7 +1,7 @@
 ---
 title: "When I set up a new Hetzner VPS first thing..."
 reader_id: "01kkvhtj2p0qs8h2jxzr6msefw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8161-8adc-fb0df87d47f4"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkvhtj2p0qs8h2jxzr6msefw"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "1 min"
 summary: "When setting up a new Hetzner VPS, always install Tailscale first. Then, lock the firewall to allow only HTTPS from Cloudflare and SSH from Tailscale. This keeps your server safe from hackers by limiting access."
-content_hash: "f2098e092fa97cc2242f38bf2c5bf294210b121667d34a4dc1d74aa3ee38d535"
+content_hash: "5a43a19360115338bb91b9a5f45aec9e312e739b23df541d097fcbf15f058bce"
 ---
 
 When I set up a new Hetzner VPS first thing I do install Tailscale and once I'm in via Tailscale lock down the firewall to only accept web traffic on HTTPS 443 for Cloudflare IPs and SSH 22 for Tailscale IP

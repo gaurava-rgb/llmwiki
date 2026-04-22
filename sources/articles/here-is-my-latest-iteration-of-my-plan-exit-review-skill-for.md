@@ -1,7 +1,7 @@
 ---
 title: "Here is my latest iteration of my /plan-exit-review skill for..."
 reader_id: "01kjcybvvaetms8c8543za2291"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811d-b5d6-ee5009bf55e0"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjcybvvaetms8c8543za2291"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-26"
 reading_time: "1 min"
 summary: "Garry Tan shared his latest /plan-exit-review skill for Claude Code. It helps find problems in architecture, code, and performance before finishing a plan. He ensures every part of a pull request has tests, with more tests than code."
-content_hash: "e38e026adf3b7f22a5e06360fd601a7eda31a8043d61cdef4f34e3462cff3af1"
+content_hash: "c1c4e50147f5c04c2ae925cfab8ac5be4e7017a03aec69797017124361418ba5"
 ---
 
 Here is my latest iteration of my /plan-exit-review skill for Claude Code.

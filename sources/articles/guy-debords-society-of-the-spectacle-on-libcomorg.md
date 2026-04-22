@@ -1,7 +1,7 @@
 ---
 title: "Guy Debord’s “Society of the Spectacle” on libcom.org"
 reader_id: "01kpr3gxdq75d7aanf0gk42apz"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e1-82dd-da78b9b0aea8"
 category: "article"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kpr3gxdq75d7aanf0gk42apz"
@@ -13,7 +13,7 @@ published: "2026-04-12"
 saved_at: "2026-04-21"
 reading_time: "5 mins"
 summary: "Guy Debord’s book \"Society of the Spectacle\" critiques modern society and its social order. Multiple English translations exist, with different approaches and debates among translators. The text remains influential and continues to inspire discussion and commentary."
-content_hash: "6586e20b545489ac1cd3d9db760e33ea5b055d55e0a2ac8fe0e75dc99483090b"
+content_hash: "1e4416da2a983e322270bdda340bb52501cc09dae9c2d4b95bb3c72d378c87e2"
 ---
 
 ![Guy Debord's "Society of the Spectacle" on libcom.org](https://ecologiesocialeetcommunalisme.org/wp-content/uploads/2026/04/debordcollage.png.webp)Guy Debord's "Society of the Spectacle" on libcom.org

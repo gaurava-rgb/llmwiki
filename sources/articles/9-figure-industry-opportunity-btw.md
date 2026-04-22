@@ -1,7 +1,7 @@
 ---
 title: "9 figure industry opportunity btw"
 reader_id: "01kjwjd99p0hz6r4z6yd3xvb99"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8172-9913-c94f73447c9a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjwjd99p0hz6r4z6yd3xvb99"
@@ -13,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "Daniel built a fun slime pet with help from Claude code. The pet moves, sleeps, jumps, and sings songs from Spotify. He really enjoys having this interactive companion."
-content_hash: "81daed5c1e39f5a1d095c29e5a80a9f436ccca9a0c8b0246b27ec2f86adb207e"
+content_hash: "557a1a0bb9c3e51b1159fc4f5eac97916d2169d7b2688f013ed6b80d55a3821c"
 ---
 
 9 figure industry opportunity btw

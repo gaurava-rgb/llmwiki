@@ -1,7 +1,7 @@
 ---
 title: "I created documentation over Claude Code's Codebase, which explains"
 reader_id: "01kn5d11a981ea9srxz0pt9wvw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819d-8533-eed39a4b9ff1"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5d11a981ea9srxz0pt9wvw"
@@ -13,7 +13,7 @@ published: "2026-03-31"
 saved_at: "2026-04-01"
 reading_time: "1 min"
 summary: "Vineet created clear documentation for Claude Code's codebase. The documentation explains the pipeline, context, memory, and more. The source code was leaked via a map file in their npm registry."
-content_hash: "fa39510173043588f620c93907851bebbe4c878b8526177a732989b5da0d30bf"
+content_hash: "860b0e8572a9131e3c643fe01c637165200a41ec972706d0da32d6fb5f0482ca"
 ---
 
 I created documentation over Claude Code's Codebase, which explains

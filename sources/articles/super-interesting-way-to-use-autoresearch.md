@@ -1,7 +1,7 @@
 ---
 title: "Super interesting way to use autoresearch"
 reader_id: "01kkfb3c0svydyxneatp841emn"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8102-a9b8-fe49ba855cd2"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb3c0svydyxneatp841emn"
@@ -13,7 +13,7 @@ published: "2026-03-11"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Autonomous agents can now improve machine learning models by running many experiments on their own. Andrej Karpathy showed that this approach made his model better and faster without manual tuning. This method could help researchers optimize many tasks efficiently in the future."
-content_hash: "9a8c6d68606b436d7fb331f0227d7582ae7a9b37465fa30f5e457eea67a00c64"
+content_hash: "2626eed3a50441a1f7312389dcb52a307fbf8e4573654b8b24ee741b97f6bb1e"
 ---
 
 Super interesting way to use autoresearch.

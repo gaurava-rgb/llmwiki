@@ -1,7 +1,7 @@
 ---
 title: "Wow"
 reader_id: "01kj89q86tsf8cr1z44bec49hj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d3-904b-fb676da91152"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89q86tsf8cr1z44bec49hj"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "3 mins"
 summary: "Naval explains that AI will change work by boosting top performers and crushing average ones. He says entrepreneurs benefit because AI is a tool, not a threat. The real challenge is how humans use AI, not the AI itself."
-content_hash: "f4d4cbbe0661e70536ce41c66cd07ee14466af586c9276db6104f85c585972d1"
+content_hash: "3ae59a9c58d3375e784063634a452d278c5578cbb1fdb702dab515d5cd1c0704"
 ---
 
 Wow. I finally took the time to listen to Naval's new AI podcast - it was very thought-provoking.

@@ -1,7 +1,7 @@
 ---
 title: "A couple of suggestions for Claude Code productivity, from someone..."
 reader_id: "01kkfb304dtkh8jz56m54hr7r1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8108-bae3-c8268b94e72a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb304dtkh8jz56m54hr7r1"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "2 mins"
 summary: "To improve Claude Code productivity, create detailed planning prompts and use a plugin to handle larger contexts efficiently. Organize key documents like product features, customer profiles, and style guides in a dedicated folder for easy reference. Keep a master file that links all documents and ensures code follows your guidelines for better clarity and control."
-content_hash: "9de8d2893d58fcd2187bf355d99d2b78a4a9ddd3b4ed9575ceec45ecb628e12d"
+content_hash: "0a4fdd48816112485a5f73391c5d5563b4fab74cfafdb82bd7212bd75f0f18e6"
 ---
 
 A couple of suggestions for Claude Code productivity, from someone in the profitable SaaS trenches:

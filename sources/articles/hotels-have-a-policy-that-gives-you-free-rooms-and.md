@@ -1,7 +1,7 @@
 ---
 title: "Hotels have a policy that gives you free rooms and..."
 reader_id: "01kevv79cpx1gt6pjj402y6vvm"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c3-8734-f84f926d6cf8"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kevv79cpx1gt6pjj402y6vvm"
@@ -13,7 +13,7 @@ published: "2026-01-12"
 saved_at: "2026-01-13"
 reading_time: "2 mins"
 summary: "Hotels offer a \"Best Rate Guarantee\" that can give you free rooms or big discounts if you find a cheaper price elsewhere within 24 hours of booking direct. To use it, book directly with the hotel, find a lower price on other sites, then submit a claim quickly. This policy saves you a lot of money because hotels want you to book with them directly."
-content_hash: "82941a5ba27fab8485d6c86edc25d6147aa9d2dc3766edab47b24ac00addd97e"
+content_hash: "e913efb1d1bc198c04cd3757ffba1718dda2498546f8e21ee7e7aaf06a1c5d5e"
 ---
 
 Hotels have a policy that gives you free rooms and they pray you never find out about it

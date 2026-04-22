@@ -1,7 +1,7 @@
 ---
 title: "I’ve been building this project for the past few weeks"
 reader_id: "01kj5byc8hrcmrh1amnrs8byj8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e6-8dce-cb3390e9e58a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj5byc8hrcmrh1amnrs8byj8"
@@ -13,7 +13,7 @@ published: "2026-02-22"
 saved_at: "2026-02-23"
 reading_time: "1 min"
 summary: "Abhinav has been building a workflow automation tool for several weeks. The tool supports multiple workflows, cron jobs, webhooks, and is fully open source. He improved his frontend skills and created custom isometric designs using Figma."
-content_hash: "7a868b4f0b192c9847d707b2764a8aa054b23bbc42670e25d1cb35af874e04e1"
+content_hash: "078e35aa1dffe70c2979d75c01864875240d871ec247ea6818b5fb66cb283c52"
 ---
 
 I’ve been building this project for the past few weeks

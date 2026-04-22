@@ -1,7 +1,7 @@
 ---
 title: "I don’t usually share AI stuff because most of it..."
 reader_id: "01km132xkxwqf7xk9g1e7f9pg6"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8124-84e1-d5283e305c52"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km132xkxwqf7xk9g1e7f9pg6"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-18"
 reading_time: "4 mins"
 summary: "Paperclip is a free tool that organizes many AI agents into one company with roles, budgets, and goals. It helps users manage tasks, spending, and progress from a single dashboard on any device. This makes running multiple AI tools easier, safer, and more efficient."
-content_hash: "e0faba889e18daae482f16fdbbab9d51d737efbcbb00250e9180589f83129c89"
+content_hash: "cd11aaad49300c570c9c4dc8b547de579778f87a29ee54d2ce0990cac594c601"
 ---
 
 I don’t usually share AI stuff because most of it is slop, but this is the most insane thing I’ve read today.

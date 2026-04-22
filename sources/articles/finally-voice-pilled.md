@@ -1,7 +1,7 @@
 ---
 title: "Finally voice-pilled"
 reader_id: "01kj06e131wash4ms582n0fy2v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811f-b414-f127464ddb85"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj06e131wash4ms582n0fy2v"
@@ -13,7 +13,7 @@ published: "2026-02-20"
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "The author is excited about using voice technology with AI, especially @usemonologue and a gooseneck mic. Voice typos don't matter when talking to AI, and it works very fast. They are now using this for email, Slack, and iMessage, thanks to WisprFlow and great engineering by @every."
-content_hash: "0fc65aebfe49388f80fc72199e86ac844f955dc39b3e623ae3d3c4ed9c1e2a53"
+content_hash: "445b5bd90ace756a6781386545d0887b7f86f6d8b702a42518cae4be4c37bb69"
 ---
 
 Finally voice-pilled. All in on [ @usemonologue ](<https://twitter.com/usemonologue>) and my gooseneck mic.

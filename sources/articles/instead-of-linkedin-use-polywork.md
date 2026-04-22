@@ -1,7 +1,7 @@
 ---
 title: "Instead of LinkedIn, use Polywork"
 reader_id: "01kk99ptyys72yjtgm5qhdjwh5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8178-80b8-f4e79ee6438d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk99ptyys72yjtgm5qhdjwh5"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-09"
 reading_time: "1 min"
 summary: "Stop using big sites like LinkedIn, Indeed, and Upwork to find jobs. Use alternative platforms like Polywork and JustRemote for better results. Some people get many remote job offers quickly by switching to these sites."
-content_hash: "cb974035be97abb0bf4cf0df9285ff03b5e770340b92935e6232f07802ed7b38"
+content_hash: "1ac52e584b02dc948584064b6a3a34d8d23aa0b77f8f5fd787ff617a89cd3cc7"
 ---
 
 Instead of LinkedIn, use Polywork

@@ -1,7 +1,7 @@
 ---
 title: "This is the first rational explanation I've seen for deploying..."
 reader_id: "01kj89kxdra3enhcxf4gtvkw6h"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e6-bfbb-ce48db25eba4"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89kxdra3enhcxf4gtvkw6h"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "8 mins"
 summary: "Ian Andrews uses an AI orchestrator called Zoe to manage coding agents, speeding up software development by automating tasks and keeping full business context. Zoe assigns tasks to specialized agents, monitors progress, and alerts him only when human review is needed. This system makes coding faster and more efficient, letting Ian handle many features and fixes alone."
-content_hash: "e51b171195052a277b847203e9387eb86935d74afa6b16eee46ace004c7a5538"
+content_hash: "a389bf6c9baee173a94b135db75a07d2653b7097c0bc8ec17fb1a8d48a1b6e2c"
 ---
 
 This is the first rational explanation I've seen for deploying OpenClaw:

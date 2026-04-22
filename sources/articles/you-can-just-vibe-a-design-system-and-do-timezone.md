@@ -1,7 +1,7 @@
 ---
 title: "you can just vibe a design system and do timezone..."
 reader_id: "01kj89nzets7zj83zc0htjxwrq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8125-9c74-dbc9c50c5e30"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89nzets7zj83zc0htjxwrq"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "you can just vibe a design system and do timezone ux that doesn't suck"
-content_hash: "40afd32640d0499aa0e3ba9a7a1c1845e32fd08a4a921c5c72c523ac521e174b"
+content_hash: "e270139a1f58345aadafd00bb90be434b81e5837de9452ab67f4c3c267ea7e55"
 ---
 
 you can just vibe a design system and do timezone ux that doesn't suck

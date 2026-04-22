@@ -1,7 +1,7 @@
 ---
 title: "I have gone personally through quant interviews at institutional firms"
 reader_id: "01kk4hvjjzra85jx2ejeq7kcth"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8133-af4e-f119ec32b57f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4hvjjzra85jx2ejeq7kcth"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "19 mins"
 summary: "Quant interviews focus mainly on technical math and problem-solving skills, not market knowledge or tools. Quants use advanced math like stochastic calculus to solve complex finance problems every day. Preparing well with the right resources and understanding math deeply is key to success."
-content_hash: "8b5109fd9f71bd528ec405ea810dddc8074393d8d923d40aee17a9404a9f7601"
+content_hash: "366b5acbe6532aa531108062a79490b0018dbee0b4a54588a2bf6f9158592cc8"
 ---
 
 I have gone personally through quant interviews at institutional firms. This article is the closest thing to an insider breakdown I have ever seen shared publicly.

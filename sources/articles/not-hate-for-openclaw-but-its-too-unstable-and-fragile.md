@@ -1,7 +1,7 @@
 ---
 title: "not hate for openclaw, but it's too unstable and fragile..."
 reader_id: "01kj89sk1g4xfscdxm1qnwtrcr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813b-989e-e74d83827699"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89sk1g4xfscdxm1qnwtrcr"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "2 mins"
 summary: "The author finds OpenClaw too unstable and prefers a simpler agent with smart memory and skill access. They created a system that mirrors graph memory in editable markdown files for easy control and visualization. Skills are stored in the memory graph and activated only when relevant to avoid confusion and keep the agent smart."
-content_hash: "5c18eb33fddcb1f3759bf85e9c88778c7a5e40d9d21458cffd1a3a8472fdc9cf"
+content_hash: "55a630b9ebb0da78b38d1485d082da04598d588725972b277548fd92b999a877"
 ---
 
 not hate for openclaw, but it's too unstable and fragile for my liking. i don't need overly complex multi-agent coordination, and i don't need to be able to text my agent from my samsung smart fridge...

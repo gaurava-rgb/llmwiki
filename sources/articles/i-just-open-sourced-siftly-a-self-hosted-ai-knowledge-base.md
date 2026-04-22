@@ -1,7 +1,7 @@
 ---
 title: "I just open sourced Siftly, a self-hosted AI knowledge base..."
 reader_id: "01kk4h4pnr9emp61wftp733as7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8104-80da-e16fd300a861"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4h4pnr9emp61wftp733as7"
@@ -13,7 +13,7 @@ published: "2026-03-06"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "Siftly is a free, open-source AI tool that helps you organize and search your saved tweets on your own computer. It uses AI to read images and text, and sorts posts into smart collections automatically. You can use it easily if you have Claude Code CLI, with no extra setup needed."
-content_hash: "e2b4967769793c0a0259d3d65b1e33d7d147695174bb05aac1e28c99a1f5df60"
+content_hash: "1a243be3560d6e2833007d4ea54ce21cd2b2f7fb393809c0eaa813557e6cd14e"
 ---
 
 I just open sourced Siftly, a self-hosted AI knowledge base for your X bookmarks.

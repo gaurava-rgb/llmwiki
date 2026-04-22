@@ -1,7 +1,7 @@
 ---
 title: "This is why game theory is so important to understand"
 reader_id: "01kkfaweqawvjc74gzvextcx2w"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ea-ab32-ece1841f16ba"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfaweqawvjc74gzvextcx2w"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Game theory helps people make smart decisions by thinking ahead. Successful people use game theory to gain an advantage. Understanding it can improve how you plan and act."
-content_hash: "e8d0c669f944bf9072a543c453c3012b472ff434b863f69d7f549dacd5929489"
+content_hash: "232e0764c67d1da394c6bb25de7e17791d36013b107267017be91b404e03183e"
 ---
 
 This is why game theory is so important to understand.

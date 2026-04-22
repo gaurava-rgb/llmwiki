@@ -1,7 +1,7 @@
 ---
 title: "15 ideas to help you build a better personal network"
 reader_id: "01kpq3dtxvwxp1mwnb7w5pf2xs"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814d-8c59-c401f50c23ca"
 category: "article"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpq3dtxvwxp1mwnb7w5pf2xs"
@@ -13,7 +13,7 @@ published: "2026-04-05"
 saved_at: "2026-04-21"
 reading_time: "6 mins"
 summary: "Building a strong personal network means being clear, helpful, and respectful when reaching out to others. Listen actively, remember details, and focus on being genuinely useful instead of just asking for favors. Stay positive, avoid gossip, and be consistent to make lasting connections."
-content_hash: "d640400adc410730ffde71417e24f247bfade450931827c852f8506e4d45ea52"
+content_hash: "7a2943b3a2c67a2fc09fbaa317ca03b95cf851f0b4aac6fa8c3bac35ef6bc027"
 ---
 
 ### Ideas you can apply right now

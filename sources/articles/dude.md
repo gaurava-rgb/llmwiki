@@ -1,7 +1,7 @@
 ---
 title: "dude"
 reader_id: "01kj5h7ng80rh4ef9c0594e34w"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fc-8543-fc8793c386a9"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj5h7ng80rh4ef9c0594e34w"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-23"
 reading_time: "1 min"
 summary: "Krzysztof Duda created a chat interface that generates maps, tables, and charts. It uses json-render technology. This update was shared on February 21, 2026."
-content_hash: "32098700b7116479e4ca337da621e08318e68def3d3c69f42b206c91f2965fba"
+content_hash: "b6b665fd0e40df1e2fbd86a11fc45e41f687960d24c5518141162b7c4fa7fa99"
 ---
 
 dude

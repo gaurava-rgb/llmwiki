@@ -1,7 +1,7 @@
 ---
 title: "i'll say this again because i keep seeing people do..."
 reader_id: "01kpa3gmdxf1vfjmk6ngxzjxwx"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81de-858a-ff6154467b07"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpa3gmdxf1vfjmk6ngxzjxwx"
@@ -13,7 +13,7 @@ published: "2026-04-10"
 saved_at: "2026-04-16"
 reading_time: "1 min"
 summary: "You can solve any engineering problem by creating a harness for an agent and letting it run in a loop. Using this method, AI quickly fixed a complex issue that used to take hours. Software development is changing with AI taking control through feedback loops."
-content_hash: "06c08574574a44b376561b288a25fe52ebe5b2fa23cc5af38e8a704f14e54eaa"
+content_hash: "155d67d6d1def8e2f2d7ebf2882f22751fcc4b6a9a264f66af393d81ba9e6d29"
 ---
 
 i'll say this again because i keep seeing people do it wrong:

@@ -1,7 +1,7 @@
 ---
 title: "Nano Banana + Make UGC + Gemini = AI Content..."
 reader_id: "01kfe9kwg6j2fx9xjmnnv96fv4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8105-832d-e43f227620d9"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9kwg6j2fx9xjmnnv96fv4"
@@ -13,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "Nano Banana + Make UGC + Gemini = AI Content Factory\n\nNo actors.\nNo photo shoots.\nNo ghost creator.\nNo wasted samples.\n\nHere’s what I did:\n\n- One AI runs in the background\n- Content posts 2× daily, automated\n- Niches with proven demand\n- Winning styles recreated with AI\n\nMonetized with affiliates + brand deals.\nScales across multiple pages.\n\nSet it up once.\nLet AI run it.\n\nComment “Agent” and I’ll send it to you.\n(Must be Following)"
-content_hash: "f5e1c4c5c679595ada1b2f5dd40c27be25a00e5ce3164181cdb0a44375eb9919"
+content_hash: "5e597f2d86cbb585d161cd73d30566a5b314e34e8fb8f8b742ac92c6abad00e3"
 ---
 
 Nano Banana + Make UGC + Gemini = AI Content Factory

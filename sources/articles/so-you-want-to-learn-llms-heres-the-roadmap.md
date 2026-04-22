@@ -1,7 +1,7 @@
 ---
 title: "So You Want to Learn LLMs? Here's the Roadmap "
 reader_id: "01k51xhkewvnqs82mx3gnw6kxq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ee-b76e-de64f38ae95c"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k51xhkewvnqs82mx3gnw6kxq"
@@ -13,7 +13,7 @@ published: "2025-06-23"
 saved_at: "2025-09-13"
 reading_time: "5 mins"
 summary: "This roadmap guides computer science learners through building and training large language models step-by-step, focusing on key concepts without unnecessary detours. It includes practical projects like building a mini-GPT and fine-tuning models with techniques like LoRA. By following the phases and resources, you will gain real skills to understand, create, and optimize LLMs confidently."
-content_hash: "47c8462b4df81294ac35fe2184398743c774ba9fb6a0da6fcc86ca9f380c77ab"
+content_hash: "ce2838bc44336b5b728bef0a93c3e40acdc7dbff193a1493dfdbb39826c87229"
 ---
 
 ![So You Want to Learn LLMs? Here's the Roadmap ](https://pbs.twimg.com/media/GuRtGPbXsAAZNtK.jpg)![Image](https://pbs.twimg.com/media/GuRtPpNWcAAqTBd.jpg)

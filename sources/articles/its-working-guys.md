@@ -1,7 +1,7 @@
 ---
 title: "It's working guys"
 reader_id: "01km92vm238jagg6j5jw48my1q"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8117-a9eb-ec4b94ce153b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km92vm238jagg6j5jw48my1q"
@@ -13,7 +13,7 @@ published: "2026-03-21"
 saved_at: "2026-03-21"
 reading_time: "1 min"
 summary: "Garry Tan built a free, open-source tool that anyone can use and customize. Vox used AI tools to design, plan, and build a project smoothly without manual setup. The AIs collaborated like a real team, making development faster and easier."
-content_hash: "cc33f7019b3be18dc1ad7a2ee8b1bed69b6c3f763a3274a4fce0f31fd257e95c"
+content_hash: "f5f482302ba2582e6b4f622b423e2d591e9e9f6eb7a2783be03a6dc2c9392828"
 ---
 
 It's working guys. This is exactly what I built for myself and what you can have for you now.

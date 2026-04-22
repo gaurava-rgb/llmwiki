@@ -1,7 +1,7 @@
 ---
 title: "zoe was burning 24M+ opus tokens/day monitoring agents that weren't..."
 reader_id: "01kjt05zn3z5mdjx5vgpg0je0y"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8155-af70-e7e20b76d077"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt05zn3z5mdjx5vgpg0je0y"
@@ -13,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-03"
 reading_time: "9 mins"
 summary: "Elvis built Zoe, an AI orchestrator that manages coding agents to automate software development with business context. Zoe spawns, monitors, and guides agents to create and review code, speeding up work and reducing manual effort. This system lets Elvis handle client requests and ship features quickly, running multiple specialized agents in parallel."
-content_hash: "51bda692732c4bdb97450816e9d92d853fb05fe827bb6dd156f15c5c50f8b0e1"
+content_hash: "1a57ca4a5ecf40ba6a18fb1968f67b00ee0f93db067f77e8bc3bcb374f26c300"
 ---
 
 zoe was burning 24M+ opus tokens/day monitoring agents that weren't running.

@@ -1,7 +1,7 @@
 ---
 title: "This is just crazy 🤯"
 reader_id: "01k2btj7tz7fx5vvdv650r2ew4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8168-b4b0-ff30b1969059"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k2btj7tz7fx5vvdv650r2ew4"
@@ -13,7 +13,7 @@ published: "2025-08-10"
 saved_at: "2025-08-11"
 reading_time: "1 min"
 summary: "You can make a simple quit vaping app that earns $70,000 a month. These apps help people who want to stop smoking and are easy to market. Use health influencers, faceless accounts, and ads to succeed quickly."
-content_hash: "ee63ce6cfbf1d962e67fe3cc3d57fa543ecc77e3362f147c8be78ade1314cb46"
+content_hash: "c5663b604dfd9f88901b7e02b78c5cdbd91e0239cc43075b5a7b3adc7df1a8ed"
 ---
 
 This is just crazy 🤯

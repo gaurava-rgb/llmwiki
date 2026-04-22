@@ -1,7 +1,7 @@
 ---
 title: "Claude Dispatch and the Power of Interfaces"
 reader_id: "01kn30rqjr9qpc064dznw8ats2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81eb-bb55-ce0c393acce0"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kn30rqjr9qpc064dznw8ats2"
@@ -13,7 +13,7 @@ published: "2026-03-31"
 saved_at: "2026-03-31"
 reading_time: "6 mins"
 summary: "AI is very smart but hard to use because chatbots make work confusing and overwhelming. New tools like Claude Cowork and Dispatch let AI work with your real files and apps, making it feel like a helpful assistant. The future will have AI that creates the right interface for each task, so more people can easily benefit from AI's power."
-content_hash: "e81764f8bd2ae5467c472f93e0d692da8c72a8f796ed586fb8ed06fe98947919"
+content_hash: "d6050fe8dee0a323b8ba1d0db1da199261c2be54789ddd0d6b3515a64f0bc8d5"
 ---
 
 ###  We often lack the tools for the job, even if the AI is capable enough

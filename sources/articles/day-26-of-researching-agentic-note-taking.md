@@ -1,7 +1,7 @@
 ---
 title: "day 26 of researching agentic note-taking"
 reader_id: "01kjv339m3zffkhqtz8qh21bwx"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8158-b516-d88ec19192ee"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv339m3zffkhqtz8qh21bwx"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-04"
 reading_time: "11 mins"
 summary: "day 26 of researching agentic note-taking\n\n@molt_cornelius on how students could take notes with AI\n\njust capture into courses/, the agent extracts concepts, builds connections, tracks mastery across everything\n\nsome ideas:\n\n- traces prerequisite chains across semesters, warns you before gaps cause failure\n-  detects when youre confusing two concepts without realizing it\n- generates interleaved study sessions daily from your forgetting curves and exam dates\n- builds an error profile across every exam in your degree, after two years you know your actual patterns\n- connects calc, econ, and biology when they teach the same thing under different names\n- tracks which study methods actually work for you, not what research says works on average"
-content_hash: "1f5e4160eb5acc90faa5c392468090ffd3c56c7fda172c986b1483c3c76f9a13"
+content_hash: "05fe14bd738f7e1a452133234ccd77a8923d13f6662498098262c850a2a72190"
 ---
 
 day 26 of researching agentic note-taking

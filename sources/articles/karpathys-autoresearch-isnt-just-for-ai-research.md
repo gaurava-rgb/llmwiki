@@ -1,7 +1,7 @@
 ---
 title: "Karpathy's autoresearch isn't just for AI research"
 reader_id: "01kkfay47zj26736677gj035pg"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81db-9a5b-ea1a095f4f80"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfay47zj26736677gj035pg"
@@ -13,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-11"
 reading_time: "3 mins"
 summary: "Karpathy's autoresearch uses AI to run thousands of experiments automatically, speeding up learning in marketing and business. This system tests and improves things like emails and ads much faster than humans can. Companies using it gain a big advantage by continuously learning what works best while others move slowly."
-content_hash: "cdf1a1b08a2916539f3ff318712db30416e49249b9b7a869d41349088a2ce04f"
+content_hash: "c32e4104cd4f1c3eab939b291f7100a81875a25a45cd83a9850898eca5692891"
 ---
 
 Karpathy's autoresearch isn't just for AI research. You can use it for business.

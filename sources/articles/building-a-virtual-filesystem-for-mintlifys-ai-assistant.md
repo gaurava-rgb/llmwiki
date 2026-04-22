@@ -1,7 +1,7 @@
 ---
 title: "Building a Virtual Filesystem for Mintlify's AI Assistant"
 reader_id: "01kn84s5ffty0mt7vc5qmy93z8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8146-9cab-d3fa635d2cbc"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn84s5ffty0mt7vc5qmy93z8"
@@ -13,7 +13,7 @@ published: "2026-04-02"
 saved_at: "2026-04-02"
 reading_time: "5 mins"
 summary: "Mintlify built a virtual filesystem called ChromaFs to help their AI assistant explore documentation quickly and cheaply. Instead of using real files, ChromaFs turns file commands into database searches, making sessions start in milliseconds. This system supports access control, fast searching, and keeps costs low without new infrastructure."
-content_hash: "9d2ad365375a1e127317f228cd52dadd6360673b0eb997116055f1942481fe9c"
+content_hash: "64457507e65a11ad982a153c127c0aac2c478c86fb2deca4e77f08a504430d6e"
 ---
 
 ![Building a Virtual Filesystem for Mintlify's AI Assistant](https://pbs.twimg.com/media/HE3NSrYbIAAVhm8.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Real AI Agents and Real Work"
 reader_id: "01k6bdb5t5we7qms4t8qg5jtv0"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8147-b456-d37b276138e6"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k6bdb5t5we7qms4t8qg5jtv0"
@@ -13,7 +13,7 @@ published: "2025-09-29"
 saved_at: "2025-09-29"
 reading_time: "6 mins"
 summary: "AI agents can now perform complex, valuable tasks and nearly match expert work.  \nThey can speed tasks like research replication but do not replace whole jobs yet.  \nThe outcome depends on us: use AI to add value and review results, not to generate junk."
-content_hash: "66e39d32ed87de986f9554e79a0cbfaf2feaeaa3b9ce6b227dd17110a44cadad"
+content_hash: "1c5663268caddda7141461a6bc0437b2a5f81e5f9bcd5a05ed487f1e6a9d946f"
 ---
 
 ###  The race between human-centered work and infinite PowerPoints

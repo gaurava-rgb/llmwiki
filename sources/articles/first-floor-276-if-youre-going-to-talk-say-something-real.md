@@ -1,7 +1,7 @@
 ---
 title: "First Floor #276 – If You're Going to Talk, Say Something Real"
 reader_id: "01k2mdxdgrbhy5cdp3k1xs6dkp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8130-bd70-deea5c111c07"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k2mdxdgrbhy5cdp3k1xs6dkp"
@@ -13,7 +13,7 @@ published: "2025-08-14"
 saved_at: "2025-08-14"
 reading_time: "17 mins"
 summary: "First Floor #276 features an interview with electronic artist mad miran and shares the latest news and music in the electronic scene. The newsletter highlights new releases, artist stories, and industry updates like the impact of private equity on live music. It also includes music recommendations from artists like FaltyDL and showcases diverse styles within electronic music."
-content_hash: "b6854d91946eb601cd0b8ef2ae639d20096c63a20f7fbaf7359019befb81f703"
+content_hash: "51fe28a8b099817a4895504cde5bc54dee878214d431ae9ac32dd5f1fcfaf3b4"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9maXJzdGZsb29yLnN1YnN0YWNrLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9Mzhqd3YmbmV4dD1odHRwcyUzQSUyRiUyRmZpcnN0Zmxvb3Iuc3Vic3RhY2suY29tJTJGcCUyRmZpcnN0LWZsb29yLTI3Ni1pZi15b3VyZS1nb2luZy10byIsInAiOjE3MDg0MTU1OSwicyI6MTEwMjQsImYiOnRydWUsInUiOjU0Mzc5MDMsImlhdCI6MTc1NTE2NjA5NSwiZXhwIjoyMDcwNzQyMDk1LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.Halcq5rf7Hqk6kO1wQVDfj1ljhdKStQNB4I4QCn1r-k?>) for more

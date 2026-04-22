@@ -1,7 +1,7 @@
 ---
 title: "First Principles: Omission biases and imagination deficits"
 reader_id: "01jyx4t1abb7d71xpd6zjxtn05"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8185-a630-c33de02a6b80"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01jyx4t1abb7d71xpd6zjxtn05"
@@ -13,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-06-29"
 reading_time: "12 mins"
 summary: "Many people avoid making decisions that could improve their lives because they fear change and prefer the status quo. Imagination is crucial for ambition to matter in today’s world, especially in careers and organizations. To grow, we must challenge ourselves to imagine new possibilities and not just stick to what feels safe."
-content_hash: "c9a1fed64533334de0560c2c166578aca653944cef20787c6f115ce7938fd390"
+content_hash: "eab97ecd75142cb79be24a396bb80277e003a04646d9498bc44ba21a72e71352"
 ---
 
 [ ![The Ken Logo](https://the-ken.com/wp-content/themes/the-ken/assets/assets_3_0/images/newsletter/email-template-icon/app_logo_red.png) ](<https://the-ken.com/>)

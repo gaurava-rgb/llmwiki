@@ -1,7 +1,7 @@
 ---
 title: "At this rate Andrej is going to make his own..."
 reader_id: "01kjjazgabzbxeqgsb04wj7ye3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8196-8339-e37c41b117d1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjjazgabzbxeqgsb04wj7ye3"
@@ -13,7 +13,7 @@ published: "2026-02-27"
 saved_at: "2026-02-28"
 reading_time: "2 mins"
 summary: "Andrej Karpathy is experimenting with using AI agents to run a research lab. The agents can follow instructions but struggle to create good ideas or designs on their own. This setup shows promise but still needs improvement to work well."
-content_hash: "71e17e041826edc2d2ed72fc0d64515920544982874d6458f9473f68e9c59e71"
+content_hash: "1e792a5965fcf85ca8a800f50f89002f4be354e8f4d962c11b3f1eec4a527cf7"
 ---
 
 At this rate Andrej is going to make his own AI Lab

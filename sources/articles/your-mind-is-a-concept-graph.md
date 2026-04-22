@@ -1,7 +1,7 @@
 ---
 title: "\"your mind is a concept graph\""
 reader_id: "01kjb0a76xfwexawg8zjzpzr2z"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816a-b70c-d10a86af5342"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb0a76xfwexawg8zjzpzr2z"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-25"
 reading_time: "1 min"
 summary: "Your mind works like a concept graph, linking ideas with connections. Conversations are like walking paths through this graph, telling stories one step at a time. Agents should build and use concept graphs to share knowledge clearly and effectively."
-content_hash: "254793e61b82e07071455fd993befb69292b6faa181460c02151d0a42c4ff83e"
+content_hash: "63d14f7d6be3ba0f3b8048ac51ef7bae52db3d6b414050da48b1519ad16204e4"
 ---
 
 "your mind is a concept graph"

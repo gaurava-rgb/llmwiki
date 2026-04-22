@@ -1,7 +1,7 @@
 ---
 title: "This 2-hour lecture by Andrej Karpathy - co-founder of OpenAI..."
 reader_id: "01knpktvnkfer6v3p9x2yf4etr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8180-bee0-d70f71837459"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01knpktvnkfer6v3p9x2yf4etr"
@@ -13,7 +13,7 @@ published: "2026-04-07"
 saved_at: "2026-04-08"
 reading_time: "4 mins"
 summary: "Andrej Karpathy’s lecture teaches how to build GPT and explains why later messages cost more tokens. Using “caveman Claude” and smart tricks can cut token use by up to 75%, saving you money. Managing usage windows and fixing token leaks helps avoid wasted costs and boosts efficiency."
-content_hash: "2514cc957637d17b9f4cf4e56e1d22289f5767651ef421cef9cb61a16d7766ac"
+content_hash: "7f900858b562dcfdc280c00cb0b1d4671942765d8d630ba95253a1ab4afb4f3f"
 ---
 
 This 2-hour lecture by Andrej Karpathy - co-founder of OpenAI, the man who coined "vibe coding" - will build GPT from scratch and show you exactly why message 30 costs you 31x more than message 1.

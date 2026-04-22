@@ -1,7 +1,7 @@
 ---
 title: "If you are struggling with \"I know the coding, but..."
 reader_id: "01kf98ttmcrpspexj212k8ja72"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818e-bd23-ff1b3d84059b"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kf98ttmcrpspexj212k8ja72"
@@ -13,7 +13,7 @@ published: "2026-01-18"
 saved_at: "2026-01-18"
 reading_time: "1 min"
 summary: "If you know coding but struggle to build and run a product, learn the data pipeline of a web app. Build a simple test app to practice domain setup, authentication, hosting, deployment, and security. This hands-on work will boost your confidence and understanding."
-content_hash: "1eb04f78c33dd98f4bd8227042a87c60c9b903d81a536915548544849c7b0e68"
+content_hash: "f4397ee19352260008a6dd2e82c77ff95ce2d837135ad7b3a54e192fb8e76be2"
 ---
 
 If you are struggling with "I know the coding, but I don't know how to build and run a product", you need to understand the data pipeline of a modern web-app. It's a one time exercise, and many people struggle with this even when it's actually trivial.

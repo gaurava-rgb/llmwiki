@@ -1,7 +1,7 @@
 ---
 title: "Knowledge graphs win every single time"
 reader_id: "01kkj8y60kwqnx82q4a7e0x90y"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817f-babe-cf9c866e0835"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkj8y60kwqnx82q4a7e0x90y"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-13"
 reading_time: "1 min"
 summary: "Knowledge graphs help find truly relevant information by understanding connections and context. Vector search only finds similar words, which can cause mistakes with lots of documents. HydraDB uses knowledge graphs to give accurate answers, even when words look alike."
-content_hash: "cacb4aae2179254384af03e99ae4e8db799a1715b80c134cef9860d0825a1e36"
+content_hash: "946c06b7ad645a6032d25d8fe87ffec0d96356015cc7660b6309d405b189a057"
 ---
 
 Knowledge graphs win every single time.

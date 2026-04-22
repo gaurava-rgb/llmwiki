@@ -1,7 +1,7 @@
 ---
 title: "A 5-day plan to set up Claude:"
 reader_id: "01km3cqx1qbvcgmnfw91ywqfaj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8176-bbfa-fd64bc1312df"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cqx1qbvcgmnfw91ywqfaj"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-19"
 reading_time: "10 mins"
 summary: "The 5-day plan guides teams to set up Claude by creating Projects for repeated tasks, making prompt templates, testing with real work, and rolling it out to the team. Each day has simple steps to build, test, and share customized Claude workflows that save time and improve quality. By the end, the whole team uses Claude easily with clear instructions and examples."
-content_hash: "e90497a7a7b6628bffd6deffe1d4becdc4acf74cd3038028eb540ff1aa441cf5"
+content_hash: "54aac3c7a6ff76006f6678c7cd289e4bfd80e8691df736eb1f02b647afb0f704"
 ---
 
 A 5-day plan to set up Claude:

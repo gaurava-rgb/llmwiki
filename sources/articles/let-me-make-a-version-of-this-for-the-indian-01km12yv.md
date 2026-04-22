@@ -1,7 +1,7 @@
 ---
 title: "Let me make a version of this for the Indian..."
 reader_id: "01km12yv38neg44g533h9dnpg8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81aa-b0fd-e6523a153adb"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km12yv38neg44g533h9dnpg8"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "The text lists key clothing items for an Indian spring wardrobe, including shirts, jackets, shorts, and shoes. It suggests brands and stores where these items can be bought. The focus is on light, comfortable fabrics suitable for warm weather."
-content_hash: "298d526c6b259a61d6c2855ffbe5f17706da7ae014c824b4f42448cf12489292"
+content_hash: "82c9b30ccfc0bf2bce1419cab0cf221c2b8f535549f884079ad47a851b8d1116"
 ---
 
 Let me make a version of this for the Indian spring with some added info and where to get them .

@@ -1,7 +1,7 @@
 ---
 title: "If I look at the last 15 years of knowing..."
 reader_id: "01kfdt9qk6mkz3ns082ybtjth1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814b-a61e-fb171adbc589"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdt9qk6mkz3ns082ybtjth1"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "Successful startup founders ask for help often and apply feedback quickly. They move fast but keep their vision clear. Those who wait too long to use feedback tend to struggle."
-content_hash: "6a6765cd4b29e296991908bc22ba05e1811d090e071ac5cb999be7a258f8a08b"
+content_hash: "cce462121fb623e0c2d2d300553ff96ae9555e639fb5dce4521e2feb5605f053"
 ---
 
 If I look at the last 15 years of knowing people in startups, and then seeing who became successful and who didn't, I'm starting to see some general patterns

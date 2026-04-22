@@ -1,7 +1,7 @@
 ---
 title: "Papers are best learnt interactively, so I turned Cursor's Composer..."
 reader_id: "01kmnwhekgahrmze1e4525d22f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e2-b665-f589a167c2a3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwhekgahrmze1e4525d22f"
@@ -13,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "The author turned Cursor's Composer 2 paper into an interactive notebook for easier learning. Composer 2 was trained using a Kimi K2.5 base, continued pretraining on code, and reinforcement learning from Cursor sessions. This method created a strong coding agent at half the usual cost."
-content_hash: "4bbc5080fff455c2d06d61841f40ad72209b1a430e30ea3e4299496866757c84"
+content_hash: "57ba887ccdcfdf81b00b27739287083f37770c2a94b410627f164e1c5ec61ef5"
 ---
 
 Papers are best learnt interactively, so I turned Cursor's Composer 2 paper into a [@marimo_io](<https://twitter.com/marimo_io>) notebook.

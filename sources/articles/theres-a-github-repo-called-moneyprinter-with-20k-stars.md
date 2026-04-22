@@ -1,7 +1,7 @@
 ---
 title: "There’s a GitHub repo called MoneyPrinter with 20k+ stars"
 reader_id: "01kmgd2m1w091e08zqwndm58a3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819b-ad93-c7f7fb0c3cec"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmgd2m1w091e08zqwndm58a3"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "There’s a GitHub repo called MoneyPrinter with 20k+ stars. Its entire purpose is generating internet slop for profit (yes, including Twitter bots)."
-content_hash: "66bdd0470edc8297dd4ad3d804124c16f5498b11abf80772a27f747b2ff308d2"
+content_hash: "7664d88307e13e8ecf329b30f9751e9612b1c751848bcb106ed21dba88b92e88"
 ---
 
 There’s a GitHub repo called MoneyPrinter with 20k+ stars. Its entire purpose is generating internet slop for profit (yes, including Twitter bots).

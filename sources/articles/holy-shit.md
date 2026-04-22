@@ -1,7 +1,7 @@
 ---
 title: "Holy shit..."
 reader_id: "01kkfb29j3n5mk0st717nywncq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8107-9f15-db6b994730e5"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfb29j3n5mk0st717nywncq"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Google Colab can now run inside VS Code, giving free access to powerful GPUs like the NVIDIA T4. This means developers get fast cloud computing without setup hassles or hardware limits. The new integration removes the \"I don't have a GPU\" excuse and makes AI work easier for everyone."
-content_hash: "3b2f5c9818ac75d0b74edff2b626b7a9a277778b29c091d77564d820d9484f2d"
+content_hash: "3d7c6f35a96dee21fe32325bd87013a7ad1f6163649481ad37b33a155d01fb27"
 ---
 
 Holy shit... Google just killed the "I don't have a GPU" excuse forever.

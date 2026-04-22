@@ -1,7 +1,7 @@
 ---
 title: "Claude Code and What Comes Next"
 reader_id: "01kedb81crsp5rczkjwrkxfefn"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b1-8ed4-eb3c85c7c9ab"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kedb81crsp5rczkjwrkxfefn"
@@ -13,7 +13,7 @@ published: "2026-01-07"
 saved_at: "2026-01-07"
 reading_time: "10 mins"
 summary: "New AI tools like Claude Code can work autonomously to build real products and solve complex tasks.  \nThey use tool-harnesses, long prompts, and subagents to overcome memory limits and self-correct.  \nThis shift is already changing programming and will soon reshape many knowledge jobs."
-content_hash: "3e502de49d0c9b21a161d40c3fe1e9a7f0bcb7e3aa33f50bbe5f6cdf61abdb7c"
+content_hash: "94c84ec06a1746e356c59b8074f46cd0fb46e853dc62b09de35712febf69d442"
 ---
 
 ###  With the right tools, AI can accomplish impressive things

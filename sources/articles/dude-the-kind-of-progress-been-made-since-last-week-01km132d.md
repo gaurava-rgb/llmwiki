@@ -1,7 +1,7 @@
 ---
 title: "dude the kind of progress been made since last week..."
 reader_id: "01km132djcgzhpr1wvgx1pq2g9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81af-9701-c65676a7fb1d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km132djcgzhpr1wvgx1pq2g9"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Big progress has been made recently in AI research tools. New platforms like AutoResearch, Unsloth studio, and alphaXiv MCP help run experiments and train language models. AlphaXiv MCP improves research by enabling fast searches across millions of arXiv papers."
-content_hash: "14bfda6062742de4a602fbe3dc6e85e39f70c4080717f82da25c14cface1136e"
+content_hash: "18e25fd5fd40f3cd823a174f48c61299720bf5fd71bb2d7bd6179d006348a6f5"
 ---
 
 dude the kind of progress been made since last week to better ai research is just insane.

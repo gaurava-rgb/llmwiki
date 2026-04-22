@@ -1,7 +1,7 @@
 ---
 title: "How I made $22k in 8 months posting faceless tiktoks for apps (and how you can start this week)"
 reader_id: "01kj3b8dzs8h52rjkg697gaxkf"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8140-9b60-fc969a9b4c30"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj3b8dzs8h52rjkg697gaxkf"
@@ -13,7 +13,7 @@ published: "2026-02-14"
 saved_at: "2026-02-22"
 reading_time: "7 mins"
 summary: "Jessie made over $22,000 in 8 months by posting faceless TikTok videos for app campaigns without showing her face or needing followers. She used a platform called Content Rewards to find campaigns, create videos from her own accounts, and get paid based on views. Anyone can start by joining Content Rewards, picking a campaign, posting consistently, and improving their content over time."
-content_hash: "2c99b1c443002c0a87ce2f6eb18b21728c5bd739ee365032a13ee4ef350d1084"
+content_hash: "d0eb7a5b20a927466ab3675e2a4ed4919de506e595a7cdb219f5c1e1b819f75e"
 ---
 
 ![How I made $22k in 8 months posting faceless tiktoks for apps \(and how you can start this week\)](https://pbs.twimg.com/media/HBI7TkhXkAECKx1.jpg)

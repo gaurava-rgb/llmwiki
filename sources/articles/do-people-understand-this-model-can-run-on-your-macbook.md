@@ -1,7 +1,7 @@
 ---
 title: "Do people understand this model can run on your MacBook..."
 reader_id: "01kjcyddfjvh97cq255yjcswcd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81cc-8aa5-d99bca8b6f7a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjcyddfjvh97cq255yjcswcd"
@@ -13,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-26"
 reading_time: "1 min"
 summary: "A powerful AI model called Qwen 3.5 can run on a MacBook Pro or Mac Mini for free. It matches or beats models that cost $200 per month. This shows that better design and data can improve AI without needing huge size or cost."
-content_hash: "6f92839ba25aa741440afbb2dc6ae9dcf799b2c6e7c832ee97d7d77cbf6ab011"
+content_hash: "c9020224f8f0dde8a1877fe2f6047abc893c604ef586497aeaf3be62ef0a070f"
 ---
 
 Do people understand this model can run on your MacBook Pro or Mac Mini?

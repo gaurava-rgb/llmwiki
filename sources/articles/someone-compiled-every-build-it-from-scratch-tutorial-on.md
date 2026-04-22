@@ -1,7 +1,7 @@
 ---
 title: "🚨 Someone compiled every \"build it from scratch\" tutorial on..."
 reader_id: "01kjt0acvhmvfe8sx01jqv391v"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8115-a33b-eb12136869f6"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt0acvhmvfe8sx01jqv391v"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-03"
 reading_time: "2 mins"
 summary: "Someone made a huge list of tutorials to build popular software from scratch. It has over 466,000 stars on GitHub and is free for everyone. This helps engineers truly understand how things work by making them step-by-step."
-content_hash: "0f4d1bde1566e99d17729a70fdb406bee2e3a865039e357646c317eef10ecc89"
+content_hash: "43bc0079cf8053d4788f41ee351796fe006e932af208c3f60ef2a9fc1b297dd3"
 ---
 
 🚨 Someone compiled every "build it from scratch" tutorial on the internet into one place.

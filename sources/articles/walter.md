@@ -1,7 +1,7 @@
 ---
 title: "Walter"
 reader_id: "01k3c2yx3mmzed8qg7kqjzqcpc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816c-b151-c32f6fa45ead"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k3c2yx3mmzed8qg7kqjzqcpc"
@@ -13,7 +13,7 @@ published: "2025-08-23"
 saved_at: "2025-08-23"
 reading_time: "7 mins"
 summary: "They trained a small model called Walter to write better tweet-sized takes by learning from social media engagement with reinforcement learning.  \nThey handled bias and sparsity by normalizing each author’s baseline and transferring from the single best similar post, plus light penalties and a KL leash.  \nSmall models expose reward hacking and force clearer reward design, and the same methods can apply to many other weak-signal tasks."
-content_hash: "1240a5befd109f49fad762075e27c72988312dc243a780ecace815ef97d6caa7"
+content_hash: "c862ad111c6d1ba02ca94e228292d720667f91899e4dbef5dbfb8591afb93de3"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuc3RyYW5nZWxvb3BjYW5vbi5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXN1YnNjcmliZSZyPTM4and2Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cuc3RyYW5nZWxvb3BjYW5vbi5jb20lMkZwJTJGd2FsdGVyIiwicCI6MTcxNzU0NzI5LCJzIjoyMzMwMTksImYiOnRydWUsInUiOjU0Mzc5MDMsImlhdCI6MTc1NTk3MjAwMiwiZXhwIjoyMDcxNTQ4MDAyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.2tGLNkM-8GUybyyqZBtKe5IzLjkm0dtvnfekQBN4-0k?>) for more

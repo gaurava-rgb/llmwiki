@@ -1,7 +1,7 @@
 ---
 title: "bookmark this!!!"
 reader_id: "01kpgfffacg5601m31pca1hf8d"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f5-899d-e40ad7a1475b"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kpgfffacg5601m31pca1hf8d"
@@ -13,7 +13,7 @@ published: "2026-04-18"
 saved_at: "2026-04-18"
 reading_time: "1 min"
 summary: "bookmark this!!!\n\nThe AI interview meta changed. companies like Anthropic & OpenAI are now asking you to implement attention mechanisms from scratch in live rounds. \n\nfree repos that actually cover this 👇"
-content_hash: "fdbccf53494255d3dc74ac419e7a97729c5853096e37241d4147f70258963603"
+content_hash: "2ee23a108b41e149f6e21b89440f5629a32e4c949ca376624fb2a723598479bf"
 ---
 
 bookmark this!!!

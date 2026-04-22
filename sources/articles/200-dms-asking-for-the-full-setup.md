@@ -1,7 +1,7 @@
 ---
 title: "200+ dms asking for the full setup"
 reader_id: "01km3dz65ay2h98rbnpb9s82e7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e8-8d81-f8dfc318277a"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km3dz65ay2h98rbnpb9s82e7"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "2 mins"
 summary: "200+ dms asking for the full setup.\n\nfine. i recorded the whole thing.\n\nstep-by-step tutorial: how to target US tiktok from anywhere using your own $5/month VPN without getting shadowbanned.\n\n9 minutes. zero fluff. every single click shown.\n\nNordVPN users are cooked."
-content_hash: "bda64763c5086bc39ed13726ca1ff6053da294caf270d0712757dc03bae7f857"
+content_hash: "66224a4053c0bc9786e238bdcb62e2bfe8e9758281f1e5e10eb65038ed386b2b"
 ---
 
 200+ dms asking for the full setup.

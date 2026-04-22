@@ -1,7 +1,7 @@
 ---
 title: "FOLLOW THIS FUCKER RIGHT NOW SHE UNDERSTANDS THAT PRIVATE CREDIT..."
 reader_id: "01kjv339henr98g657crm1r6yr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c1-838e-ff12394caff8"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv339henr98g657crm1r6yr"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "Private credit is facing serious problems similar to the sub-prime crisis. Market Financial Solutions and other lenders are accused of double pledging collateral, causing defaults and legal issues. Major firms like Jefferies and Wells Fargo are exposed to these failing loans, risking bigger financial trouble."
-content_hash: "06c488921bb11f903c6e3395cf9ddc77eada696918419d848526c20d8ee07483"
+content_hash: "e65f5e638eed4b962797850fed893d3904cb720985bf39557ef0361bb6a09619"
 ---
 
 FOLLOW THIS FUCKER RIGHT NOW SHE UNDERSTANDS THAT PRIVATE CREDIT IS THIS CYCLE’S SUB-PRIME AND IS AMONG THE FEW WHO UNDERSTANDS THIS.

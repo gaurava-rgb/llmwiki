@@ -1,7 +1,7 @@
 ---
 title: "GPT 5.4 Pro is incredibly useful for academic work, but..."
 reader_id: "01kmr4qjaeyspxbjzxr3h3j6y5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8158-9a5b-ed52ef8bc3d7"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmr4qjaeyspxbjzxr3h3j6y5"
@@ -13,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-27"
 reading_time: "1 min"
 summary: "GPT 5.4 Pro is very helpful for academic work, especially for deep questions. The \"oracle\" tool lets coding agents like Claude Code use GPT 5.4 Pro by bundling code and papers together. This method works best with a ChatGPT Pro subscription and is great for planning new projects."
-content_hash: "0972022ef940f6f9f27744844005c4ceaf3664c08a2f2f4c3dc13643a06cbd1e"
+content_hash: "d77d66afbffcfb847322f2d5e118501a98416269aa5a7617c827b9aa4e37dbb7"
 ---
 
 GPT 5.4 Pro is incredibly useful for academic work, but coding agents like Claude Code/Codex can't typically access it

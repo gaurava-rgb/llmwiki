@@ -1,7 +1,7 @@
 ---
 title: "i have a folder on my computer named \"keep going\"..."
 reader_id: "01kk705kqegc21d8h3g0samwje"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81cb-90fc-c969d87d0c48"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kk705kqegc21d8h3g0samwje"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "i have a folder on my computer named \"keep going\" \n\nhere are some of the images inside of it: (part 7)"
-content_hash: "c02444e6ef07c1aeb1eb81752d5920df748f3b6076a6bb343c8a136a38a973ad"
+content_hash: "f9d347c27e9169cf5cb6fdd709c87c78b92f28eea505977e082fccd25ceb0d11"
 ---
 
 i have a folder on my computer named "keep going"

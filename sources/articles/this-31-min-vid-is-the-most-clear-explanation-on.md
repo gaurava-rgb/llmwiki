@@ -1,7 +1,7 @@
 ---
 title: "This 31 min vid is the most CLEAR explanation on..."
 reader_id: "01kfe9kjjwjka8k5cwkqvwhdhh"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816b-b8e3-c812d3a89424"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9kjjwjka8k5cwkqvwhdhh"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "This 31 min vid is the most CLEAR explanation on how ANYONE can get started with Claude Code that exists on the internet"
-content_hash: "9fa762030022c155f9e0d016283287caad4ebafb5ec0f6af9be263a6631f7a73"
+content_hash: "5d11b30cbb421c036dd981e4bcdb47c19542c16e666586d0d1ef52c092ea21eb"
 ---
 
 This 31 min vid is the most CLEAR explanation on how ANYONE can get started with Claude Code that exists on the internet

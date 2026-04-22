@@ -1,7 +1,7 @@
 ---
 title: "You've set up Claude Code"
 reader_id: "01kkwftcm1q5dyadzy44cbq8na"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d7-8bc5-f41adc34e821"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkwftcm1q5dyadzy44cbq8na"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "5 mins"
 summary: "Claude Code loses memory after closing, but using Obsidian gives it a permanent context by sharing one folder. The agent organizes and links your notes automatically, saving you time and effort. Integrating Obsidian’s terminal plugin lets you work seamlessly with your AI assistant in one place."
-content_hash: "872c93f79cb4fb3685007c9492f65f42f71c3df60b025930d3e932748898ccd3"
+content_hash: "d01862f6c5dc5f013367724bb8344ff3e5bb8e8bbe249b18f9e468b5c20b38f1"
 ---
 
 **You've set up Claude Code. It works great. Until you close the session.**

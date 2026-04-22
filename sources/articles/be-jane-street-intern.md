@@ -1,7 +1,7 @@
 ---
 title: "> be Jane Street intern"
 reader_id: "01km3cy40r9jr3xcp60vfz5zjq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-812a-b4df-e2e83cb9848b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cy40r9jr3xcp60vfz5zjq"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-19"
 reading_time: "4 mins"
 summary: "Hanako quit her high-paying Jane Street job to trade prediction markets using simple math formulas. Most people lose money betting on feelings, but she used five PhD-level formulas to find value and make steady profits. Her approach shows that smart math, not luck, wins in markets."
-content_hash: "4b5c1252d84d638d508530cce602dd5e8f0ea17a50a7443ca5d64b18707bbb71"
+content_hash: "e77d9a33533b393fde0b4a9108c35aeb6389ffbebaef1607f2143f74fe2af1f9"
 ---
 
 >

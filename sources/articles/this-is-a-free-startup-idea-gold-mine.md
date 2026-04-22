@@ -1,7 +1,7 @@
 ---
 title: "This is a FREE startup idea gold mine"
 reader_id: "01kk6y0hkfsr0ybm3v6yem2ayc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811a-8ac1-ea062a8dfd03"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6y0hkfsr0ybm3v6yem2ayc"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "This is a FREE startup idea gold mine. \n\nOpen source project with ALL health platforms wearable data. \n\n1. Pick your niche (gains, heart health, whatever) \n2. Customize it in a wrapper (mobile app first) \n3. Publish a buy button. \n4. Create content (automations, tiktok slideshows, carousel pages, day in the life)\n4. Add more products/adjacent niches\n5. Repeat. \n\nNow you’ve got a cash flowing portfolio of assets that work for you in the land of ai."
-content_hash: "7934dba936787e2d2a9223cd962e41febaa5a974806ec058407362e8523e49df"
+content_hash: "7bc8a4cc4046fbbf53c2e4a64e5bde33131777a7b3d9f6ea4e23ff297b6d0b26"
 ---
 
 This is a FREE startup idea gold mine.

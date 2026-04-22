@@ -1,7 +1,7 @@
 ---
 title: "This is such an amazing product story:"
 reader_id: "01kmr4tq5gnbwv2c0zajk5qd44"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8101-b0d9-f8cb250cc358"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmr4tq5gnbwv2c0zajk5qd44"
@@ -13,7 +13,7 @@ published: "2026-03-27"
 saved_at: "2026-03-27"
 reading_time: "1 min"
 summary: "Josh used a competitor product that raised $90 million and liked it. He switched to Monologue, which has only one engineer and no funding, because it works better and ships features faster. Now, Josh is one of the top users and really loves Monologue."
-content_hash: "a2a5d6ded9739a43e3a40ccc4a91bb40b24e824473dc2cc3c40040d9c0532118"
+content_hash: "58ef3603f018f8a8e4c82b497caafef83ecf3df8ce558daec66e045f2d68c921"
 ---
 
 This is such an amazing product story:

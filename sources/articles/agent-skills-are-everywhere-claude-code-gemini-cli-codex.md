@@ -1,7 +1,7 @@
 ---
 title: "Agent Skills are everywhere - Claude Code, Gemini CLI, Codex..."
 reader_id: "01khr9yrhbchsr79k221mnm02x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fc-8577-c9e06df3611a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khr9yrhbchsr79k221mnm02x"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-18"
 reading_time: "1 min"
 summary: "Agent Skills help AI perform better in many tasks, especially when created by experts. Models struggle to generate their own Skills, so expert-made Skills improve results more than bigger models. SkillsBench is an open-source project that tests Skills across many domains and shows these findings."
-content_hash: "8c55412b734327c0924f01c8c619130f5db078faa10f4790a1600a3d37385dbe"
+content_hash: "1abeacc9d74f5600de5f6110fb3baa4910e3fcf814e7459e8991076088b0f658"
 ---
 
 Agent Skills are everywhere - Claude Code, Gemini CLI, Codex all support them. But do they actually work?

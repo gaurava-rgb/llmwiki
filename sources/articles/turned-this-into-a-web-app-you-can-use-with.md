@@ -1,7 +1,7 @@
 ---
 title: "turned this into a web app you can use with..."
 reader_id: "01kj89s7d5k0kny5027ps58e6y"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8149-a41a-f35f1b0b5b1a"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89s7d5k0kny5027ps58e6y"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Kat made a web app that works with your Obsidian notes. It shows your ideas as a 3D network with different layouts. The app is free for X/Twitter subscribers and runs in your browser."
-content_hash: "487e4a6cdebfa18b04b954e0c55ceefba7508420c108cdb1d3263c8f33eee70d"
+content_hash: "93593d318817b4645f23864d5d75a19380b74254cc94f3e363290ad45d97e436"
 ---
 
 turned this into a web app you can use with your own obsidian vault! no install, just one html file: point it at your notes folder, it embeds everything with gemini, clusters by meaning, and renders the 3d network in your browser.

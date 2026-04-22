@@ -1,7 +1,7 @@
 ---
 title: "🚨 BREAKING: Someone just open-sourced software that sees you through..."
 reader_id: "01kk6y156amdb2a7avrqwa76zc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817d-b21d-f66552b94101"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6y156amdb2a7avrqwa76zc"
@@ -13,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "🚨 BREAKING: Someone just open-sourced software that sees you through walls using only WIFI signals.\n\nit’s called WiFi-DensePose. It maps your exact body pose in real-time. no cameras. no sensors. just your living room router.\n\n100% Open Source."
-content_hash: "5d2c15324e9580043c2af1cce2273ed40476f48b58dba8ce14f324fe07fd0f61"
+content_hash: "cdeec529086c26ae2d846e3d0739985c34e1e9e17e9341c3acf552345620904a"
 ---
 
 🚨 BREAKING: Someone just open-sourced software that sees you through walls using only WIFI signals.

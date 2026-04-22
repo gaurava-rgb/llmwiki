@@ -1,7 +1,7 @@
 ---
 title: "It feels like someone should make a post-git-hook where it..."
 reader_id: "01kjmz6h6vxfada28063r4ghj4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b0-a922-e482e51a7c6c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmz6h6vxfada28063r4ghj4"
@@ -13,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-03-01"
 reading_time: "1 min"
 summary: "Suhail suggests making a post-git-hook that uses AI to update documentation after code changes. This would help AI write code faster by understanding the project better. Garry Tan shares his tool that checks code quality and tests before finishing a pull request."
-content_hash: "124e54518da5139927a0245a4fcb673d285d4226a52661fec6e08d0670dd920d"
+content_hash: "faec6a2af32e53a0c0d3b9bb8d97fa9a59475478806c82f870b2a7b12db2495a"
 ---
 
 It feels like someone should make a post-git-hook where it asks the AI model to look at the diff of what you changed for a merged PR and update the repo’s various readmes and other documentation to make it easier for an LLM to be able to write code and reference things faster

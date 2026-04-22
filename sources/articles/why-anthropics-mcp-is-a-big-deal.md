@@ -1,7 +1,7 @@
 ---
 title: "Why Anthropic’s MCP is a Big Deal"
 reader_id: "01k6dsr79e6na0vaz8sagdxsn5"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817b-9294-dea30c24576f"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k6dsr79e6na0vaz8sagdxsn5"
@@ -13,7 +13,7 @@ published: "2025-09-30"
 saved_at: "2025-09-30"
 reading_time: "9 mins"
 summary: "MCP is a standard that lets AI connect to any data source or tool. It cuts integration work because each app and each data source only needs one MCP implementation, and major companies are already using it. Its transport, protocol, and capability layers let models fetch live data securely and become connected assistants."
-content_hash: "69b60cd4b9364ba8732efa6c673ac44cc3f6d37c68ef157eb53a1c68f24293ec"
+content_hash: "1da1588f2f528cf727b8a631ecf30acf84ba329d89a895ad36cafab31c96f57b"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9ibG9nLmJ5dGVieXRlZ28uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0zOGp3diZuZXh0PWh0dHBzJTNBJTJGJTJGYmxvZy5ieXRlYnl0ZWdvLmNvbSUyRnAlMkZ3aHktYW50aHJvcGljcy1tY3AtaXMtYS1iaWctZGVhbCIsInAiOjE3NDU1OTU5MiwicyI6ODE3MTMyLCJmIjp0cnVlLCJ1Ijo1NDM3OTAzLCJpYXQiOjE3NTkyNDY3MTcsImV4cCI6MjA3NDgyMjcxNywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.XKsXmph2Yvgo9pvcWUbrOLZrjQ6kLTB-vF21BGnr_vs?>) for more

@@ -1,7 +1,7 @@
 ---
 title: "i have a folder on my computer named \"keep going\"..."
 reader_id: "01kk6y2qagb2564dxsz8cyh6zc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f3-aea8-ee23e523e8c9"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6y2qagb2564dxsz8cyh6zc"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "The author has a computer folder called \"keep going.\" It contains many images that help motivate him. He shares parts of this folder online regularly."
-content_hash: "4e7bd7415631fafdcea08bf5109ac32864a6484cc8bccfbd1e6aec52c01c4279"
+content_hash: "a25dca7ad935103907dc221a9aa2f0113c5b2910bc50fefbc0e17f0ef0186359"
 ---
 
 i have a folder on my computer named "keep going"

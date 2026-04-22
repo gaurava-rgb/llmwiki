@@ -1,7 +1,7 @@
 ---
 title: "A very useful trick for working with web content and..."
 reader_id: "01kkwfhr3kkzxevsaw5v50mcys"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8120-a273-e1bb4ed86a76"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkwfhr3kkzxevsaw5v50mcys"
@@ -13,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "1 min"
 summary: "You can add \"r.jina.ai\" before any webpage URL to get a clean Markdown version of that page. This makes it easier to read and use the content for research or AI tasks. It is great for feeding documents directly to language models."
-content_hash: "bed14ce8452215d74d12d00f6a99befe9d8121f7281e89d7aa7cb2a6ac4b9cce"
+content_hash: "7f5d01ae408dcc7aac2e2be292dffa97b98008626818f770e66814cbf6c11bda"
 ---
 
 A very useful trick for working with web content and LLMs

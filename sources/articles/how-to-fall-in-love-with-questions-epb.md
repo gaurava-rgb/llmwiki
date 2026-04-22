@@ -1,7 +1,7 @@
 ---
 title: "How to Fall in Love with Questions EPB"
 reader_id: "01jyx4pxzqxb9ndtyhjr4ssk5n"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8178-9e82-f4a9a2e28a1a"
 category: "epub"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4pxzqxb9ndtyhjr4ssk5n"
@@ -13,7 +13,7 @@ published: "2025-04-15"
 saved_at: "2025-06-29"
 reading_time: "35 mins"
 summary: "In \"How to Fall in Love with Questions,\" Elizabeth Weingarten explores the importance of embracing uncertainty instead of seeking quick answers to life's big questions. The book highlights how our desire for certainty can hinder our growth and resilience. Weingarten encourages readers to live with their questions, fostering curiosity and self-discovery."
-content_hash: "ca552e78c122b9ea97d271723c2ba73de6120509ed8307da58d42b7c184996cb"
+content_hash: "0f5e6b84a492058065d1dc96924c04e426f4095a89e17e2ac1a0861a1d51ed23"
 ---
 
 ![cover image](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/323893864/H4JySaMCOFEehSCuJHZT1dABhBEd3Y7xAJvz2sHOEJA-cove_WbvH8nY.jpg)

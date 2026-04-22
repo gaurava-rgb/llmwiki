@@ -1,7 +1,7 @@
 ---
 title: "Email 3 Stockton Analogy"
 reader_id: "01k7zz9erbzwake689qra437tj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b3-a17c-d7651e52c2ac"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k7zz9erbzwake689qra437tj"
@@ -13,7 +13,7 @@ published: "2025-10-15"
 saved_at: "2025-10-20"
 reading_time: "4 mins"
 summary: "Stockton (2008) and SVB (2023) were small, local shocks that revealed hidden, system-wide fragility. In 2008 the failure spread slowly through complex financial linkages; in 2023 panic spread instantly through digital networks. Regulators learned to act faster to stop confidence-driven contagion, trading moral hazard for systemic stability."
-content_hash: "fb40bc3c3a93527fe93473f6ecbb30c4efdbe27a81bd623871b27237477cba45"
+content_hash: "cde4c5ac9812efd1447cf343869ccc68db133adde09d28f17b7f9a777583d100"
 ---
 
 ##  🧩 I. The Parallel in Scale vs. Impact

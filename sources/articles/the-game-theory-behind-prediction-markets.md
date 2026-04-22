@@ -1,7 +1,7 @@
 ---
 title: "The Game Theory Behind Prediction Markets."
 reader_id: "01k50d07f3vzpdj7rphhk778bq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81af-ad41-f267b4c6cb4e"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k50d07f3vzpdj7rphhk778bq"
@@ -13,7 +13,7 @@ published: "2025-09-10"
 saved_at: "2025-09-13"
 reading_time: "8 mins"
 summary: "Prediction markets use money and game theory so traders reveal their true beliefs. Rules like the LMSR cost function reward accurate bets and make honesty a dominant strategy. With liquidity, good incentive design, and tech (AI, oracles, blockchain) they can beat polls but must guard against manipulation."
-content_hash: "24c7e4beb7307a7990ff55d1b2cc29626c65e4c1a70970d8d29783d0ea10fa99"
+content_hash: "f9981dae66674901994d440d634a5c5046250ede78a64922a937ee606a818dbc"
 ---
 
 ![The Game Theory Behind Prediction Markets.](https://pbs.twimg.com/media/G0ewmGsW0AA8SSd.jpg)

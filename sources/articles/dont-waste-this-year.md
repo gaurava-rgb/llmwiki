@@ -1,7 +1,7 @@
 ---
 title: "Don't waste this year"
 reader_id: "01kjv33988rgvadpgf94tdcxwp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81be-845d-f265da527c43"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kjv33988rgvadpgf94tdcxwp"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-03-04"
 reading_time: "6 mins"
 summary: "Don't waste this year. Study this important subject. Get rich, or at least make much money\n\nThank me later\n\nThis is the Beginner Roadmap to Master AI Agents"
-content_hash: "4c8855d1fcace1adda024185073c2b966fc2b01ad213fd4ebffdc9f89118b5d3"
+content_hash: "f3149e28f5fc6142446f5a27edb9842cacd0b83a7d4dbc04892c899d31b81b60"
 ---
 
 Don't waste this year. Study this important subject. Get rich, or at least make much money

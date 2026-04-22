@@ -1,7 +1,7 @@
 ---
 title: "Can we talk about how insane Gemini 3.1 Pro is..."
 reader_id: "01kjb0cebmdezhep647y2agsmr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-812d-8ecd-f802496c7581"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjb0cebmdezhep647y2agsmr"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-25"
 reading_time: "1 min"
 summary: "Gemini 3.1 Pro is amazing at WebGL performance. It offers many prompt ideas to enhance your user interface. You can find demos on aura.build to use for your landing pages."
-content_hash: "31ea4408cb32ebf6b4806722c445411f31eaa208c72577f24778ce1b1d227c28"
+content_hash: "f4736d3a84245911097135098d9c4a6fdb98ee5c4dfb3980adb5db89879aca69"
 ---
 
 Can we talk about how insane Gemini 3.1 Pro is at webgl

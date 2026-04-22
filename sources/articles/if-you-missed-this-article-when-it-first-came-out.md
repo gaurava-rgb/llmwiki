@@ -1,7 +1,7 @@
 ---
 title: "If you missed this article when it first came out..."
 reader_id: "01khbwqbqs5xm4cg9mp150mm16"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814c-8662-d54ad5875102"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwqbqs5xm4cg9mp150mm16"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-13"
 reading_time: "6 mins"
 summary: "Claude Code with Obsidian creates a powerful system for thinking by linking markdown notes like building blocks. Each vault has its own rules and philosophy, taught to the AI through a special file so it can help organize and find connections. This approach changes note-taking into managing a living knowledge network where the human guides and edits the AI's work."
-content_hash: "8e336e4196620037b237a5350f6e8af2db8e85c9fa2f6190160cc97688c39963"
+content_hash: "853a136e1450c71453ff83699552d0cd263af73cce8099e29efbb1612fde22c5"
 ---
 
 If you missed this article when it first came out, don't miss it twice.

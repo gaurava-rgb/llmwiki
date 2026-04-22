@@ -1,7 +1,7 @@
 ---
 title: "This feels like cheating"
 reader_id: "01kmgd321dkbt3477253s7zsp8"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ef-b09a-ca4773e97a6f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmgd321dkbt3477253s7zsp8"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "Someone made a tool that scans Reddit and X from the last 30 days to find the best prompts on any topic. It gives you ready-to-use prompts based on what people are actually using right now. This tool saves time and helps you know what your audience will like before you post."
-content_hash: "c7fa37617d06c285251b69c70ecc5a6ec5edf88e6c832806bf5a72473d8d4919"
+content_hash: "b3d7b8cbf517c849b05be796855268ed3a74138f9d93e1212252fbd96a196aa4"
 ---
 
 This feels like cheating.

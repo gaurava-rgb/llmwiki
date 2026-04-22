@@ -1,7 +1,7 @@
 ---
 title: "bro created a skill inspired by Karpathy's autoresearch to fine-tune..."
 reader_id: "01km12wr08mazvvx0syh4cy0d7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8106-94d9-c68d1abfb923"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km12wr08mazvvx0syh4cy0d7"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "6 mins"
 summary: "A new method inspired by Karpathy's autoresearch lets an AI agent improve skills by testing small changes and keeping only the better ones. This process uses a simple yes/no checklist to score outputs and runs automatically until the skill gets much better, like improving from 56% to 92% success. The technique works on any task you can measure, making skill improvement easy and hands-free."
-content_hash: "0d2881cca6db244a4c9757ec39ce639cdeba91d3662ff08621b6c7316a86acac"
+content_hash: "d5208edcaeb0fcf8cfc1525bd91e3865e680cd3ec20be9ff7d8985f0f3bc39d8"
 ---
 
 bro created a skill inspired by Karpathy's autoresearch to fine-tune his other Claude Code skills and iteratively make them better. one skill went from 56% → 92% in just 4 rounds of changes.

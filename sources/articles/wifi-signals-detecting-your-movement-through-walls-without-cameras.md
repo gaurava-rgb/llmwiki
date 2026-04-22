@@ -1,7 +1,7 @@
 ---
 title: "wifi signals detecting your movement through walls without cameras"
 reader_id: "01kk4hyc5qe5veqa945dy50hhv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-811a-a0d2-dfdb3d8967f4"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4hyc5qe5veqa945dy50hhv"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "1 min"
 summary: "WiFi signals can detect your movement through walls without using cameras. Many technologies track your behavior, like how you type or walk, to identify you. These tracking methods are widely used and studied."
-content_hash: "5126ad934458a3d03505e31498135d8652cca04b679efefc788d82abf8c6fcdf"
+content_hash: "e9d2beb4bdfea8221c3dc7b070807d14e6f1945a3a5a5e75f1bda3a154ca6819"
 ---
 
 wifi signals detecting your movement through walls without cameras

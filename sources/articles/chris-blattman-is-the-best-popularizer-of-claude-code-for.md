@@ -1,7 +1,7 @@
 ---
 title: "Chris Blattman is the best popularizer of Claude Code for..."
 reader_id: "01kjwjdkt0tj7w9gxwb9dz5xfd"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810f-9481-d16d35439f4c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjwjdkt0tj7w9gxwb9dz5xfd"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "Chris Blattman explains Claude Code in a way that regular people can understand. He created two main tools called /prompt and /review-plan. These tools help turn messy ideas into clear plans and improve them through feedback."
-content_hash: "83569bf71a7fbfdcf1cd881530a4aa41171e571f6db347e37d37af49f675421f"
+content_hash: "8676072e45fdb2f9d711f5f6a243dd8d4c6231e999bd247896860d7cec85ac37"
 ---
 
 Chris Blattman is the best popularizer of Claude Code for normal people I’m aware of.

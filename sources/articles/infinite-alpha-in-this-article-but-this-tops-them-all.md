@@ -1,7 +1,7 @@
 ---
 title: "infinite alpha in this article, but this tops them all..."
 reader_id: "01km3cs0fwh6ktnvxdt0jh9nmv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e8-a11d-c40d1904efc1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km3cs0fwh6ktnvxdt0jh9nmv"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-19"
 reading_time: "11 mins"
 summary: "Anthropic created a system where AI skills learn from your corrections to improve automatically over time. The more you use it, the better it adapts to your real preferences without extra effort. This saves time by producing drafts and outputs that fit your style with minimal editing."
-content_hash: "c83d59ac34c42b6b29f2a8152ddf3a0e6cfa725697d8082d894321c7340b8970"
+content_hash: "53c43b88a9e45f5de08d3fa9bacb199f8d00c9eea1ca69fec16fe11c3d04b146"
 ---
 
 infinite alpha in this article, but this tops them all IMO (i'm adding this to all my skills):

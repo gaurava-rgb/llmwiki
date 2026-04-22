@@ -1,7 +1,7 @@
 ---
 title: "/plan-ceo-review and /plan-eng-review skills basically gets you 90% of the..."
 reader_id: "01km139k74sty23p0y5cz0dab2"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818c-8ac2-f9569a7307dc"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km139k74sty23p0y5cz0dab2"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Good plans like /plan-ceo-review and /plan-eng-review help finish most work quickly. Making diagrams during planning finds hidden problems early. Detailed specs often become as long as code, so reviewing code directly is usually better."
-content_hash: "307ed597fc7f2552c253ff1e59b51aea193fa3cb236bf40cbfbd486877fb7d3a"
+content_hash: "76cfd0b77f343d840a15ca1b9e3794c474f228b7da8c86f1528cb61c79c77df6"
 ---
 
 /plan-ceo-review and /plan-eng-review skills basically gets you 90% of the way to done most of the time

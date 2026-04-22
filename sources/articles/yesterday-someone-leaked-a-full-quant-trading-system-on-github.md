@@ -1,7 +1,7 @@
 ---
 title: "yesterday someone leaked a full quant trading system on GitHub"
 reader_id: "01kjt05k3msapf7va5204aksf4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819b-a088-f08df1ab2e6e"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt05k3msapf7va5204aksf4"
@@ -13,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-03"
 reading_time: "2 mins"
 summary: "Someone leaked a full quant trading system on GitHub with 5,000 lines of code and 25 mathematical factors. The system uses Python and C++ to analyze data from Binance, news, social media, and blockchain to trade crypto. It costs about $200 a month to run and is open source for anyone to build."
-content_hash: "f51ce0d603c5113d5dcb676a96d0ad6189a76a032051ebd1f09041ef37751a07"
+content_hash: "50b61b0cf62840914d180305408c9392a021ac3a7080be79a4b2b9de4d614c13"
 ---
 
 **yesterday someone leaked a full quant trading system on GitHub**

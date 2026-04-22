@@ -1,7 +1,7 @@
 ---
 title: "My ADHD Ins and Outs List for 2026"
 reader_id: "01kercx747qvcaqqmh6j2yzdrj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8192-b503-c35cfd1482bb"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kercx747qvcaqqmh6j2yzdrj"
@@ -13,7 +13,7 @@ published: "2026-01-11"
 saved_at: "2026-01-12"
 reading_time: "4 mins"
 summary: "“We are witnessing people who have never had short attention spans develop shorter attention spans."
-content_hash: "6a6799f5c27b30c54bd136f2920776cc72eb01d1139736d8fffc833be8a8f151"
+content_hash: "48d4174f7195d029143050e31ddc9dfc8aa9eb78bd1fb38a03dd151f9782a420"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9hZHVsdGluZ2FkaGQuc3Vic3RhY2suY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0zOGp3diZuZXh0PWh0dHBzJTNBJTJGJTJGYWR1bHRpbmdhZGhkLnN1YnN0YWNrLmNvbSUyRnAlMkZteS1hZGhkLWlucy1hbmQtb3V0cy1mb3ItMjAyNiIsInAiOjE4MTY5NDU5NCwicyI6NDI2NDksImYiOnRydWUsInUiOjU0Mzc5MDMsImlhdCI6MTc2ODE2NTMwOSwiZXhwIjoyMDgzNzQxMzA5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.85ay2D_tuxjP2sMQKvWk3njOGuDYvIcMc53ueE-I7IY?>) for more

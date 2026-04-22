@@ -1,7 +1,7 @@
 ---
 title: "If you sell AI automation services, this data is basically..."
 reader_id: "01km1emw834n7de34gtgsmmtse"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ee-9da2-c02a58104d54"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01km1emw834n7de34gtgsmmtse"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "4 mins"
 summary: "If you sell AI automation services, this data is basically your entire marketing strategy.\n\nYour messaging, VSL, content angles, objection handling. All of it is in here.\n\nStop guessing and build your sales process around what the market actually said."
-content_hash: "7a164d5551e262b0dc1423bf361e629ab5362f2b98961f16870e17f2f0aff2e0"
+content_hash: "a42a938dd89a5edf710ebce4196dd0bc01d98970187d9f85beac699fee061b50"
 ---
 
 If you sell AI automation services, this data is basically your entire marketing strategy.

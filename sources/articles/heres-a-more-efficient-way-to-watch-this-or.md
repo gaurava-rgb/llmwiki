@@ -1,7 +1,7 @@
 ---
 title: "Here's a more efficient way to \"watch\" this - or..."
 reader_id: "01kkp55dmzz0zcxzcne7ahjgr4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8112-846c-eee38aef62fe"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkp55dmzz0zcxzcne7ahjgr4"
@@ -13,7 +13,7 @@ published: "2026-03-13"
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "Aniket Panjwani shared a smart way to watch online seminars using yt-dlp to download subtitles and slides. This method helps you quickly get summaries and relevant info for your research. His talk on AI agents for economic research was well-received and slides are available online."
-content_hash: "11fbbc21fdb2db78fa9eee6ee34e117867fe7f1f734d54af0a3807a8682e051b"
+content_hash: "3c6f3e44b142460ca3d92a4d14038fb67751b3b66605dbf321bf90d2c5456191"
 ---
 
 Here's a more efficient way to "watch" this - or any - online seminar

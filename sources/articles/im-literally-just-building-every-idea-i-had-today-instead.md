@@ -1,7 +1,7 @@
 ---
 title: "I'm literally just building every idea I had today instead..."
 reader_id: "01kn1shmj1pev0thkz0w8f8ykg"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8112-b459-d610a80ebde3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn1shmj1pev0thkz0w8f8ykg"
@@ -13,7 +13,7 @@ published: "2026-03-30"
 saved_at: "2026-03-31"
 reading_time: "1 min"
 summary: "The author is building every idea they have instead of just saving them. AI will help bring millions of ideas to life by 2026. This will create many new digital innovations and favor bold creators."
-content_hash: "099d977ffa174af0dbb98a2639bcce6c3eef3c9aa6d03ac2c44cef517c9097db"
+content_hash: "251df27ac759960ce559c32766570a57c9b2e51cfac518bec307582d2833bd04"
 ---
 
 I'm literally just building every idea I had today instead of just putting it into Apple Notes

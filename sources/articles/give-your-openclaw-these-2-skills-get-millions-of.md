@@ -1,7 +1,7 @@
 ---
 title: "give your OpenClaw these 2 skills & get millions of..."
 reader_id: "01khe9b5jemjc2a80px12a6mw1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81bc-b232-cd9574ba2ddd"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khe9b5jemjc2a80px12a6mw1"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-14"
 reading_time: "3 mins"
 summary: "Add two special skills to your OpenClaw to get millions of TikTok views and thousands of free app downloads. These skills help you create and schedule viral short videos using smart prompts and tools. Follow simple steps to warm up your account, research content, write captions, post, and track results for the best growth."
-content_hash: "f712742184fdd973a6d1d85825e09cd42acf8d97a0bdf17f1757877dd2122c3a"
+content_hash: "aa98dd7571221819f090778d0effdf9decdd68daaef695d7a3ca13df3b68d1d9"
 ---
 
 give your OpenClaw these 2 skills & get millions of tikt0k views this month

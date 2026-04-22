@@ -1,7 +1,7 @@
 ---
 title: "attended a gem of an event organized by @GregKamradt at..."
 reader_id: "01jy72yd8k32x6e6s6m59ddee7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819f-a9ea-ee92c07e7f28"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01jy72yd8k32x6e6s6m59ddee7"
@@ -13,7 +13,7 @@ published: "2025-06-19"
 saved_at: "2025-06-20"
 reading_time: "2 mins"
 summary: "Nicholas Charriere attended an event where top builders shared how they make AI remember things better. Different teams use unique methods to handle memory, but the technology is still very new and evolving fast. In the future, AI will know users well and offer personalized experiences based on memory."
-content_hash: "6a697baf6960f51a4cf52c46d479d882cde488fb8d80c14eae1328a38f61fdc9"
+content_hash: "6b2b33a6be3fbb5bc6247851723947034f0a6f1af50b92a726b35999c69f4ab7"
 ---
 
 attended a gem of an event organized by [@GregKamradt](<https://twitter.com/GregKamradt>) at [@LangChainAI](<https://twitter.com/LangChainAI>) last night.

@@ -1,7 +1,7 @@
 ---
 title: "I accidentally discovered how to compress a semester of learning..."
 reader_id: "01kk4h294qbvxr12ej16jt4h09"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8148-ad38-d34cd6fc6a73"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4h294qbvxr12ej16jt4h09"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-07"
 reading_time: "2 mins"
 summary: "A grad student used NotebookLM to learn a whole subject in 48 hours by asking smart questions. He uploaded many texts and focused on key ideas, debates, and deep understanding. This shows that asking the right questions can speed up learning a lot."
-content_hash: "4cb4223352465df6dbbca593f8c9261f9f48f4d11c00923ceaddb1d420116659"
+content_hash: "942a625f7213a014c2a42c438af39f6507db38e259cb7584ea04494c968496a7"
 ---
 
 I accidentally discovered how to compress a semester of learning into 48 hours.

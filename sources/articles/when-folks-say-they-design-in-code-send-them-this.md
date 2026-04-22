@@ -1,7 +1,7 @@
 ---
 title: "When folks say they design in code, send them this"
 reader_id: "01kjmzajejv3xmrcr576f2h3xr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e6-be4f-faf85450e12c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjmzajejv3xmrcr576f2h3xr"
@@ -13,7 +13,7 @@ published: "2026-02-28"
 saved_at: "2026-03-01"
 reading_time: "1 min"
 summary: "Design in code if it works for you. Sketching and writing help with clear thinking. Iteration leads to better results than rushing to finish."
-content_hash: "9f1bf41569529dbd418ec4edc6f41fb24f620ff86f4e30138ba08f8fbae8888d"
+content_hash: "907b39c298af41f5e7be8e777a2aa5311d124b1b69ec9b0be43961fa7566b867"
 ---
 
 When folks say they design in code, send them this

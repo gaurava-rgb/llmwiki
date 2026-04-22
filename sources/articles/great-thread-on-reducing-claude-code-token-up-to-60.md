@@ -1,7 +1,7 @@
 ---
 title: "Great thread on reducing Claude Code token up to 60%"
 reader_id: "01kmxwnajdphvkmrd2jenw2mjw"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815d-8625-c66da12b6d07"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmxwnajdphvkmrd2jenw2mjw"
@@ -13,7 +13,7 @@ published: "2026-03-29"
 saved_at: "2026-03-29"
 reading_time: "1 min"
 summary: "Jason Zhou shared a way to reduce Claude Code token use by 60%. He recommends using RTK, a free tool that cleans up code by removing noise and repeated parts. This method helps save tokens without slowing down work."
-content_hash: "aaf9b0f563ae449829c54386753ab3735ad5c49308654ad4ac8520fbb83c1099"
+content_hash: "075df2558850138013c7a4eeae530c1e3a8b298ffc9e7e68b3266bcc854bc4fe"
 ---
 
 Great thread on reducing Claude Code token up to 60%

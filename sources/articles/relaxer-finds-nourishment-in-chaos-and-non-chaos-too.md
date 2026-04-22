@@ -1,7 +1,7 @@
 ---
 title: "Relaxer Finds Nourishment in Chaos (and Non-Chaos Too)"
 reader_id: "01k4qk7xb1eq45dvv8qh6f97w9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-815b-ba7c-c1989b36fe54"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k4qk7xb1eq45dvv8qh6f97w9"
@@ -13,7 +13,7 @@ published: "2025-09-09"
 saved_at: "2025-09-09"
 reading_time: "4 mins"
 summary: "Daniel Martin-McCormick (Relaxer) constantly reinvents his music across punk, techno, ambient and more.  \nHe reunited Black Eyes, runs the Dripping festival, and leads new projects like Cry.  \nHe values independence and creative freedom in everything he does."
-content_hash: "88a1ea6bb279236c5f121add102aee7905878c94ec7dfe3f2632ba9f75f92e2a"
+content_hash: "c450d0b59312c05d5548b774661f106ee81e11eb3ce4942690558affa9a93c33"
 ---
 
 Forwarded this email? [ Subscribe here ](<https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9maXJzdGZsb29yLnN1YnN0YWNrLmNvbS9zdWJzY3JpYmU_dXRtX3NvdXJjZT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtc3Vic2NyaWJlJnI9Mzhqd3YmbmV4dD1odHRwcyUzQSUyRiUyRmZpcnN0Zmxvb3Iuc3Vic3RhY2suY29tJTJGcCUyRnJlbGF4ZXItZmluZHMtbm91cmlzaG1lbnQtaW4tY2hhb3MiLCJwIjoxNzMwNjkzODYsInMiOjExMDI0LCJmIjp0cnVlLCJ1Ijo1NDM3OTAzLCJpYXQiOjE3NTc0MTI3NTgsImV4cCI6MjA3Mjk4ODc1OCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.QJYqEMV_qyPIrMQiyvMJweSZ0WKU3i-eWa7We548Bog?>) for more

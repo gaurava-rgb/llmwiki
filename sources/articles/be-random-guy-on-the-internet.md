@@ -1,7 +1,7 @@
 ---
 title: "> be random guy on the internet"
 reader_id: "01kk6xd85f4h4syx0jhw4wnkpe"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817e-bd7f-d8fe3534edf8"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk6xd85f4h4syx0jhw4wnkpe"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-08"
 reading_time: "11 mins"
 summary: "> be random guy on the internet\n> makes decisions purely on vibes\n> misses a few huge opportunities in crypto\n> wonders why his life keeps looking random\n> stumbles on a weird article about probability theory\n> realizes every decision has expected value\n> realizes markets are just Bayesian machines\n> realizes most \"genius trades\" are survivorship bias\n> realizes most people size bets completely wrong\n> realizes he’s been playing the game with no math at all\n> opens Polymarket\n> starts thinking in probabilities instead of opinions\n> suddenly the world starts looking like a giant EV calculator\n\nturns out most life outcomes are just probability problems people never bothered to model:\n\n> career decisions  \n> investments  \n> relationships  \n> risk  \n\nall of it is just EV + Bayes + Kelly\n\n> the crazy part?\n\nnone of this math is complicated\n\n> you can literally learn the models in this article  \n> use AI to help you apply them  \n> and completely upgrade how you think in a few months\n\nbut most people will keep making decisions the same way\n\n> vibes  \n> emotions  \n> scroll Twitter  \n> one lucky success story  \n\nand wonder why nothing compounds"
-content_hash: "03b59c3106d4785d668ca4f166135546d1c8bf4f271a803b3cb30a5beb9ca54c"
+content_hash: "4267710c79a3f7be3251f24686fd6435049ec0638a3e92bf33f58f34afb060a5"
 ---
 
 >

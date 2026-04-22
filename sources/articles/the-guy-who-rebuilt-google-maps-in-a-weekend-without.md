@@ -1,7 +1,7 @@
 ---
 title: "The guy who rebuilt Google Maps in a weekend without..."
 reader_id: "01kmnwmex3rkxm58wrcrsmfbxm"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81c7-8c93-d04872612f98"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwmex3rkxm58wrcrsmfbxm"
@@ -13,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-26"
 reading_time: "1 min"
 summary: "A developer rebuilt Google Maps in a weekend without using AI. Now, new tools like Ghostwriter let anyone create smart AI agents easily. These agents can handle tasks like chatting and calling, changing how software works."
-content_hash: "e8edf62b393ee33909ef5f36056bde443ecb61655b0221ce6a780e72f321dbfc"
+content_hash: "bd9ca51254620271fca894679de0a3db919c45e99a237594a81642b5f326b49c"
 ---
 
 The guy who rebuilt Google Maps in a weekend without ai is showing you what’s possible now with ai

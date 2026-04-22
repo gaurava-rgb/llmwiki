@@ -1,7 +1,7 @@
 ---
 title: "xai former employee has to step down after revealing the..."
 reader_id: "01kfdt7eemg7ekj3s2h2r1sbb9"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-810a-bae4-e7d6e1a3ab1b"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdt7eemg7ekj3s2h2r1sbb9"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "A former XAI employee revealed the secret roadmap for Macrohard. The plan includes creating a \"human emulator\" that can do all jobs. Now, competitors know the plan and many jobs may disappear."
-content_hash: "f457aa5d8ecc80357582bdddc3399846477de4ad4a889019e7898bd9e4748afb"
+content_hash: "fbe20ea4311d3809aaac552664d32a2778d8cd9122fa498b84480de3c50359bf"
 ---
 
 xai former employee has to step down after revealing the roadmap for macrohard, basically creating a 'human emulator' that does everything.

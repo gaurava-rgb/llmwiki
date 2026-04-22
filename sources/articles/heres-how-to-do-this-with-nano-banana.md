@@ -1,7 +1,7 @@
 ---
 title: "here's how to do this with nano banana:"
 reader_id: "01kfdth6xgmy6n0886xa5t04h4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b2-9995-f1fe10f61bdd"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdth6xgmy6n0886xa5t04h4"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "To create with Nano Banana, first upload a screenshot to Gemini and get a JSON prompt. Next, use Nano Banana to generate a character and different scenes. This is the simplest way to do it."
-content_hash: "4596e6314f57c2de60d400340bbba8d844d9cb26139118e4c34f868744408856"
+content_hash: "ac8e8ec45381bdfb9288e2caaf05ff65c12ad63f4e07f66a5790a3c5c27313ec"
 ---
 
 here's how to do this with nano banana:

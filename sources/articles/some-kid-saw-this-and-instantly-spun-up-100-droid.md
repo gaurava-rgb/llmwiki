@@ -1,7 +1,7 @@
 ---
 title: "some kid saw this and instantly spun up 100 Droid..."
 reader_id: "01kfkpr6a4xw5nfhqjhh1bn6h1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d5-a35c-fce19e3bffc8"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpr6a4xw5nfhqjhh1bn6h1"
@@ -13,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-22"
 reading_time: "1 min"
 summary: "A kid quickly created 100 Droid instances to make sample videos. He cold emailed companies offering full versions. Now, he is about to close several $2,500 deals before lunch."
-content_hash: "0e6e2bd82e28b5b980db8ff5b3ac011cce0c1714ccd9c38a60377147a0e6dbdb"
+content_hash: "15c4bd46be73d57996232a45309421b6fd3c7cf728d1ebb6f258dd9b6562d3ec"
 ---
 
 some kid saw this and instantly spun up 100 Droid instances.

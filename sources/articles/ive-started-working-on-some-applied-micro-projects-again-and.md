@@ -1,7 +1,7 @@
 ---
 title: "I’ve started working on some applied micro projects again, and..."
 reader_id: "01kn5drhhh3smm42fr88pyfzdr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81af-9bb4-d0118bcf0d12"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5drhhh3smm42fr88pyfzdr"
@@ -13,7 +13,7 @@ published: "2026-03-31"
 saved_at: "2026-04-01"
 reading_time: "6 mins"
 summary: "Aniket Panjwani is working on applied micro projects using Compound Engineering tools. These tools help him create and improve skills that analyze complex documents and assist with research. He plans to update these skills based on his experience and session history."
-content_hash: "22d8bb8e9c7768acf73c3188fd6b60b722fee3c29fc306dd94bd4fce63d72b35"
+content_hash: "f607bb690862bc42da3660ddf341c7c7b6f9b6c95b1c45adf3c20201ed4c4437"
 ---
 
 I’ve started working on some applied micro projects again, and I’ve been making my own set of skills/subagents to work on it

@@ -1,7 +1,7 @@
 ---
 title: "10 repos blowing up on GitHub this week that replace..."
 reader_id: "01kpgf65ncx333xv3fg1ef4q1c"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ad-a3f3-f788dafefa6c"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kpgf65ncx333xv3fg1ef4q1c"
@@ -13,7 +13,7 @@ published: "2026-04-16"
 saved_at: "2026-04-18"
 reading_time: "2 mins"
 summary: "This article lists 10 popular free GitHub projects that replace expensive AI tools costing about $1,500 per month. These projects cover AI coding courses, voice synthesis, agent platforms, knowledge bases, and more. Using these free tools can save money while still providing powerful AI features."
-content_hash: "1ff289acd61e8bd71fecfd53a41954ffd1ce1448aa349b1149220f0e53d412e2"
+content_hash: "2b28ff8cc43d6dbae0e21f632d600206f4052deab950d650f2f972bbfdd30aa6"
 ---
 
 10 repos blowing up on GitHub this week that replace $1,500/month in AI tools

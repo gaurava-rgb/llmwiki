@@ -1,7 +1,7 @@
 ---
 title: "But how does bitcoin actually work?"
 reader_id: "01jyx4q29xb33yvaafsvf8fk41"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-816c-ab7d-f4832ea9fe71"
 category: "video"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4q29xb33yvaafsvf8fk41"
@@ -13,7 +13,7 @@ published: "2017-07-07"
 saved_at: "2025-06-29"
 reading_time: ""
 summary: "Bitcoin is a digital currency that uses a communal ledger and cryptography to verify transactions without needing a central authority. Transactions are secured with digital signatures, and miners validate and add them to the blockchain, which is a public record of all transactions. New bitcoins are created as rewards for miners who help maintain the integrity of the system."
-content_hash: "376e7a9beffaff1c3908c19d21c1d837992f98ddb62630d98fc13ec62351c4a2"
+content_hash: "13b007ad923419699b980392429c90431cd21478e5e502201dedb6b04eb7fe10"
 ---
 
 What does it mean to have a Bitcoin?Many people have heard of Bitcoin, that it's a fully digital currencywith no government to issue it, that no banks need to manage accountsand verify transactions, and that no one really knows who invented it.And yet many people don't know the answer to this question, at least not in full.To get there, and to make sure that the technical details underlyingthe answer actually feel motivated, we're going to walk through,step by step, how you might have invented your own version of Bitcoin.

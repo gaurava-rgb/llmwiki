@@ -1,7 +1,7 @@
 ---
 title: "Introducing Mafia!"
 reader_id: "01km0pbzpeq5nb4w8w14e30sap"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8130-b646-cef94db2f254"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km0pbzpeq5nb4w8w14e30sap"
@@ -13,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Elliot Arledge created a game called Mafia! using language models. He trained a model named Qwen3-8B on special hardware. The game includes roles like Mafia, Villager, Doctor, Detective, and Troll."
-content_hash: "b5a2ccb6dbf5ab6d69b5d39e9a33a29266b669c1d664c9fd7c028a5dcbf80e45"
+content_hash: "fc298b25e961d84b0da8291ee2c57e34667847af51d466050667b3de845d58b5"
 ---
 
 Introducing Mafia!

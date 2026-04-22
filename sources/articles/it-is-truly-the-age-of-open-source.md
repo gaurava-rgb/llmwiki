@@ -1,7 +1,7 @@
 ---
 title: "It is truly the age of open source"
 reader_id: "01kks2spkz3rxqy8sw6tjagvsp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b4-aa37-d77006c2cb87"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kks2spkz3rxqy8sw6tjagvsp"
@@ -13,7 +13,7 @@ published: "2026-03-13"
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "Open source technology is very popular today. New tools like Defuddle help get YouTube transcripts easily. These tools make reading and organizing videos simple and fast."
-content_hash: "cb8132b5fb25c111e993c701874b51115d9f2fa64426c6bd0a4086bec4362c8c"
+content_hash: "cd8dba21e9e3eba1474cb88b0a645fb69b095f17e5c178b8c75963efefdb93fc"
 ---
 
 It is truly the age of open source

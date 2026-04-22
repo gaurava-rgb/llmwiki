@@ -1,7 +1,7 @@
 ---
 title: "An Opinionated Guide to Using AI Right Now"
 reader_id: "01k7yx2mxgc7achssnqvqhn3w0"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81e6-8b65-fdd28bdb61a5"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k7yx2mxgc7achssnqvqhn3w0"
@@ -13,7 +13,7 @@ published: "2025-10-19"
 saved_at: "2025-10-19"
 reading_time: "11 mins"
 summary: "AI is useful now for practical tasks, but pick your tool based on needs, privacy, and cost.  \nFor best results use an advanced model, Deep Research mode, or connect the AI to your data.  \nLearn by trying features like voice, images, and memory so you build intuition about what AI can and cannot do."
-content_hash: "5b48ad241f11a6b8e6b8ce73f6c4439d64d544d93590ba287bf9c96bc86bdb2a"
+content_hash: "22a82354853ff771413c1767ea2e9e1325af750a65f1721ac208e5714cd4008d"
 ---
 
 ###  What AI to use in late 2025

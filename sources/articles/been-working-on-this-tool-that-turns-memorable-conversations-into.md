@@ -1,7 +1,7 @@
 ---
 title: "been working on this tool that turns memorable conversations into..."
 reader_id: "01kfe9katbcjdk8ecxx3bhb6j3"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8192-aa8b-f245417e28c2"
 category: "tweet"
 source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kfe9katbcjdk8ecxx3bhb6j3"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "1 min"
 summary: "been working on this tool that turns memorable conversations into structured, searchable notes:\n- visual map of books/ppl/ideas\n- click them to hear the context \n- search the whole transcript \n- export to markdown\n- share\nalmost ready for beta users - shoot me a dm if interested!"
-content_hash: "01e766dacd14433d61199052580c3c629ae8f72fb74b584582af1906e3024618"
+content_hash: "487d55c8e381716b85b97d6130aa69814ff90de0fcfebd3d696d9e303eefedef"
 ---
 
 been working on this tool that turns memorable conversations into structured, searchable notes:

@@ -1,7 +1,7 @@
 ---
 title: "obsidian + claude code 101"
 reader_id: "01khbwj8fe4nvx3934bsw3wq1q"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8162-a115-e266c57e4616"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwj8fe4nvx3934bsw3wq1q"
@@ -13,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-02-13"
 reading_time: "6 mins"
 summary: "Heinrich built a system using markdown files and AI to organize and connect ideas in Obsidian. The AI learns the user's thinking style through a special file and helps navigate and expand knowledge. This approach turns note-taking into managing a living, linked knowledge base tailored to different purposes."
-content_hash: "bfb56b033bc50848a006a2921a69373c8160aaf7f7480b0f8b7ce8cbdfa5d808"
+content_hash: "5470c6e23bc81a53a1086f0c30859387e3d956f6554a14c90cf5b3c32369f9f6"
 ---
 
 ![obsidian + claude code 101](https://pbs.twimg.com/media/G-_GGKzXkAAHz_w.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "If it's not obvious, all builders should be trying out..."
 reader_id: "01kmh20th5qm5qzk570s2nqtqb"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8175-85db-c54225b5c8d1"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh20th5qm5qzk570s2nqtqb"
@@ -13,7 +13,7 @@ published: "2026-03-22"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "Gstack is a new tool that helps builders share and use knowledge easily. Garry Tan is creating a smart process that automates decisions using Claude Code. This system aims to make building faster and more efficient for developers."
-content_hash: "fbff8e54184fc93789d7569c38fff43e7831b8eada1a8dbb1b3ae2f89265bdef"
+content_hash: "32354a7e2e6a2fcf046b9d7c719ef34502c1b1216dc1b1f60c24ed8ad560f490"
 ---
 
 If it's not obvious, all builders should be trying out gstack. It is great and fun, but also it describes a new way to imbue knowledge on others. [@garrytan](<https://twitter.com/garrytan>) is codifying his builder knowledge into a process that executes elegantly inside [@claudeai](<https://twitter.com/claudeai>) Code, turning Claude Code into an operating system.

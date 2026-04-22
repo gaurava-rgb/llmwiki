@@ -1,7 +1,7 @@
 ---
 title: "something to make the most of this weekend"
 reader_id: "01kj3b6dw78vhk4z64q0zs2anh"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817c-b588-ee0b1edea3e0"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj3b6dw78vhk4z64q0zs2anh"
@@ -13,7 +13,7 @@ published: "2026-02-22"
 saved_at: "2026-02-22"
 reading_time: "1 min"
 summary: "The Internet is facing big problems. BOSS shares content from people who have made a difference. They update this collection often to help save the Internet."
-content_hash: "0616d77f7e3c080044420d2b99ca837a5471a53ae9e44853faa4ce6b2a0a34a3"
+content_hash: "d26409a5b5243448309219d2813f943c32f209d2775db85936b1f0ee01d786fd"
 ---
 
 something to make the most of this weekend

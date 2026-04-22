@@ -1,7 +1,7 @@
 ---
 title: "That’s why I usually say that comparing open models with..."
 reader_id: "01kn5drw60gjpdk8gwbnhq2st6"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b0-90cd-e5fad8c83851"
 category: "tweet"
 source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5drw60gjpdk8gwbnhq2st6"
@@ -13,7 +13,7 @@ published: "2026-04-01"
 saved_at: "2026-04-01"
 reading_time: "3 mins"
 summary: "Comparing open models to closed-source APIs is unfair because APIs have extra tools and tricks that open models lack. Claude Code works better than a simple chat interface due to smart context handling, caching, and specialized tools. These improvements help Claude Code manage code efficiently and provide stronger performance."
-content_hash: "24fc118a0ed8a2b87e0f398a2f49cafd83bcd04a37ee086312b8681fd4f4dfcc"
+content_hash: "da3ecdfda3dd93928578d76c866690386bab0bde83afc1550e40c6c21e71fcf2"
 ---
 
 That’s why I usually say that comparing open models with closed-source APIs or products is like comparing apples and oranges. Or comparing an engine with a full car. Or comparing an ingredient with a Michelin dinner (missing ingredients, prep and chef).

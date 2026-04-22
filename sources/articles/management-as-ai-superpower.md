@@ -1,7 +1,7 @@
 ---
 title: "Management as AI superpower"
 reader_id: "01kg06bhtc1vn3a4pp962fk138"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ed-8904-c2ddc1cd7e07"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kg06bhtc1vn3a4pp962fk138"
@@ -13,7 +13,7 @@ published: "2026-01-27"
 saved_at: "2026-01-27"
 reading_time: "9 mins"
 summary: "AI helps people work faster by doing tasks quickly and cheaply, but success depends on clear instructions and good checking. Managing AI is like managing people: you need to explain what you want, give feedback, and evaluate results. Those who know how to manage well will succeed most with AI, even without being AI experts."
-content_hash: "b7a8887f2c71b58abbaedac60003bfa7ce0c189c360f3c511a650bcc1405ae21"
+content_hash: "db8bd13f0244bdef7f7acb59266f65b48945da7b6b5b2f1b31507dbdb1bb877d"
 ---
 
 ###  Thriving in a world of agentic AI

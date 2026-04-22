@@ -1,7 +1,7 @@
 ---
 title: "I’ve wanted to do this for a decade"
 reader_id: "01kpgfff7c5j6a3c35yd7pr1g1"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818d-a365-e32289639d3a"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kpgfff7c5j6a3c35yd7pr1g1"
@@ -13,7 +13,7 @@ published: "2026-04-17"
 saved_at: "2026-04-18"
 reading_time: "2 mins"
 summary: "I’ve wanted to do this for a decade.\n\nBut I never did - I refuse to give any company my DNA.\n\nIt is me.\n\nSo this week I sequenced my genome entirely at home. Literally on my kitchen table.\n\nI never exposed my DNA sequence to the internet. Not at any point.\n\nI used a MinION to do the sequencing (it’s smaller + weighs less than an iPhone).\n\nI used open-source DNA models for the analysis (Evo2 and AlphaGenome) running locally on a DGX Spark and Mac Studio.\n\nI traced mechanisms behind my family’s multigenerational autoimmune conditions that no clinician has been able to understand.\n\nWhen I set out to do this I didn’t know if it would actually work. It does.\n\nYour genome is the most private data you will ever have. You probably shouldn’t let it leave your house."
-content_hash: "3017f61efb9c197874d3a7757203b09a21738aad717e9744f080ad9871f6b9fb"
+content_hash: "36657e0fa9e7a23fec446c910a39bae9f7bac72d4309789bb8cbc3848a6f3bf8"
 ---
 
 I’ve wanted to do this for a decade.

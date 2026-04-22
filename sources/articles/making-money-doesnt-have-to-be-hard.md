@@ -1,7 +1,7 @@
 ---
 title: "Making money doesn’t have to be hard"
 reader_id: "01kj89zrh39a4rxjm0e3avdkfj"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81f4-8568-f71703d4f37f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89zrh39a4rxjm0e3avdkfj"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "5 mins"
 summary: "Making money doesn’t have to be hard"
-content_hash: "33276add1775d0d95b4e5ed1c61c560217420c5d966101f312ffabedc9c29051"
+content_hash: "d8d067f195ac84b892bd6083c46a20b9fdf1118e5743c8da5f3abbdefc907425"
 ---
 
 Making money doesn’t have to be hard

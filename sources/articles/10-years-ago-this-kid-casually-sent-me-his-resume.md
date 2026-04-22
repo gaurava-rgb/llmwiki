@@ -1,7 +1,7 @@
 ---
 title: "10 years ago this kid casually sent me his resume..."
 reader_id: "01jy9tcwaq7w22mmfye42g9dnr"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81d1-81e6-d50eeabff9d3"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01jy9tcwaq7w22mmfye42g9dnr"
@@ -13,7 +13,7 @@ published: "2025-06-21"
 saved_at: "2025-06-21"
 reading_time: "2 mins"
 summary: "Ten years ago, James Martin sent his resume with no experience but impressed enough to get hired. He quickly learned on the job, managing big projects and gaining confidence. Over the years, he became a trusted friend and key partner in their successful business journey."
-content_hash: "ecb497758081193b4a4ea76682abdfda4f264f5440875189fde7d93cf1ce3109"
+content_hash: "348e4b1a86c3e777fb37c9f8440914dbd8e22eb97d7358dd738116625878d791"
 ---
 
 10 years ago this kid casually sent me his resume via Craigslist.

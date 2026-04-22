@@ -1,7 +1,7 @@
 ---
 title: "A ton of university researchers (from the best, no less..."
 reader_id: "01kj89vvmkjbx893begkdb8aez"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-813d-b068-c8e50fd68c1d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89vvmkjbx893begkdb8aez"
@@ -13,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Top university researchers from around the world wrote a report on @openclaw. When smart AI experts work together, their findings matter a lot. Their report should really make people pay attention and feel concerned."
-content_hash: "7b0a2a6342a211cc22bc78ee2982c89bbaa1ef9f4b8ff6b6555a01631f43d3e5"
+content_hash: "5ddd592c472c11abb3b65fa5a2bac1b23b82c106f87cbae17734f28494862454"
 ---
 
 A ton of university researchers (from the best, no less all over the world) wrote this report on [@openclaw](<https://twitter.com/openclaw>).

@@ -1,7 +1,7 @@
 ---
 title: "Sanskrit has >2000 verb roots (dhātus)"
 reader_id: "01kkfaykpand9gtd0kvagpahct"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8176-9fca-e2c1b8a2c44d"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfaykpand9gtd0kvagpahct"
@@ -13,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Sanskrit has over 2000 verb roots called dhātus, but most are very rare. Learning the 192 most common dhātus helps you understand about 90% of verbs in texts. This list can help learners focus on the most useful verbs first."
-content_hash: "1a532d18fcc652cbddf85dfe48685916e18e31d7b96b43d31d3644d0bb1588a2"
+content_hash: "137ac6e0ce93765839f8595b844121072c200a707c87666bd9128b5c8198d960"
 ---
 
 Sanskrit has >2000 verb roots (dhātus). But do you really need to learn them all?

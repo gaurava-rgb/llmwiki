@@ -1,7 +1,7 @@
 ---
 title: "This is one of the most impressive guides I've seen..."
 reader_id: "01kkj8v4scg0vn9gqvy26wvw2f"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817b-bda7-c5187dc0b8d3"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkj8v4scg0vn9gqvy26wvw2f"
@@ -13,7 +13,7 @@ published: "2026-03-11"
 saved_at: "2026-03-13"
 reading_time: "4 mins"
 summary: "This guide shows a new way to create consistent pixel art game animations using AI. It starts with one key sprite frame and generates a full animation strip in one step. Then, it normalizes the frames to fit the game, making the process easier and more reliable."
-content_hash: "e625a8b4c849ffcf95cf3e646c256e9b5d0aee4e847cc8e16a5d8b41b8227e78"
+content_hash: "d77af742526983365c2824281905327cd434a9e7cb0399a0bfeab1c144faebce"
 ---
 
 This is one of the most impressive guides I've seen for building games with Codex.

@@ -1,7 +1,7 @@
 ---
 title: "🚨BREAKING: Someone compiled a collection of every production-ready LLM app..."
 reader_id: "01khbwdnj440m6ec2mq0t3fjy7"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8112-b201-edbe196999b8"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khbwdnj440m6ec2mq0t3fjy7"
@@ -13,7 +13,7 @@ published: "2026-02-07"
 saved_at: "2026-02-13"
 reading_time: "1 min"
 summary: "A new collection called awesome-llm-apps offers ready-to-use code for building advanced AI apps in 2026. It includes tools for RAG, AI agents, multimodal apps, and AI SaaS products. The repo is free, open source, and has no beginner tutorials—just real apps you can deploy now."
-content_hash: "ccfdf068a13950259359ffdf6a1c79df12a6dd502c78e3a0a17cbe4bf504d0c7"
+content_hash: "11801ea98efeacdf7d111fde5c523023d541df7240a319a6e70a4d2ff502142d"
 ---
 
 🚨BREAKING: Someone compiled a collection of every production-ready LLM app you can build in 2026.

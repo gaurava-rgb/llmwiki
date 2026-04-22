@@ -1,7 +1,7 @@
 ---
 title: "I made a Claude/Codex skill to help you learn Python"
 reader_id: "01kkfax5n1qj4agd7rabn42d0w"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8152-bfe6-fa7162ef721f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkfax5n1qj4agd7rabn42d0w"
@@ -13,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-11"
 reading_time: "1 min"
 summary: "Aniket Panjwani created a Claude/Codex skill called /python-learning-coach to help you learn Python. The skill remembers your current skill level and past conversations to give better explanations. You can install it using the links provided for easy setup."
-content_hash: "a883e165bfc0ec0666370cdd9b6872dd2862503433e19f22883b66b43c664e74"
+content_hash: "5751cca7e7eea25c286711a79b3bc747e10bbdd45475d982919c4aca1b65ed8a"
 ---
 
 I made a Claude/Codex skill to help you learn Python.

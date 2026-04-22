@@ -1,7 +1,7 @@
 ---
 title: "Three Years from GPT-3 to Gemini 3"
 reader_id: "01kabyhcwxyyzcpz08pa87kh1z"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81db-b4e1-e7540bcb3e1a"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kabyhcwxyyzcpz08pa87kh1z"
@@ -13,7 +13,7 @@ published: "2025-11-18"
 saved_at: "2025-11-18"
 reading_time: "7 mins"
 summary: "Three years after GPT-3, Google’s Gemini 3 shows AI can not only write but build, code, and act like a digital coworker. It creates websites, runs analyses, and even produced a near-PhD-level research paper with human guidance. This marks a shift from chatbots to agentic tools that need managers, not fixers."
-content_hash: "03b953effbde2e0a93c69a5aa29f44295152403d33e94ef0abfbcd2f1a36d17b"
+content_hash: "5ecc57fd1344c0605f54d9b9c71b25f377ee739c6af77488c130b69fed4f7608"
 ---
 
 ###  From chatbots to agents

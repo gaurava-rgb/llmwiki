@@ -1,7 +1,7 @@
 ---
 title: "checks notes"
 reader_id: "01kmh2270na4tvrx7kfh0pzbvp"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81bc-b921-e33d941b822c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh2270na4tvrx7kfh0pzbvp"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "35 mins"
 summary: "Anthropic released over 24 new features in 2026 that improve AI workflows for coding, planning, and knowledge work. Their Cowork system lets Claude autonomously handle complex tasks by using a smart context setup and file access. Teams can customize Claude with skills, plugins, and instructions to boost productivity and automate work across devices."
-content_hash: "e368407e629ab12ea38be8a4a2025c7d500aa32e202b25e8e8404c7cf215d296"
+content_hash: "4cb57793e60e6bf9235c6999fc4fec87ea46ce3da5af02008830d28f4c43e0f7"
 ---
 
 checks notes. realizes Claude has shipped over 24 new items in 2026.

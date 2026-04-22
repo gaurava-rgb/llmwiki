@@ -1,7 +1,7 @@
 ---
 title: "The Shape of the Thing"
 reader_id: "01kkh6g1mmnnm86k5wpr26dzts"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8190-bbcd-f22d6252de2f"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kkh6g1mmnnm86k5wpr26dzts"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-12"
 reading_time: "8 mins"
 summary: "AI is rapidly improving and changing how work gets done, moving from simple tools to powerful agents that can work almost independently. This fast progress creates big changes and uncertainty in jobs, markets, and government rules. Right now, how we choose to use AI will shape its future impact on society."
-content_hash: "f24ac34714209e4ae16c6f4842e34dd252e395ffe98c391e8d5ea44299b69c29"
+content_hash: "0300d66a9d7eb5a7cab4cf94a764f5698155b5b07a2fce2698717bb800359911"
 ---
 
 ###  Where we are right now, and what likely happens next

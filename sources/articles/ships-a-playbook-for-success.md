@@ -1,7 +1,7 @@
 ---
 title: "> ships a playbook for success"
 reader_id: "01kkj8zngz4ps273hkhfaxvavc"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8117-9e71-cfe95d466532"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkj8zngz4ps273hkhfaxvavc"
@@ -13,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-13"
 reading_time: "3 mins"
 summary: "Ashish Toshniwal built a successful startup by focusing on strong relationships and careful time management. He created Hey Noah, an AI assistant that helps busy executives manage meetings and contacts through simple SMS. The tool is now in beta for US and Canada users and aims to save time for professionals juggling many tasks."
-content_hash: "9162f07d086c6a1df43dbcf26163179c40b4d6f2b9fdf7872ca71fe75cbbb82f"
+content_hash: "ec4bda12f4832a2ca5610db0b79ce139e70c98f0cc7554b7018f5df89f25272e"
 ---
 
 > ships a playbook for success

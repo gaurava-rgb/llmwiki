@@ -1,7 +1,7 @@
 ---
 title: "This skill is no joke"
 reader_id: "01kmv87kw73k3z11ys32as0fcm"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8135-966b-f3ce5ddb9060"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmv87kw73k3z11ys32as0fcm"
@@ -13,7 +13,7 @@ published: "2026-03-27"
 saved_at: "2026-03-28"
 reading_time: "1 min"
 summary: "This skill uses smart tricks to greatly boost project performance in about an hour. It applies advanced algorithms repeatedly, improving speed by up to 10 times with proven accuracy. The best models just need the right prompts and benchmarks to unlock their full power."
-content_hash: "808978d24fcf44d91f8fb2c8a6aacb209cd8a1c2e775ea796b3050c0106b00a0"
+content_hash: "95e7c8a04ad820466bd6670bef8fb53365e682cecc08905c5e5ef99da616120e"
 ---
 
 This skill is no joke. You just point it at your project and trigger it and come back in an hour and it has usually made some massive performance improvement in an isomorphic way. Then just rinse and repeat over and over again. It basically applies every leetcode and IOI trick.

@@ -1,7 +1,7 @@
 ---
 title: "The most in-demand skill in AI just shifted, and most..."
 reader_id: "01kmnwjtdxwtnzcj178zp82mj0"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-818e-a37b-c831474d5c12"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmnwjtdxwtnzcj178zp82mj0"
@@ -13,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "3 mins"
 summary: "The most important skill in AI now is writing clear instructions for AI agents, called program.md files. This skill controls how well the AI experiments improve results, making it more valuable than coding itself. Companies that master this will gain the biggest advantage in AI development."
-content_hash: "3fbab1a42f282d4fc3a5b3707707e9154fa9cc4126f5789f58ab291465046b84"
+content_hash: "f8be17b4d4f7c61b991f973a5bb9386c93929796c0b535acef164b61bdfde58b"
 ---
 
 The most in-demand skill in AI just shifted, and most people won't notice for two years.

@@ -1,7 +1,7 @@
 ---
 title: "open-source giving big ai a run for its money"
 reader_id: "01khr9zhyw1f0jaqwxrf7cftb6"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-814f-a421-d9b46c2ae3ad"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khr9zhyw1f0jaqwxrf7cftb6"
@@ -13,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-02-18"
 reading_time: "1 min"
 summary: "Open-source AI tools like Cline CLI 2.0 are challenging big AI companies. They offer free agentic coding with models like Minimax M2.5 and Kimi K2.5. Users can run these AI coding agents directly in their terminal without any cost."
-content_hash: "03924c82b1b5de12caab060841b83ca3b68bc52b28c5abe9539b19f436ba544d"
+content_hash: "4103127ee927eb0383e07a184d7eab163f6f9c125bf13703c469f847b3807c04"
 ---
 
 open-source giving big ai a run for its money

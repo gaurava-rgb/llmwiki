@@ -1,7 +1,7 @@
 ---
 title: "Full guide: how to unlock extreme focus on command"
 reader_id: "01kfdt0kqv540zwhq7zmfbz8xz"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81b1-911f-ee55978ce43b"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdt0kqv540zwhq7zmfbz8xz"
@@ -13,7 +13,7 @@ published: "2026-01-18"
 saved_at: "2026-01-20"
 reading_time: "20 mins"
 summary: "Success comes from focusing deeply on clear, meaningful goals instead of grinding endlessly. You must break big goals into small tasks and remove distractions to build momentum. Learning by doing real projects helps you grow skills and stay motivated on your path."
-content_hash: "edc84a094dd648596d7a0133ac363cca80b21af79e202a4c098bcbc643f52e17"
+content_hash: "170b3c0ad58b3f8218a0ed8daa53470239d5453c97e694e378a398bb1abc70eb"
 ---
 
 ![Full guide: how to unlock extreme focus on command](https://pbs.twimg.com/media/G_Cd8kTWoAAaOlJ.jpg)

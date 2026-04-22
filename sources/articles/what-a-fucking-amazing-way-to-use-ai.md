@@ -1,7 +1,7 @@
 ---
 title: "what a fucking amazing way to use AI"
 reader_id: "01kjjawt7v3ek929cx8n1a5tg4"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fc-98d6-c4e48668d30c"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjjawt7v3ek929cx8n1a5tg4"
@@ -13,7 +13,7 @@ published: "2026-02-27"
 saved_at: "2026-02-28"
 reading_time: "1 min"
 summary: "A person used AI to lowball sellers on Facebook Marketplace and got great deals like a Jeep Wrangler for $1500 and free TVs. This shows AI can make buying and selling faster and easier. People are even using AI for property deals now."
-content_hash: "db04cfc75a4a288e75d16c8f082e23017f847313bd539212cb164445063c6ca0"
+content_hash: "3b8d2434cad757488f4733bd126d8d91c67fbcc3e1cb9c33a5b6849bdd992c51"
 ---
 
 what a fucking amazing way to use AI

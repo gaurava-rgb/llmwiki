@@ -1,7 +1,7 @@
 ---
 title: "The Builder’s Playbook"
 reader_id: "01jzyd4exz58z77xa43hnr9wwq"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8194-9d7d-c343ab9af440"
 category: "pdf"
 source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jzyd4exz58z77xa43hnr9wwq"
@@ -13,7 +13,7 @@ published: "2025-06-24"
 saved_at: "2025-07-12"
 reading_time: "28 mins"
 summary: "ICONIQ's research shows AI-native companies lead in building and scaling AI products, often using multiple models and cloud-based tools. High-growth firms focus on fine-tuning models, agentic workflows, and dedicated AI teams while managing costs and compliance. Adoption challenges include model trust, pricing, and employee usage, highlighting the need for clear strategies and monitoring."
-content_hash: "edd127acf3bcda0b249ea90eba4c03befbf7fe6bcd3eae4b85a8906cddc6fc1e"
+content_hash: "19157755f99a0cb8f70aff8c4b78a3783dcc881031d12f551c970963fb6435ae"
 ---
 
 June 2025

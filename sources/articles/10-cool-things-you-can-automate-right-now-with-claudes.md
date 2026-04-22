@@ -1,7 +1,7 @@
 ---
 title: "10 cool things you can automate right now with claude's..."
 reader_id: "01kkc1q4wsas80kdvmdmbd2mwv"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8166-8893-c107aaae1e10"
 category: "tweet"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01kkc1q4wsas80kdvmdmbd2mwv"
@@ -13,7 +13,7 @@ published: "2026-03-07"
 saved_at: "2026-03-10"
 reading_time: "6 mins"
 summary: "10 cool things you can automate right now with claude's new scheduled tasks feature\n\nfull prompts included, just copy-paste them\n\n(some of these work with public URLs out of the box, others connect to your tools via API or MCP, which is a one-time setup):\n\n-\n\n1. repurpose your long-form content (newsletters, podcasts, videos) into platform-native posts for X and linkedin automatically every week. one piece of content silently becomes 10 while you sleep.\n\nprompt:\n\n\"check my latest newsletter at [your substack/beehiiv/convertkit URL]. for each edition published this week, extract 3-5 standalone ideas that can work as individual social posts. rewrite each one for X (short, conversational, lowercase, punchy hook in the first line) and linkedin (slightly longer, more professional but still human, add a takeaway at the end). save them to /weekly-repurposed with the date. prioritize moments where i had a strong opinion, told a story, or shared a specific tactic.\"\n\n-\n\n2. build a running swipe file from your audience's replies and comments, extracting the recurring questions and objections they keep telling you about. after a month you have a content goldmine built entirely from conversations you were already having.\n\nprompt:\n\n\"scan my recent replies and comments on X (@yourhandle) and linkedin. pull out every recurring question, objection, compliment, and request. group them by theme. for each theme, write a one-liner describing the core tension or desire behind it. add today's findings to /swipe-file.md. don't overwrite previous entries, append with today's date as a header. at the top of the file, keep a ranked list of the 10 most common themes updated with frequency counts.\"\n\n-\n\n3. research your newest followers daily and brief you on who's worth engaging with before they DM you. most people miss warm connections because they never look at who just followed them.\n\nprompt:\n\n\"pull my latest followers on X (@yourhandle). for each new follower since yesterday, look up the..."
-content_hash: "aee89bcdaa67e00a5d1812fae22edf345673bed39ea19e356807a8a6f264321b"
+content_hash: "66708e4fffc05e31c68aa70def8385afa080975639c6c5f8ce71675d38ff0e69"
 ---
 
 10 cool things you can automate right now with claude's new scheduled tasks feature

@@ -1,7 +1,7 @@
 ---
 title: "nicole is one of the most cracked people in the..."
 reader_id: "01kmh21ev3efvndp0chqp6re3x"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-817d-9344-cc265e528c8b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmh21ev3efvndp0chqp6re3x"
@@ -13,7 +13,7 @@ published: "2026-03-24"
 saved_at: "2026-03-24"
 reading_time: "1 min"
 summary: "Nicole is very skilled in the app space. She shared her user growth guide for free. The guide helped her get 1 million users in 6 months."
-content_hash: "ab09284c259223e971183a4e08e3578c300b1ab4ef0e8a36f82fda5c7174b054"
+content_hash: "74e3b0e3be073d983ba5ff2fcdac573b3b2aca4c57e1467b2939cd2ec3adac10"
 ---
 
 nicole is one of the most cracked people in the app space

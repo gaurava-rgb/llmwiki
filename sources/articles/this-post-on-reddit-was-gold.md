@@ -1,7 +1,7 @@
 ---
 title: "This Post on Reddit was gold"
 reader_id: "01kjt03zbvywwj5g0wf6khcx22"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8144-b4e7-eed0c085341f"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjt03zbvywwj5g0wf6khcx22"
@@ -13,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-03"
 reading_time: "2 mins"
 summary: "Twelve micro SaaS founders found their ideas by solving real problems they or people close to them faced. None of them used brainstorming or Googling to find ideas. Most built quick MVPs based on repeated complaints or personal needs."
-content_hash: "eed1419422719cb81ee146363c7f6273c7d74b69cfc4079b5310a97988035fc9"
+content_hash: "53132ebd73d9f8ed52c8774f741ee494eb18cf21ddada5eedea991084ef90137"
 ---
 
 **This Post on Reddit was gold**

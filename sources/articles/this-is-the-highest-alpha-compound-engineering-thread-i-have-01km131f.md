@@ -1,7 +1,7 @@
 ---
 title: "This is the \"highest alpha\" compound engineering thread I have..."
 reader_id: "01km131fa4prgyyvpfeqdg5bp0"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8153-b5fb-d18e75040051"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km131fa4prgyyvpfeqdg5bp0"
@@ -13,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "1 min"
 summary: "Intercom is using AI in a very smart and powerful way across their whole company. This approach creates a big difference compared to companies that barely use AI. It shows how AI can change business performance and why being AI-first is exciting."
-content_hash: "68e0871c79a36d19090bdced6e10c921a82a74b222055f97ffdd23ec37fcd7e6"
+content_hash: "68c93704abb099c3232b12705d1accdd4c6ef957c5eaffbccf2593237bcde2cb"
 ---
 
 This is the "highest alpha" compound engineering thread I have ever read - by a long shot too. It is simply astounding what [@intercom](<https://twitter.com/intercom>) is doing. It takes compound engineering to an entirely different level - it's not even about just engineering - it's the entire organization. It is "organizational compounding" through extremely smart orchestration of AI.

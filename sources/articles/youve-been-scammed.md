@@ -1,7 +1,7 @@
 ---
 title: "You've been scammed"
 reader_id: "01kj89tpa927snfbrby3pyyq81"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-8167-b2b3-e404553d4a7b"
 category: "tweet"
 source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj89tpa927snfbrby3pyyq81"
@@ -13,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "1 min"
 summary: "Many AI course sellers make $50K a month by repackaging free Anthropic resources. These resources include free courses, a GitHub with active projects, and ready-to-use code agents. Most \"Claude experts\" just sell these free materials for high prices."
-content_hash: "bf51e517b63aadfaad663a4c40e7b85c8d4784ecf9764d96cfe15f4710733453"
+content_hash: "c33cb7b2aa39e81b0b849ef8e6344082f3cf81049c3809ade11acf54e3a6db77"
 ---
 
 You've been scammed.

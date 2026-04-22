@@ -1,7 +1,7 @@
 ---
 title: "You're on the list!"
 reader_id: "01k4d8madnav42k0ggsqf65b5r"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81fe-9067-e5377d8658c5"
 category: "email"
 source_type: ""
 reader_url: "https://read.readwise.io/read/01k4d8madnav42k0ggsqf65b5r"
@@ -13,7 +13,7 @@ published: "2025-09-05"
 saved_at: "2025-09-05"
 reading_time: "1 min"
 summary: "You are on the One Useful Thing email list from Ethan Mollick. Upgrade to a paid subscription to get every post and extra benefits. You can unsubscribe with one click and the newsletter includes contact and address info."
-content_hash: "61b09b3510882471b85fc46b5251a62d23f041021698fb421af6cd7b5e218685"
+content_hash: "02e88393bb8d9280c79524a76db6b38a2295b66ba4fec76ef274650fe3c99834"
 ---
 
 ![One Useful Thing](https://substackcdn.com/image/fetch/$s_!hyZZ!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd2ee4f7-3e71-42f0-92eb-4d3018127e08_1024x1024.png)

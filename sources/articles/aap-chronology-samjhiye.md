@@ -1,7 +1,7 @@
 ---
 title: "Aap chronology samjhiye:"
 reader_id: "01k50dcf7ke2ks0ac6cx4wapng"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-819f-b5dc-fc0da8a963dc"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k50dcf7ke2ks0ac6cx4wapng"
@@ -13,7 +13,7 @@ published: "2025-09-12"
 saved_at: "2025-09-13"
 reading_time: "1 min"
 summary: "ED raided firms linked to Anil Ambani on Jul 25.  \nOn Aug 25 conspirators were arrested and a ₹17,000 crore Look Out Circular was issued against Anil.  \nAnil said he needed to go to London for his sick mother, while Mukesh had Kokilaben admitted in Mumbai hours later, raising questions about the timing."
-content_hash: "21c27fd2d8b9bc6a0b26e0018b09350ed4e9cb2fbafaa3dc20579eeafc0521ee"
+content_hash: "94ef3b6ae0160714e54375186f9bf9e28b0b2b93ec9927b5bbead0f2d1e96d04"
 ---
 
 Aap chronology samjhiye:

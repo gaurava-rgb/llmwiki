@@ -1,7 +1,7 @@
 ---
 title: "My immediate elder sister taught me this"
 reader_id: "01kfkpkvqe3jdky18r2qkak48q"
-notion_page_id: ""
+notion_page_id: "34a4ebe7-f118-81ef-8e33-da9bbb0b03d7"
 category: "tweet"
 source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfkpkvqe3jdky18r2qkak48q"
@@ -13,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-22"
 reading_time: "2 mins"
 summary: "The author's sister quickly resigns and seeks better jobs to grow her career fast. Capitalism favors those who put their own interests first and keep improving skills. Staying visible and prepared helps people find strong opportunities before they even apply."
-content_hash: "19b93ee8256b342cc7008bda7b6901f10672b7ea55d2b8d057e31d99eb2dca20"
+content_hash: "71fcf60a01c6cb7292e1bbcfbb20d086e0300adafd7082b5a420dd26e5a1354f"
 ---
 
 My immediate elder sister taught me this
