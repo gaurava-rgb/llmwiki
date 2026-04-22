@@ -21,6 +21,7 @@ python3 -m unittest discover -s tests
 | Wiki index links resolve | Agents can navigate compiled topics/concepts | all `[[topics/...]]` and `[[concepts/...]]` links in `INDEX.md` resolve |
 | Article image references resolve | Raw markdown can preserve local images when materialized | any local image paths in article frontmatter/body exist |
 | Capture bridge contracts | Reader/Notion capture is idempotent and public-safe | URL sanitizer, supported Reader categories, `category`/`source_type` metadata, manifest, content hashes, dry-run behavior, and stale-file detection work without network |
+| Notion sync contracts | Reader -> Notion sync stays aligned with capture metadata | supported Reader categories, `Reader ID` / `Source Type` mapping, and dry-run planning work without network |
 
 ## Planned Fixture Tests
 

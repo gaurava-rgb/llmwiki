@@ -379,3 +379,69 @@ Result:
 - Unit tests passed, 28 tests.
 - Public-safety scan returned no matches.
 - Final capture dry-run returned 750 skipped and 0 planned writes.
+
+## 2026-04-22 - Sprint 3D Widen Notion Sync Types
+
+Requested outcome:
+
+- Choose the next bounded sprint after raw capture expansion.
+- Widen the incremental Notion sync lane to match the broader raw capture set.
+- Keep the run measurable, testable, and logged.
+
+Actions completed:
+
+- Expanded `sync_to_notion.py` from the `article`/`rss` subset to the same
+  supported top-level Reader categories used by the capture bridge:
+  `article`, `rss`, `tweet`, `email`, `video`, `pdf`, and `epub`.
+- Added `Source Type` mapping based on Reader `source_type` or fallback
+  `source`.
+- Added `Reader ID`, `Status`, `Last Synced At`, and `Sync Run ID` properties
+  to new Notion page creates so Raw Sources rows stay aligned with the local
+  manifest/frontmatter contract.
+- Added `--dry-run` and `--max-items` to the incremental Notion sync script so
+  the sync can be previewed before any external write.
+- Added no-network sync contract tests for supported categories, `Source Type`
+  behavior, Reader ID extraction, and dry-run planning.
+
+Run details:
+
+- `logs/sync_20260422_183304.log`: dry-run against the widened category set.
+  Result: 412 new docs planned, 339 existing docs detected in Notion.
+  Planned category breakdown: 371 tweets, 25 emails, 6 videos, 5 PDFs,
+  2 articles, 2 RSS items, and 1 EPUB.
+- `logs/sync_20260422_183328.log`: first full widened sync run.
+  Result: 411 pushed, 1 failed, 339 skipped.
+- The single failed item was Reader document `01kk6xdvtqv3awdgc7p0k5ywec`
+  (`"Someone built a full virtual computer that runs inside..."`), caused by
+  Notion counting one summary field as 2001 characters and then one quote block
+  as 2001 characters.
+- `logs/sync_20260422_184551.log`: post-fix dry-run. Result: 1 remaining tweet
+  planned.
+- `logs/sync_20260422_184618.log`: first retry after tightening property
+  truncation. Result: 0 pushed, 1 failed because the summary quote block still
+  used the untrimmed string.
+- `logs/sync_20260422_184658.log`: second retry after tightening the summary
+  quote block. Result: 1 pushed, 0 failed.
+- `logs/sync_20260422_184722.log`: final dry-run verification. Result: 0 new
+  docs to push.
+
+Measurable outcome:
+
+- `sync_to_notion.py` is now aligned with the broader raw-capture source set:
+  `article`, `rss`, `tweet`, `email`, `video`, `pdf`, and `epub`.
+- Raw Sources in Notion is caught up for the current supported Reader dataset:
+  751 existing Reader docs detected and 0 remaining new docs in the final
+  dry-run.
+- The widened backfill required 412 planned creates in the initial dry-run and
+  completed as 411 successful creates in the first run plus 1 successful retry.
+- No-network verification now passes with 33 tests.
+- One newer supported Reader doc appeared after the previous local raw-capture
+  run, so Notion is now current at 751 while the local raw markdown layer from
+  the earlier capture sprint remains at 750 until capture is rerun.
+
+Checks run:
+
+```bash
+python3 -m unittest discover -s tests
+.venv/bin/python -m py_compile sync_to_notion.py
+```

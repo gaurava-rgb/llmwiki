@@ -1,28 +1,71 @@
 #!/usr/bin/env python3
-"""Incremental sync: fetch all docs from Reader API, push new ones to Notion. Logs each run."""
+"""Incremental sync: fetch Reader docs and push new ones to Notion. Logs each run."""
 
+import argparse
 import re
 import sys
 import time
 import logging
 import os
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from bs4 import BeautifulSoup, NavigableString
 
 import requests
 
-NOTION_TOKEN = os.environ.get("NOTION_TOKEN", "")
-READWISE_TOKEN = os.environ.get("READWISE_TOKEN", "")
-DATABASE_ID = os.environ.get("NOTION_DATABASE_ID", "")
+ENV_FILE = Path(__file__).parent / "reader" / ".env"
+DEFAULT_RAW_DATABASE_TITLE = "Export via Reader"
+NOTION_VERSION = "2022-06-28"
+REQUEST_TIMEOUT = 30
 LOG_DIR = Path(__file__).parent / "logs"
 
-READER_CATEGORIES = {"article", "rss"}
+READER_CATEGORIES = {"article", "rss", "tweet", "email", "video", "pdf", "epub"}
+
+
+def load_local_env(path):
+    if not path.exists():
+        return {}
+    values = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        values[key.strip()] = value.strip().strip('"').strip("'")
+    return values
+
+
+def env_value(name, local_env, fallback_name=None):
+    return (
+        os.environ.get(name)
+        or local_env.get(name)
+        or (local_env.get(fallback_name) if fallback_name else "")
+        or ""
+    ).strip()
+
+
+def load_runtime_config():
+    local_env = load_local_env(ENV_FILE)
+    return {
+        "notion_token": env_value("NOTION_TOKEN", local_env, "notion_api"),
+        "readwise_token": env_value("READWISE_TOKEN", local_env, "readwise_token"),
+        "database_id": env_value("NOTION_DATABASE_ID", local_env, "database_id"),
+        "database_title": env_value("NOTION_DATABASE_TITLE", local_env, "notion_database_title")
+        or DEFAULT_RAW_DATABASE_TITLE,
+    }
+
+
+RUNTIME_CONFIG = load_runtime_config()
+NOTION_TOKEN = RUNTIME_CONFIG["notion_token"]
+READWISE_TOKEN = RUNTIME_CONFIG["readwise_token"]
+DATABASE_ID = RUNTIME_CONFIG["database_id"]
+DATABASE_TITLE = RUNTIME_CONFIG["database_title"]
 
 NOTION_HEADERS = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
     "Content-Type": "application/json",
-    "Notion-Version": "2022-06-28",
+    "Notion-Version": NOTION_VERSION,
 }
 READER_HEADERS = {"Authorization": f"Token {READWISE_TOKEN}"}
 
@@ -32,12 +75,29 @@ def require_config():
         name for name, value in {
             "NOTION_TOKEN": NOTION_TOKEN,
             "READWISE_TOKEN": READWISE_TOKEN,
-            "NOTION_DATABASE_ID": DATABASE_ID,
         }.items()
         if not value
     ]
     if missing:
         sys.exit(f"Missing required environment variables: {', '.join(missing)}")
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Plan Notion creates without writing any pages.",
+    )
+    parser.add_argument(
+        "--max-items",
+        type=int,
+        help="Limit how many new Reader docs are pushed in this run.",
+    )
+    args = parser.parse_args()
+    if args.max_items is not None and args.max_items <= 0:
+        parser.error("--max-items must be a positive integer")
+    return args
 
 
 # ── Logging setup ──────────────────────────────────────────────────────────────
@@ -203,6 +263,123 @@ def clean_select_name(value):
     return re.sub(r"\s+", " ", str(value)).replace(",", " -")[:100].strip()
 
 
+def source_type_for(doc):
+    return str(doc.get("source_type") or doc.get("source") or "")
+
+
+def rich_text_property(text, limit=1900):
+    return {"rich_text": [make_rich_text(str(text)[:limit])]}
+
+
+def plain_rich_text(prop):
+    segments = prop.get("rich_text") or []
+    values = []
+    for seg in segments:
+        plain = seg.get("plain_text")
+        if plain is None:
+            plain = seg.get("text", {}).get("content", "")
+        values.append(plain)
+    return "".join(values).strip()
+
+
+def reader_id_from_page(page):
+    props = page.get("properties", {})
+    reader_id = plain_rich_text(props.get("Reader ID", {}))
+    if reader_id:
+        return reader_id
+
+    reader_url_prop = props.get("Reader URL", {})
+    url = reader_url_prop.get("url") or ""
+    if not url:
+        return None
+
+    match = re.search(r"/(01\w+)/?$", url)
+    return match.group(1) if match else None
+
+
+def build_page_properties(doc, synced_at=None, run_id=None):
+    title = (doc.get("title") or "Untitled")[:2000]
+    author = doc.get("author") or ""
+    source_url = doc.get("source_url") or ""
+    reader_url = doc.get("url") or ""
+    site = doc.get("site_name") or ""
+    category = doc.get("category") or ""
+    source = doc.get("source") or ""
+    source_type = source_type_for(doc)
+    reader_id = str(doc.get("id") or "")
+    location = doc.get("location") or ""
+    published = iso_date(doc.get("published_date"))
+    saved_at = iso_date(doc.get("saved_at"))
+    reading_time = str(doc.get("reading_time") or "")
+    word_count = doc.get("word_count")
+    progress = doc.get("reading_progress")
+    summary = doc.get("summary") or ""
+    image_url = doc.get("image_url") or ""
+    notes = doc.get("notes") or ""
+    tags_raw = doc.get("tags") or {}
+    tags = list(tags_raw.keys()) if isinstance(tags_raw, dict) else list(tags_raw)
+
+    properties = {
+        "Name": {"title": [{"type": "text", "text": {"content": title}}]},
+        "Status": {"select": {"name": "captured"}},
+    }
+    if reader_id:
+        properties["Reader ID"] = rich_text_property(reader_id)
+    if source_type:
+        properties["Source Type"] = {"select": {"name": clean_select_name(source_type)}}
+    if author:
+        properties["Author"] = rich_text_property(author)
+    if site:
+        properties["Site"] = {"select": {"name": clean_select_name(site)}}
+    if category:
+        properties["Category"] = {"select": {"name": clean_select_name(category)}}
+    if source:
+        properties["Source"] = rich_text_property(source)
+    if valid_url(source_url):
+        properties["Source URL"] = {"url": valid_url(source_url)}
+    if valid_url(reader_url):
+        properties["Reader URL"] = {"url": valid_url(reader_url)}
+    if published:
+        properties["Published Date"] = {"date": {"start": published}}
+    if saved_at:
+        properties["Saved At"] = {"date": {"start": saved_at}}
+    if reading_time:
+        properties["Reading Time"] = rich_text_property(reading_time)
+    if word_count is not None:
+        properties["Word Count"] = {"number": word_count}
+    if progress is not None:
+        properties["Reading Progress"] = {"number": progress / 100 if progress > 1 else progress}
+    if location:
+        properties["Location"] = {"select": {"name": clean_select_name(location)}}
+    if tags:
+        properties["Tags"] = {
+            "multi_select": [{"name": clean_select_name(t)} for t in tags if clean_select_name(t)]
+        }
+    if summary:
+        properties["Summary"] = rich_text_property(summary)
+    if valid_url(image_url):
+        properties["Cover Image URL"] = {"url": valid_url(image_url)}
+    if notes:
+        properties["Notes"] = rich_text_property(notes)
+    if synced_at:
+        properties["Last Synced At"] = {"date": {"start": synced_at}}
+    if run_id:
+        properties["Sync Run ID"] = rich_text_property(run_id)
+
+    return properties
+
+
+def is_sync_candidate(doc):
+    return doc.get("parent_id") is None and doc.get("category") in READER_CATEGORIES
+
+
+def plan_sync_docs(existing_ids, docs, max_items=None):
+    planned = [doc for doc in docs if str(doc.get("id") or "") not in existing_ids]
+    if max_items is not None:
+        planned = planned[:max_items]
+    return planned
+
+
 # ── HTML → Notion blocks ───────────────────────────────────────────────────────
 
 def html_to_notion_blocks(html):
@@ -323,19 +500,39 @@ def get_all_db_pages():
     return pages
 
 
+def notion_title_text(parts):
+    return "".join(part.get("plain_text", "") for part in parts)
+
+
+def find_notion_database_id(title):
+    if not title:
+        return ""
+    payload = {
+        "query": title,
+        "filter": {"property": "object", "value": "database"},
+        "page_size": 20,
+    }
+    response = requests.post(
+        "https://api.notion.com/v1/search",
+        headers=NOTION_HEADERS,
+        json=payload,
+        timeout=REQUEST_TIMEOUT,
+    )
+    response.raise_for_status()
+    for result in response.json().get("results", []):
+        if notion_title_text(result.get("title", [])) == title:
+            return result.get("id", "")
+    return ""
+
+
 def get_existing_doc_ids():
-    """Return set of Reader doc IDs already in Notion, extracted from Reader URL property."""
+    """Return set of Reader doc IDs already in Notion."""
     pages = get_all_db_pages()
     doc_ids = set()
     for page in pages:
-        props = page.get("properties", {})
-        reader_url_prop = props.get("Reader URL", {})
-        url = reader_url_prop.get("url") or ""
-        if url:
-            # URL pattern: https://read.readwise.io/read/<doc_id>
-            m = re.search(r"/(01\w+)/?$", url)
-            if m:
-                doc_ids.add(m.group(1))
+        reader_id = reader_id_from_page(page)
+        if reader_id:
+            doc_ids.add(reader_id)
     return doc_ids
 
 
@@ -391,66 +588,14 @@ def iso_date(val):
     return s if len(s) == 10 else None
 
 
-def create_notion_page(doc):
-    title        = (doc.get("title") or "Untitled")[:2000]
-    author       = doc.get("author") or ""
-    source_url   = doc.get("source_url") or ""
-    reader_url   = doc.get("url") or ""
-    site         = doc.get("site_name") or ""
-    category     = doc.get("category") or ""
-    source       = doc.get("source") or ""
-    location     = doc.get("location") or ""
-    published    = iso_date(doc.get("published_date"))
-    saved_at     = iso_date(doc.get("saved_at"))
-    reading_time = str(doc.get("reading_time") or "")
-    word_count   = doc.get("word_count")
-    progress     = doc.get("reading_progress")
-    summary      = doc.get("summary") or ""
-    image_url    = doc.get("image_url") or ""
-    notes        = doc.get("notes") or ""
-    tags_raw     = doc.get("tags") or {}
-    tags         = list(tags_raw.keys()) if isinstance(tags_raw, dict) else list(tags_raw)
+def create_notion_page(doc, synced_at=None, run_id=None):
+    summary = doc.get("summary") or ""
     html_content = doc.get("html_content") or ""
-
-    properties = {
-        "Name": {"title": [{"type": "text", "text": {"content": title}}]},
-    }
-    if author:
-        properties["Author"] = {"rich_text": [{"type": "text", "text": {"content": author[:2000]}}]}
-    if site:
-        properties["Site"] = {"select": {"name": clean_select_name(site)}}
-    if category:
-        properties["Category"] = {"select": {"name": clean_select_name(category)}}
-    if source:
-        properties["Source"] = {"rich_text": [{"type": "text", "text": {"content": source[:2000]}}]}
-    if valid_url(source_url):
-        properties["Source URL"] = {"url": valid_url(source_url)}
-    if valid_url(reader_url):
-        properties["Reader URL"] = {"url": valid_url(reader_url)}
-    if published:
-        properties["Published Date"] = {"date": {"start": published}}
-    if saved_at:
-        properties["Saved At"] = {"date": {"start": saved_at}}
-    if reading_time:
-        properties["Reading Time"] = {"rich_text": [{"type": "text", "text": {"content": reading_time}}]}
-    if word_count is not None:
-        properties["Word Count"] = {"number": word_count}
-    if progress is not None:
-        properties["Reading Progress"] = {"number": progress / 100 if progress > 1 else progress}
-    if location:
-        properties["Location"] = {"select": {"name": clean_select_name(location)}}
-    if tags:
-        properties["Tags"] = {"multi_select": [{"name": clean_select_name(t)} for t in tags if clean_select_name(t)]}
-    if summary:
-        properties["Summary"] = {"rich_text": [{"type": "text", "text": {"content": summary[:2000]}}]}
-    if valid_url(image_url):
-        properties["Cover Image URL"] = {"url": valid_url(image_url)}
-    if notes:
-        properties["Notes"] = {"rich_text": [{"type": "text", "text": {"content": notes[:2000]}}]}
+    properties = build_page_properties(doc, synced_at=synced_at, run_id=run_id)
 
     header_blocks = []
     if summary:
-        header_blocks.append(make_quote([make_rich_text(summary)]))
+        header_blocks.append(make_quote(rich_text_property(summary)["rich_text"]))
     header_blocks.append(make_divider())
 
     if html_content:
@@ -493,7 +638,7 @@ def create_notion_page(doc):
 # ── Readwise ───────────────────────────────────────────────────────────────────
 
 def fetch_all_reader_docs():
-    """Yield all non-child article/rss docs from Reader API (paginated)."""
+    """Yield all supported top-level Reader docs from the paginated API."""
     params = {"withHtmlContent": "true"}
     cursor = None
     page = 0
@@ -508,11 +653,8 @@ def fetch_all_reader_docs():
         results = data.get("results", [])
         logging.info(f"  Reader page {page}: {len(results)} docs")
         for doc in results:
-            if doc.get("parent_id") is not None:
-                continue
-            if doc.get("category") not in READER_CATEGORIES:
-                continue
-            yield doc
+            if is_sync_candidate(doc):
+                yield doc
         cursor = data.get("nextPageCursor")
         if not cursor:
             break
@@ -522,18 +664,54 @@ def fetch_all_reader_docs():
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
+    args = parse_args()
     require_config()
     log_file = setup_logging()
     start = time.time()
+    run_id = datetime.now(timezone.utc).strftime("sync-%Y%m%dT%H%M%SZ")
+    synced_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     logging.info("=== Notion sync started ===")
+
+    global DATABASE_ID
+    if not DATABASE_ID:
+        logging.info("Resolving Notion Raw Sources database by title...")
+        DATABASE_ID = find_notion_database_id(DATABASE_TITLE)
+        if not DATABASE_ID:
+            sys.exit(
+                "Missing NOTION_DATABASE_ID/database_id and could not resolve "
+                f"{DATABASE_TITLE!r} via Notion search"
+            )
+        logging.info(f"  Resolved database: {DATABASE_TITLE} ({DATABASE_ID})")
 
     logging.info("Fetching existing doc IDs from Notion...")
     existing_ids = get_existing_doc_ids()
     logging.info(f"  {len(existing_ids)} articles already in Notion.")
 
     logging.info("Fetching all docs from Reader API...")
-    new_docs = [doc for doc in fetch_all_reader_docs() if doc["id"] not in existing_ids]
+    new_docs = plan_sync_docs(existing_ids, fetch_all_reader_docs(), max_items=args.max_items)
     logging.info(f"  {len(new_docs)} new articles to push.")
+    if new_docs:
+        breakdown = Counter(str(doc.get("category") or "unknown") for doc in new_docs)
+        logging.info(
+            "  New doc breakdown: %s",
+            ", ".join(f"{category}={count}" for category, count in sorted(breakdown.items())),
+        )
+
+    if args.dry_run:
+        for idx, doc in enumerate(new_docs[:10], 1):
+            title = (doc.get("title") or "?")[:60]
+            logging.info(
+                "[plan %s/%s] %r (id=%s, category=%s, source_type=%s)",
+                idx,
+                len(new_docs),
+                title,
+                doc.get("id"),
+                doc.get("category") or "",
+                source_type_for(doc),
+            )
+        logging.info("DRY RUN: no Notion writes performed.")
+        logging.info(f"=== Done in {time.time()-start:.1f}s ===")
+        return
 
     if not new_docs:
         logging.info("Nothing to do. Exiting.")
@@ -548,7 +726,7 @@ def main():
         logging.info(f"[{idx}/{len(new_docs)}] {title!r} (id={doc['id']}, html={len(html)} chars)")
 
         try:
-            page_id = create_notion_page(doc)
+            page_id = create_notion_page(doc, synced_at=synced_at, run_id=run_id)
         except Exception as e:
             logging.error(f"  Exception: {e}")
             page_id = None

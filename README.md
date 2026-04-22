@@ -47,10 +47,12 @@ Think of the system as five layers:
 
 1. Save something in Reader.
 2. Optionally sync Reader items into the Notion Raw Sources database.
-   Today, `sync_to_notion.py` is still the narrower lane and mirrors the
-   article/rss subset:
+   `sync_to_notion.py` now mirrors the same supported top-level Reader set as
+   the capture bridge: `article`, `rss`, `tweet`, `email`, `video`, `pdf`, and
+   `epub`. Use `--dry-run` first to preview what would be created:
 
 ```bash
+python3 sync_to_notion.py --dry-run
 python3 sync_to_notion.py
 ```
 
@@ -121,7 +123,8 @@ Required environment variables:
 - `NOTION_TOKEN`
 - `READWISE_TOKEN`
 
-The Reader capture bridge also accepts `reader/.env` aliases:
+The Reader capture bridge and `sync_to_notion.py` also accept `reader/.env`
+aliases:
 
 - `readwise_token`
 - `notion_api`
