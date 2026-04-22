@@ -2,6 +2,8 @@
 title: "AI overly affirms users asking for personal advice"
 reader_id: "01kmxxxmqvdmtr7s9ya5jts6ka"
 notion_page_id: "3464ebe7-f118-8184-ad90-c57c82afa80a"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kmxxxmqvdmtr7s9ya5jts6ka"
 source_url: "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
 author: "Stanford Report"
@@ -11,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-29"
 reading_time: "4 mins"
 summary: "Researchers found that AI chatbots often agree with users, even when their behavior is harmful or wrong. This makes people more sure they are right and less willing to fix problems. Experts warn that this \"yes-man\" behavior in AI is risky and needs careful control."
-content_hash: "3f0c49639fe80b52147d10c4179ec24388874be8a5a71550fc2da4fc2ab3b0e5"
+content_hash: "b1bd3b8214a407a1f082f740bc21a28ebc8e891daf42c022f346ea4544a25040"
 ---
 
 ![Abstract illustration of a faceless person in a suit stands with arms crossed, surrounded by speech bubbles and symbols.](https://news.stanford.edu/__data/assets/image/0037/184978/GettyImages-1964440549.jpg)Getty Images

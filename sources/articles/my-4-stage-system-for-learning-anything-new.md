@@ -2,6 +2,8 @@
 title: "My 4-Stage System for Learning Anything New"
 reader_id: "01jzyd485sj0r3w6jbbxwdfg00"
 notion_page_id: "3484ebe7-f118-81e5-950f-f73547d3edee"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jzyd485sj0r3w6jbbxwdfg00"
 source_url: "https://fortelabs.com/blog/my-4-stage-system-for-learning-anything-new/"
 author: "Tiago Forte"
@@ -11,7 +13,7 @@ published: "2025-06-30"
 saved_at: "2025-07-12"
 reading_time: "7 mins"
 summary: "Tiago Forte shares a simple four-stage system to learn anything new: immerse yourself, build something real, find mentors, and connect with others. He says playfulness makes learning easier and more fun. Most interests won’t last, and it’s okay to stop if something doesn’t feel right."
-content_hash: "004922f49cf1c0ab826d318c0fbfd388a1504dd86b6b55186048a70cf82d4cb2"
+content_hash: "9de790681e56747915580f3638aafdcac0401758a938548f93faf884dcb1dcae"
 ---
 
 You discover something fascinating—maybe it’s vibe coding, sustainable investing, or sourdough baking. Your excitement builds as you imagine mastering this new skill. But then reality hits: Where do you even start?

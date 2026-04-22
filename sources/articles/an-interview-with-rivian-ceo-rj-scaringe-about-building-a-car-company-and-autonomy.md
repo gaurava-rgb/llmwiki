@@ -2,6 +2,8 @@
 title: "An Interview with Rivian CEO RJ Scaringe About Building a Car Company and Autonomy"
 reader_id: "01kcm4mf6560s8afccb4pmz7tr"
 notion_page_id: "3464ebe7-f118-8123-83fe-f8ddfa276695"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kcm4mf6560s8afccb4pmz7tr"
 source_url: "https://stratechery.com/2025/an-interview-with-rivian-ceo-rj-scaringe-about-building-a-car-company-and-autonomy/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-16"
 saved_at: "2025-12-16"
 reading_time: "40 mins"
 summary: "An interview with Rivian founder and CEO RJ Scaringe about starting a car company, scaling, and building for an autonomous future."
-content_hash: "c28688016c65e63a70d764a306581d5571c77a1420be03af7bc8c48250c29acd"
+content_hash: "42f563cfed9815285df12dd524002f01a2a5a17d07c6a71f737181e0596080fd"
 ---
 
 An interview with Rivian founder and CEO RJ Scaringe about starting a car company, scaling, and building for an autonomous future.

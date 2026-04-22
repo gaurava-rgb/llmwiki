@@ -11,6 +11,71 @@ Cloud-backed LLM Wiki for saved articles.
 - GitHub is the versioned source of truth for markdown, assets, scripts, tests,
   and rollback history.
 
+## Pipeline, Plainly
+
+Think of the system as five layers:
+
+1. **Reader is the inbox.**
+   This is where saved links, emails, tweets, PDFs, and other source items
+   start out.
+2. **Notion is the review table.**
+   The raw-source database in Notion is where source records can be tracked,
+   reviewed, and annotated.
+3. **This repo is the durable file copy.**
+   The capture bridge pulls supported top-level Reader items and writes
+   normalized markdown files into `sources/articles/` so the source layer is
+   versioned in Git.
+4. **The wiki compiler turns raw files into knowledge pages.**
+   It reads `sources/articles/` and writes synthesized topic/concept pages into
+   `sources/articles/wiki/`.
+5. **Queries read the compiled wiki, not the whole inbox.**
+   That keeps later agent work smaller, faster, and more consistent.
+
+## Where Outputs Go
+
+- **Reader -> Notion sync logs:** `logs/sync_*.log`
+- **Raw captured source files:** `sources/articles/*.md`
+- **Capture manifest:** `sources/articles/manifest.jsonl`
+- **Downloaded images when opted in:** `sources/images/`
+- **Compiled wiki index:** `sources/articles/wiki/INDEX.md`
+- **Compiled wiki topic pages:** `sources/articles/wiki/topics/`
+- **Compiled wiki concepts:** `sources/articles/wiki/concepts/`
+- **Wiki compile state/logs:** `sources/articles/wiki/.compile-state.json` and
+  `sources/articles/wiki/compile-log.md`
+
+## Typical Flow
+
+1. Save something in Reader.
+2. Optionally sync Reader items into the Notion Raw Sources database.
+   Today, `sync_to_notion.py` is still the narrower lane and mirrors the
+   article/rss subset:
+
+```bash
+python3 sync_to_notion.py
+```
+
+3. Materialize the broader supported Reader set in versioned markdown in this
+   repo. The capture bridge currently handles top-level `article`, `rss`,
+   `tweet`, `email`, `video`, `pdf`, and `epub` items, and stores `category`
+   plus `source_type` in frontmatter and the manifest:
+
+```bash
+python3 reader/capture_reader_to_markdown.py --apply
+```
+
+4. Rebuild the compiled knowledge base:
+
+```text
+/wiki-compile
+```
+
+5. Browse or query the compiled result at
+   `sources/articles/wiki/INDEX.md` or with:
+
+```text
+/wiki-query [topic]
+```
+
 ## Operating Files
 
 - `AGENTS.md` is the canonical Codex/Claude operating manual.

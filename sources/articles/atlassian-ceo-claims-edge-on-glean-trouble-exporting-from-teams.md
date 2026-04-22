@@ -2,6 +2,8 @@
 title: "Atlassian CEO Claims Edge on Glean; Trouble Exporting From Teams"
 reader_id: "01k5bskyyfk9a7tpwp7fw48725"
 notion_page_id: "3484ebe7-f118-81a9-8341-fafff87792e3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyyfk9a7tpwp7fw48725"
 source_url: "https://www.theinformation.com/articles/atlassian-ceo-claims-edge-glean-trouble-exporting-teams"
 author: "Kevin McLaughlin"
@@ -11,7 +13,7 @@ published: "2025-09-11"
 saved_at: "2025-09-17"
 reading_time: "4 mins"
 summary: "Enterprise search startup Glean has attracted customers and venture capital thanks to an AI search tool that lets employees quickly find corporate files and data in all of the apps their companies use. But Mike Cannon-Brookes, the CEO and co-founder of productivity app Atlassian, thinks his company is ahead of Glean in enterprise search—despite launching its rival product, Rovo, three years after Glean did.Cannon-Brookes said in an interview on The Information’s TITV streaming show that he “would be shocked” if Rovo is not seeing more usage than Glean “by quite a long distance.” Atlassian launched Rovo last October as a feature for its applications, while Glean sells its search product on a standalone basis. Atlassian, founded in 2002, has spent many years building a type of database called a knowledge graph, which contains more information about the relationships between the documents and chat conversations it contains, he said. While Glean also has a knowledge graph, Cannon-Brookes contends that Atlassian’s wider range of applications and data gives it an advantage. “We have built what we believe is the best enterprise search engine out there for the knowledge that your company has,” Cannon-Brookes said in the interview, adding that the Rovo product has seen “extremely good customer reaction” so far. Cannon-Brookes’ comments highlight growing competition in enterprise search, an increasingly crowded market where Atlassian is duking it out with Glean and other AI-native companies such as OpenAI and Cohere, as well as older public companies such as Google and Snowflake. There may also be a whiff of sour grapes in his comments, since Atlassian made an unsuccessful run at acquiring Glean back in 2023, as we reported in May. A Glean spokesperson didn’t address the Atlassian CEO’s comments, saying in a statement via email that Glean’s search product offers “the most complete view of how companies work.” Atlassian has also quietly participated in the AI data wars, whi..."
-content_hash: "95d8b3230397437459c808f313d6831e1b4809f24829aaad6c3dc4c853a225c5"
+content_hash: "557e5b3e2c6950692bdb97bcec0d0065fdd2086e700fda35a308a417a87a6bca"
 ---
 
 ![Credit: Atlassian CEO Mike Cannon-Brookes \(l\) and The Information reporter Akash Pasricha \(r\).](https://tii.imgix.net/production/articles/15748/ce69548f-0eab-4d06-9ceb-83d73723e4a0-GzZkId.png?fm=jpeg&auto=compress&w=610)

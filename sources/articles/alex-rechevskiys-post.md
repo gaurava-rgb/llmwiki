@@ -2,6 +2,8 @@
 title: "Alex Rechevskiy’s Post"
 reader_id: "01kmpf1xdtg0yk5jmkvx62b62g"
 notion_page_id: "3464ebe7-f118-81de-bc9c-ca493407e965"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmpf1xdtg0yk5jmkvx62b62g"
 source_url: "https://www.linkedin.com/posts/alexrechevskiy_i-spoke-to-a-pm-at-coinbase-last-week-working-share-7440843912665165824-mKdH/"
 author: "Alex Rechevskiy"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-27"
 reading_time: "2 mins"
 summary: "Many product managers wait too long to plan their next career move. Alex advises treating your career like a product with clear goals and regular progress. His program helps burned-out PMs land top roles before layoffs happen."
-content_hash: "e12927393d582b0de44667b4446d4ea748b60623fbdfa23e39f9daa14443fbff"
+content_hash: "d7458afefbba7061ce2510b63db103958c7fb249e06c0b4f2ddd40cbad61a96b"
 ---
 
 [ Alex Rechevskiy ](<https://www.linkedin.com/in/alexrechevskiy?trk=public_post_feed-actor-name>)

@@ -2,6 +2,8 @@
 title: "Outcomes > Learning Opportunities"
 reader_id: "01kk24bvqwqbb7dpc8v22pb249"
 notion_page_id: "3464ebe7-f118-819f-be4d-e388ba2ac683"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk24bvqwqbb7dpc8v22pb249"
 source_url: "https://shreyasdoshi.substack.com/p/outcomes-learning-opportunities?r=38jwv"
 author: "Shreyas Doshi"
@@ -11,7 +13,7 @@ published: "2026-01-06"
 saved_at: "2026-03-06"
 reading_time: "25 mins"
 summary: "In high-stakes moments, leaders must prioritize outcomes over giving someone a learning opportunity. Letting the leader handle critical situations can create company success that gives far more career upside than one risky practice run. True leadership balances short-term risk with building a team that can win without you."
-content_hash: "0965cf1e592017db2a13c80a9f30851f161e147d5a3812343e1beb55f8f8fba6"
+content_hash: "42d55bda5ace9e54c9d74b68a9128611e40be24d64bbdbe938262c13899fdbd6"
 ---
 
 For high-stakes situations, the outcome is paramount.

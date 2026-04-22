@@ -2,6 +2,8 @@
 title: "The Private Market Trap That’s Endangering U.S. Innovation"
 reader_id: "01jyx51mtj71c6rmkxw8r0fvx1"
 notion_page_id: "3484ebe7-f118-81c6-b766-dc9047d841c5"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyx51mtj71c6rmkxw8r0fvx1"
 source_url: "https://www.theinformation.com/articles/private-market-trap-endangering-u-s-innovation"
 author: "Rett Wallace"
@@ -11,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-06-29"
 reading_time: "5 mins"
 summary: "There is $13 trillion stuck in private markets, making it hard for startups to get money or grow. Big companies like Stripe can avoid public markets, but smaller ones struggle to find cash or buyers. Fixing this by improving stock market access is needed to help U.S. innovation and competition."
-content_hash: "59ce8b13c13d957363a31d38533f4397c683d9570414e78ce16ef8a33cd7e3ee"
+content_hash: "debaacc3848925d752a10f1d4c926e1acd8cb88821ee6f915c87152f0daca742"
 ---
 
 ![Credit: Art by Clark Miller.](https://tii.imgix.net/production/articles/15311/6c078941-403c-46d7-8aac-02714c435dcf.jpg?fm=jpeg&auto=compress&w=610)

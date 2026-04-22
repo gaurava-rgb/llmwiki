@@ -2,6 +2,8 @@
 title: "The Trust Wall: Why AI’s Next Billion Users Will Come Through Trust Networks"
 reader_id: "01kn7r6kvkng8xj37mgqtkmp56"
 notion_page_id: "3464ebe7-f118-811c-a005-c68884cdbf49"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn7r6kvkng8xj37mgqtkmp56"
 source_url: "https://www.a16z.news/p/the-sovereign-wall-why-ais-next-billion"
 author: "a16z"
@@ -11,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-04-02"
 reading_time: "11 mins"
 summary: "AI will grow by gaining trust through local networks, not just by being smarter. Governments and cultures shape how AI is used, creating a \"Trust Wall\" that AI must cross. Success depends on empowering trusted intermediaries who connect AI to communities."
-content_hash: "4e5e8c52acc4279df0e524d1950837e15063e1537bdbd5f38035fb2dbbb683f7"
+content_hash: "f51314dec552542d8cca877ac91c63d9bef8de9f92e99ce912a7da9e0b2b07b6"
 ---
 
 [![](https://substackcdn.com/image/fetch/$s_!rC8E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37423f43-5f82-422c-bca1-4861f04e6514_1460x650.png)](<https://substackcdn.com/image/fetch/$s_!rC8E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37423f43-5f82-422c-bca1-4861f04e6514_1460x650.png>)

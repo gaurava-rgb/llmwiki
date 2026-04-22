@@ -2,6 +2,8 @@
 title: "Effective harnesses for long-running agents"
 reader_id: "01kj6paabb0btrjqxsyms3795x"
 notion_page_id: "3464ebe7-f118-81e9-9154-e022f6e4ab13"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kj6paabb0btrjqxsyms3795x"
 source_url: "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
 author: "anthropic.com"
@@ -11,7 +13,7 @@ published: "2025-11-26"
 saved_at: "2026-02-24"
 reading_time: "8 mins"
 summary: "Long-running agents lose context across sessions, so they struggle to make steady progress. Anthropic solved this with an initializer agent that sets up scaffolding (init.sh, progress log, git) and a coding agent that works on one feature at a time and leaves clear updates. This incremental, test-driven harness helps agents avoid one-shot attempts and reduces wasted debugging."
-content_hash: "dd7e74d0596383265192007a7ca7a8be2017cb3150c655bf3eca63d2416623b2"
+content_hash: "a56de85301d38df7cb03ad0f956fa9e7789b4b9cd247376665f80f680810dd70"
 ---
 
 ![](https://www-cdn.anthropic.com/images/4zrzovbb/website/5dfb835ad3cbbf76b85824e969146eac20329e72-1000x1000.svg)

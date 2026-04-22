@@ -2,6 +2,8 @@
 title: "AI Drives Europe’s Second Straight Quarter Of Funding Gain As Deal Volume Falls Sharply"
 reader_id: "01kpbkms3bhkf65mhefytea6mp"
 notion_page_id: "3464ebe7-f118-81f0-8551-c60be96e31a6"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kpbkms3bhkf65mhefytea6mp"
 source_url: "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/"
 author: "Gené Teare"
@@ -11,7 +13,7 @@ published: "2026-04-14"
 saved_at: "2026-04-16"
 reading_time: "3 mins"
 summary: "European venture funding rose nearly 30% in Q1 2026, driven mainly by AI startups receiving over half of the total investment. Although the total deal volume dropped by 40%, late-stage funding nearly doubled compared to last year. The UK and France led growth, with large AI funding rounds boosting the region’s momentum."
-content_hash: "84e01904032cc8eb9e44b8c3514137191f02a62d25a065024349a9600e18a02a"
+content_hash: "7ca57dcd9a438ce6bb55883e7c1d0b773221b84160418d2532e4c0af86a64b8f"
 ---
 
 ![](https://news.crunchbase.com/wp-content/uploads/inflating-ai-europe.jpg) ![](https://secure.gravatar.com/avatar/312c7991dcc90f5d5b98b4da5ea19b0230d5d72ce2906857f67e710542d2066d?s=224&d=mm&r=g)

@@ -2,6 +2,8 @@
 title: "Improving Deep Agents with harness engineering"
 reader_id: "01kj6pa6p864wkkjpf570bznvk"
 notion_page_id: "3464ebe7-f118-8105-a485-c90431952f99"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kj6pa6p864wkkjpf570bznvk"
 source_url: "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/"
 author: "LangChain Blog"
@@ -11,7 +13,7 @@ published: "2026-02-17"
 saved_at: "2026-02-24"
 reading_time: "7 mins"
 summary: "LangChain improved their coding agent's performance by changing only the harness, not the model. They used automated trace analysis, better context, and self-verification to help the agent work smarter and test its code. These harness engineering techniques boosted the agent from Top 30 to Top 5 on a benchmark."
-content_hash: "b07a5e51c69c9a3d38c9cd4446192931f030457cb07e427031d7e31b15f3bf3a"
+content_hash: "db914841aa44e93612b42723064d267054df9398e80446957e4ded8e42cda6a3"
 ---
 
 TLDR: Our coding agent went from Top 30 to Top 5 on [Terminal Bench 2.0](<https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com>). We only changed the harness. Here’s our approach to harness engineering (teaser: self-verification & tracing help a lot).

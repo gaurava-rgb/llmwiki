@@ -2,6 +2,8 @@
 title: "Facebook is Dead; Long Live Meta"
 reader_id: "01k2mvqs9t2h612qp8e1qbhdej"
 notion_page_id: "3484ebe7-f118-81c7-9c94-ff3e7b2c3244"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k2mvqs9t2h612qp8e1qbhdej"
 source_url: "https://stratechery.com/2025/meta-earnings-meta-turns-the-dial-social-network-r-i-p/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-14"
 saved_at: "2025-08-14"
 reading_time: "14 mins"
 summary: "Meta delivered blowout earnings the same quarter that Mark Zuckerberg doubled down on AI; I don't think it was a coincidence."
-content_hash: "3277da75d1edacd4b6a2adcbdb91bd6edb4b93bdd49cc372481d0fd2fae87c1d"
+content_hash: "0d94de1c65e60645d36aa70b90b938c183d65edcad1f406f89d231ad37a3cfda"
 ---
 
 Meta delivered blowout earnings the same quarter that Mark Zuckerberg doubled down on AI; I don't think it was a coincidence.

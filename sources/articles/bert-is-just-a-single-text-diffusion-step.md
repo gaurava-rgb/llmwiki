@@ -2,6 +2,8 @@
 title: "BERT is just a Single Text Diffusion Step"
 reader_id: "01k9079ek5gjte82xkdf6k6b81"
 notion_page_id: "3484ebe7-f118-81d1-b6a6-cfc7eec3ecad"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01k9079ek5gjte82xkdf6k6b81"
 source_url: "https://nathan.rs/posts/roberta-diffusion/"
 author: "nathan.rs"
@@ -11,7 +13,7 @@ published: "2025-10-20"
 saved_at: "2025-11-01"
 reading_time: "6 mins"
 summary: "BERT-like models can generate text by gradually replacing words with masks and then predicting them step-by-step. This process, called text diffusion, is a generalization of masked language modeling. Fine-tuned models like RoBERTa can produce coherent text using this method without changing their architecture."
-content_hash: "f905e74c1e8af83584a0cb85e6f09365a3d3a67836e4c9c8b5120aa0d4b5a370"
+content_hash: "061ef1c06aa6bd34aac5398fc3010c1a5f8c03353f7a237af82ab44267362a6d"
 ---
 
 ![Text Diffusion](https://nathan.rs/images/roberta-diffusion.gif)Text Diffusion

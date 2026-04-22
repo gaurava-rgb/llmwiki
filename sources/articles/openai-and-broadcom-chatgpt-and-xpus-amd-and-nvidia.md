@@ -2,6 +2,8 @@
 title: "OpenAI and Broadcom, ChatGPT and XPUs, AMD and Nvidia"
 reader_id: "01k7hxafzfxxep9e7awqm5t2m3"
 notion_page_id: "3484ebe7-f118-81dc-9d48-ddb719f8f8ef"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k7hxafzfxxep9e7awqm5t2m3"
 source_url: "https://stratechery.com/2025/openai-and-broadcom-chatgpt-and-xpus-amd-and-nvidia/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-14"
 saved_at: "2025-10-14"
 reading_time: "7 mins"
 summary: "OpenAI's deal with Broadcom makes perfect sense, because OpenAI already knows exactly what workloads it needs to optimize."
-content_hash: "969b7ce55556f037a2614f0f6de2f04c7035ad84fbbc0f75c799b852d552f7ac"
+content_hash: "21b8e88b58c81ae77254aff07adec2a32fd7b6bf8740cb6557243dcd4891557b"
 ---
 
 OpenAI's deal with Broadcom makes perfect sense, because OpenAI already knows exactly what workloads it needs to optimize.

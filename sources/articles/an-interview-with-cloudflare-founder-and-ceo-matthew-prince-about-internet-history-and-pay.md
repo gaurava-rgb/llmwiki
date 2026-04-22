@@ -2,6 +2,8 @@
 title: "An Interview with Cloudflare Founder and CEO Matthew Prince About Internet History and Pay-per-crawl"
 reader_id: "01k4ayzd7nryjatbyyfzdf0qyq"
 notion_page_id: "3484ebe7-f118-810f-b2ad-e12030851e6c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k4ayzd7nryjatbyyfzdf0qyq"
 source_url: "https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-internet-history-and-pay-per-crawl/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-04"
 saved_at: "2025-09-04"
 reading_time: "50 mins"
 summary: "An interview with Cloudflare founder and CEO Matthew Prince about founding Cloudflare from the bottoms up, and why now is the time to leverage the power that followed to enact pay-per-crawl."
-content_hash: "8cc2d3697975680ff29ddb8b4efb5e745023b47feaf49d79311022823d9a661b"
+content_hash: "4cbe4bd1761fdcd8a67ef56e4f5308524c4b0e9c93bf6977f8c917a992d633a3"
 ---
 
 An interview with Cloudflare founder and CEO Matthew Prince about founding Cloudflare from the bottoms up, and why now is the time to leverage the power that followed to enact pay-per-crawl.

@@ -2,6 +2,8 @@
 title: "ChatGPT Group Chats, Meta and the Encryption Trade-off, Network Effects and Ad Models"
 reader_id: "01ka9avbj218g2081hz3z0eajw"
 notion_page_id: "3484ebe7-f118-8167-a84b-eb690ef108ff"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01ka9avbj218g2081hz3z0eajw"
 source_url: "https://stratechery.com/2025/chatgpt-group-chats-meta-and-the-encryption-trade-off-network-effects-and-ad-models/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-17"
 saved_at: "2025-11-17"
 reading_time: "8 mins"
 summary: "ChatGPT is getting group chats, a long-standing Stratechery feature request. It's also a clear attach against Meta, who can't respond because of encryption, while Google looms."
-content_hash: "06aaf25070fca1e42d756be87581265f387272594ed49190007b266cda5a0663"
+content_hash: "26c867d38ae4713b26f7bc3aa55f671729c3f03cd2c4d50494521f5b6d57e049"
 ---
 
 ChatGPT is getting group chats, a long-standing Stratechery feature request. It's also a clear attach against Meta, who can't respond because of encryption, while Google looms.

@@ -2,6 +2,8 @@
 title: "Spotify Earnings, Individualized Networks, AI and Aggregation"
 reader_id: "01kh6xwk6frxrzgke3p3p1s6m9"
 notion_page_id: "3464ebe7-f118-81cd-b78b-e82e9cf36806"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kh6xwk6frxrzgke3p3p1s6m9"
 source_url: "https://stratechery.com/2026/spotify-earnings-individualized-networks-ai-and-aggregation/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-11"
 saved_at: "2026-02-11"
 reading_time: "10 mins"
 summary: "Spotify's nature as a content network means that AI is a sustaining technology, particularly because they have the right business model in place."
-content_hash: "4d60b023d040940c52445fb24312790f194274fd3691e805bd75f422ba7d9023"
+content_hash: "ddefca088780de2ad01d70caed0b1cc6a2fc4aed6056d4555e250f07594e8509"
 ---
 
 Spotify's nature as a content network means that AI is a sustaining technology, particularly because they have the right business model in place.

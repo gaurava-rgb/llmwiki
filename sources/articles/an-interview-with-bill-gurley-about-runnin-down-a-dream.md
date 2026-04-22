@@ -2,6 +2,8 @@
 title: "An Interview with Bill Gurley About Runnin' Down a Dream"
 reader_id: "01kjdhac2dezyvbr60c6rqk09h"
 notion_page_id: "3464ebe7-f118-81ec-bd7a-cc7107948a50"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjdhac2dezyvbr60c6rqk09h"
 source_url: "https://stratechery.com/2026/an-interview-with-bill-gurley-about-runnin-down-a-dream/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-26"
 saved_at: "2026-02-26"
 reading_time: "40 mins"
 summary: "An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC."
-content_hash: "2557bb10d5914a113555f2592649e62b79a1836e039d7a4e0f970ad465a2b0c0"
+content_hash: "bf93ddfe43f5e7e95b3a71555bbbee0d2b3a56daefb81e09a7b4db4d29eec273"
 ---
 
 An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC.

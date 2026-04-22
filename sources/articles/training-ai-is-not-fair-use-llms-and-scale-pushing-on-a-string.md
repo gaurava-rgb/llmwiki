@@ -2,6 +2,8 @@
 title: "Training AI is Not Fair Use?, LLMs and Scale, Pushing on a String"
 reader_id: "01jzk0w17wrb0twcrfn3pc5fe8"
 notion_page_id: "3484ebe7-f118-810e-949b-fa30febd0d13"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jzk0w17wrb0twcrfn3pc5fe8"
 source_url: "https://stratechery.com/2025/training-ai-is-not-fair-use-llms-and-scale-pushing-on-a-string/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-07"
 saved_at: "2025-07-07"
 reading_time: "13 mins"
 summary: "Meta won another fair use case, even though the judge wanted to rule against LLMs; he'll have a hard time doing so."
-content_hash: "11e38d5e668ea5a8b12fb4a36b6954cf230c35b978e0728aceb3127cdb888fc6"
+content_hash: "e72141b3c5cb083f0b55464795aa18d32c2bab93376facb4b8aea450d6a02a38"
 ---
 
 Meta won another fair use case, even though the judge wanted to rule against LLMs; he'll have a hard time doing so.

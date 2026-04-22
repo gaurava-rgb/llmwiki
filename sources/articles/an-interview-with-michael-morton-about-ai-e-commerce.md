@@ -2,6 +2,8 @@
 title: "An Interview with Michael Morton About AI E-Commerce"
 reader_id: "01k9d4nm69qdes8chxpgs5z0w5"
 notion_page_id: "3484ebe7-f118-8153-b1bc-e2053b5b37c8"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9d4nm69qdes8chxpgs5z0w5"
 source_url: "https://stratechery.com/2025/an-interview-with-michael-morton-about-ai-e-commerce/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-06"
 saved_at: "2025-11-06"
 reading_time: "51 mins"
 summary: "An interview with Michael Morton about AI-driven e-commerce, and why this is both Amazon's category to lose and a threat — and a big opportunity for Walmart and Shopify."
-content_hash: "e63660d0a0a34c4f6085623750935c990ad547ab1a21a5744952656ded164c2b"
+content_hash: "c0b19af4c8b27c6dc733a6fc0f8f7151bcb1851d7e2c3cb39ae9842eebca7468"
 ---
 
 An interview with Michael Morton about AI-driven e-commerce, and why this is both Amazon's category to lose and a threat — and a big opportunity for Walmart and Shopify.

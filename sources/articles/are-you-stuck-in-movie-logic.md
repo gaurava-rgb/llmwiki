@@ -2,6 +2,8 @@
 title: "Are you stuck in movie logic?"
 reader_id: "01jzyd53en44qy76y9kx9cph47"
 notion_page_id: "3484ebe7-f118-811f-a433-cd16ea74d61d"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jzyd53en44qy76y9kx9cph47"
 source_url: "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic/"
 author: "Cate Hall"
@@ -11,7 +13,7 @@ published: "2025-06-18"
 saved_at: "2025-07-12"
 reading_time: "8 mins"
 summary: "The author discusses how the lack of communication in movies creates drama and suggests that we often mirror this in real life by avoiding difficult conversations. By naming issues directly, we can clear misunderstandings and improve our relationships. Learning to communicate openly helps us confront problems before they escalate, leading to healthier interactions."
-content_hash: "ef07f28e225f6311ec40085dd54d7db8a4fafd21098e21990810b1ba131b994a"
+content_hash: "64a1843d04a31f8bb610e76efadbb7fa8716a154562b882a70dc10521a8f1332"
 ---
 
 [![Useful Fictions](https://substackcdn.com/image/fetch/w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7cee13a-2fee-4a69-8771-931bc6d1bba5_600x600.png)](<https://usefulfictions.substack.com/>)

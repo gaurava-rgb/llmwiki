@@ -2,6 +2,8 @@
 title: "Lenny Rachitsky’s Post"
 reader_id: "01kpcat0xj8wr6a0ytcf4chak9"
 notion_page_id: "3464ebe7-f118-8119-9fc5-fae2aa92a82d"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kpcat0xj8wr6a0ytcf4chak9"
 source_url: "https://www.linkedin.com/posts/lennyrachitsky_announcing-the-winners-of-the-lennysdatacom-share-7450274416166608896-ayJf"
 author: "Lenny Rachitsky"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-04-16"
 reading_time: "1 min"
 summary: "Lenny Rachitsky held a hackathon using his podcast transcripts and newsletter content. Over 80 people entered, and he picked ten winners. The winners get a free one-year newsletter subscription and their projects are shared online."
-content_hash: "9863f4bc59b9252cd7c50cb0cd4aceb9681d200bd3e67ac8a2188cb41a7a5105"
+content_hash: "42b754b54be1c49738d9e5c4480987073686d030fd319115c38f8d10395480ee"
 ---
 
 [ Lenny Rachitsky ](<https://www.linkedin.com/in/lennyrachitsky?trk=public_post_feed-actor-name>)

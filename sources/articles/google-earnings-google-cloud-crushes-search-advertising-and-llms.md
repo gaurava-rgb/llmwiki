@@ -2,6 +2,8 @@
 title: "Google Earnings, Google Cloud Crushes, Search Advertising and LLMs"
 reader_id: "01kh1rr1qrhvm25n5hscjxtar1"
 notion_page_id: "3464ebe7-f118-81e9-8346-dfe870c5c948"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kh1rr1qrhvm25n5hscjxtar1"
 source_url: "https://stratechery.com/2026/google-earnings-google-cloud-crushes-search-advertising-and-llms/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-09"
 saved_at: "2026-02-09"
 reading_time: "9 mins"
 summary: "Google announced a massive increase in CapEx that blew away expectations; the companies earnings results explain why the increase is justified."
-content_hash: "82b7bf19a0dda5d167a84bacd19ad264e740382d62f6f30f6b2789e98508a68e"
+content_hash: "760907a75dc100274e424b3468bf887a6979d93bd726f1f69305717bc0578752"
 ---
 
 Google announced a massive increase in CapEx that blew away expectations; the companies earnings results explain why the increase is justified.

@@ -2,6 +2,8 @@
 title: "An Interview with Asymco's Horace Dediu About Apple at 50"
 reader_id: "01kn7nrjec2wwje1w9b8ff1ywp"
 notion_page_id: "3464ebe7-f118-8148-958f-c9f9e4457a43"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kn7nrjec2wwje1w9b8ff1ywp"
 source_url: "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-02"
 saved_at: "2026-04-02"
 reading_time: "1 hr 5 mins"
 summary: "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI"
-content_hash: "bd144673b45a623331f6b82d1c19f4b17e8ff4c0308d0cfe576f348dbda60c15"
+content_hash: "fafb85eb360bda80b35767ae77610df0cdb1833afac529717d92603024ab2ef3"
 ---
 
 An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI

@@ -2,6 +2,8 @@
 title: "AWS re:Invent, Agents for AWS, Nova Forge"
 reader_id: "01kbjn7gwxsr27xkpm0vp5etye"
 notion_page_id: "3464ebe7-f118-81de-9358-d5436da351b3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kbjn7gwxsr27xkpm0vp5etye"
 source_url: "https://stratechery.com/2025/aws-reinvent-agents-for-aws-nova-forge/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-03"
 saved_at: "2025-12-03"
 reading_time: "10 mins"
 summary: "AWS re:Invent sought to present AI solutions in the spirit of AWS' original impact on startups; the real targets may be the startups from that era, not the current one."
-content_hash: "927da7dd67a067f805d018d11075af0168b0d2e900f227afcd8372e62ba47d96"
+content_hash: "56d6114609451e085bec53fedaa3a598f25be9c5438e62c54e5efd7481f2e49f"
 ---
 
 AWS re:Invent sought to present AI solutions in the spirit of AWS' original impact on startups; the real targets may be the startups from that era, not the current one.

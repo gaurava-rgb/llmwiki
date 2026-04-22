@@ -2,6 +2,8 @@
 title: "Marc Benioff Said AI Was Easy. A ‘Crazy’ Team at Salesforce Proved Him Wrong"
 reader_id: "01k5bskydhq37e6zxf7cf6esz1"
 notion_page_id: "3484ebe7-f118-8165-906e-c1bd1c1505c3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskydhq37e6zxf7cf6esz1"
 source_url: "https://www.theinformation.com/articles/marc-benioff-said-ai-easy-crazy-team-salesforce-proved-wrong"
 author: "Kevin McLaughlin"
@@ -11,7 +13,7 @@ published: "2025-09-16"
 saved_at: "2025-09-17"
 reading_time: "8 mins"
 summary: "Salesforce CEO Marc Benioff was upset.\nLast fall, one of his technical teams told large Salesforce customers that using Agentforce, the software firm’s new artificial intelligence for automating customer service and other functions, would require extensive planning. The product information the Salesforce team shared with those customers acknowledged the complexity of making the AI perform well.\nThat message contradicted Benioff, a charismatic salesman who had been telling customers that using the AI was a cinch and they could set up AI agents to handle customer service discussions and other tasks in minutes.A senior Salesforce leader said that when Benioff noticed the disconnect, he complained to colleagues that the technical team advising large customers, known as Well-Architected, was acting “crazy” and should be fired.\nTwo months later, after Agentforce became available to all customers, the Well-Architected team was quietly disbanded, with some members taking severance packages and others finding new roles in the company, a former Salesforce manager said. But the team’s insistence that setting up agents was harder than it looked ended up being right, and Benioff was proven wrong: The company has struggled to sell Agentforce in the past year, in part because of the extensive prep work customers need to do to make it work right. And Salesforce in August said it would relaunch the Well-Architected program.\n“Many of you told us, clearly and passionately, that it was a mistake” to end the team, two Salesforce executives wrote in a post to customers last month. “You were right.”\nLast week, Salesforce issued a less-than-stellar revenue forecast for its current fiscal quarter, raising questions about the quality of Agentforce as well as what kind of money enterprises are willing to spend on it.\nThe result came despite Benioff’s comments to investors in February that Salesforce was “excited to be…in that kind of rarefied air of delivering a multi-billion dollar AI pro..."
-content_hash: "e4019cffc63a7c556d2f0a82bb4d0112fb691d6c38a7c1ef9ca2c80064120c02"
+content_hash: "ade804a0843ca36374610e3385e360286946ba5970b1a926aa0c890f79631518"
 ---
 
 ![Credit: Salesforce CEO Marc Benioff via Getty. Art via Clark Miller](https://tii.imgix.net/production/articles/15759/0675c068-d234-4abe-bc4f-0727af786e8d.jpg?fm=jpeg&auto=compress&w=610)

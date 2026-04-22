@@ -2,6 +2,8 @@
 title: "One E-Commerce Startup Makes a Bet on TikTok Shop"
 reader_id: "01k3c2vgk3fh4xbp0h4cqvqzda"
 notion_page_id: "3484ebe7-f118-81d5-ac02-fd8cdb266580"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c2vgk3fh4xbp0h4cqvqzda"
 source_url: "https://www.theinformation.com/articles/one-e-commerce-startup-makes-bet-tiktok-shop?rc=rpuplc"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2025-08-21"
 saved_at: "2025-08-23"
 reading_time: "4 mins"
 summary: "Conduit Commerce is betting on TikTok Shop and bought Wally to build in-app storefronts for retailers and creators. It connects old warehouse systems to platforms like TikTok using APIs so wholesalers can sell direct to consumers. Conduit has enabled over $500 million in sales and wants to help distributors tap influencer-driven demand."
-content_hash: "9e7b39b7e32b0f577ceaff0a33a2fddda0d71fec9b6585b5a4da607ad56f605b"
+content_hash: "e4eb094ea577f12d31a79ce4be92293c89f1cc2ce21fb08c222a1af9b8a4e360"
 ---
 
 ![One E-Commerce Startup Makes a Bet on TikTok Shop](https://tii.imgix.net/production/articles/15629/bc4da821-91c3-41e4-a872-e59fe5762d77-BkJGzy.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Trey Ogilvie and Conduit Commerce employees Rohan Shah, Anand Prabhu and Rahul Sinha (left to right).

@@ -2,6 +2,8 @@
 title: "F1 on Apple TV, Distribution as Differentiation, A Worthwhile Gamble"
 reader_id: "01k83y908np9xzks7mmn6hbh5h"
 notion_page_id: "3484ebe7-f118-8159-930e-c1f0ae6e96ca"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k83y908np9xzks7mmn6hbh5h"
 source_url: "https://stratechery.com/2025/f1-on-apple-tv-distribution-as-differentiation-a-worthwhile-gamble/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-21"
 saved_at: "2025-10-21"
 reading_time: "8 mins"
 summary: "F1 is officially on Apple TV, and it's both a worthwhile gamble on Apple's distribution being a differentiator."
-content_hash: "4e9e38581b03162a7f19162bed82a670dcb89136add027d3ada4afc97ea7a3c3"
+content_hash: "be50174c8fcb77a0b267ab8077a46601fb42d26b68747310e5e4eac71076e833"
 ---
 
 F1 is officially on Apple TV, and it's both a worthwhile gamble on Apple's distribution being a differentiator.

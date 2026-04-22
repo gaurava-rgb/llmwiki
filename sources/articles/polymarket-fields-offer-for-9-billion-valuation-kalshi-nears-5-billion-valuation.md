@@ -2,6 +2,8 @@
 title: "Polymarket Fields Offer for $9 Billion Valuation; Kalshi Nears $5 Billion Valuation"
 reader_id: "01k5bskysgd336sec5ka1cbwzy"
 notion_page_id: "3484ebe7-f118-8128-8ef5-f894afd631e2"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskysgd336sec5ka1cbwzy"
 source_url: "https://www.theinformation.com/articles/prediction-startup-polymarket-fields-offer-9-billion-valuation-kalshi-nears-5-billion-financing"
 author: "Yueqi Yang"
@@ -11,7 +13,7 @@ published: "2025-09-12"
 saved_at: "2025-09-17"
 reading_time: "3 mins"
 summary: "Startups that enable people to bet on events such as the New York mayoral race, NFL games and the Federal Reserve rate decisions are in talks to raise more money at multi-billion-dollar valuations, as trading volume and rivalry between the two apps intensifies.\nPolymarket has considered an offer that would value the company as much as $9 billion, according to people who have spoken to the company’s leaders. That would be a huge jump in price for the startup, which raised money at a $1 billion valuation earlier this summer and is on the cusp of re-entering the U.S. market, but doesn’t yet generate revenue.Meanwhile, older rival Kalshi is close to raising money at a $5 billion valuation including the new money, which would more than double the $2 billion valuation the startup raised at just three months ago, according to two people who have spoken to its leaders.\nThe fundraising discussions follow growth in trading volumes for event contracts—derivatives that pay out to investors who guess the event outcomes correctly— after the markets gained attention ahead of the 2024 U.S. presidential election. Both startups have recently moved to expand the ways customers can buy their contracts.\nPolymarket earlier this month said the Commodity Futures Trading Commission had given it the go-ahead to serve U.S.-based users. The agency had barred it from accepting U.S.-based trades three years ago, saying it was running an unregistered derivatives exchange. In July, the five-year-old startup bought a U.S.-registered exchange and clearinghouse, which helped pave the way for the CFTC approval.\nTrading volume on Polymarket hit $1 billion in August, more than twice its volume a year ago, according to Dune Analytics, which tracks activity on blockchains. Polymarket clears trades using cryptocurrency, saving the platform the trouble of coordinating with banks and payments providers in each country. Customers use Circle’s USDC stablecoin to buy contracts predicting outcomes of politica..."
-content_hash: "b87e58c14f63aeaa982dc57635800694aa168620ffbf41f06802df7440e208ce"
+content_hash: "b3f54a9cdb58064179bdbdcddf67bf582ef2e8c38e7eb79232921910e12c43ff"
 ---
 
 ![Credit: CEO of Kalshi, Tarek Mansour, left, and CEO of Polymarket, Shayne Coplan. Photos by Getty](https://tii.imgix.net/production/articles/15753/7a185d78-157d-4f9b-8909-5f2d9067012a.png?fm=jpeg&auto=compress&w=610)

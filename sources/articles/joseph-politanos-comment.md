@@ -2,6 +2,8 @@
 title: "Joseph Politano's comment"
 reader_id: "01kk61y391agpjx6x2cx2nrzpg"
 notion_page_id: "3464ebe7-f118-812a-a0da-f6766da530d2"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk61y391agpjx6x2cx2nrzpg"
 source_url: "https://substack.com/@josephpolitano/note/c-224601739?r=38jwv"
 author: "Joseph Politano"
@@ -11,7 +13,7 @@ published: "2026-03-08"
 saved_at: "2026-03-08"
 reading_time: "1 min"
 summary: "The US is losing many blue-collar jobs. Manufacturing, transportation, and mining are losing workers fast. Construction jobs are growing very slowly."
-content_hash: "584034960cd9ab5cd18d0bf4c1c421a4cfa5443a339a822b9daee5170df164a5"
+content_hash: "f895e3157687da9362404db6dc3a90135e6d7bb2479fac2a11eb5ca7e855c254"
 ---
 
 The US continues losing blue-collar jobs—year-on-year job losses have hit 238k as manufacturing, transportation, & mining industries lose jobs at a rapid pace, while growth in construction remains low

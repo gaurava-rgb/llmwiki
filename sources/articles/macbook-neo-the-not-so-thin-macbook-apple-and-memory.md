@@ -2,6 +2,8 @@
 title: "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory"
 reader_id: "01kk9wbv15kn40mr2sxa3tvzfb"
 notion_page_id: "3464ebe7-f118-8158-99a0-ccc94a0e9a61"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kk9wbv15kn40mr2sxa3tvzfb"
 source_url: "https://stratechery.com/2026/macbook-neo-the-not-so-thin-macbook-apple-and-memory/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-09"
 saved_at: "2026-03-09"
 reading_time: "8 mins"
 summary: "The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud."
-content_hash: "bf871880c55478efdcd0f1bf6bf31ae17e003b04e58e6eb080b0b12814c7aa73"
+content_hash: "1c3b44924fd79faa16f0c7970d42bf4694160c43ed5fc62e8f9c7a0dcfc0fffd"
 ---
 
 The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud.

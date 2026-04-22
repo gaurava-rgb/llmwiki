@@ -2,6 +2,8 @@
 title: "ESPN + NFL, NFL Strategy, Additional Disney Notes"
 reader_id: "01k22t75bvf7kap24sytw1762k"
 notion_page_id: "3484ebe7-f118-81d2-916d-e3ebb7f7b056"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k22t75bvf7kap24sytw1762k"
 source_url: "https://stratechery.com/2025/espn-nfl-nfl-strategy-additional-disney-notes/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-07"
 saved_at: "2025-08-07"
 reading_time: "18 mins"
 summary: "The NFL is taking equity in ESPN. It's a great deal for Disney, driven by the NFL's long-term concern about tech dominance."
-content_hash: "f74e0b30a7baddb5d5b3678f49dd4d76ad82c6057190b728943331351018f7a3"
+content_hash: "7baabe37ee512ef6f1634ab7a6c0754410dda16725930b49fdd180ccc261d13e"
 ---
 
 The NFL is taking equity in ESPN. It's a great deal for Disney, driven by the NFL's long-term concern about tech dominance.

@@ -2,6 +2,8 @@
 title: "If You Understand These 5 AI Terms, You’re Ahead of 90% of People"
 reader_id: "01knqgz4m957zktkyfpjnwj63x"
 notion_page_id: "3464ebe7-f118-81a6-970f-e22ff9d7f4db"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqgz4m957zktkyfpjnwj63x"
 source_url: "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319"
 author: "Shreyas Naphad"
@@ -11,7 +13,7 @@ published: "2026-04-06"
 saved_at: "2026-04-08"
 reading_time: "6 mins"
 summary: "Understanding five key AI terms—tokens, context window, temperature, hallucination, and RAG—helps you use AI smarter and more effectively. Tokens are chunks of text AI reads, and context windows limit how much it can remember at once. Knowing these concepts stops you from blindly trusting AI and helps you get better results in work and creativity."
-content_hash: "3a16a8326eeaea40226f790c082f007c6b7a8de46ce97f5629ed109b2ad5d4b7"
+content_hash: "a87b12fd0f886b8cb8810ca6bfccaa30709e729dee429c9adb7872888918c681"
 ---
 
 ## Master the core ideas behind AI without getting lost

@@ -2,6 +2,8 @@
 title: "Things I learned at OpenAI"
 reader_id: "01kpgqyj3f6ewb4a522k1tb42x"
 notion_page_id: "3464ebe7-f118-8111-96c9-e6d60c63bf0b"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kpgqyj3f6ewb4a522k1tb42x"
 source_url: "https://semaphore.substack.com/p/things-i-learned-at-openai?r=38jwv"
 author: "Karina Nguyen"
@@ -11,7 +13,7 @@ published: "2026-03-28"
 saved_at: "2026-04-18"
 reading_time: "5 mins"
 summary: "Karina Nguyen shares lessons from her time at OpenAI about building better AI through thoughtful evaluation, creative post-training, and smart research. She believes the future of AI depends on teaching models empathy, humor, and judgment, which is still a new challenge. She emphasizes the importance of alignment, adaptability, and working on bold ideas that truly matter for people and society."
-content_hash: "ad5505e0ed9ec28f218b3a68174d8d8299636fc8cfdfb9455e719597593f942b"
+content_hash: "944efa034db9a3af7d2dddc7bef98f26119d51c95981d777f73672f37e8d572b"
 ---
 
 ### With deep gratitude to the collaborators, mentors, and friends who shaped how I think about the world.

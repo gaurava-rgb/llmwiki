@@ -2,6 +2,8 @@
 title: "Atlassian Buys The Browser Company, Browser Wars, Why Atlassian"
 reader_id: "01k4n76nmy7z8b7tvby9z3xvq1"
 notion_page_id: "3484ebe7-f118-81f0-977f-e623c01cf42d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k4n76nmy7z8b7tvby9z3xvq1"
 source_url: "https://stratechery.com/2025/atlassian-buys-the-browser-company-browser-wars-why-atlassian/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-08"
 saved_at: "2025-09-08"
 reading_time: "10 mins"
 summary: "Atlassian bought The Browser Company, seeking to deliver an AI-enabled browser for work. It's a reasonable bet, but I'm skeptical that browsers are the future."
-content_hash: "d5b57fd55a612cdb6798abfc45f1c28a1adbc33fc0202e9b3c8fb3df0aa518c9"
+content_hash: "cd4132811b0a636b1adc04dcf3f763f8cdd270b62f266665d70881aa3de7e169"
 ---
 
 Atlassian bought The Browser Company, seeking to deliver an AI-enabled browser for work. It's a reasonable bet, but I'm skeptical that browsers are the future.

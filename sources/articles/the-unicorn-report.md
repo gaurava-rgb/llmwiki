@@ -2,6 +2,8 @@
 title: "The Unicorn Report"
 reader_id: "01jzyc8qffhh16t994p99c6zfq"
 notion_page_id: "3484ebe7-f118-816d-ba88-c1d0bfe7f07f"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01jzyc8qffhh16t994p99c6zfq"
 source_url: "https://www.patreon.com/TheVentureMindset/shop/unicorn-report-466660?source=storefront"
 author: "Patreon"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-07-12"
 reading_time: "1 min"
 summary: "The Unicorn Report by Stanford Professor Ilya Strebulaev studies over 1,200 billion-dollar startups in the US. It shares facts about founding teams, locations, industries, and venture capital. Patreon supporters get full access, updates, and can suggest future research topics."
-content_hash: "9292ff10fadbab2aed1d382f6b298cd7cba49a630bbb9384fb880095be7a22b3"
+content_hash: "b3af88c3051c5085cce8d80e8f3d086c5b3d1360d72ac7773c0542efe5b93e94"
 ---
 
 [](<https://www.patreon.com/TheVentureMindset/shop>)

@@ -2,6 +2,8 @@
 title: "TSMC Earnings, New N3 Fabs, The Nvidia Ramp"
 reader_id: "01kpp21x2jqy43k9wk5zc687rd"
 notion_page_id: "3484ebe7-f118-8129-8acc-ce80822b7abb"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kpp21x2jqy43k9wk5zc687rd"
 source_url: "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-20"
 saved_at: "2026-04-20"
 reading_time: "8 mins"
 summary: "TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story."
-content_hash: "7214c17eb3807d7c030e6a0e8eb882187d9ed033285e5fd157a858167fd94791"
+content_hash: "4b62d0bd2890c2a6ffbaa774b024f46a8a03f5e10e094c537ef9a486dba886e0"
 ---
 
 TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.

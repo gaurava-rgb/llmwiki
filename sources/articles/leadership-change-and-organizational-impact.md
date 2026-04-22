@@ -2,6 +2,8 @@
 title: "Leadership, Change, and Organizational Impact"
 reader_id: "01kmf17s8pm9652qqkk4377xnh"
 notion_page_id: "3464ebe7-f118-814a-959e-f905507a5ef7"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmf17s8pm9652qqkk4377xnh"
 source_url: "https://executive.mit.edu/blog/leadership-change-and-orgamizational-impact.html"
 author: "MIT"
@@ -11,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-03-24"
 reading_time: "6 mins"
 summary: "Effective leadership is crucial for guiding and sustaining organizational change. Leaders must communicate clearly, motivate teams, and adapt to challenges to keep change on track. MIT's program teaches executives how to lead change smartly by knowing when to step up and when to step back."
-content_hash: "0cc91551855c0a4d75a5c04e0c6d8636c58897c331b2bdc28b8ad3eca799b73d"
+content_hash: "5370a6352b54028a1080727a2174d33f07ea3ab4d48d6b627a06ef6da85d8596"
 ---
 
 ![people walking up hills or graphs](https://executive.mit.edu/dw/image/v2/BFHZ_PRD/on/demandware.static/-/Library-Sites-MSharedLibrary/default/dw7bad8b50/images/blogImages/leadership-change-and-organizational-impact.jpg)people walking up hills or graphs

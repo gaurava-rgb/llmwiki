@@ -2,6 +2,8 @@
 title: "Microsoft Earnings, CoreAI/MantleAI, Additional Notes"
 reader_id: "01k9wf5wj59tafkkhhve5x7k5z"
 notion_page_id: "3484ebe7-f118-81ef-a229-ed78ef0052c9"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9wf5wj59tafkkhhve5x7k5z"
 source_url: "https://stratechery.com/2025/microsoft-earnings-coreai-mantleai-additional-notes/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-12"
 saved_at: "2025-11-12"
 reading_time: "12 mins"
 summary: "Microsoft declares independence from OpenAI and sketches out its future role building scaffolding for AI. Plus, Windows is tiny now."
-content_hash: "313f66cf1cb24e73325653355c405868572db8a6975847e3689d7f336af54b5e"
+content_hash: "de5e16c1434085f77066eff545e81081633d348d704acfe4f0ff385a51d932c2"
 ---
 
 Microsoft declares independence from OpenAI and sketches out its future role building scaffolding for AI. Plus, Windows is tiny now.

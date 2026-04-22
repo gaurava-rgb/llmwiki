@@ -2,6 +2,8 @@
 title: "Nooruddean Choudry (@beardedgenius) on Threads"
 reader_id: "01kbqk735k7mwg97mw1gg3z9tv"
 notion_page_id: "3464ebe7-f118-8171-939f-ebfb43ac7daa"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kbqk735k7mwg97mw1gg3z9tv"
 source_url: "https://www.threads.com/@beardedgenius/post/DR39bk0CGXy?xmt=AQF009VeFdRA3Iz2EiONX896bYodjHQdaCsidGAEBjeW3RRGj9cY96svrJvie6rabMF48qpV&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-05"
 saved_at: "2025-12-05"
 reading_time: "1 min"
 summary: "James McAvoy on the ‘class ceiling’ in acting and the arts. This is nearly ten years ago."
-content_hash: "8cc51f29a45045ec28f55d002da6195c83e3c6022f049a1032ba2d82bc9fde50"
+content_hash: "d2b5b0faa9d5014a26a7d60302609e860c361501b2307092d5a0edcc64218f59"
 ---
 
 James McAvoy on the ‘class ceiling’ in acting and the arts. This is nearly ten years ago.

@@ -2,6 +2,8 @@
 title: "Sora the App, Sonnet 4.5 and the Question of Models as Processors"
 reader_id: "01k6geybjzxb0gbrfyxzxhtakq"
 notion_page_id: "3484ebe7-f118-81fa-8397-dc68cf7af2b7"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6geybjzxb0gbrfyxzxhtakq"
 source_url: "https://stratechery.com/2025/sora-the-app-sonnet-4-5-and-the-question-of-models-as-processors/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-01"
 saved_at: "2025-10-01"
 reading_time: "10 mins"
 summary: "OpenAI has its own AI video app with Sora, powered by Sora 2; I'm not sure how compelling it will be in the long run. Then, Cognition's experience with a new Anthropic model suggests that incorporating new models requires a lot more work than a new processor."
-content_hash: "2528eee60792cdabf67917e9e9117c77e5c67dd751f0e7110e97d186eda0394e"
+content_hash: "7ae609cee1178d5dcd3e7d2beed0615cad7563f47b41f2aa4788e759049910a3"
 ---
 
 OpenAI has its own AI video app with Sora, powered by Sora 2; I'm not sure how compelling it will be in the long run. Then, Cognition's experience with a new Anthropic model suggests that incorporating new models requires a lot more work than a new processor.

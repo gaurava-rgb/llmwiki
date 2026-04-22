@@ -2,6 +2,8 @@
 title: "Google and Windsurf, Stinky Deals, Chesterton's Fence and the Silicon Valley Ecosystem"
 reader_id: "01k050mvk1nvsjtf8ndtk3nesk"
 notion_page_id: "3484ebe7-f118-81cf-9eb4-c9c07bee8abd"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k050mvk1nvsjtf8ndtk3nesk"
 source_url: "https://stratechery.com/2025/google-and-windsurf-stinky-deals-chestertons-fence-and-the-silicon-valley-ecosystem/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-14"
 saved_at: "2025-07-14"
 reading_time: "11 mins"
 summary: "Windsurf's founders and IP are going to Google in the latest stinky deal that is downstream of regulator's recklessly messing the startup ecosystem."
-content_hash: "1094862a46126e5e89305b56b20cc3ea68c1cab78aecc1b4805ef2bc9ea1d4f3"
+content_hash: "c478ca6b3054450531a61f12008fc058a1803eba0d7073b5095232d28e63862a"
 ---
 
 Windsurf's founders and IP are going to Google in the latest stinky deal that is downstream of regulator's recklessly messing the startup ecosystem.

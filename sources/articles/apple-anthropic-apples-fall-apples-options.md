@@ -2,6 +2,8 @@
 title: "Apple + Anthropic?, Apple's Fall, Apple's Options"
 reader_id: "01jzqsc88n652b4y77q4p7dyeq"
 notion_page_id: "3484ebe7-f118-819d-84f5-d877c52b878b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jzqsc88n652b4y77q4p7dyeq"
 source_url: "https://stratechery.com/2025/apple-anthropic-apples-fall-apples-options/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-09"
 saved_at: "2025-07-09"
 reading_time: "9 mins"
 summary: "Apple is thinking about using AI from Anthropic or OpenAI to improve Siri instead of its own technology. The company wants control and may not want to pay much for this partnership. Apple faces a tough choice between a cheaper ChatGPT option or a better, costlier Anthropic solution."
-content_hash: "9dc688df4743324539eeb03d1485e135d2428371681a539c27657c3ca8ef0b66"
+content_hash: "7629ed6a6c219ab1c2b3a8ad17c6bae61e479821d385b66fce143d2fbc3a6745"
 ---
 
 Apple is considering partnering with foundation model providers to replace Siri; the choice of which is profound.

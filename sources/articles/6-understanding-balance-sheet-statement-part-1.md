@@ -2,6 +2,8 @@
 title: "6. Understanding Balance Sheet Statement (Part 1)"
 reader_id: "01jyqmvqk9fs8cj8wewz8mdz12"
 notion_page_id: "3484ebe7-f118-81ea-801e-d4781d9309f2"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyqmvqk9fs8cj8wewz8mdz12"
 source_url: "https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/"
 author: "Varsity by Zerodha"
@@ -11,7 +13,7 @@ published: "2010-08-17"
 saved_at: "2025-06-27"
 reading_time: "11 mins"
 summary: "A balance sheet shows what a company owns and owes at a specific time. It has three parts: assets, liabilities, and equity. This helps people understand the company’s financial health."
-content_hash: "865ad7786e7e3e74cee069c078ccbce09a6459a22fc6edba57c2799bef0a2035"
+content_hash: "1f3a59eb2c87c71e59a67124522eb0133e18d77a9506fbd060867d91b689d859"
 ---
 
 ## ![M3-Ch6-title](https://zerodha.com/varsity/wp-content/uploads/2014/10/M3-Ch6-title2.jpg)

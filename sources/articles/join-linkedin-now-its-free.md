@@ -2,6 +2,8 @@
 title: "Join LinkedIn now — it’s free!"
 reader_id: "01kkpqz7yy9p17zp6h4gvz108b"
 notion_page_id: "3464ebe7-f118-81a7-b6fe-d7721e27dda4"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkpqz7yy9p17zp6h4gvz108b"
 source_url: "https://www.linkedin.com/posts/deepak1907_the-rise-of-github-pms-one-of-the-core-share-7438478247455043584-8JvP"
 author: "linkedin.com"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-14"
 reading_time: "1 min"
 summary: "LinkedIn is a free platform to join. You can create a personal or business account. By joining, you agree to LinkedIn’s policies."
-content_hash: "7a5a782be347a7f6e31ffb7d47214a4f035cfab43d8b94e046517c7db43b6c07"
+content_hash: "119216a2af15a9f7210b51ea24d45fbfac44fdca33007499748809bd0c50513c"
 ---
 
 #  Join LinkedIn now — it’s free!

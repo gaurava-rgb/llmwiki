@@ -2,6 +2,8 @@
 title: "Tutorial : Getting Started with Google Antigravity"
 reader_id: "01kfepn2831mer9zdjchyy8vas"
 notion_page_id: "3464ebe7-f118-813b-a86c-c540b4340af5"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kfepn2831mer9zdjchyy8vas"
 source_url: "https://medium.com/google-cloud/tutorial-getting-started-with-google-antigravity-b5cc74c103c2"
 author: "Romin Irani"
@@ -11,7 +13,7 @@ published: "2026-01-15"
 saved_at: "2026-01-20"
 reading_time: "41 mins"
 summary: "Welcome to the tutorial on Antigravity, Google’s free and experimental Agent first development platform."
-content_hash: "49bd0a927a0d50204623ee14b50225e647fba449177f04d18bb6419373accb12"
+content_hash: "efa2f77c38596b9777d396ac0f9708696f0c4c24a19b34e9ad87bf452211a439"
 ---
 
 Welcome to the tutorial on [Antigravity](<https://antigravity.google/>), Google’s free and experimental Agent first development platform.

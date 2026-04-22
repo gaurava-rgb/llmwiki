@@ -1,0 +1,30 @@
+---
+title: "openclaw and minimax is agi"
+reader_id: "01khbwpg7c9m7hryxzc4k6x2z8"
+notion_page_id: ""
+category: "tweet"
+source_type: "Reader Share Sheet Android"
+reader_url: "https://read.readwise.io/read/01khbwpg7c9m7hryxzc4k6x2z8"
+source_url: "https://x.com/i/status/2022248600060006724/?rw_tt_thread=True"
+author: "shydev"
+site: "X (formerly Twitter)"
+tags: []
+published: "2026-02-13"
+saved_at: "2026-02-13"
+reading_time: "1 min"
+summary: "Openclaw and Minimax are forms of AGI. AGI means artificial general intelligence. The text repeats that idea many times."
+content_hash: "dd5e5db0f33fc4ca98732e3ee9522c273dc793ea4d58b96f5947ec44bf0706f3"
+---
+
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+openclaw and minimax is agi
+
+![](https://pbs.twimg.com/media/HBB4YmRbIAAW0ej.jpg)

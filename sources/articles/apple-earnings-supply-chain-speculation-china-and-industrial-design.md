@@ -2,6 +2,8 @@
 title: "Apple Earnings, Supply Chain Speculation, China and Industrial Design"
 reader_id: "01kgmfy7yh34tgkkn78qbjmpqe"
 notion_page_id: "3464ebe7-f118-81b7-a8cd-de181aa48205"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kgmfy7yh34tgkkn78qbjmpqe"
 source_url: "https://stratechery.com/2026/apple-earnings-supply-chain-speculation-china-and-industrial-design/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-04"
 saved_at: "2026-02-04"
 reading_time: "10 mins"
 summary: "Apple's earnings could have been higher but the company couldn't get enough chips; then, once again a new design meant higher sales in China."
-content_hash: "d455d18753b59312de3541601ce2930ff5326d822d5edd7c574b9f9821437a08"
+content_hash: "52d72b66f9405ece8d841c2cb6e9817b1524d62a4cd7a3fc9bcc483f79c2df8e"
 ---
 
 Apple's earnings could have been higher but the company couldn't get enough chips; then, once again a new design meant higher sales in China.

@@ -2,6 +2,8 @@
 title: "How are digital transformation and customer experience connected?"
 reader_id: "01kmf18mha4p1ajp8jpsbz1f23"
 notion_page_id: "3464ebe7-f118-81d4-8d79-d54a54c4dbf5"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmf18mha4p1ajp8jpsbz1f23"
 source_url: "https://executive.mit.edu/digital-transformation-and-customer-experience-strategies-that-work.html"
 author: "MIT"
@@ -11,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-24"
 reading_time: "6 mins"
 summary: "Digital transformation helps organizations improve customer experience by using technology to make interactions faster, easier, and more personalized. Successful companies combine digital tools with human connection to build trust and deliver real value. Overcoming barriers like outdated systems and silos is key to making digital changes lasting and effective."
-content_hash: "2873bd5842d15b13edb22a57b945cb3315f391ba88f073b15ce424250e20dc52"
+content_hash: "223e924fc5d43ecac4c2c86f1a8d01edbff9bf551ff241c407a332cff56a611a"
 ---
 
 Digital transformation is reshaping how organizations operate, compete, and create value. Its effects touch every function, from operations and technology to talent and governance, but few areas feel the impact more directly than customer experience (CX).

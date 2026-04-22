@@ -2,6 +2,8 @@
 title: "Productivity • Motivation • Habits • Success (@productive_pythons) on Threads"
 reader_id: "01kdfhyqxbw87v7f8q3s4q4e5b"
 notion_page_id: "3464ebe7-f118-815f-9a19-c945119f3654"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kdfhyqxbw87v7f8q3s4q4e5b"
 source_url: "https://www.threads.com/@productive_pythons/post/DSwJGQcD2vN?xmt=AQF0R9WxmEVSw70zxyQOmKtCGnCNNMb7NBjYTX7EWKtlJwZf2u6RZ7UFQpE7AumLnrPNwyE&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-27"
 saved_at: "2025-12-27"
 reading_time: "1 min"
 summary: "Learn quick ways to read people in seconds.  \nThe post promises simple, fast social-reading tips.  \nIt aims to boost your social skills and confidence."
-content_hash: "68bedc52336b2c9da917a265a4a2acec4cf8cf752cea41bf6c021beb4618036f"
+content_hash: "f36407d518f3ed3afe99a2e975a2b1d77fd890a28f30a223e1cfaf52dac9dc49"
 ---
 
 # [Thread6.2K views](<https://www.threads.com/@productive_pythons/post/DSwJGQcD2vN?xmt=AQF0R9WxmEVSw70zxyQOmKtCGnCNNMb7NBjYTX7EWKtlJwZf2u6RZ7UFQpE7AumLnrPNwyE&slof=1>)

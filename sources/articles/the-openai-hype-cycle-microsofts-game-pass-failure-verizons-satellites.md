@@ -2,6 +2,8 @@
 title: "The OpenAI Hype Cycle, Microsoft's Game Pass Failure, Verizon's Satellites"
 reader_id: "01k751fy7xqb8tgknfp3ghfxrq"
 notion_page_id: "3484ebe7-f118-812d-a4cf-c85c51f1bd34"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k751fy7xqb8tgknfp3ghfxrq"
 source_url: "https://stratechery.com/2025/the-openai-hype-cycle-microsofts-game-pass-failure-verizons-satellites/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-09"
 saved_at: "2025-10-09"
 reading_time: "9 mins"
 summary: "OpenAI's DevDay evolution mirrors the hype cycle; Microsoft's Game Pass price raise is an admission of failure; and Verizon decides it doesn't want to be under the thumb of SpaceX."
-content_hash: "e9d4fee4641b077e9c369d780f22968cad71e58937ec8d174b27065168714f4f"
+content_hash: "55520a61d9df26fb4c2536a93aa1e6aef3f90192ebb4deeb08c4922c6854cede"
 ---
 
 OpenAI's DevDay evolution mirrors the hype cycle; Microsoft's Game Pass price raise is an admission of failure; and Verizon decides it doesn't want to be under the thumb of SpaceX.

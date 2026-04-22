@@ -2,6 +2,8 @@
 title: "An Interview with United CEO Scott Kirby About Tech Transformation"
 reader_id: "01kf1d4qpr0y77t9f8ckr5xfj7"
 notion_page_id: "3464ebe7-f118-81f1-baa8-fcaa49e5ea0a"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kf1d4qpr0y77t9f8ckr5xfj7"
 source_url: "https://stratechery.com/2026/an-interview-with-united-ceo-scott-kirby-about-tech-transformation/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-15"
 saved_at: "2026-01-15"
 reading_time: "43 mins"
 summary: "An interview with United CEO Scott Kirby about how rebuilding United's technical infrastructure laid the foundation for transforming the airline."
-content_hash: "7381f0cd28ccb4e4893198861859ec58129925352890ffe360ca9d82dd7c6b38"
+content_hash: "2dd1671979fb133f4b9a7afe001366ca22847c455bb8c17906fe64727393c242"
 ---
 
 An interview with United CEO Scott Kirby about how rebuilding United's technical infrastructure laid the foundation for transforming the airline.

@@ -2,6 +2,8 @@
 title: "Meta Vibes, Good Vibes, Vibes Vision"
 reader_id: "01k6b9bntng94g3f12ecmz2b2e"
 notion_page_id: "3484ebe7-f118-8133-850d-d2e994c3a77b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6b9bntng94g3f12ecmz2b2e"
 source_url: "https://stratechery.com/2025/meta-vibes-good-vibes-vibes-vision/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-29"
 saved_at: "2025-09-29"
 reading_time: "10 mins"
 summary: "The Internet hates Vibes, MetaAI's new AI video feed, but I find it compelling and a fascinating look at a VR future."
-content_hash: "782292b99b04ea4e1726de1355ea7a2783bf88577661670e275567bf9eda8c37"
+content_hash: "453eef73e012f8b1d9eb61a7228d208123011234c3fea0bf0a324960a44eecdb"
 ---
 
 The Internet hates Vibes, MetaAI's new AI video feed, but I find it compelling and a fascinating look at a VR future.

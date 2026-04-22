@@ -2,6 +2,8 @@
 title: "POV: You are asked to design Netflix recommender system at ML/AI job interview Here's what to do"
 reader_id: "01kbqkapcjc482y16eg7hyjcab"
 notion_page_id: "3464ebe7-f118-8115-bd27-c3215b91808c"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kbqkapcjc482y16eg7hyjcab"
 source_url: "https://www.threads.com/@codingmermaid.ai/post/DR2w7MzETcm?xmt=AQF07dEhJ_uF5zy4swhQqtwwI59N1edIsYhxmLhxK-LWFlr2AwfeJAH7cG5Og3LcWS8lpJen&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-04"
 saved_at: "2025-12-05"
 reading_time: "1 min"
 summary: "If asked to design Netflix’s recommender in an ML/AI interview, outline a clear end-to-end system. Focus on data sources, modeling approach (personalization + ranking), and evaluation/metrics. Also discuss scalability, online serving, and A/B testing for improvements."
-content_hash: "5fa18c199f90a3c791aa0f4fc2cf61454973383fabb9100547e7f00cb5ecf41f"
+content_hash: "70996c234cd14c6020e3db26b48abfda4d7cf118822144a78bdd6950985529d1"
 ---
 
 # [Thread48.7K views](<https://www.threads.com/@codingmermaid.ai/post/DR2w7MzETcm?xmt=AQF07dEhJ_uF5zy4swhQqtwwI59N1edIsYhxmLhxK-LWFlr2AwfeJAH7cG5Og3LcWS8lpJen&slof=1>)

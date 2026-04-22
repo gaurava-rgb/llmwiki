@@ -2,6 +2,8 @@
 title: "Apple Retreats"
 reader_id: "01jxe1a93hjta23bm3rrnx9d75"
 notion_page_id: "3484ebe7-f118-81d7-a2d4-da4d8a3a0111"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxe1a93hjta23bm3rrnx9d75"
 source_url: "https://stratechery.com/2025/apple-retreats/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-10"
 saved_at: "2025-06-10"
 reading_time: "18 mins"
 summary: "Apple's WWDC was a retreat from not just last year's WWDC, but potentially a broader reset for the company. That's why it was a great presentation."
-content_hash: "8d84c9d2546c070f08def93fd27ba9cc5da1020b8b7660feb2380c3285aa0168"
+content_hash: "72235436e866974e555cc5ee43b39e08f4d1af528d95a4648f2737e710db5ac2"
 ---
 
 Apple's WWDC was a retreat from not just last year's WWDC, but potentially a broader reset for the company. That's why it was a great presentation.

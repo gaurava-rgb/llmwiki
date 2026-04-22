@@ -2,6 +2,8 @@
 title: "Pritesh Jagani’s Post"
 reader_id: "01kjdkbsknszhdkpq4cvfbp2e8"
 notion_page_id: "3464ebe7-f118-8162-a67c-fb7f22c5528f"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjdkbsknszhdkpq4cvfbp2e8"
 source_url: "https://www.linkedin.com/posts/priteshjagani_ive-talked-to-100s-of-international-students-activity-7432841872663908354-n7VJ"
 author: "Pritesh Jagani"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-26"
 reading_time: "2 mins"
 summary: "To get great job offers, customize each resume for the role by highlighting key skills and using clear results with numbers. Make your resume easy to read with a simple structure and strong action verbs. Start your resume early, ask for feedback, and keep improving it often."
-content_hash: "cd80390d6d9ab24d5d4f3e240b5507fe61db9c1ce0ec9302a9358cf53cdbab9b"
+content_hash: "5a52ad497037fd049a07ea13874b01b5ec5134ac9cea65f1c4fb8ed953a5a942"
 ---
 
 [ Pritesh Jagani ](<https://www.linkedin.com/in/priteshjagani?trk=public_post_feed-actor-name>)

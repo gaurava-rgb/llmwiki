@@ -2,6 +2,8 @@
 title: "An Interview with Unity CEO Matthew Bromberg About Turnarounds"
 reader_id: "01k9z52n23f8q49zx4xh0w6bfc"
 notion_page_id: "3484ebe7-f118-81f3-880e-d59d2fb2a454"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9z52n23f8q49zx4xh0w6bfc"
 source_url: "https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-13"
 saved_at: "2025-11-13"
 reading_time: "44 mins"
 summary: "An interview with Unity CEO Matthew Bromberg about a career focused on turnarounds, from EA's KOTR to Zynga and now to Unity."
-content_hash: "5212fb237d55f4046c8457bce199d920d0e6567ebb5bb97593503724aab7030c"
+content_hash: "9b5701de41d02a0ff0c0cd95878d31fc6fceb45b65bb32363c789e1aa51c1f20"
 ---
 
 An interview with Unity CEO Matthew Bromberg about a career focused on turnarounds, from EA's KOTR to Zynga and now to Unity.

@@ -2,6 +2,8 @@
 title: "Boost Job Search with Claude Cowork: Find Hiring Managers in Minutes"
 reader_id: "01kks6v07rh7771k046148wryz"
 notion_page_id: "3464ebe7-f118-8133-9b32-c7fb5a54f2f8"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kks6v07rh7771k046148wryz"
 source_url: "https://www.linkedin.com/posts/amangoyal99_claudecowork-jobsearch-networking-share-7432681406058684416-MUkl"
 author: "Aman Goyal"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-15"
 reading_time: "1 min"
 summary: "Claude Cowork helps job seekers find the right hiring managers quickly. It cuts research time from hours to minutes and provides verified emails with personalized messages. Using it boosts response rates and speeds up job applications."
-content_hash: "0eb01ae2d528ba8362e0e7bbc4de213ac74dbf8814c680139df1f707f7a1cd07"
+content_hash: "fafbf29bd04dcb512b310facac93089016ef5a6256a5ce336185894f1d5e9f5c"
 ---
 
 [ Aman Goyal ](<https://www.linkedin.com/in/amangoyal99?trk=public_post_feed-actor-name>)

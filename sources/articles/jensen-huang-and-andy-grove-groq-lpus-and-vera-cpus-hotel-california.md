@@ -2,6 +2,8 @@
 title: "Jensen Huang and Andy Grove, Groq LPUs and Vera CPUs, Hotel California"
 reader_id: "01km13hx2262xreq659rjdad91"
 notion_page_id: "3464ebe7-f118-8107-a736-c563e85f10d6"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01km13hx2262xreq659rjdad91"
 source_url: "https://stratechery.com/?p=18560"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-03-18"
 reading_time: "11 mins"
 summary: "GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers."
-content_hash: "106d29c65d54733fc1d955fe4a966aee7b0d211ee503fda31d141307286fe252"
+content_hash: "ea7f605359e2b2d0816c0816fc3ecd8bdf1ed1774b82112883d468e20d0c92e1"
 ---
 
 GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers.

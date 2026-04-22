@@ -2,6 +2,8 @@
 title: "Nvidia Steps Back From Cloud Effort to Compete with AWS"
 reader_id: "01k5bskytf835d7m0pfpjmyb9d"
 notion_page_id: "3484ebe7-f118-811d-a873-e55952d00e1c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskytf835d7m0pfpjmyb9d"
 source_url: "https://www.theinformation.com/articles/nvidia-steps-back-cloud-effort-compete-aws"
 author: "Anissa Gardizy"
@@ -11,7 +13,7 @@ published: "2025-09-12"
 saved_at: "2025-09-17"
 reading_time: "4 mins"
 summary: "Nvidia is stepping back from its nascent cloud computing business, which had put it in quasi-competition with Amazon Web Services. It has lessened its efforts to attract businesses to the cloud service, dubbed DGX Cloud, said a person with direct knowledge of the situation.\nInstead, Nvidia plans to primarily use the service, which consists of servers powered by its AI chips, for its own researchers, this person said. Employees use such servers for everything from designing new chips to developing AI models that can run on the chips.Nvidia has committed to spend $13 billion to rent back its own AI chips from bigger cloud providers that had purchased them, including AWS. Nvidia has then turned around and rented out some of those chips to companies such as Amgen and ServiceNow that want to develop their own AI applications. Nvidia believed the cloud business could one day help it generate $150 billion in revenue.\nThe change to DGX Cloud, which hasn’t been previously reported, suggests Nvidia found limited demand for the service. Nvidia hasn’t stopped renting chips out to some new customers: it recently said quantum and AI startup SandboxAQ would use the service. (Nvidia has invested in SandboxAQ.)\n\nSome AI developers have balked at Nvidia’s prices for DGX Cloud servers, which are typically more expensive than those sold by traditional providers, according to someone who has helped multiple companies negotiate cloud deals.\nIn setting up DGX Cloud, CEO Jensen Huang moved beyond just selling chips and other data center equipment. He envisioned banks, pharmaceutical companies and other large businesses coming to Nvidia to rent servers with its AI chips, similar to how they rent such servers from Amazon and Microsoft.\n“We’re going to democratize the access of this infrastructure…really make this technology and this capability quite accessible,” Huang said on an earnings call in early 2023, speaking about DGX Cloud. He hoped the service would ease a shortage of Nvidia chi..."
-content_hash: "631c27c658f815c13e7c6f61fa2cd8174ddbd549aee623065c90ef6a29462b36"
+content_hash: "c8db15a9c2ac6526d664399009ae2bb39d323e6d71c086003064cf038ea13b43"
 ---
 
 ![Credit: Nvidia CEO Jensen Huang via Getty](https://tii.imgix.net/production/articles/15751/8551b45d-c0ce-4fba-bf5c-219a9d7414c3.png?fm=jpeg&auto=compress&w=610)

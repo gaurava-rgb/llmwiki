@@ -2,6 +2,8 @@
 title: "CHATGPT HAS A \"MICRO-STEP MODE\" FOR ADHD, AND IT DESTROYS IMPOSSIBLE TASKS. Use these to break tasks down until they're doable."
 reader_id: "01kd7myaqtsbk08tnmh02mr1ed"
 notion_page_id: "3464ebe7-f118-81e2-b051-e6ff7ed313e2"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kd7myaqtsbk08tnmh02mr1ed"
 source_url: "https://www.threads.com/@adhd_productivity_ai/post/DSoIGZMgqv_?xmt=AQF0FBBvG-Iqmm_EHyPONCjba5tx-DbQpSQJ4FE0m9qJK4aB78HXm2gHriqs3y6ysfR33H0t&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-24"
 saved_at: "2025-12-24"
 reading_time: "1 min"
 summary: "ChatGPT has a \"micro-step mode\" that breaks big tasks into tiny, doable actions. This helps people with ADHD start and finish tasks without feeling overwhelmed. Use the micro-steps repeatedly until the task is complete."
-content_hash: "0f25d51bfe35a4b232a5527449ed86c8f49d206a670b2902bb3bfef855024179"
+content_hash: "bb8ac1b9cdc06455c117f729b41f8fda6757932d84e953238040dc7e47b1002f"
 ---
 
 # [Thread8.1K views](<https://www.threads.com/@adhd_productivity_ai/post/DSoIGZMgqv_?xmt=AQF0FBBvG-Iqmm_EHyPONCjba5tx-DbQpSQJ4FE0m9qJK4aB78HXm2gHriqs3y6ysfR33H0t&slof=1>)

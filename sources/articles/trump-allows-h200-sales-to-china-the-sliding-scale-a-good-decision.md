@@ -2,6 +2,8 @@
 title: "Trump Allows H200 Sales to China, The Sliding Scale, A Good Decision"
 reader_id: "01kc4pfc66f11xv222pn82szxn"
 notion_page_id: "3464ebe7-f118-810e-91ee-d9293c7ba89f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kc4pfc66f11xv222pn82szxn"
 source_url: "https://stratechery.com/2025/trump-allows-h200-sales-to-china-the-sliding-scale-a-good-decision/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-10"
 saved_at: "2025-12-10"
 reading_time: "10 mins"
 summary: "The Trump administration has effectively unwound the Biden era chip controls by selling the H200 to China; I agree with the decision, which is a return to longstanding U.S. policy."
-content_hash: "d644b792e60d0f73baa8be123e390a9a9ad9d0b6a927dd9ba35b3939f39abefe"
+content_hash: "f5ac9aec8ef20fa592406cfd83806b46bd48f99e9e5e9cde83a7c979ebf1d23d"
 ---
 
 The Trump administration has effectively unwound the Biden era chip controls by selling the H200 to China; I agree with the decision, which is a return to longstanding U.S. policy.

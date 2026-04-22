@@ -2,6 +2,8 @@
 title: "An Interview with Substrate CEO James Proud About Building a Disruptive Foundry in America"
 reader_id: "01k8v3khxtefe0qa73dk1j0tg7"
 notion_page_id: "3484ebe7-f118-819e-882d-fc4d138f2d56"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k8v3khxtefe0qa73dk1j0tg7"
 source_url: "https://stratechery.com/2025/an-interview-with-substrate-ceo-james-proud-about-building-a-disruptive-foundry-in-america/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-30"
 saved_at: "2025-10-30"
 reading_time: "47 mins"
 summary: "An interview with Substrate CEO James Proud about X-ray lithography, disrupting TSMC, and betting on American innovation."
-content_hash: "4c4fce03bd06e4040360cb431de38361124a5824c740ba668b18aac71f6e3470"
+content_hash: "6114ccd0c3c60d7e2640e3ed8e5cba8d012852446ac2c2777220c84ab471a79c"
 ---
 
 An interview with Substrate CEO James Proud about X-ray lithography, disrupting TSMC, and betting on American innovation.

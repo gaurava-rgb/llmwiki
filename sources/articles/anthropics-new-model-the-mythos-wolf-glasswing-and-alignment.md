@@ -2,6 +2,8 @@
 title: "Anthropic's New Model, The Mythos Wolf, Glasswing and Alignment"
 reader_id: "01knq5ctsbcdjm9m8xba8qc7as"
 notion_page_id: "3464ebe7-f118-8109-81bf-e083d153618c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01knq5ctsbcdjm9m8xba8qc7as"
 source_url: "https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-08"
 saved_at: "2026-04-08"
 reading_time: "9 mins"
 summary: "Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns."
-content_hash: "c31996225e80ffcddc5950e9958d772bb56b7148f1fe5b3c8808b5bcdd91da08"
+content_hash: "f3dd3eb69befd58dc3d022c0120385e02a23fda8daf2508a504e363cacaf6a21"
 ---
 
 Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns.

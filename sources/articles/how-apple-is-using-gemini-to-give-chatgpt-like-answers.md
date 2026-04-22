@@ -2,6 +2,8 @@
 title: "How Apple is Using Gemini to Give ChatGPT-Like Answers"
 reader_id: "01kfcx25w1s6v4rcqha6rdyb3q"
 notion_page_id: "3464ebe7-f118-815b-9b05-e5f28fbc903d"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kfcx25w1s6v4rcqha6rdyb3q"
 source_url: "https://www.theinformation.com/articles/apple-using-gemini-give-chatgpt-like-answers?rc=odbtx6"
 author: "Aaron Tilley"
@@ -11,7 +13,7 @@ published: "2026-01-13"
 saved_at: "2026-01-20"
 reading_time: "8 mins"
 summary: "Apple is using Google's Gemini AI model to improve Siri's answers, making them more conversational and fact-based like ChatGPT. This deal deepens Apple's partnership with Google, reducing the role of OpenAI's ChatGPT in Siri. Meanwhile, other AI companies are advancing robotics, healthcare, and cloud technologies with new funding and innovations."
-content_hash: "94807dea135f13fd656a26889ee36f5fb24d1a14465976054125cae0e916347d"
+content_hash: "eae24bd9e105ab816e4c0486f00492f46ac9a378e014ac38d31c48c2ce86275c"
 ---
 
 ![How Apple is Using Gemini to Give ChatGPT-Like Answers](https://tii.imgix.net/production/articles/16393/f0e1e8b8-a906-45aa-b916-62dfa310caad-F3tshh.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Photo by Matteo Della Torre/Getty Images

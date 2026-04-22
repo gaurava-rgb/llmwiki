@@ -2,6 +2,8 @@
 title: "Mythos, Muse, and the Opportunity Cost of Compute"
 reader_id: "01kp40gnyzb0zr4g3fbm25knt9"
 notion_page_id: "3464ebe7-f118-8151-8fc9-e7cd2a6dfccc"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kp40gnyzb0zr4g3fbm25knt9"
 source_url: "https://stratechery.com/?p=18769"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-13"
 saved_at: "2026-04-13"
 reading_time: "13 mins"
 summary: "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply."
-content_hash: "9f26b757579511b56426615580d632c561aaaab7b2551a471964d22a3999e40a"
+content_hash: "438f7d3ecdbba92818aea3bbb8522e683328c95b8c571aa01320b81c97e4d936"
 ---
 
 Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.

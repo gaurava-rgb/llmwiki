@@ -23,6 +23,16 @@ class PublicArticleSafetyTests(unittest.TestCase):
 
         self.assertEqual(offenders, [])
 
+    def test_manifest_has_no_private_url_material(self):
+        manifest_path = ROOT / "sources" / "articles" / "manifest.jsonl"
+        if not manifest_path.exists():
+            self.skipTest("manifest not present")
+
+        text = manifest_path.read_text(encoding="utf-8").lower()
+        offenders = [marker for marker in PRIVATE_MARKERS if marker in text]
+
+        self.assertEqual(offenders, [])
+
 
 if __name__ == "__main__":
     unittest.main()

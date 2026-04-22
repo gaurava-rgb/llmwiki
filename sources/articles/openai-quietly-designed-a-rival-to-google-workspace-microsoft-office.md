@@ -2,6 +2,8 @@
 title: "OpenAI Quietly Designed a Rival to Google Workspace, Microsoft Office"
 reader_id: "01jypw6ewzk4y7q0m8c6dd178n"
 notion_page_id: "3484ebe7-f118-8132-ac5f-e80d5e65cda5"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jypw6ewzk4y7q0m8c6dd178n"
 source_url: "https://www.theinformation.com/articles/openai-quietly-designed-rival-google-workspace-microsoft-office?rc=ayz15n"
 author: "Amir Efrati"
@@ -11,7 +13,7 @@ published: "2025-06-24"
 saved_at: "2025-06-26"
 reading_time: "3 mins"
 summary: "OpenAI is planning new features in ChatGPT that let people work together on documents and chat, competing with Google Workspace and Microsoft Office. These tools could help businesses and challenge Microsoft, which is both a partner and shareholder. OpenAI aims to make ChatGPT a smart assistant for work and expects big revenue growth from business users by 2030."
-content_hash: "7afea4a0f38c00db2f68372005c96678d201cd10466c814bf7a2f0cbf808baf7"
+content_hash: "8ca87f43082792e3e2ce7076d55143498ba31f5e47843ec43c036817cdaa9d0c"
 ---
 
 ![OpenAI Quietly Designed a Rival to Google Workspace, Microsoft Office](https://tii.imgix.net/production/articles/15292/7bd912fa-cc26-4b26-8ef3-c5fcaacb6cbf.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)OpenAI product chief Kevin Weil via Getty. Art by Clark Miller

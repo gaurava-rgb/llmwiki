@@ -2,6 +2,8 @@
 title: "The Funny Math Behind a Key Software Metric"
 reader_id: "01k3c129pw827j7abkp71vx5xd"
 notion_page_id: "3484ebe7-f118-814b-b138-d8d28c89b66c"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c129pw827j7abkp71vx5xd"
 source_url: "https://www.theinformation.com/articles/funny-math-behind-key-software-metric?rc=rpuplc"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2025-08-22"
 saved_at: "2025-08-23"
 reading_time: "4 mins"
 summary: "Net revenue retention (NRR) measures how much existing customers spend now versus a year ago and is used to judge software companies.  \nBut companies calculate NRR differently — excluding small customers, using run rates, or averaging periods — so the numbers can be misleading.  \nInvestors still use NRR to find winners, but they must check how each company defines the metric."
-content_hash: "71a1c4cac17146cd749c69fdbb5c3249a2f0ef023ed7e4e6b6eced38d028b36f"
+content_hash: "ed3301c8818e8a2a21dbab20e93d44fe31dffc2777b5e30b353dd49bc539cbf1"
 ---
 
 ![The Funny Math Behind a Key Software Metric](https://tii.imgix.net/production/articles/15637/ab000e9c-0bde-43f7-8284-9bbd8a6dc85e.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Figma CEO Dylan Field during the company's initial public offering last month. Photo via Getty

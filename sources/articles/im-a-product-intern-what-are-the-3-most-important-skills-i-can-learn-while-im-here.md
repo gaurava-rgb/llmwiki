@@ -2,6 +2,8 @@
 title: "I'm a product intern what are the 3 most important skills I can learn while I'm here"
 reader_id: "01jxnk1at5m8wg64t28reaat7s"
 notion_page_id: "3484ebe7-f118-815e-935f-fd44a8614979"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jxnk1at5m8wg64t28reaat7s"
 source_url: "https://www.reddit.com/r/ProductManagement/comments/1l9o5id/im_a_product_intern_what_are_the_3_most_important/"
 author: "fukinuhhh"
@@ -11,7 +13,7 @@ published: "2025-06-12"
 saved_at: "2025-06-13"
 reading_time: "1 min"
 summary: "The author is a product intern seeking advice on which three skills to focus on during their internship. They find it challenging to choose, as many important skills are soft skills that are hard to measure. They also consider whether to improve specific tools used at the company, but worry it won't benefit them long-term."
-content_hash: "6868421259e3997bbaf32de3be29aae7ab16730f327443755eb7ad97ab2a03f9"
+content_hash: "fa0467cd990de60049092b271eb497c5b2cc1a84aa98e398c2fc1d4167b879f9"
 ---
 
 [r/ProductManagement](<https://www.reddit.com/r/ProductManagement/>)

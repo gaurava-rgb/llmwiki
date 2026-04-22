@@ -2,6 +2,8 @@
 title: "Pritesh Jagani’s Post"
 reader_id: "01kgbajcz0d30pr9ba8mgfn85v"
 notion_page_id: "3464ebe7-f118-811b-a0e6-cc2a2a679889"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kgbajcz0d30pr9ba8mgfn85v"
 source_url: "https://www.linkedin.com/posts/priteshjagani_a-job-seeker-in-my-community-wasted-6-weeks-activity-7423057979437940736-FbDJ"
 author: "Pritesh Jagani"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-01"
 reading_time: "2 mins"
 summary: "Most job seekers waste time applying to old LinkedIn postings that get many applicants quickly. Pritesh Jagani suggests searching company career sites directly using Google to find fresh jobs early. This method helps applicants apply before hundreds of others and greatly improves their chances."
-content_hash: "76335b076fb9d567d482371166ed8068725e2279bd33d26f9c94fb91563bd415"
+content_hash: "5e15cac01211ef71c181ba104a163eb379f37afa2d7957966180d0ee6c8dc624"
 ---
 
 [ Pritesh Jagani ](<https://www.linkedin.com/in/priteshjagani?trk=public_post_feed-actor-name>)

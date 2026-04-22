@@ -2,6 +2,8 @@
 title: "Karthik Vinay Kumar Adari"
 reader_id: "01knq662dv27z5xf0q98sz5j6q"
 notion_page_id: "3464ebe7-f118-811c-afe9-e88ed77bf875"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01knq662dv27z5xf0q98sz5j6q"
 source_url: "https://www.linkedin.com/posts/akvkumaradari_jobsearch-staffingfirms-recruitment-ugcPost-7447659685765304321-_5C-"
 author: "Karthik Vinay Kumar Adari"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-04-08"
 reading_time: "1 min"
 summary: "Many job seekers only apply online and miss hidden opportunities. Staffing firms help connect you with jobs before they are public. Building relationships with recruiters can speed up your job search and lead to better roles."
-content_hash: "09ade338e244c7b593ac196d3fdc6d082613539f80b035a618a4300800e419fb"
+content_hash: "f72946a9a7b07d6ca97eb793e31477e679d3693f7dc14d64222919652d80f49a"
 ---
 
 0:00/0:06

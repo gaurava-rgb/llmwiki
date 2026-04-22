@@ -2,6 +2,8 @@
 title: "Doing well in your courses"
 reader_id: "01k907pz4azwjj2stgxhhc5xjm"
 notion_page_id: "3484ebe7-f118-81e9-a9c3-ccb88dcf8cfd"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01k907pz4azwjj2stgxhhc5xjm"
 source_url: "https://cs.stanford.edu/people/karpathy/advice.html"
 author: "Andrej Karpathy"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-11-01"
 reading_time: "8 mins"
 summary: "Sleep and steady study beat all-nighters; start early, practice actively, and make concise cheat-sheet summaries. Learn by doing and teaching, use past tests and office hours, and study smartly on test day. Spend time on real projects, research, or internships—grades matter less than demonstrated initiative."
-content_hash: "47651f11c85260a16bc79b379e971217b3de34aa2d18ebe7f1ef9a8214338554"
+content_hash: "2542cf7f73cbe9cfc13457b630ec19cd0bbdd2e4e83951a1604b759cb34b9712"
 ---
 
 Here is some advice I would give to younger students if they wish to do well in their undergraduate courses.

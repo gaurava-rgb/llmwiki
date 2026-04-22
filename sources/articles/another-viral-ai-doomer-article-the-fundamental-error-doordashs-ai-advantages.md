@@ -2,6 +2,8 @@
 title: "Another Viral AI Doomer Article, The Fundamental Error, DoorDash's AI Advantages"
 reader_id: "01kj8cpk3a29zjx54mxph6d83r"
 notion_page_id: "3464ebe7-f118-8168-9a3a-f252159dc9ee"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kj8cpk3a29zjx54mxph6d83r"
 source_url: "https://stratechery.com/2026/another-viral-ai-doomer-article-the-fundamental-error-doordashs-ai-advantages/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-02-24"
 reading_time: "8 mins"
 summary: "Another AI doomer article has gone viral, and like many in the genre, it lacks an appreciation for dynamism and markets. Then, why DoorDash is going to be fine."
-content_hash: "8c85a498f9da433c1751575927ff81d43d1925e3fad8b4f4d7f6842326cc9b5f"
+content_hash: "7acba074b8ed043578624a80e9d3eef4b53971c584d42532466a8804a0bc5306"
 ---
 
 Another AI doomer article has gone viral, and like many in the genre, it lacks an appreciation for dynamism and markets. Then, why DoorDash is going to be fine.

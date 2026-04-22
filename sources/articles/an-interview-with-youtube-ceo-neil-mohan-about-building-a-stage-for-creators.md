@@ -2,6 +2,8 @@
 title: "An Interview with YouTube CEO Neil Mohan About Building a Stage for Creators"
 reader_id: "01k5bsm06nkdch2g3j8ft67f02"
 notion_page_id: "3484ebe7-f118-8151-9d2b-e08f44e001ba"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bsm06nkdch2g3j8ft67f02"
 source_url: "https://stratechery.com/2025/an-interview-with-youtube-ceo-neil-mohan-about-building-a-stage-for-creators/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-17"
 saved_at: "2025-09-17"
 reading_time: "38 mins"
 summary: "An interview with YouTube CEO Neil Mohan about empowering creators while leaning into AI."
-content_hash: "91523dee9881aea6fa1bcfb8cfa18606da53bd680cbb6800e2e45d1150bf4442"
+content_hash: "90c6d55092759c3653e502014113035d25ce5d2bb84db23620b55cbba4936a11"
 ---
 
 An interview with YouTube CEO Neil Mohan about empowering creators while leaning into AI.

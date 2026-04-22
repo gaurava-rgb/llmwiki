@@ -2,6 +2,8 @@
 title: "Find Your People"
 reader_id: "01jyx4prem6bf8jtjqpqe4vh0c"
 notion_page_id: "3484ebe7-f118-810b-aea0-d802c5529c75"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4prem6bf8jtjqpqe4vh0c"
 source_url: "https://foundersatwork.posthaven.com/find-your-people/"
 author: "Jessica Livingston"
@@ -11,7 +13,7 @@ published: "2025-05-23"
 saved_at: "2025-06-29"
 reading_time: "5 mins"
 summary: "In her commencement speech, Jessica Livingston encourages graduates to take control of their futures and become more ambitious. She emphasizes the importance of talking to interesting people to explore different job options and find what truly excites them. Lastly, she reminds them to be resilient in the face of rejection as they pursue their goals."
-content_hash: "8b5c3f11d014f961afbd225ea3c74c049bf48adf3c8c5dbf871ae28b93b6adc4"
+content_hash: "43653be7eafcbedd8102865f05db1e8dfe52199a050536b17e7c55f9658eb0e6"
 ---
 
 _Thank you to Bucknell University for inviting me to be this year's commencement speaker. And congratulations to the Class of 2025!_

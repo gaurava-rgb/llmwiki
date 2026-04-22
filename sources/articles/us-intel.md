@@ -2,6 +2,8 @@
 title: "U.S. Intel"
 reader_id: "01k3kqwxg2wvmac5m64csamyba"
 notion_page_id: "3484ebe7-f118-81e0-9ef0-fdd45a79b0f8"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k3kqwxg2wvmac5m64csamyba"
 source_url: "https://stratechery.com/2025/u-s-intel/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-26"
 saved_at: "2025-08-26"
 reading_time: "12 mins"
 summary: "The U.S. taking an equity stake in Intel is a terrible idea; it also happens to be the least bad idea to make Intel Foundry viable."
-content_hash: "ad497f72f4fbc81d417761959c3172c95b05c92154b997be62d642c776c3f437"
+content_hash: "8a11b61e119a4f799836af140f69ff67412b731353357309efdf2db9fbc05295"
 ---
 
 The U.S. taking an equity stake in Intel is a terrible idea; it also happens to be the least bad idea to make Intel Foundry viable.

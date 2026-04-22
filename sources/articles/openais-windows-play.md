@@ -2,6 +2,8 @@
 title: "OpenAI's Windows Play"
 reader_id: "01k6zxabk7063dpsv8k6ms0g3t"
 notion_page_id: "3484ebe7-f118-81c7-9ddf-dfb25ec52f5b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6zxabk7063dpsv8k6ms0g3t"
 source_url: "https://stratechery.com/2025/openais-windows-play/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-07"
 saved_at: "2025-10-07"
 reading_time: "10 mins"
 summary: "OpenAI is making a play to be the Windows of AI: the all-encompassing platform that controls both hardware supplier and software developers."
-content_hash: "db7e06a7c73dcc48ab57197c4dda0817a56f02a1884960577acab73e17d0f18e"
+content_hash: "f15c2614577653e6b8108301aa9b34082df5223d3e4618ec554fbf86190dfd8a"
 ---
 
 OpenAI is making a play to be the Windows of AI: the all-encompassing platform that controls both hardware supplier and software developers.

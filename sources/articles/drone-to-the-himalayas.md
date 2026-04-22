@@ -2,6 +2,8 @@
 title: "Drone to The Himalayas 🏔️😍"
 reader_id: "01khysjky32pn1sppvnp7r4n24"
 notion_page_id: "3464ebe7-f118-8137-9770-c7ea2ae4e911"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01khysjky32pn1sppvnp7r4n24"
 source_url: "https://www.instagram.com/reel/DUA1nOkktyz/?igsh=MWw2Mm4zNXNuMXBrcw%3D%3D"
 author: "Instagram"
@@ -11,7 +13,7 @@ published: "2026-01-31"
 saved_at: "2026-02-21"
 reading_time: "2 mins"
 summary: "A drone video shows stunning views of the Himalayas. Many viewers say the footage is breathtaking and emotional. People praise the skill and effort behind capturing such amazing shots."
-content_hash: "7e1cd8fdd83df53499a1bc515df2e33fdeeef97294a7b8bf84c61a0f51d065d0"
+content_hash: "de8fc56de55d86a316c2cb75ae0ed367f550fbcd92519f6ddef50d9ce560a4d6"
 ---
 
 [Log In](<https://www.instagram.com/accounts/login/?next=%2Freel%2FDUA1nOkktyz%2F%3Figsh%3DMWw2Mm4zNXNuMXBrcw%253D%253D&source=desktop_nav>)

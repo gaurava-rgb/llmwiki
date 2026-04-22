@@ -2,6 +2,8 @@
 title: "Getting Started with Reader"
 reader_id: "01jxdywq7jw2pda9q477qrg3nc"
 notion_page_id: "3484ebe7-f118-813f-ab2a-d6075cf0d102"
+category: "article"
+source_type: "readwise onboarding"
 reader_url: "https://read.readwise.io/read/01jxdywq7jw2pda9q477qrg3nc"
 source_url: "https://blog.readwise.io/p/bf87944f-b0fe-4f08-a461-f75ab8aded6a/"
 author: "Daniel Doyon"
@@ -11,7 +13,7 @@ published: "2024-02-10"
 saved_at: "2025-06-10"
 reading_time: "7 mins"
 summary: "Reader is a productivity tool designed for power users, allowing you to read, highlight, and annotate documents using keyboard shortcuts. You can save various document types and use features like a browser extension and mobile apps for easy access and highlighting. The software is continuously updated based on user feedback to enhance your reading experience."
-content_hash: "4b6e5b83b7deabb36c5b554814d9cc0714c08b8f007c2bf66dda0da40438ffee"
+content_hash: "f6f0c615d2affe6b2a9f22ec07478e3c525b63efcd5aa9827403a084ae227821"
 ---
 
 Welcome to the public beta of Reader! Walkthrough guides can be really boring so we've laced ours with spicy memes to keep those dopamine receptors firing while we subliminally demonstrate the basics of our software. We hope you don't mind a little fun.

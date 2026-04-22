@@ -2,6 +2,8 @@
 title: "Vibe Coding, Windsurf and Anthropic, ChatGPT Connectors"
 reader_id: "01jxe1a9899xjezfq360epagdt"
 notion_page_id: "3484ebe7-f118-81f5-9aa9-f8abd72e204b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxe1a9899xjezfq360epagdt"
 source_url: "https://stratechery.com/2025/vibe-coding-windsurf-and-anthropic-chatgpt-connectors/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-09"
 saved_at: "2025-06-10"
 reading_time: "13 mins"
 summary: "AI coding is expanding beyond just \"vibe coding,\" where AI assists programmers in writing code. Companies like Apple and Cursor are exploring this new approach, but there are challenges in making it fully effective. OpenAI is aggressively pursuing integration across tools, raising concerns for competitors like Anthropic and Cursor."
-content_hash: "b0fc6456c5626ec72c31803c0d00a412297db0c604daf7dc03de4bd52974be2d"
+content_hash: "bb91d48cb9e16305096922a339013423dfb455f9e61f743002a2c205f102bcfc"
 ---
 
 AI coding is much broader than vibe coding, the dynamics of AI coding, and why OpenAI wants to own everything.

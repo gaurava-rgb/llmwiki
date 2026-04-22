@@ -2,6 +2,8 @@
 title: "20 designer tasks you should automate with AI now"
 reader_id: "01kbbkekgd278vrys52xw8qvg8"
 notion_page_id: "3464ebe7-f118-814f-a51f-efe44c4ec73d"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kbbkekgd278vrys52xw8qvg8"
 source_url: "https://adplist.substack.com/p/20-designer-tasks-you-should-automate"
 author: "Avani"
@@ -11,7 +13,7 @@ published: "2025-11-25"
 saved_at: "2025-12-01"
 reading_time: "5 mins"
 summary: "Designers waste time on repetitive tasks that AI can automate. The newsletter lists many practical automations — from renaming layers and cleaning tokens to generating wireframes, responsive layouts, and microcopy. Automating these frees designers to focus on creative, high-impact work."
-content_hash: "7001d97b53412baa4ae1ed9a2647f978c4d49a4c53531efda8a43bd7592567fe"
+content_hash: "dd1b6859aaa06d8510d32d4744f0011d3d138b0a503ba30c97e67d17f6710a0a"
 ---
 
 ### If you're still not catching up with AI, you're doing it wrong.

@@ -2,6 +2,8 @@
 title: "Peter | Motivation | Personal Growth (@motivbypetr) on Threads"
 reader_id: "01kbqkcftrfy03chfbggr2s64q"
 notion_page_id: "3464ebe7-f118-81c8-8628-de5bad8b2278"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kbqkcftrfy03chfbggr2s64q"
 source_url: "https://www.threads.com/@motivbypetr/post/DR38tVUkXbk?xmt=AQF0M-kbwPPajcIydAD1qUOfCXELLNo_hMUuHSlqg8MLRZ_xu45Pv2vxOu6g3T0Q5Qa3xa8&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-05"
 saved_at: "2025-12-05"
 reading_time: "1 min"
 summary: "She literally explained the best way to stop yourself from achieving your goals is to try to plan everything out before you start."
-content_hash: "bd79a8481ed91843d286514de271a7a2934eb1e047b837ebb0bd6b5971ce739d"
+content_hash: "f89968a1d18b47df8754e5141fb48053bd2fff61a2e6615b646e7933b6c340b6"
 ---
 
 She literally explained the best way to stop yourself from achieving your goals is to try to plan everything out before you start.

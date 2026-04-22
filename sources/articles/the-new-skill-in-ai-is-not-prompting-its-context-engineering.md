@@ -2,6 +2,8 @@
 title: "The New Skill in AI is Not Prompting, It's Context Engineering"
 reader_id: "01jzyd44ts1w3k1yrmjrwvgbxy"
 notion_page_id: "3484ebe7-f118-816b-b407-c0dbb9de62e1"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jzyd44ts1w3k1yrmjrwvgbxy"
 source_url: "https://www.philschmid.de/context-engineering"
 author: "Philipp Schmid"
@@ -11,7 +13,7 @@ published: "2025-06-30"
 saved_at: "2025-07-12"
 reading_time: "4 mins"
 summary: "Context engineering means giving AI the right information and tools at the right time so it can do its job well. It is more than just writing good prompts; it involves building a system that prepares everything the AI needs before it answers. The success of AI agents depends more on good context than on smarter models or clever code."
-content_hash: "0b78ca6f17067d6002de5e482b93347998ae9df0615037169f658babcb32c046"
+content_hash: "eca2f5cf1d223340a55b2e312203719804375ac39741fdaf25bc81a537ac9853"
 ---
 
 Context Engineering is new term gaining traction in the AI world. The conversation is shifting from "prompt engineering" to a broader, more powerful concept: **Context Engineering**. [Tobi Lutke](<https://x.com/tobi/status/1935533422589399127>) describes it as "the art of providing all the context for the task to be plausibly solvable by the LLM.” and he is right.

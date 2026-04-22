@@ -2,6 +2,8 @@
 title: "An Interview with Ben Thompson by John Collison on the Cheeky Pint Podcast"
 reader_id: "01kh9gjva1gcrt9ahee9r2014d"
 notion_page_id: "3464ebe7-f118-8181-a97f-d5d69718e145"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kh9gjva1gcrt9ahee9r2014d"
 source_url: "https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-12"
 saved_at: "2026-02-12"
 reading_time: "1 hr 6 mins"
 summary: "An interview with me by John Collison on the Cheeky Pint podcast about AI, ads, and the history of Stratechery."
-content_hash: "e9786a33368bdc19efbc720f8ec110dec3d94354557b795046fca501a310084f"
+content_hash: "14d7679547df654eae86fdab921339cd68eb93c6d6e69fba3883b892daa06f09"
 ---
 
 An interview with me by John Collison on the Cheeky Pint podcast about AI, ads, and the history of Stratechery.

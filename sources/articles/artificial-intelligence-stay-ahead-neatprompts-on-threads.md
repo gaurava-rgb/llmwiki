@@ -2,6 +2,8 @@
 title: "Artificial Intelligence | Stay Ahead (@neatprompts) on Threads"
 reader_id: "01k7gjmthcr2pkfnjtbbcbfmv2"
 notion_page_id: "3484ebe7-f118-81e9-995f-e1cb2f787e0d"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k7gjmthcr2pkfnjtbbcbfmv2"
 source_url: "https://www.threads.com/@neatprompts/post/DPwdLcZgrYK?xmt=AQF0bi7gKQdDB_wAI_Wf_YvpyUvK3r8rnu0EtDNlKn4oBg&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-10-13"
 saved_at: "2025-10-14"
 reading_time: "1 min"
 summary: "Winds will remain gusty this afternoon. Coastal gusts could reach about 45 mph. An hour-by-hour timing is available."
-content_hash: "fe55cdbb5cfe974a3999eec573c12d2edb6c04b95c6ee1370988d0e61d7774a0"
+content_hash: "e4cf8fad5518c1e93c345f91454b27130c854f427c1ef005fe0a03403133f3c2"
 ---
 
 ![](https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/563951044_17933099274098716_7479406820715967812_n.jpg?stp=dst-jpg_e15_s480x480_tt6&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGkGEe1vPP1W3uYMi2HaKibV__ZwSraMpmpND7CacYOImg5iju7yUZ1hnrH-nMmGAU&_nc_ohc=-bKjG024BqoQ7kNvwFYWzTh&_nc_gid=AiDy8thj7inm8LrZPGRsxQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Affi0dn9gm1tGZGUCSPl3MwTkmdUY0SdBP-tXwEn3Knu8Q&oe=68F3C5DE&_nc_sid=10d13b) ![](https://media.tenor.co/M1imFfdgsCwAAAAM/mindblown-omg.gif)

@@ -2,6 +2,8 @@
 title: "TSMC Earnings; A16 and TSMC's Approach to Backside Power; Intel Earnings, Architecture, and AI"
 reader_id: "01k192q3k13a5dgj1173gge32h"
 notion_page_id: "3484ebe7-f118-8191-b81b-fd90b4765de6"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k192q3k13a5dgj1173gge32h"
 source_url: "https://stratechery.com/2025/tsmc-earnings-a16-and-tsmcs-approach-to-backside-power-intel-earnings-architecture-and-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-28"
 saved_at: "2025-07-28"
 reading_time: "13 mins"
 summary: "TSMC and Intel's approach to backside power are downstream of their cultures: customer-centric versus self-serving. It may doom the latter."
-content_hash: "f283e88d394d87f5792b92e36dae12b5f08450387266baff141824bf803aa6d3"
+content_hash: "89ec64a7bd678a6ee5f22df1a8441d92ba9a04e9c5ac40c80b460b5b36c15496"
 ---
 
 TSMC and Intel's approach to backside power are downstream of their cultures: customer-centric versus self-serving. It may doom the latter.

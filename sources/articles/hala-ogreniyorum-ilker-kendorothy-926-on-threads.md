@@ -2,6 +2,8 @@
 title: "Hala_Ogreniyorum-ilker (@kendorothy_926) on Threads"
 reader_id: "01kjtr6yfrgfbrja2hxyk6j62k"
 notion_page_id: "3464ebe7-f118-814e-bd14-c63fef7187bc"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kjtr6yfrgfbrja2hxyk6j62k"
 source_url: "https://www.threads.com/@kendorothy_926/post/DVbyZW5CXGT?xmt=AQF00_e6phHuT62EkuaEIlorAiopo4CPgCbNafp_9RDeiZBncU0XXoRX_zhIceMllr7F1ZI&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-03"
 reading_time: "1 min"
 summary: "A 69-year-old former BlackRock employee shares a stock tip to save $5 million by 2026. The company works with NVDA and Amazon on advanced AI data center chips. The post also discusses key financial ratios and stock market trends."
-content_hash: "34980c3ca74aff87f63168803886308c39d2505af3ca0e5bd574eeb94ef5a8a7"
+content_hash: "d3ba22ae43812083bfc844cde6b9549441e44b26d54cdca40879f1a4744d8bcc"
 ---
 
 I'm 69years old and resigned from BlackRock. My monthly income is $395,000. I'll only say this once. The fastest way to save $5,000,000 by 2026: Buy before March 5. Current: $26.43 Target: $478 This company has signed a multi-year agreement with NVDA and Amazon to develop advanced Al data center chips.Visible only to those who like and follow this post.

@@ -2,6 +2,8 @@
 title: "Apple Earnings; Cook's AI Comments; Apple's AI Strategy, Redux"
 reader_id: "01k1xnhgrv281hb9fr8kpq3tzh"
 notion_page_id: "3484ebe7-f118-81e5-ac6c-e39cff9bafda"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k1xnhgrv281hb9fr8kpq3tzh"
 source_url: "https://stratechery.com/2025/apple-earnings-cooks-ai-comments-apples-ai-strategy-redux/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-05"
 saved_at: "2025-08-05"
 reading_time: "14 mins"
 summary: "Apple appears committed to its original Apple Intelligence strategy."
-content_hash: "a124b8680e2a5687ef1714257c6fb1e1819912a089870c5195c3d22885318d5b"
+content_hash: "e87cab8f2a5e692a2bc7f9e7c5edf61f22450cd0a5393d3fffed680f62dc6139"
 ---
 
 Apple appears committed to its original Apple Intelligence strategy.

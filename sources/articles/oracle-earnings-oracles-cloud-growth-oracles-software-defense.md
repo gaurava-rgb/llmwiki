@@ -2,6 +2,8 @@
 title: "Oracle Earnings, Oracle's Cloud Growth, Oracle's Software Defense"
 reader_id: "01kkf26d5e08mz1fbvh3dg5rwc"
 notion_page_id: "3464ebe7-f118-81fe-8fbf-fd374910ecc1"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kkf26d5e08mz1fbvh3dg5rwc"
 source_url: "https://stratechery.com/2026/oracle-earnings-oracles-cloud-growth-oracles-software-defense/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-11"
 saved_at: "2026-03-11"
 reading_time: "10 mins"
 summary: "Oracle crushed earnings in a way that not only speaks to the secular AI wave they are riding but also to Oracle's strong position"
-content_hash: "e2a3612a1e8d2ee1b38caae561a3b608ce01222b04bbb73cf704043bc532b012"
+content_hash: "21e66d56cbb696d67ee59484e23a4cea27f38749e791408afdbf79070a34d427"
 ---
 
 Oracle crushed earnings in a way that not only speaks to the secular AI wave they are riding but also to Oracle's strong position

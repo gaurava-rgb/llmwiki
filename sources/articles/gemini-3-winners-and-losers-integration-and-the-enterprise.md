@@ -2,6 +2,8 @@
 title: "Gemini 3, Winners and Losers, Integration and the Enterprise"
 reader_id: "01kaekrksbjjmadcsggf7n25aj"
 notion_page_id: "3484ebe7-f118-811a-b4fd-fc02ce323a3d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kaekrksbjjmadcsggf7n25aj"
 source_url: "https://stratechery.com/2025/gemini-3-winners-and-losers-integration-and-the-enterprise/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-19"
 saved_at: "2025-11-19"
 reading_time: "11 mins"
 summary: "Gemini 3 is out, and looks to be state of the art. What does that mean for everyone else in the AI space, and what markets might Google win?"
-content_hash: "7d279b2002915851cb40d1d27ecfe65ff9820ee5fe215b10c8dc1f076612d394"
+content_hash: "28252d6758e71bcdb14e8a28a5048e435fa3199084c24116073a7dc6e34b80e5"
 ---
 
 Gemini 3 is out, and looks to be state of the art. What does that mean for everyone else in the AI space, and what markets might Google win?

@@ -2,6 +2,8 @@
 title: "Perplexity’s Commerce and Ads Experiments Are Stuck in Neutral"
 reader_id: "01k5bskyhmt3kcsm01g2wspjrx"
 notion_page_id: "3484ebe7-f118-8136-8b23-feadb0937a2b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyhmt3kcsm01g2wspjrx"
 source_url: "https://www.theinformation.com/articles/perplexitys-commerce-ads-experiments-stuck-neutral"
 author: "Ann Gehan"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "6 mins"
 summary: "Perplexity has drawn plenty of its headlines for its relentless fundraising—which recently valued the artificial intelligence search firm at $20 billion—and its penchant for declaring big-ticket acquisition targets like TikTok. But its efforts to build businesses in online shopping and advertising, which would put Perplexity’s revenue growth on more sustainable footing, have moved much more slowly.\nNearly a year after the company began selling ad space and letting users buy things through its app, marketers and merchants are frustrated by their experiences with the firm. Perplexity has allowed very few advertisers to buy space or brands to sell directly through the app or its website, marketers and brands say. That’s partly driven by Perplexity’s desire to not alienate users, particularly with too many ads, and partly by a need to figure out the right technology to make shopping more seamless, several e-commerce software firms and retailers told The Information. Right now, for instance, Perplexity shoppers have to order one item at a time, rather than filling a shopping cart with multiple items.Perplexity could end up backing away from advertising altogether: It called its initial effort, announced last year, an experiment. And Taz Patel, a Perplexity executive leading its advertising efforts, left the company last month.\nHow Perplexity fares in either business is of great importance to investors across the AI industry, as both advertising and shopping offer a way for AI firms to make money from their audiences outside of selling subscriptions. OpenAI, which has more than 700 million users who use its chatbot for free, has projected it could collect $110 billion in revenue between 2026 and 2030 from that audience, The Information has reported, sparking speculation about its plans for ads and commerce.\nIt’s also important for big brands and retailers. Brands are increasingly interested in AI search advertising, especially because they say Google ads are less effec..."
-content_hash: "7d1bbd208990fd3c9453f2b478da47a96949aa53af1680d38eb2b7e33fe067f3"
+content_hash: "8d749102847e984f4c0c0ca21795f060076f0831d4c288dd935978fcc9f7fa02"
 ---
 
 ![Credit: Perplexity CEO Aravind Srinivas. Photo via Getty](https://tii.imgix.net/production/articles/15757/0ad87cc2-45bd-4881-ae3e-a8204fc88ec2.png?fm=jpeg&auto=compress&w=610)

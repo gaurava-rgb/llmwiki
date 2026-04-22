@@ -2,6 +2,8 @@
 title: "Hardik Tiwari’s Post"
 reader_id: "01kkxtrtpggnhqm8jhww6b2t6q"
 notion_page_id: "3464ebe7-f118-8119-ae8e-ebb01b71cd51"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkxtrtpggnhqm8jhww6b2t6q"
 source_url: "https://www.linkedin.com/posts/hardik-tiwari_our-product-team-has-been-using-llms-to-assist-share-7439466110468603904-Q5r5"
 author: "Hardik Tiwari"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-17"
 reading_time: "2 mins"
 summary: "Hardik Tiwari’s team built a tool that connects their work apps and shares strategy with AI to help manage projects better. The tool uses a context graph to remember all decisions, plans, and documents, so the AI can assist without repeating information. This system makes tasks like writing documents or planning days faster and more accurate for the whole team."
-content_hash: "fd5bf80045f98518a6dd647c447d5d74fe11ab24920d78763a053ded0b3db303"
+content_hash: "0015dc01b1b4cfdb129b04fe307691c8b8d2cf141f69c4121683709edee19fdb"
 ---
 
 [ Hardik Tiwari ](<https://www.linkedin.com/in/hardik-tiwari?trk=public_post_feed-actor-name>)

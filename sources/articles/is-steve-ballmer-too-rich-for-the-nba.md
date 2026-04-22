@@ -2,6 +2,8 @@
 title: "Is Steve Ballmer Too Rich for the NBA?"
 reader_id: "01k5bskygg79zwmd6f85861ak4"
 notion_page_id: "3484ebe7-f118-818e-836c-d2458100ee25"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskygg79zwmd6f85861ak4"
 source_url: "https://www.theinformation.com/articles/steve-ballmer-rich-nba"
 author: "Sara Germano"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "6 mins"
 summary: "Earlier this week, a handful of the richest people in the world convened at a five-star hotel in midtown Manhattan to discuss typical titans-of-industry fodder: overseas expansion, the future of media, yadda yadda. But there was an elephant in the room: Did a billionaire in their ranks secretly siphon millions of dollars to an NBA star through a now-bankrupt tree-planting startup?\nThe billionaire on the minds of NBA team owners at the regularly scheduled meeting of the league’s Board of Governors was Steve Ballmer—former Microsoft CEO, current owner of the Los Angeles Clippers and one of the world’s ten richest people. At issue was whether Ballmer circumvented the NBA salary cap by funnelling cash to Clippers player Kawhi Leonard by investing in the startup, Aspiration, which aimed to reduce carbon emissions by planting trees. Leonard signed an endorsement deal with the company, but doesn’t appear to have ever done any actual endorsement work for Aspiration, whose co-founder recently pleaded guilty to federal fraud charges.Last week, the journalist Pablo Torre broke the news of these allegations about Ballmer on his podcast. Then he expanded his reporting this week with new details that a Clippers minority owner, Dennis Wong, allegedly wired nearly $2 million to Aspiration just nine days before the startup sent an overdue check for $1.75 million to Leonard.\nBallmer has denied he violated the NBA’s salary cap rules. Spokespersons for the Clippers did not respond to requests for comment.\nIf true, the allegations—which the NBA is investigating—go to the very integrity of sports ownership. To participate in that elite club, owners agree to abide by the same spending limits on player salaries. Without such rules, the richest owners in the league could simply buy up all the top players and tip the scales of competition.\nThat risk is magnified by the ever-widening gap between the wealthiest and least-wealthy, which has more than tripled over the past six years, accordin..."
-content_hash: "63a51b0b64acefb441f0fa317a282f26ff24baf62fcabf1ba3e44f3ecf5520b6"
+content_hash: "5270058caf276933fc3c570cde7f303d340ff0decf3cf28cbdb7cb9651018c0c"
 ---
 
 ![Credit: Art by Clark Miller; Getty Images.](https://tii.imgix.net/production/articles/15752/f0b4500d-034d-4841-b1fc-bdf2744c02c9.jpg?fm=jpeg&auto=compress&w=610)

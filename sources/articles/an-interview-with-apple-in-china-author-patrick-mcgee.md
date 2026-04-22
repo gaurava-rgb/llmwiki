@@ -2,6 +2,8 @@
 title: "An Interview with \"Apple in China\" Author Patrick McGee"
 reader_id: "01jxjjzkze7fx4aj0bxrn2k9zh"
 notion_page_id: "3484ebe7-f118-8128-b659-ce0015327a7d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxjjzkze7fx4aj0bxrn2k9zh"
 source_url: "https://stratechery.com/2025/an-interview-with-apple-in-china-author-patrick-mcgee/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-12"
 saved_at: "2025-06-12"
 reading_time: "47 mins"
 summary: "An Interview with \"Apple in China\" Author Patrick McGee about Apple's reluctant shift to outsourcing, its stunning success, and how its position relative to its supply chain has shifted over time."
-content_hash: "ca6678c0dfb52e720729ff5bcffd4b3c583928e0d83fc83690f6f91a2bbf4dbe"
+content_hash: "7086d8e66e12f10020fd698b4da12b7a45250629518a2ed48297f773a3c20053"
 ---
 
 An Interview with "Apple in China" Author Patrick McGee about Apple's reluctant shift to outsourcing, its stunning success, and how its position relative to its supply chain has shifted over time.

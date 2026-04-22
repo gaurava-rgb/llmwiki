@@ -2,6 +2,8 @@
 title: "Daria | Career Notes (@daria.levelupmethod) on Threads"
 reader_id: "01kehk2jvm1dh6848shy89zxx6"
 notion_page_id: "3464ebe7-f118-81be-8307-f056f864c3e9"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kehk2jvm1dh6848shy89zxx6"
 source_url: "https://www.threads.com/@daria.levelupmethod/post/DTRDqSxCXy8?xmt=AQF0kZzGChRqEVpBEZ0FXAJpoHgW2FgXvHvRBMLvUzpIURrlor8_DRyWJ9dtZH8GzPTvFO8&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2026-01-08"
 saved_at: "2026-01-09"
 reading_time: "2 mins"
 summary: "Spend 30 minutes daily learning product thinking, prioritization, and communication skills. Reframe your experience into clear product outcomes and build case studies to apply for PM roles. Collaborate early with design to create user-centered, data-driven solutions."
-content_hash: "c99e5618187998763ec4550900e71494d35ab74001ceac0aaa7510b6da8483dc"
+content_hash: "73f898d3f275ff0ab2c1f5ca76a51a4f1c36a652a33d6818e6dc7517a516bb42"
 ---
 
 As a Senior Product Manager, I’m reminding you to please invest 30 minutes a day learning product thinking (problem → user pain → metric → hypothesis → next step), prioritization frameworks (RICE/ICE), writing a crisp one-pager, basic analytics (funnels + retention), stakeholder communication (decision updates), and scoping v1 (must-have vs nice-to-have).

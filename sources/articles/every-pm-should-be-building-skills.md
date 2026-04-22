@@ -2,6 +2,8 @@
 title: "Every PM Should Be Building Skills"
 reader_id: "01kk0w30g67610bkmf5vkzgbff"
 notion_page_id: "3464ebe7-f118-81f7-b4e9-eeef742e292c"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk0w30g67610bkmf5vkzgbff"
 source_url: "https://amankhan1.substack.com/p/every-pm-should-be-building-skills?r=38jwv"
 author: "Aman Khan"
@@ -11,7 +13,7 @@ published: "2026-03-05"
 saved_at: "2026-03-06"
 reading_time: "11 mins"
 summary: "Skills are simple markdown files that teach AI assistants how to help you with tasks by following your personal workflow. They save time by automatically applying your preferences without repeating instructions. Building your own skills helps you work smarter and share useful methods with others."
-content_hash: "ef34e9b598891a32ca23f369ace7d9dd3798980baea96cf1281d2651faf62f9e"
+content_hash: "d2dfa7fa69770cebf73b0eef5ed21c17167c98a1362964e4c5eac004e310717e"
 ---
 
 ### What skills are, why you should be using them, and how to get started - all in one simple prompt

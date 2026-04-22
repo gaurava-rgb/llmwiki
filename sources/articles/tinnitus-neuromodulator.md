@@ -2,6 +2,8 @@
 title: "Tinnitus Neuromodulator"
 reader_id: "01k9080swgnecjgk2802zsa7b8"
 notion_page_id: "3484ebe7-f118-8111-b946-fe11201bdeff"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01k9080swgnecjgk2802zsa7b8"
 source_url: "https://news.ycombinator.com/item?id=45628391"
 author: "gjvc"
@@ -11,7 +13,7 @@ published: "2025-10-18"
 saved_at: "2025-11-01"
 reading_time: "1 min"
 summary: "A device called a tinnitus neuromodulator is being discussed. Users mention trying tongue-stimulating or shock-based devices to boost neuroplasticity. One tip noted is to unmute your phone on iOS to make it work."
-content_hash: "e304fb94d1d5a6eab0e7088e6c9b32eea1454a69dd9db7a0ababf433071868fc"
+content_hash: "5b20bce515adc853093f98414e1a6424b5f49f4ea30b606a1f2ac6a6e1fb5756"
 ---
 
 # [gjvc](<https://news.ycombinator.com/user?id=gjvc>)

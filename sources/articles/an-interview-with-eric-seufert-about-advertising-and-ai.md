@@ -2,6 +2,8 @@
 title: "An Interview with Eric Seufert About Advertising and AI"
 reader_id: "01kah6gw4crgmckp999r3j0p9h"
 notion_page_id: "3464ebe7-f118-8127-a429-c79b00c2d0d3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kah6gw4crgmckp999r3j0p9h"
 source_url: "https://stratechery.com/?p=17672"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-20"
 saved_at: "2025-11-20"
 reading_time: "48 mins"
 summary: "An interview with Eric Seufert about the right advertising model for AI, the right AI for Meta, and why personalized advertising is good for society."
-content_hash: "44f2322ab149e7eeafeee445224435ce1af0818924aea91636a786038cdbf4fd"
+content_hash: "b18674499f4c8dda7e22e88784ad47fa956653156d63a733de3f81180faf30ec"
 ---
 
 An interview with Eric Seufert about the right advertising model for AI, the right AI for Meta, and why personalized advertising is good for society.

@@ -2,6 +2,8 @@
 title: "Keep Android Open"
 reader_id: "01k906yxejm3pfdfr305s4wbat"
 notion_page_id: "3484ebe7-f118-81a3-9898-cb20e45fcacb"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01k906yxejm3pfdfr305s4wbat"
 source_url: "https://news.ycombinator.com/item?id=45742488"
 author: "LorenDB"
@@ -11,7 +13,7 @@ published: "2025-10-29"
 saved_at: "2025-11-01"
 reading_time: "1 min"
 summary: "Commenters urge keeping Android open and improving privacy-focused alternatives. They praise projects like GrapheneOS, PostmarketOS, and efforts to run mainline Linux on phones. Some suggest legal action or donations to support change."
-content_hash: "bb3bc4cf146a830719ce2580e8a5c8cdcaf61e6ee5528ede67331deba028dd67"
+content_hash: "220eca1258866bd59a3688581ed3dc7e22b068fdeb3a9d4a3e15cfba720d977d"
 ---
 
 # [LorenDB](<https://news.ycombinator.com/user?id=LorenDB>)

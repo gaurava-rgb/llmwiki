@@ -2,6 +2,8 @@
 title: "Everything is Hard. 😵‍💫"
 reader_id: "01k4agc6fkvtsae4qp0bc6jxb1"
 notion_page_id: "3484ebe7-f118-81a6-8d0d-d74c1c3ecf06"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k4agc6fkvtsae4qp0bc6jxb1"
 source_url: "https://thediligentobserver.substack.com/p/everything-is-hard?r=5ytg2r"
 author: "Andrew Kazlow"
@@ -11,7 +13,7 @@ published: "2025-02-20"
 saved_at: "2025-09-04"
 reading_time: "4 mins"
 summary: "A bad pitch usually means the team is inexperienced or unprepared.  \nEverything that looks polished took huge, persistent effort — you don't drift toward excellence.  \nTalking to real customers (customer discovery) is the most powerful tool for building winning products."
-content_hash: "cdd7bfcb7ac970df65d7424b69e41c86339ab4c25c3d50de300fc9377cc8a1f1"
+content_hash: "86628e85e815f1206faabec43e0b17f779813e181350ec86a1676e383ca87ee1"
 ---
 
 [![The Diligent Observer](https://substackcdn.com/image/fetch/$s_!FpZW!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78043557-71a5-45c5-830a-21fc4922b1cd_1280x1280.png)](<https://thediligentobserver.substack.com/>)

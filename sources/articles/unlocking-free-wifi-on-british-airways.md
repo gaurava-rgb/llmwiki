@@ -2,6 +2,8 @@
 title: "Unlocking free WiFi on British Airways"
 reader_id: "01k906rcfy3p8c0zqsq3hz526c"
 notion_page_id: "3484ebe7-f118-81c8-82b2-c9e91c49e3ac"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01k906rcfy3p8c0zqsq3hz526c"
 source_url: "https://news.ycombinator.com/item?id=45695134"
 author: "vinhnx"
@@ -11,7 +13,7 @@ published: "2025-10-24"
 saved_at: "2025-11-01"
 reading_time: "6 mins"
 summary: "Users discuss tricks to bypass paid WiFi on planes and ships by tunneling or spoofing TLS/SNI. Some methods use proxies like Xray, DNS tunnels, or VPNs on common ports. Warnings note legal risks and that networks may patch these loopholes."
-content_hash: "c6e7e6bea34497e5608613ee0c4f8d3cdc340f6d6fef9e759a53c9684e4dba12"
+content_hash: "89deb843f81b029a3328c1ae7e928806b9655de756259d6d8df222cedea54aac"
 ---
 
 # [vinhnx](<https://news.ycombinator.com/user?id=vinhnx>)

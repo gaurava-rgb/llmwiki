@@ -2,6 +2,8 @@
 title: "WBD Split, HBO and Warner, Whither Sports?"
 reader_id: "01jxzkq203y8tv6nadqnmmmcc1"
 notion_page_id: "3484ebe7-f118-81a4-b308-fe32411e4280"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxzkq203y8tv6nadqnmmmcc1"
 source_url: "https://stratechery.com/2025/wbd-split-hbo-and-warner-whither-sports/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-16"
 saved_at: "2025-06-17"
 reading_time: "10 mins"
 summary: "WarnerBros. Discovery is splitting up, but the real split goes back to Turner Broadcasting."
-content_hash: "7033cee61bf3c9982ac25dcd7a2b7cc667e10f0e7b6d55948a0691d975634ec4"
+content_hash: "4078183dc8479c0c9ab2d73a0d686dfb82195a64656285ab2b26a9ce2b7d8b37"
 ---
 
 WarnerBros. Discovery is splitting up, but the real split goes back to Turner Broadcasting.

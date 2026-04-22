@@ -2,6 +2,8 @@
 title: "Nvidia and Intel, Tan's Earnings Call Negotiation, Deal Specifics"
 reader_id: "01k5rnszp3yx6ba98vf1297b0w"
 notion_page_id: "3484ebe7-f118-81a7-baf8-c50195c6e363"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5rnszp3yx6ba98vf1297b0w"
 source_url: "https://stratechery.com/2025/nvidia-and-intel-tans-earnings-call-negotiation-deal-specifics/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-22"
 saved_at: "2025-09-22"
 reading_time: "8 mins"
 summary: "Intel and Nvidia have made a historic deal; it's good for Intel (and Nvidia), but doesn't solve their — and the U.S.'s — fundamental problems."
-content_hash: "aa4a426a7cf30ed2f3dc253d33508fc7505b9621dba9f5ac902c8c3101bfca39"
+content_hash: "ba20dcda1163a67d027882fa9c5c3bc87a534ceb0f45fa61c4f3028577367b04"
 ---
 
 Intel and Nvidia have made a historic deal; it's good for Intel (and Nvidia), but doesn't solve their — and the U.S.'s — fundamental problems.

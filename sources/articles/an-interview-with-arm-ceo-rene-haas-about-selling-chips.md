@@ -2,6 +2,8 @@
 title: "An Interview with Arm CEO Rene Haas About Selling Chips"
 reader_id: "01kmnn4kbajvk4jfs0tebvhad7"
 notion_page_id: "3464ebe7-f118-81d9-9421-d5554cf245f5"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kmnn4kbajvk4jfs0tebvhad7"
 source_url: "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-03-26"
 reading_time: "34 mins"
 summary: "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips."
-content_hash: "393063f008c45658947d0174b5332c7be1ac1370df15d0661537ee012bc98cdf"
+content_hash: "d509ecc76adef0b6c8e75e0068f1496ef4d332e250501a131064c5ab8e42cb55"
 ---
 
 An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.

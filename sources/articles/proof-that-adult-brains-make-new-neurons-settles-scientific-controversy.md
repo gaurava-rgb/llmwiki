@@ -2,6 +2,8 @@
 title: "Proof that adult brains make new neurons settles scientific controversy"
 reader_id: "01jzkxs46v5sy993579nzj4hqk"
 notion_page_id: "3484ebe7-f118-81ed-92ee-f0eafa08eac3"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jzkxs46v5sy993579nzj4hqk"
 source_url: "https://old.reddit.com/r/science/comments/1lr0igh/proof_that_adult_brains_make_new_neurons_settles/"
 author: "old.reddit.com"
@@ -11,7 +13,7 @@ published: "2025-07-03"
 saved_at: "2025-07-08"
 reading_time: "1 min"
 summary: "Scientists have proven that adult brains can grow new neurons. This discovery ends a long debate in science. It shows the brain can change and heal even in adulthood."
-content_hash: "9e61cf56e43d3983dd79edf73204f010621c5c8e6db5a33a604fe5a7e975066f"
+content_hash: "da875adbc0a4258f93965336dfc489bc764684ef0d38a0b75b3af3a3ef42f6c7"
 ---
 
 [-]

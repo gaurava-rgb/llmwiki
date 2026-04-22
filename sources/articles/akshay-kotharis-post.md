@@ -2,6 +2,8 @@
 title: "Akshay Kothari’s Post"
 reader_id: "01kmbe77w4svswj2c7jh0f4qrm"
 notion_page_id: "3464ebe7-f118-8159-aa2f-d1aa454fee9e"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kmbe77w4svswj2c7jh0f4qrm"
 source_url: "https://www.linkedin.com/posts/akothari_to-my-fellow-founders-and-ceos-who-keep-share-7432684712420229120-3rkL"
 author: "Akshay Kothari"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-22"
 reading_time: "2 mins"
 summary: "Most companies will keep using trusted software, but they want tools that work well with AI agents. Open and flexible software will succeed because it lets digital workers do more without extra costs. To stay relevant, businesses must embrace AI and be ready to change how they sell their products."
-content_hash: "013c543272155f3cd53a13583d7f6d6da212234748be6a9e4da330ef48638342"
+content_hash: "e569e780c158830c196b2f3343af3eb5190eb4a7d7fc1a48d976683269286484"
 ---
 
 [ Akshay Kothari ](<https://www.linkedin.com/in/akothari?trk=public_post_feed-actor-name>)

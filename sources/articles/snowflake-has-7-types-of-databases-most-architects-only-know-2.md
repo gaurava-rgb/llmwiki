@@ -2,6 +2,8 @@
 title: "Snowflake Has 7 Types of Databases Most Architects Only Know 2"
 reader_id: "01knqtp68d87esbzbkdntenzfg"
 notion_page_id: "3464ebe7-f118-81b1-b2e0-d6ff17b908e0"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqtp68d87esbzbkdntenzfg"
 source_url: "https://medium.com/snowflake/snowflake-has-7-types-of-databases-most-architects-only-know-2-70624f6908ad"
 author: "Vedprakash"
@@ -11,7 +13,7 @@ published: "2026-04-08"
 saved_at: "2026-04-09"
 reading_time: "12 mins"
 summary: "Snowflake offers seven database types, each with unique features and trade-offs for cost, recovery, and data sharing. Choosing the right type matters to avoid extra costs, data loss, or architectural problems. New options like Iceberg and Hybrid Tables help combine open data lakes and operational workloads in one platform."
-content_hash: "8c352998b8e4ad158d3aafc8d68cf80aba2d67027cecd8d6737ec75252da5aa6"
+content_hash: "a0249aa0ec149c21939c385625ce4d37bf1309e6eb313735a18fb7f5a568d572"
 ---
 
 _An architect’s guide to every database type in Snowflake, the design decisions behind each, and when choosing the wrong one costs you money, recovery time, or your data sharing strategy._

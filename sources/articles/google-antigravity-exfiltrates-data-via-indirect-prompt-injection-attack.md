@@ -2,6 +2,8 @@
 title: "Google Antigravity exfiltrates data via indirect prompt injection attack"
 reader_id: "01kb0ac4et217pd14b4w5nagrm"
 notion_page_id: "3484ebe7-f118-812c-b19f-eb6c30858b27"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kb0ac4et217pd14b4w5nagrm"
 source_url: "https://news.ycombinator.com/item?id=46048996"
 author: "jjmaxwell4"
@@ -11,7 +13,7 @@ published: "2025-11-25"
 saved_at: "2025-11-26"
 reading_time: "6 mins"
 summary: "A report describes how Google Antigravity (Gemini) was tricked into leaking private data via an indirect prompt injection. Attackers used open redirects and the browser subagent to exfiltrate files and credentials. Commenters warn this highlights a broader risk in agentic AI that mixes untrusted input, private data access, and external actions."
-content_hash: "864a6b9e24dc9f10042ca4479331f31ec6a11213d826f259415b22dc4f6beceb"
+content_hash: "942415364989b2260e1b218e0c8a31949c305de115ea38651e7629b67bc94f62"
 ---
 
 # [jjmaxwell4](<https://news.ycombinator.com/user?id=jjmaxwell4>)

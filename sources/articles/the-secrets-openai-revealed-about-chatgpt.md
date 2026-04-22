@@ -2,6 +2,8 @@
 title: "The Secrets OpenAI Revealed About ChatGPT"
 reader_id: "01k5bskyazp27xrnahssknj2fp"
 notion_page_id: "3484ebe7-f118-8122-8505-f0dab69fa30b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyazp27xrnahssknj2fp"
 source_url: "https://www.theinformation.com/articles/secrets-openai-revealed-chatgpt"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2025-09-16"
 saved_at: "2025-09-17"
 reading_time: "7 mins"
 summary: "Public interest in ChatGPT's impact on society is rising fast, especially given recent high-profile lawsuits filed by family members of people who used the chatbot before taking their own life. On Monday, OpenAI opened the chabot's kimono a little bit, with a new study showing exactly how users are using ChatGPT.  Notably, non-work usage of ChatGPT dominates; between last June and this June, non-work-related queries have exploded from 53% to 73% of all queries sent, according to the study. Most of these queries were people looking up information as a Google Search alternative.That’s in stark comparison to Anthropic, which coincidentally published its own usage study on the same day and found that more than half of Claude users were using the chatbot for work-related tasks such as coding, business and financial operations and office and administrative support. (It’s worth noting that by every metric, the Claude chatbot’s usage is a fraction of ChatGPT’s.)Surprisingly, only a small percentage of ChatGPT users use the chatbot for coding—4.2% compared to Claude’s 36.9%. It could be that users are more likely to use OpenAI’s models for coding through its coding assistant Codex or other coding apps like Cursor, which are powered by models from OpenAI and Anthropic, rather than through ChatGPT.Even more surprising, though, is that a tiny percentage of ChatGPT messages are related to companionship or social or emotional issues, according to the report. Only 1.9% of ChatGPT messages are related to relationships and “personal reflection,” while 0.4% are related to games and roleplay. That number seems remarkably small given the flood of news reports about people developing relationships with their chatbots or hurting themselves after talking to their chatbot.Another interesting tidbit is that 2.1% of ChatGPT messages came from users asking about “purchasable products.” That’s a small percentage today, but if it grows, it could represent a new source of revenue for OpenAI, ..."
-content_hash: "b363617c2b823bb3a4a54c3d64a034a4bdb8203ba7a7ad8384d8396be136559e"
+content_hash: "39797b165f69e9ed27426488a7ac926cfbf7d92a3fd660c44e7c14ea12e40826"
 ---
 
 ![Credit: Art via Getty](https://tii.imgix.net/production/articles/15766/d02347ee-4041-4da8-931f-30168c38ce8e-uJkAdC.png?fm=jpeg&auto=compress&w=610)

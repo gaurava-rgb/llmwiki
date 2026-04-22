@@ -2,6 +2,8 @@
 title: "[FREE] The Accidental Consumer Tech Company; ChatGPT, Meta, and Product-Market Fit; Aggregation and APIs"
 reader_id: "01jzqta7n0cx2n8bjnexdw944w"
 notion_page_id: "3484ebe7-f118-8192-a761-cf0c0ec2ed71"
+category: "article"
+source_type: "Reader add from clipboard"
 reader_url: "https://read.readwise.io/read/01jzqta7n0cx2n8bjnexdw944w"
 source_url: "https://stratechery.com/2023/the-accidental-consumer-tech-company-chatgpt-meta-and-product-market-fit-aggregation-and-apis/?scroll_to_last=1"
 author: "Stratechery by Ben Thompson"
@@ -11,7 +13,7 @@ published: "2023-03-28"
 saved_at: "2025-07-09"
 reading_time: "10 mins"
 summary: "OpenAI's ChatGPT rapidly grew to over 100 million users, transforming from a research-focused company into a major consumer tech platform. This success highlights the importance of product-market fit, where user demand drives growth and ambition. As ChatGPT evolves, it competes effectively against established players like Microsoft, emphasizing the value of superior products and customer acquisition strategies."
-content_hash: "6b003fa5b2a4f1741c1e8db0ae60a49bec6d17653c37e334baebca4cb884d10a"
+content_hash: "4f0081c68ddf82109ec0a3b6ca0eaf30b9c596e4876f81346f64da426f232a50"
 ---
 
 Good morning,

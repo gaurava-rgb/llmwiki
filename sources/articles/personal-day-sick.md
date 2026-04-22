@@ -2,6 +2,8 @@
 title: "Personal Day — Sick"
 reader_id: "01kgfs1b0g5cwc92nzdm8vxbbj"
 notion_page_id: "3464ebe7-f118-8135-af3c-d5557eb63558"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kgfs1b0g5cwc92nzdm8vxbbj"
 source_url: "https://stratechery.com/2026/personal-day-sick/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-02"
 saved_at: "2026-02-02"
 reading_time: "1 min"
 summary: "Personal Day — Sick"
-content_hash: "e505d2a7e3ebb7caf2ed8e33d1e1704720fb2a966a697a45076baae903655030"
+content_hash: "637a70518e37890c6ceb38618da29403bfbac80b2222dc9aed247174b162868d"
 ---
 
 Personal Day — Sick

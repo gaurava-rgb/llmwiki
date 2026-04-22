@@ -2,6 +2,8 @@
 title: "10 ideas for 2026"
 reader_id: "01kk248wdbkqp2tpq4rr3q1jen"
 notion_page_id: "3464ebe7-f118-8123-abbc-eee906b5e671"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk248wdbkqp2tpq4rr3q1jen"
 source_url: "https://shreyasdoshi.substack.com/p/10-ideas-for-2026?r=38jwv"
 author: "Shreyas Doshi"
@@ -11,7 +13,7 @@ published: "2025-12-30"
 saved_at: "2026-03-06"
 reading_time: "2 mins"
 summary: "Thinking well matters more than tactics or tools.  \nAvoid the urge to feel clever and instead question your assumptions.  \nGreat leaders teach you to find answers inside clear questions."
-content_hash: "7cbdfd98f0eba8ae6362a057c7a54dd61bbf3094e5d31b0564caf7316d4921e0"
+content_hash: "6eb2b41896bd9e40ddb27eac2b3804301d1d0b7efdd0fd84215a57a5143ade45"
 ---
 
 ### Thinking is the foundation of everything we do and, for most of us that foundation has many cracks. Here are 10 ideas to consider in 2026. These ideas are not for everyone, but useful for some.

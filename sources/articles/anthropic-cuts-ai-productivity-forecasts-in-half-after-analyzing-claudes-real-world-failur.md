@@ -2,6 +2,8 @@
 title: "Anthropic cuts AI productivity forecasts in half after analyzing Claude's real-world failure rates"
 reader_id: "01kfdsfzvceazcja7kv1c7z74b"
 notion_page_id: "3464ebe7-f118-810d-b525-e542565ff98e"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfdsfzvceazcja7kv1c7z74b"
 source_url: "https://share.google/D3db9i8CXmER3fqbd"
 author: "Maximilian Schreiner"
@@ -11,7 +13,7 @@ published: "2026-01-15"
 saved_at: "2026-01-20"
 reading_time: "4 mins"
 summary: "Anthropic found that Claude AI struggles more with complex tasks, cutting their productivity forecasts in half. They also noticed AI use may lower skill levels in some jobs while boosting collaboration between users and AI. Usage is growing fast in the US but still varies widely worldwide based on wealth and education."
-content_hash: "82c1c524e96d0d37533cb452af1b3b579a9f0c8bd05c3ba183a40900f91cde2e"
+content_hash: "42a9a6d8fcf3822ce924a3665e72f0d261b6bb0894a00d5b36e5d6c89b02b8cf"
 ---
 
 ![Image description](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzc2IiBoZWlnaHQ9Ijc2OCIgdmlld0JveD0iMCAwIDEzNzYgNzY4Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojZjJmMmYyO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Image description

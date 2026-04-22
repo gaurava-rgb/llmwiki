@@ -2,6 +2,8 @@
 title: "Harness engineering: leveraging Codex in an agent-first world | OpenAI"
 reader_id: "01kj6pa5m0znbmhb7mhqpj24e5"
 notion_page_id: "3464ebe7-f118-81f9-a733-f063426049c6"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kj6pa5m0znbmhb7mhqpj24e5"
 source_url: "https://openai.com/index/harness-engineering/"
 author: "openai.com"
@@ -11,7 +13,7 @@ published: "2026-02-11"
 saved_at: "2026-02-24"
 reading_time: "12 mins"
 summary: "OpenAI built a software product with no manual coding, using Codex agents to write and manage all code and tools. Engineers now focus on designing systems and guiding agents through prompts and feedback loops. This new approach helps agents create, review, and maintain software autonomously while humans oversee and improve the process."
-content_hash: "fdd7a87d52b0241a14aa0fa48efb25cb23647552a26b7bea45756e40a1b6ae43"
+content_hash: "d9213aa52d732329b65295cb56917e8beb71797e0c332a10a3b6b3efbb6c23ed"
 ---
 
 February 11, 2026

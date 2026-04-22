@@ -2,6 +2,8 @@
 title: "The AI Haves and Have Nots at Goldman's Big Tech Event"
 reader_id: "01k5bskyxe6cee67rtqkv5b444"
 notion_page_id: "3484ebe7-f118-81dc-bada-d0c351d3035b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyxe6cee67rtqkv5b444"
 source_url: "https://www.theinformation.com/articles/ai-haves-nots-goldmans-big-tech-event"
 author: "Valida Pau"
@@ -11,7 +13,7 @@ published: "2025-09-11"
 saved_at: "2025-09-17"
 reading_time: "4 mins"
 summary: "At the historic Palace Hotel in San Francisco, Goldman Sachs is wrapping up three and half days of its annual Goldman Sachs Communacopia + Technology Conference.Attendees were mostly in a buoyant mood, but not because this week is on track to be the biggest of the year for initial public offerings. Instead, the biggest pop during the conference came from Oracle, a 48-year-old tech stalwart, whose stock jumped 36% on news that its future contract revenue would soar 359%, mostly due to a deal with OpenAI.Nvidia and OpenAI were the two hottest tickets in the Palace Hotel. Both presented shortly after lunch, so eager investors claimed the good seats and sent their colleagues to grab lunch boxes. The main ballroom was full 20 minutes before the presentation and attendees filled three overflow rooms. Meta and Alphabet only filled two overflow rooms. For companies that don’t build artificial intelligence data centers, make AI chips or develop AI models, the mood was less optimistic. Software makers in particular were put under the microscope for their AI progress or the lack of it. “We're in a phase where software companies felt that they had to change their narrative very quickly because customers were demanding it,” said Matt Lucas, managing director of Goldman Sachs’ tech, media and telecom investment banking group. Software companies were given a friendly greeting on stage by Kash Rangan, a Goldman Sachs managing director and software analyst. “AI is not going to kill software, but it's actually going to make software a flourish,” he said Monday when he introduced Confluent, which provides data streaming and analytics services.Investors don’t share his enthusiasm. Several of them told me they had simple questions for software makers: how are customers using AI and are they paying for it, or will they soon?Some companies did answer some of those questions. Investors told me that customer engagement software maker Twilio discussed in a closed-door session how revenue ..."
-content_hash: "1e2f1c29287bc7ae1f9bfa1a33b1e6aca39c9255164be798c93fd40ff4e2a024"
+content_hash: "8f61b1d6a3db97a39503c08809dea7606ae43d0d9bd0c987e5a8273da95960de"
 ---
 
 ![Credit: Photo via Getty](https://tii.imgix.net/production/articles/15746/febec5ce-8005-44a2-9fd3-5e0f9868fa2d-zABlWM.png?fm=jpeg&auto=compress&w=610)

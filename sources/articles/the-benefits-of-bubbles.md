@@ -2,6 +2,8 @@
 title: "The Benefits of Bubbles"
 reader_id: "01k9ahv6jnhqe9bte0v9j23wne"
 notion_page_id: "3484ebe7-f118-81f4-b8f1-ddea93cbc6d9"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9ahv6jnhqe9bte0v9j23wne"
 source_url: "https://stratechery.com/?p=17491"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-05"
 saved_at: "2025-11-05"
 reading_time: "16 mins"
 summary: "We are in an AI Bubble: the big question is if this bubble will worth it for the physical infrastructure and coordinated innovation that result?"
-content_hash: "b58021792842989ce46ccc4e5d3c85b993b1f20c38d0b7f38a6a8b24b1f346be"
+content_hash: "d79722d6b11f2534e7cc11de89bc78175c1dfb0d1e2d16c84bd6da23c627e028"
 ---
 
 We are in an AI Bubble: the big question is if this bubble will worth it for the physical infrastructure and coordinated innovation that result?

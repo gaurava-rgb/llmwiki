@@ -2,6 +2,8 @@
 title: "Meta Signs $10 Billion-Plus Cloud Deal With Google"
 reader_id: "01k3c18n0h5z13j23gyc4qj3b8"
 notion_page_id: "3484ebe7-f118-81d0-9bee-f305e410f1c3"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c18n0h5z13j23gyc4qj3b8"
 source_url: "https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=rpuplc"
 author: "Kevin McLaughlin"
@@ -11,7 +13,7 @@ published: "2025-08-21"
 saved_at: "2025-08-23"
 reading_time: "3 mins"
 summary: "Meta signed a more-than-$10 billion cloud deal with Google for six years.  \nThe agreement gives Meta access to Google Cloud services and Nvidia GPUs.  \nThe deal is a big win for Google and makes Meta a larger multi-cloud customer."
-content_hash: "09e1c280a2c045e0b39dc9260b61ee4a1722b4f4b358583d063c71d363998521"
+content_hash: "91c7a09ee9716013b2338052615e07e3c5b747ee770a084f9b4d1c8761671b04"
 ---
 
 ![Meta Signs $10 Billion-Plus Cloud Deal With Google](https://tii.imgix.net/production/articles/15638/742b7d2c-4437-4957-b359-d65b9d90111d.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Art by Clark Miller

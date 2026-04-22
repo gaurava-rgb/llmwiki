@@ -2,6 +2,8 @@
 title: "Meta Earnings, Turning Dials, Zuckerberg's Motivation"
 reader_id: "01kg5ac916jaqxyz37je672wv8"
 notion_page_id: "3464ebe7-f118-8121-96d8-cf08b99bab43"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kg5ac916jaqxyz37je672wv8"
 source_url: "https://stratechery.com/?p=18182"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-29"
 saved_at: "2026-01-29"
 reading_time: "11 mins"
 summary: "Meta is up, despite massive CapEx plans. The company is turning every dial to drive revenue, because Mark Zuckerberg thinks winning in AI is existential."
-content_hash: "aa729c6f7ff0ae4b978f92ca687fe87dd981b2188542eaec8f80382a5a875f86"
+content_hash: "b44d67c30d16fc2d4de9ee7e9af89fbf7a7790440fe67ed40289b41597c98210"
 ---
 
 Meta is up, despite massive CapEx plans. The company is turning every dial to drive revenue, because Mark Zuckerberg thinks winning in AI is existential.

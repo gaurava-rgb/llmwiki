@@ -2,6 +2,8 @@
 title: "Thoughts on thinking"
 reader_id: "01jyx4q337q8aw37p975r7bbqa"
 notion_page_id: "3484ebe7-f118-81d8-87db-ecb066e87a92"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4q337q8aw37p975r7bbqa"
 source_url: "https://dcurt.is/thinking/"
 author: "Dustin Curtis on Svbtle"
@@ -11,7 +13,7 @@ published: "2025-05-16"
 saved_at: "2025-06-29"
 reading_time: "3 mins"
 summary: "The author feels stuck and believes that their creative efforts are overshadowed by AI's ability to produce better ideas quickly. They reflect on how using AI has diminished their own thinking and intellectual growth, despite having access to more information than ever. Ultimately, they feel that relying on AI is more like sedation than real mental exercise, even as they continue to share their thoughts."
-content_hash: "a0bcc5e8a91996bd6b9554b16c40c7d5a9afb53d6b6dae061450b5fd4d9e5e30"
+content_hash: "435bc34ffbbff6bc1c330dc2b39550483e2a714604bc3615a4d2f695b6fba579"
 ---
 
 I have been stuck. Every time I sit down to write a blog post, code a feature, or start a project, I come to the same realization: in the context of AI, what I’m doing is a waste of time. It’s horrifying. The fun has been sucked out of the process of creation because nothing I make organically can compete with what AI already produces—or soon will. All of my original thoughts feel like early drafts of better, more complete thoughts that simply haven’t yet formed inside an LLM.

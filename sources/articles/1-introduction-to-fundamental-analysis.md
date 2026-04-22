@@ -2,6 +2,8 @@
 title: "1. Introduction to fundamental analysis"
 reader_id: "01jypznxhj5r0qhanqs3ws24ea"
 notion_page_id: "3484ebe7-f118-8135-9e80-e2e59cf42b56"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jypznxhj5r0qhanqs3ws24ea"
 source_url: "https://zerodha.com/varsity/chapter/introduction-to-fundamental-analysis/"
 author: "Varsity by Zerodha"
@@ -11,7 +13,7 @@ published: "2025-06-26"
 saved_at: "2025-06-26"
 reading_time: "1 min"
 summary: "Fundamental Analysis helps investors find strong companies for long-term investment. It uses simple skills like common sense and basic math to spot good and bad companies. Combining Fundamental and Technical Analysis creates a smart market strategy."
-content_hash: "c77db7bd7343a50d17e287d1d292e22d63d8e435d4112bebd7473e478a665230"
+content_hash: "333675c8e3bb62f0fe3c77b5fcc2ddfcaba19d4c712197983c90c5d79a23e925"
 ---
 
 We recommend reading [this chapter](<https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/>) on Varsity to learn more and understand the concepts in-depth.

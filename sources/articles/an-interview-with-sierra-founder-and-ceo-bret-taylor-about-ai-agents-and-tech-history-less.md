@@ -2,6 +2,8 @@
 title: "An Interview with Sierra Founder and CEO Bret Taylor About AI Agents and Tech History Lessons"
 reader_id: "01jyph38jkpyjk06zrfm8m5dky"
 notion_page_id: "3484ebe7-f118-81cb-97ed-d1b9d89aca55"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyph38jkpyjk06zrfm8m5dky"
 source_url: "https://stratechery.com/2025/an-interview-with-sierra-founder-and-ceo-bret-taylor-about-ai-agents-and-tech-history-lessons/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-26"
 saved_at: "2025-06-26"
 reading_time: "48 mins"
 summary: "An interview with Sierra founder and CEO Bret Taylor about his career in tech and the future of AI."
-content_hash: "58a487ad36e4f14ae43ca81bd2e7f7b010d9259bd4518989ed870f34b5d6998b"
+content_hash: "5150a8ea65efd85a66b3fd16eb0c61ac3d208590ba52245a8564713399cfaad0"
 ---
 
 An interview with Sierra founder and CEO Bret Taylor about his career in tech and the future of AI.

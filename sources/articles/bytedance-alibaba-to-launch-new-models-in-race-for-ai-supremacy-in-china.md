@@ -2,6 +2,8 @@
 title: "ByteDance, Alibaba to Launch New Models in Race for AI Supremacy in China"
 reader_id: "01kg5aby1k8r96w6fd2xrst06s"
 notion_page_id: "3464ebe7-f118-819e-8001-c19a684602e1"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kg5aby1k8r96w6fd2xrst06s"
 source_url: "https://www.theinformation.com/articles/bytedance-alibaba-launch-new-models-race-ai-supremacy-china?rc=sp92ul"
 author: "Juro Osawa"
@@ -11,7 +13,7 @@ published: "2026-01-29"
 saved_at: "2026-01-29"
 reading_time: "4 mins"
 summary: "ByteDance and Alibaba are launching new AI models around the Lunar New Year to compete for dominance in China’s AI market. ByteDance leads in chatbot users, but Alibaba is boosting its Qwen app with strong math and coding features. This rivalry will shape how China’s 1.4 billion people use AI and control the growing AI cloud market."
-content_hash: "5a51a657357ecd10bc2610014800e607d6981dd28aea2207861798e8fd7d5bb7"
+content_hash: "e357b862dd07b5295fab5d4b3bfd90856bae8e92cea9ec39aae3f13d92fe7a12"
 ---
 
 ![ByteDance, Alibaba to Launch New Models in Race for AI Supremacy in China](https://tii.imgix.net/production/articles/16487/5ed7280f-34e1-4b36-8770-b1e7df2089d4.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Photos by Getty Images

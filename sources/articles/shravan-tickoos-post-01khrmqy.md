@@ -2,6 +2,8 @@
 title: "Shravan Tickoo’s Post"
 reader_id: "01khrmqykt3ebg4gansbscknws"
 notion_page_id: "3464ebe7-f118-814c-aabf-d72c1040d5a3"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khrmqykt3ebg4gansbscknws"
 source_url: "https://www.linkedin.com/posts/shravantickoo_folks-doing-an-mba-is-considered-a-great-activity-7429813206941933569-o409"
 author: "Shravan Tickoo"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-18"
 reading_time: "2 mins"
 summary: "Shravan Tickoo shares a free 9-month AI MBA plan to help people become top AI Product Managers without coding or high costs. The plan covers AI basics, technology, data, UX, execution, strategy, safety, and industry insights. This guide aims to help learners improve daily and succeed in the growing AI field."
-content_hash: "c7b0b945c99c14dac238684799650e34fd6d88fb95e1ad9ea40132eddbc94df4"
+content_hash: "a2b4848258163df4d9e4c17261141d0e39370c21724c90f3a8c29dd5658f0125"
 ---
 
 [ Shravan Tickoo ](<https://in.linkedin.com/in/shravantickoo?trk=public_post_feed-actor-name>)

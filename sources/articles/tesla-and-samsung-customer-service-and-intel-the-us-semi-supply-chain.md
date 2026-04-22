@@ -2,6 +2,8 @@
 title: "Tesla and Samsung, Customer Service and Intel, The U.S. Semi Supply Chain"
 reader_id: "01k1bnafmfk02a7vtqes3ycbzz"
 notion_page_id: "3484ebe7-f118-81e2-80f0-cf46d33ef6bb"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k1bnafmfk02a7vtqes3ycbzz"
 source_url: "https://stratechery.com/2025/tesla-and-samsung-customer-service-and-intel-the-u-s-semi-supply-chain/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-29"
 saved_at: "2025-07-29"
 reading_time: "14 mins"
 summary: "Tesla is making future chips with Samsung, likely cementing the Korean company as the industry's second supplier."
-content_hash: "2d0ea6a6947a6d8bb715a148c08776e74eeb6a9f5da4078d74ea8dbefe487bdc"
+content_hash: "e13a7cb28091ea13dde1ea86b46ba34e3f04ea4b9b3d29d96129986548a33cf1"
 ---
 
 Tesla is making future chips with Samsung, likely cementing the Korean company as the industry's second supplier.

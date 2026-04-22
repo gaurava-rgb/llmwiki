@@ -2,6 +2,8 @@
 title: "3. How to read the annual report of a company"
 reader_id: "01jyq099vv93bqy2pv489m2rxt"
 notion_page_id: "3484ebe7-f118-81c1-a737-f1eafad75bfc"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyq099vv93bqy2pv489m2rxt"
 source_url: "https://zerodha.com/varsity/chapter/how-to-read-the-annual-report-of-a-company/"
 author: "Varsity by Zerodha"
@@ -11,7 +13,7 @@ published: "2025-06-26"
 saved_at: "2025-06-26"
 reading_time: "1 min"
 summary: "The Annual Report is the main source of information about a company for investors. It includes important sections like management discussion and three key financial statements. The report shows both the company’s own and its subsidiaries’ financial details."
-content_hash: "f10975f6b271e0a1d38d44078525d5059f4e8e8f7bcb7568fc3db91c60d8862d"
+content_hash: "5404a6f416553a2f0c6c0f9e0de24ecfaf78cef8b7c2f533110b09d5ecff2f08"
 ---
 
 We recommend reading [this chapter](<https://zerodha.com/varsity/chapter/read-annual-report-company/>) on Varsity to learn more and understand the concepts in-depth.

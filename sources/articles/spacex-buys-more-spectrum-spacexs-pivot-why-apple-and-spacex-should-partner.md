@@ -2,6 +2,8 @@
 title: "SpaceX Buys More Spectrum, SpaceX's Pivot, Why Apple and SpaceX Should Partner"
 reader_id: "01k9t052653t05z6hf3enbszfg"
 notion_page_id: "3484ebe7-f118-8112-97a4-dde0fff8c608"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9t052653t05z6hf3enbszfg"
 source_url: "https://stratechery.com/2025/spacex-buys-more-spectrum-spacexs-pivot-why-apple-and-spacex-should-partner/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-11"
 saved_at: "2025-11-11"
 reading_time: "10 mins"
 summary: "SpaceX buys the spectrum it needs to be a standalone mobile carrier; the company should partner with Apple to deliver truly differentiated experiences."
-content_hash: "348f3583a5a4bf8d60828217fa309002ed38d084705d06540d2c8cde144b5845"
+content_hash: "fcdfe37cfb1184089725d8e6d2a68574412410c61c15e5e735775420ba836024"
 ---
 
 SpaceX buys the spectrum it needs to be a standalone mobile carrier; the company should partner with Apple to deliver truly differentiated experiences.

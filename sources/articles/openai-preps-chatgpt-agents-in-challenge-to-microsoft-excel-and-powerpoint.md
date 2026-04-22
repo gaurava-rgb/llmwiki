@@ -2,6 +2,8 @@
 title: "OpenAI Preps ChatGPT Agents in Challenge to Microsoft Excel and PowerPoint"
 reader_id: "01k1v6q6x5h4zg4aq4hw6ewawm"
 notion_page_id: "3484ebe7-f118-8111-8986-d4486146dcc9"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k1v6q6x5h4zg4aq4hw6ewawm"
 source_url: "https://www.theinformation.com/articles/openai-preps-chatgpt-agents-challenge-microsoft-excel-powerpoint?rc=ayz15n"
 author: "Stephanie Palazzolo"
@@ -11,7 +13,7 @@ published: "2025-07-15"
 saved_at: "2025-08-04"
 reading_time: "4 mins"
 summary: "OpenAI is adding new features to ChatGPT that let users create and edit Excel and PowerPoint files without using Microsoft apps. These features could help businesses rely less on Microsoft and Google productivity tools. The new tools also include AI agents that can do tasks like making reports and booking appointments."
-content_hash: "faa5b7f5a888d97431a4842c61307159109c6c0b6bf4351da15f5b34cc127a60"
+content_hash: "58f6527140f9b8a531336b212703694732521317a82cb83ab842054b152d8270"
 ---
 
 ![OpenAI Preps ChatGPT Agents in Challenge to Microsoft Excel and PowerPoint](https://tii.imgix.net/production/articles/15399/1b9be19d-0332-491a-a4aa-cdd7b6de99b4.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Art via Mike Sullivan

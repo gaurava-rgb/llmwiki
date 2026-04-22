@@ -2,6 +2,8 @@
 title: "Apple's 50 Years of Integration"
 reader_id: "01kn2hrct8egpjtt2ra8a8wjkr"
 notion_page_id: "3464ebe7-f118-81bf-bc72-edd8e06ae4e6"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kn2hrct8egpjtt2ra8a8wjkr"
 source_url: "https://stratechery.com/2026/apples-50-years-of-integration/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-31"
 saved_at: "2026-03-31"
 reading_time: "15 mins"
 summary: "Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes."
-content_hash: "075f5705ac1401446a0aff8e67a6b4466db492764fdc13a49296dc307270bae4"
+content_hash: "027d1421f3a55912699dec2d5f0462cabb1bccc66bf18f8498287f7c647d3e6a"
 ---
 
 Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes.

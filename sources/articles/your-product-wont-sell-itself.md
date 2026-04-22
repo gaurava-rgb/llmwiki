@@ -2,6 +2,8 @@
 title: "Your product won’t sell itself"
 reader_id: "01kkyr6vkss7zb0598wf8gqaq2"
 notion_page_id: "3464ebe7-f118-815c-8a21-d19c278f2295"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkyr6vkss7zb0598wf8gqaq2"
 source_url: "https://a16zcrypto.substack.com/p/your-product-wont-sell-itself?r=78wjcd"
 author: "Jason Rosenthal"
@@ -11,7 +13,7 @@ published: "2026-03-14"
 saved_at: "2026-03-17"
 reading_time: "14 mins"
 summary: "Building a strong sales team is crucial for growing a company after finding product-market fit. Hiring the right sales leader and focusing on key deals helps shape the market and outpace competitors. Constantly learning from wins and losses improves sales, product, and customer success for long-term growth."
-content_hash: "cb9363f86413a333338c8663395b79418b208080173a3ecf1c9b7886487f2776"
+content_hash: "10ce42c4ed0066b94304959f9fd328b21475c69ba37273bd86abef590cd4c4c5"
 ---
 
 ### A playbook for hiring sales roles, building a process, and scaling an enterprise sales motion

@@ -2,6 +2,8 @@
 title: "An Interview with Cursor Co-Founder and CEO Michael Truell About Coding With AI"
 reader_id: "01jxe1a9b870vy16zabxqpggvh"
 notion_page_id: "3484ebe7-f118-8168-bc2d-e205123eadd2"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxe1a9b870vy16zabxqpggvh"
 source_url: "https://stratechery.com/2025/an-interview-with-cursor-co-founder-and-ceo-michael-truell-about-coding-with-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-05"
 saved_at: "2025-06-10"
 reading_time: "39 mins"
 summary: "An interview with Cursor founder and CEO Michael Truell about AI coding and capturing the critical point of integration in the AI value chain."
-content_hash: "ef04c6e331f0ab41edf102db93e941543191aeaa92ae6e410c6d6e31ee82b4bc"
+content_hash: "3d486d0773ad90abc4c97ce7dca6cdf4a2e35398f135411f7886b4ebf87f2914"
 ---
 
 An interview with Cursor founder and CEO Michael Truell about AI coding and capturing the critical point of integration in the AI value chain.

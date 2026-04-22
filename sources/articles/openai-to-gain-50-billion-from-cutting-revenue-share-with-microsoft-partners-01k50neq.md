@@ -2,6 +2,8 @@
 title: "OpenAI to Gain $50 Billion From Cutting Revenue Share with Microsoft, Partners"
 reader_id: "01k50neqx2jsk0fgzjkxytmm2m"
 notion_page_id: "3484ebe7-f118-81d9-b20c-cdd4bfb829f4"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k50neqx2jsk0fgzjkxytmm2m"
 source_url: "https://www.theinformation.com/articles/openai-gain-50-billion-cutting-revenue-share-microsoft-partners?rc=rpuplc"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2025-09-13"
 saved_at: "2025-09-13"
 reading_time: "2 mins"
 summary: "OpenAI says it will cut the revenue share it pays Microsoft to about 8% by 2030, down from roughly 20% now.  \nThat shift would let OpenAI keep about $50–56 billion more through 2030 to cover rising compute costs.  \nMicrosoft would still own about one-third of the restructured company, while AGI and server-rental terms are still being negotiated."
-content_hash: "5ad889f987b5dba9581bd76b1b452b43e64e729c648d2b861e1c0b3142c2d6e8"
+content_hash: "d5135c6d9d47dd49b32d2304225ac4aaeead0aada8a340a3a766bdf50d4c36ac"
 ---
 
 ![OpenAI to Gain $50 Billion From Cutting Revenue Share with Microsoft, Partners](https://tii.imgix.net/production/articles/15755/f53ca9c9-aed4-435b-93a6-e2f79e724470.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)OpenAI CEO Sam Altman. Photo by Getty,

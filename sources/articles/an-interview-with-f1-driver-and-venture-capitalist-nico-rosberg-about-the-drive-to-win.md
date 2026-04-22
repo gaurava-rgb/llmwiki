@@ -2,6 +2,8 @@
 title: "An Interview with F1 Driver and Venture Capitalist Nico Rosberg About the Drive to Win"
 reader_id: "01kpbr2nstyb9w43fv3engfx56"
 notion_page_id: "3464ebe7-f118-81db-a31e-d998c0a3c21c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kpbr2nstyb9w43fv3engfx56"
 source_url: "https://stratechery.com/2026/an-interview-with-f1-driver-and-venture-capitalist-nico-rosberg-about-the-drive-to-win/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-16"
 saved_at: "2026-04-16"
 reading_time: "39 mins"
 summary: "An interview with former F1 driver and current venture capitalist Nico Rosberg about finding the mental edge and maximizing opportunities."
-content_hash: "9e0bc4e58add20beb4d14e6f75a2403ccc2c6e81cd14238580cfd7538368bea7"
+content_hash: "c383a18be252c2732e46bb86aeb39ed5bf128d3dab0812e9204777925d72587c"
 ---
 
 An interview with former F1 driver and current venture capitalist Nico Rosberg about finding the mental edge and maximizing opportunities.

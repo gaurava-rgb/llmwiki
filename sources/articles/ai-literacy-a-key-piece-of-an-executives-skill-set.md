@@ -2,6 +2,8 @@
 title: "AI Literacy: A Key Piece of an Executive's Skill Set"
 reader_id: "01kmf17p2hs4crxfn3ra9ekw34"
 notion_page_id: "3464ebe7-f118-81cc-bfac-eafcc91581ac"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmf17p2hs4crxfn3ra9ekw34"
 source_url: "https://executive.mit.edu/blog/ai-literacy-a-key-piece-of-an-executives-skill-set.html"
 author: "MIT"
@@ -11,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-03-24"
 reading_time: "6 mins"
 summary: "AI literacy is essential for executives to understand how artificial intelligence shapes business decisions and strategy. Leaders must learn to evaluate AI risks, ethics, and opportunities to guide their organizations responsibly. Ongoing education, like MIT Sloan’s AI Essentials program, helps executives build skills needed for effective AI leadership."
-content_hash: "99fdbe46037327428d45de4e366842c3a2577715dc1acc3aad5f9c4110cd9359"
+content_hash: "b86ef5e7a616c377e41382ed11a883ffc81973ade06ffa3684a97bc6ac48030c"
 ---
 
 Once considered futuristic or cutting-edge, artificial intelligence (AI) is now embedded in organizational strategy, shaping operations, innovation, and decisions at every level. For executives, AI literacy goes beyond knowing basic features or tools; it means understanding how AI works, its limitations, and its broader implications, so strategic choices are informed and accountable.

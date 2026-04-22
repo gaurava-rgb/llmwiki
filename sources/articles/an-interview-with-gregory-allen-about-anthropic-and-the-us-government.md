@@ -2,6 +2,8 @@
 title: "An Interview with Gregory Allen About Anthropic and the U.S. Government"
 reader_id: "01kjzjrj40ne698bb88jb3zsnq"
 notion_page_id: "3464ebe7-f118-8181-996e-cfd8f4b73d6c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjzjrj40ne698bb88jb3zsnq"
 source_url: "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-05"
 saved_at: "2026-03-05"
 reading_time: "50 mins"
 summary: "An interview with Gregory Allen about Anthropic's dispute with the U.S. government."
-content_hash: "3811d7c92a045e7c3494bd623fed796130481bc017387a7e0f8d474a59fadfb4"
+content_hash: "7bd14c5fe8858a1db7d1a989968d9b6e393ea40f385294b8d69dc85dd7903c6a"
 ---
 
 An interview with Gregory Allen about Anthropic's dispute with the U.S. government.

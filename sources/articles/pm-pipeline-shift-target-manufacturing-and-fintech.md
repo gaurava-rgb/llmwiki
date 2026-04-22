@@ -2,6 +2,8 @@
 title: "PM Pipeline Shift: Target Manufacturing and Fintech"
 reader_id: "01kkg2s58d7rrw6rkja7sd8h28"
 notion_page_id: "3464ebe7-f118-81c5-bf4e-c11788d1ab29"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkg2s58d7rrw6rkja7sd8h28"
 source_url: "https://www.linkedin.com/posts/lauraliznelson_the-pm-pipeline-isnt-dead-%F0%9D%98%AA%F0%9D%98%B5-%F0%9D%98%AB%F0%9D%98%B6%F0%9D%98%B4-share-7427775950245003264-z4j1"
 author: "Laura E. Nelson"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-12"
 reading_time: "2 mins"
 summary: "The PM job market is very crowded in Big Tech, making it hard for MBAs to find roles there. New opportunities are growing in manufacturing, robotics, and fintech, where competition is lower. MBAs with tech skills should explore these industries for better chances at senior PM roles."
-content_hash: "7417deebe07efa64cf3f250f36124f0d5c5e5a19b3d9ccd973045984a59ce378"
+content_hash: "4ec195952276e1a3e3fc833f056b5806c73bee91d92624de4a48f5c980e9dd67"
 ---
 
 [ Laura E. Nelson ](<https://www.linkedin.com/in/lauraliznelson?trk=public_post_feed-actor-name>)

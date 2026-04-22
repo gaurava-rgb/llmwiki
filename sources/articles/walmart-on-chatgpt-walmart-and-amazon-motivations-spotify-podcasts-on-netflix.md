@@ -2,6 +2,8 @@
 title: "Walmart on ChatGPT, Walmart (and Amazon) Motivations, Spotify Podcasts on Netflix"
 reader_id: "01k7q35pb3nem9wy6e5gaydz4s"
 notion_page_id: "3484ebe7-f118-8127-a33c-d6573cdd1c8b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k7q35pb3nem9wy6e5gaydz4s"
 source_url: "https://stratechery.com/?p=17285"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-16"
 saved_at: "2025-10-16"
 reading_time: "8 mins"
 summary: "Walmart joins ChatGPT Instant Checkout; will Amazon be next? Then, Spotify and Netflix form the anti-YouTube alliance."
-content_hash: "79542c4aa4bbcb9792d5e9f481df62f5470dbd45b71eb64cd4c91950cde48dd4"
+content_hash: "456ba54322b39b1000fb4f1d6a27015e38908f0a700276d50b62773e3cb0de1f"
 ---
 
 Walmart joins ChatGPT Instant Checkout; will Amazon be next? Then, Spotify and Netflix form the anti-YouTube alliance.

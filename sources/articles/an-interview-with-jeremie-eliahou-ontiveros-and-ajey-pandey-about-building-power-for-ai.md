@@ -2,6 +2,8 @@
 title: "An Interview with Jeremie Eliahou Ontiveros and Ajey Pandey About Building Power for AI"
 reader_id: "01kefbq5by9hz6xnnje3x7fcy3"
 notion_page_id: "3464ebe7-f118-8139-b0bb-fb4aa1767771"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kefbq5by9hz6xnnje3x7fcy3"
 source_url: "https://stratechery.com/2026/an-interview-with-jeremie-eliahou-ontiveros-and-ajey-pandey-about-building-power-for-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-08"
 saved_at: "2026-01-08"
 reading_time: "58 mins"
 summary: "An Interview with Jeremie Eliahou Ontiveros and Ajey Pandey about how AI labs and hyperscalers are leveraging demand to build out entirely new electrical infrastructure for AI."
-content_hash: "9caab4ae81b2e03bc77bce637ba838dea14690f8c57abaebb89739d8beec4659"
+content_hash: "d32958efec75bc42877a84c381e2bad71ecf025d1bae6a584af1f831e384e3b1"
 ---
 
 An Interview with Jeremie Eliahou Ontiveros and Ajey Pandey about how AI labs and hyperscalers are leveraging demand to build out entirely new electrical infrastructure for AI.

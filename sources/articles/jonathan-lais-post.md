@@ -2,6 +2,8 @@
 title: "Jonathan Lai’s Post"
 reader_id: "01khxwnn54d9519twnfqwcatj4"
 notion_page_id: "3464ebe7-f118-81b5-9be0-c58f2394d40a"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01khxwnn54d9519twnfqwcatj4"
 source_url: "https://www.linkedin.com/feed/update/urn:li:activity:7428129559188881408/"
 author: "Jonathan Lai"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-20"
 reading_time: "2 mins"
 summary: "Jonathan Lai from Andreessen Horowitz is hiring a partner for their Speedrun team to invest early in new AI startups. They want someone technical who loves working closely with founders and understands startups. If interested, send your LinkedIn and a project link to speedruninvesting@a16z.com."
-content_hash: "eb25621c8da8264fb929b84358381020567ebe88c763044453e538cb5a854c48"
+content_hash: "f345fb41c36f20d12823a8618702f1940094b7a1eb7d46e6ecaac2c493f30c0a"
 ---
 
 [![View profile for Jonathan Lai](https://media.licdn.com/dms/image/v2/D5603AQEqaQRrTe2vrw/profile-displayphoto-shrink_400_400/B56ZXUf4jbGUAk-/0/1743026883049?e=2147483647&v=beta&t=1qBRbATpcr1XhrR4hzLYc1Lkv3mpDqmlQnbyovaP1VA)](<https://www.linkedin.com/in/jlai84?trk=public_post_feed-actor-image>)

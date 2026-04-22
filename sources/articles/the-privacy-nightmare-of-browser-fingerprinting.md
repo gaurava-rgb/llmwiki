@@ -2,6 +2,8 @@
 title: "The privacy nightmare of browser fingerprinting"
 reader_id: "01kb0amp6qa6qa6pgawc72kj81"
 notion_page_id: "3464ebe7-f118-8146-a4fc-cdd29695fb7f"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kb0amp6qa6qa6pgawc72kj81"
 source_url: "https://news.ycombinator.com/item?id=46016249"
 author: "ingve"
@@ -11,7 +13,7 @@ published: "2025-11-22"
 saved_at: "2025-11-26"
 reading_time: "11 mins"
 summary: "Browser settings like language choices can become persistent signals that uniquely identify you across sites. Fingerprinting is widespread and hard to avoid, used for ads, security, and state surveillance. Only broad adoption of privacy tools or systemic changes (e.g., Tor-like defaults or regulation) can reduce the risk."
-content_hash: "d2f8315fba203d3deac417749d6140dff76926f1597b8d5681f745eb8efbc2bf"
+content_hash: "5a1e87db1bb14963612b83902cc0ecd02e094bb192740b8c6a7d5c587d55f886"
 ---
 
 # [ingve](<https://news.ycombinator.com/user?id=ingve>)

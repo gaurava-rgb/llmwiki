@@ -2,6 +2,8 @@
 title: "The Internet Isn’t Killing Music Discovery — You’re Just Not Looking in the Right Places"
 reader_id: "01k1wfpr0hxcamf7kz6sr1stwa"
 notion_page_id: "3484ebe7-f118-81df-9131-d2ac3f21b466"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k1wfpr0hxcamf7kz6sr1stwa"
 source_url: "https://somethingnaive.substack.com/p/the-internet-isnt-killing-music-discovery?r=5ytg2r"
 author: "Thanda"
@@ -11,7 +13,7 @@ published: "2025-04-02"
 saved_at: "2025-08-05"
 reading_time: "6 mins"
 summary: "The internet has changed how we find new music, but it's not lost—it just takes looking in the right places. Platforms like SoundCloud, TikTok, YouTube, Bandcamp, and Musicboard offer ways to discover music through real communities and personal connections. Instead of relying on algorithms alone, exploring these spaces can make music discovery more meaningful and fun."
-content_hash: "f8abbdf647adbfb9e570428dc6436e020898602958e799b9cf8253f3b2791033"
+content_hash: "008c207e2ba36beed48d1bb598a6dfcba0c892a15ceec64acb18949a5e8f85f9"
 ---
 
 [![somethingNaive ](https://substackcdn.com/image/fetch/$s_!S9NT!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e6a4b50-cefe-4433-adf5-ea4cc74691db_640x640.png)](<https://somethingnaive.substack.com/>)

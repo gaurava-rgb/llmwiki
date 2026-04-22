@@ -2,6 +2,8 @@
 title: "Lenny Rachitsky’s Post"
 reader_id: "01kn5w7fj4anym5zrtx8c4zhba"
 notion_page_id: "3464ebe7-f118-818f-b654-d11548ca555e"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn5w7fj4anym5zrtx8c4zhba"
 source_url: "https://www.linkedin.com/posts/lennyrachitsky_my-biggest-takeaways-from-claire-vo-on-all-share-7445265542875148288--eld"
 author: "Lenny Rachitsky"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-04-02"
 reading_time: "2 mins"
 summary: "Lenny shares Claire Vo’s tips on using OpenClaw, an AI agent system. She suggests running multiple agents with clear roles on a separate device for best results. Success depends more on good management than technical skills, and security should be handled carefully."
-content_hash: "f0df076235584229d97b839f5b7842f7d45f2495b41d123381dd3f429db55287"
+content_hash: "c0869a8a6f76d9e0d68cb425bfaf6cd798fdb1c4ca2b59062e5f8468917ac997"
 ---
 
 [ Lenny Rachitsky ](<https://www.linkedin.com/in/lennyrachitsky?trk=public_post_feed-actor-name>)

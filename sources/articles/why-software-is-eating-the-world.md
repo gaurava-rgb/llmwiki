@@ -2,6 +2,8 @@
 title: "Why Software Is Eating the World"
 reader_id: "01k4wpcyc11xrth53br80dhc6g"
 notion_page_id: "3484ebe7-f118-81d4-bf3a-f96ea361d672"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k4wpcyc11xrth53br80dhc6g"
 source_url: "https://a16z.com/why-software-is-eating-the-world/"
 author: "Marc Andreessen"
@@ -11,7 +13,7 @@ published: "2011-08-20"
 saved_at: "2025-09-11"
 reading_time: "9 mins"
 summary: "Software is taking over large parts of the economy and disrupting traditional industries.  \nInternet tools let startups scale cheaply and build high-margin, defensible businesses.  \nThis will reshape jobs and incumbents, so we must grow talent and support new software companies."
-content_hash: "41375af9290298cc8ece2a7d7b14f61bd43c1adbbcc7e0cf1779b98a7fe1f88f"
+content_hash: "f4b746fb998ca33d50669e021393d28d82f1ae2730c61da34c1619801d14d5cf"
 ---
 
 Software is eating the world.

@@ -2,6 +2,8 @@
 title: "Meta Compute, The Meta-OpenAI Battle, The Reality Labs Sacrifice"
 reader_id: "01keyt2s21zn7fjf797jf3hf89"
 notion_page_id: "3464ebe7-f118-81ee-be63-f4c0ddc29071"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01keyt2s21zn7fjf797jf3hf89"
 source_url: "https://stratechery.com/?p=18050"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-14"
 saved_at: "2026-01-14"
 reading_time: "8 mins"
 summary: "Mark Zuckerberg announced Meta Compute, a bet that winning in AI means winning with infrastructure; this, however, means retreating from Reality Labs."
-content_hash: "d871b9b8a4c972b055961cd054710a6a2943f6841ffe1d2b8b7064a459208187"
+content_hash: "5bcca2f8fc57c67642fc020eb1790dc28d90167a233fcff7488cb6a611fcc4e5"
 ---
 
 Mark Zuckerberg announced Meta Compute, a bet that winning in AI means winning with infrastructure; this, however, means retreating from Reality Labs.

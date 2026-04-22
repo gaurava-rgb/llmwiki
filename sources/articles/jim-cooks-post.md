@@ -2,6 +2,8 @@
 title: "Jim Cook’s Post"
 reader_id: "01jz21nk27j9bxkpgrfr24tyy4"
 notion_page_id: "3484ebe7-f118-8138-b854-e5449b087458"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01jz21nk27j9bxkpgrfr24tyy4"
 source_url: "https://www.linkedin.com/posts/cookflix_a-few-weeks-ago-i-attended-the-a16z-finance-activity-7345511953064259588-W9w3/"
 author: "Jim Cook"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-07-01"
 reading_time: "2 mins"
 summary: "Jim Cook attended a finance event where leaders discussed new ways to improve accounting. They want faster, accurate numbers to help businesses make quick decisions. The goal is to rethink the entire finance process and share clear, real-time data openly."
-content_hash: "22bf628a0914dfbe6940ecfe9c94ffe66120458fad68d73b0d3ea7f3dd4d8709"
+content_hash: "7c765c576ab1ab79938c876a414f3327acdccf3daf9945a0f146abf86cabe853"
 ---
 
 [ Jim Cook ](<https://www.linkedin.com/in/cookflix?trk=public_post_feed-actor-name>)

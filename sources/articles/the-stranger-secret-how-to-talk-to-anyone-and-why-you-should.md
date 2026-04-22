@@ -2,6 +2,8 @@
 title: "The stranger secret: how to talk to anyone – and why you should"
 reader_id: "01kjrh2rvhw8sh7nspcjq3t7p3"
 notion_page_id: "3464ebe7-f118-8198-8ff3-f63ea625d1d6"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kjrh2rvhw8sh7nspcjq3t7p3"
 source_url: "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"
 author: "Viv Groskop"
@@ -11,7 +13,7 @@ published: "2026-02-24"
 saved_at: "2026-03-03"
 reading_time: "8 mins"
 summary: "Many people avoid talking to strangers because they fear rejection or feel socially anxious. However, small conversations can help us connect and remind us of our shared humanity. Taking the risk to talk to others enriches both ourselves and society."
-content_hash: "1a1af7db305d28aad879a687895187f564ae605f2c8ffc9d3b3ef332305d5021"
+content_hash: "d976e01cef75f71e5d376a9a5dd596df97a807a8c28c57e8cade01d63c185d0c"
 ---
 
 ![Two 1950s Women Sitting Under Beauty Salon Hair Dryers Wearing Hairnets Towels Talking Gossip ](https://i.guim.co.uk/img/media/5426e410425dfa173d930beb0b9a4adadfe2f4ca/0_0_5873_4699/master/5873.jpg?width=465&dpr=1&s=none&crop=none)The days before we all had mobile phones. Photograph: Debrocke/ClassicStock

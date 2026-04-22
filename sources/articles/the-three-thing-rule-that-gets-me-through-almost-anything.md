@@ -2,6 +2,8 @@
 title: "The Three-Thing Rule That Gets Me Through Almost Anything"
 reader_id: "01kk53kmebe9mswn35b3es8x7w"
 notion_page_id: "3464ebe7-f118-8174-8361-c9f0006dc299"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk53kmebe9mswn35b3es8x7w"
 source_url: "https://www.linkedin.com/pulse/three-thing-rule-gets-me-through-almost-anything-rajen-garabadu-y2fpc"
 author: "Rajen Garabadu"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-07"
 reading_time: "5 mins"
 summary: "There's a moment — you've probably lived it — when the weight of everything lands on your chest all at once. A relationship fractures."
-content_hash: "a44fe50f8bf7aa71a102d9351ad7d7df07305ae7c443077f6cf77247641eb5e3"
+content_hash: "f0e38a0410f68d74c0c5894b27678fa82904f7b7ae181e6d260e9329bdb5707c"
 ---
 
 ![The Three-Thing Rule That Gets Me Through Almost Anything](https://media.licdn.com/dms/image/v2/D5612AQEYDkn15c4cGw/article-cover_image-shrink_600_2000/B56ZzCFObpIkAQ-/0/1772782676735?e=2147483647&v=beta&t=hQM7jra-PqZ2yIZfuGc9G-mXrpePiUNSCixy8dxtBbM)

@@ -2,6 +2,8 @@
 title: "OpenAI Instant Checkout, AI and Long Tail E-Commerce, Is AI Different?"
 reader_id: "01k6dvzfz6cf1bqfe5q22gnazb"
 notion_page_id: "3484ebe7-f118-816f-b90d-d3f64f8d5ce4"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6dvzfz6cf1bqfe5q22gnazb"
 source_url: "https://stratechery.com/2025/openai-instant-checkout-ai-and-long-tail-e-commerce-is-ai-different/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-30"
 saved_at: "2025-09-30"
 reading_time: "8 mins"
 summary: "OpenAI's Instant Checkout highlights why AI commerce fills a unique role, to the benefit of Shopify and Etsy; will it work better than Meta's native Checkout?"
-content_hash: "53081be6b3526f8af070925e444a350b938c4b9b49dcb98bdd4da0064b539926"
+content_hash: "7d37508b2c567502338b3f39d2a0323ac2eaa8cbffc8338a46b34bc222893478"
 ---
 
 OpenAI's Instant Checkout highlights why AI commerce fills a unique role, to the benefit of Shopify and Etsy; will it work better than Meta's native Checkout?

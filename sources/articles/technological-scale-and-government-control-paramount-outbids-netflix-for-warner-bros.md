@@ -2,6 +2,8 @@
 title: "Technological Scale and Government Control, Paramount Outbids Netflix for Warner Bros."
 reader_id: "01kjte0vtt4kz9g41th306vw53"
 notion_page_id: "3464ebe7-f118-81af-ba3e-cd2818c28a76"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjte0vtt4kz9g41th306vw53"
 source_url: "https://stratechery.com/2026/technological-scale-and-government-control-paramount-outbids-netflix-for-warner-bros/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-03"
 saved_at: "2026-03-03"
 reading_time: "7 mins"
 summary: "Why government is not the primary customer for tech companies, and is Netflix relieved that they were outbid for Warner Bros.?"
-content_hash: "80232c0e080da6b5ab6ba45400cb210f657cfb0874b754870e1590b830ae3227"
+content_hash: "5cf632eb866d6d039585c19e092b98ec2c3fa4a3402020a4f067f89c84de8bae"
 ---
 
 Why government is not the primary customer for tech companies, and is Netflix relieved that they were outbid for Warner Bros.?

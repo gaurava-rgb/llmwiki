@@ -2,6 +2,8 @@
 title: "An Emergency Interview with Michael Nathanson About Netflix's Acquisition of Warner Bros."
 reader_id: "01kc247sevw80ky4tv6fathtt7"
 notion_page_id: "3464ebe7-f118-81d7-a59a-ee0561ef6c50"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kc247sevw80ky4tv6fathtt7"
 source_url: "https://stratechery.com/2025/an-emergency-interview-with-michael-nathanson-about-netflixs-acquisition-of-warner-bros/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-09"
 saved_at: "2025-12-09"
 reading_time: "41 mins"
 summary: "An interview with MoffettNathanson's Michael Nathanson about Netflix's acquisition of Warner Bros. and the Hollywood end game."
-content_hash: "af8f0f5bc2518dc837be528a92f9007f84d0f66e42e554ae248847b2b1ac1969"
+content_hash: "9d75c34ddcbe4a892fc2f2fbb508d0c47cb0ec5092b78793f251017bfa693bdf"
 ---
 
 An interview with MoffettNathanson's Michael Nathanson about Netflix's acquisition of Warner Bros. and the Hollywood end game.

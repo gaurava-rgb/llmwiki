@@ -2,6 +2,8 @@
 title: "A Personal Update and Vacation Break"
 reader_id: "01k31prg9mrssxqb1kc1eph0bx"
 notion_page_id: "3484ebe7-f118-81de-9c4f-f522bfde2fa0"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k31prg9mrssxqb1kc1eph0bx"
 source_url: "https://stratechery.com/2025/a-personal-update-and-vacation-break/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-19"
 saved_at: "2025-08-19"
 reading_time: "3 mins"
 summary: "A Personal Update and Vacation Break"
-content_hash: "160950bdd90d77b3ffa680f0951b6d31f7e9026651dbbaac01b75a8d89b0b1e9"
+content_hash: "0260eaf282edc59db6b4469a7bfc1002eac144c59460538030eff62b0a6a4b61"
 ---
 
 A Personal Update and Vacation Break

@@ -2,6 +2,8 @@
 title: "Insurance Money Is Latest Funding Source for AI Developers"
 reader_id: "01k5bskyckxc173qnn6ssefhva"
 notion_page_id: "3484ebe7-f118-81dc-93a4-cb348edaaa3d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyckxc173qnn6ssefhva"
 source_url: "https://www.theinformation.com/articles/insurance-money-latest-funding-source-ai-developers"
 author: "Miles Kruppa"
@@ -11,7 +13,7 @@ published: "2025-09-16"
 saved_at: "2025-09-17"
 reading_time: "4 mins"
 summary: "Wall Street is turning to life insurance capital to meet artificial intelligence’s insatiable funding needs, melding the AI boom with a fast growing source of assets for the biggest private equity firms.\nApollo Global Management, one of the largest asset managers, recently bought Texas-based Stream Data Centers, which is targeting the big cloud and AI developers known as hyperscalers. Once the deal is finalized, Apollo executives see an opportunity to invest funds from the firm’s insurance arm Athene into new developments being constructed by Stream, said people familiar with the strategy.That strategy is becoming a familiar one among large private equity firms. KKR has used funds from its insurance business Global Atlantic in a debt offering for CyrusOne, a large data center developer it partly owns.\nThe growing use of insurance capital in data center deals comes as the owners of other big pools of capital—including banks, governments, private debt firms, institutional investors and tech giants—have already committed hundreds of billions of dollars to data center projects. Bankers are optimistic insurance capital can help meet the growing funding needs of data center developers, which are developing bigger facilities to keep up with AI.\nLarge insurance fund managers including Blackstone’s credit and insurance arm are expected to invest in a $22 billion debt financing to help Vantage Data Centers build a new campus in Texas, said people familiar with the talks. Insurance funds until recently have largely invested in debt backed by data center facilities with several years of operations behind them.\nThe move by insurance providers into early-stage developments such as Vantage’s could raise risks for policyholders if the data center boom begins to cool. Insurers have historically invested in safe corporate and government bonds, but private equity firms use a broader range of often riskier assets to boost returns. The firms argue that insurance capital is a good mat..."
-content_hash: "f46414ca0c1854e9489cf5cab252f347c8c6d8d93043b0bd402ec8d2be51a6b2"
+content_hash: "579da9f5576a323ab438b315673352db36f9101049d8562412811f6106bd24db"
 ---
 
 ![Credit: CEO of Apollo Marc Rowan, left, and KKR partner Waldemar Szlezak. Images via Getty; YouTube.](https://tii.imgix.net/production/articles/15763/8daeef44-6c19-4bd2-a33f-d0874e8eb4b9.png?fm=jpeg&auto=compress&w=610)

@@ -2,6 +2,8 @@
 title: "Aadit Sheth (@aaditsh) on Threads"
 reader_id: "01k00rrm8rxkse0cxb9b9pjkv3"
 notion_page_id: "3484ebe7-f118-8192-9b2d-dfb5ed42b3da"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k00rrm8rxkse0cxb9b9pjkv3"
 source_url: "https://www.threads.com/@aaditsh/post/DMBM-oLxmFg?xmt=AQF0VcdH0WPHCsgaHoqR-6JU3voBcoWW7jREzmx-by5jXg"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-07-12"
 saved_at: "2025-07-13"
 reading_time: "1 min"
 summary: "The author hopes the heatwave will end soon. The garden is very dry but the hydrangea looks okay. They wish everyone a happy Sunday."
-content_hash: "64b59993b8bcdc6eae4aff4f0ccd845a6fc2ffd394f4a1d4758ff80a4b21b63d"
+content_hash: "b233404bd153f6382b50eabaefd4c6a401443929fc17996e5c9ef61b9ba85513"
 ---
 
 ![](https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/520086102_18510928387014368_1083226124894484316_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFbqsLynqvxINpGAxTEHUqmuQkL2OBt84k6u5BjAG0C_Gi5hd3CwzkwBMBoVt1ZT4g&_nc_ohc=_MZvaaHOI0IQ7kNvwHDOpOF&_nc_gid=_cCAra_0ILZrjlM9ircVnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfR0cFRZE9nAyuwZUvsZDU58BwazxynWelhTJGf8kTwV6g&oe=687A529C&_nc_sid=10d13b)

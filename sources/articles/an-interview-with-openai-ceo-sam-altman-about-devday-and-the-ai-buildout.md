@@ -2,6 +2,8 @@
 title: "An Interview with OpenAI CEO Sam Altman About DevDay and the AI Buildout"
 reader_id: "01k72f5n1vxvn51c03z4qjk69h"
 notion_page_id: "3484ebe7-f118-81ce-87e9-ea52dec13bec"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k72f5n1vxvn51c03z4qjk69h"
 source_url: "https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-devday-and-the-ai-buildout/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-08"
 saved_at: "2025-10-08"
 reading_time: "30 mins"
 summary: "An interview with OpenAI CEO Sam Altman about the infrastructure buildout, expanding ChatGPT, and the vision that unites it all."
-content_hash: "855ed264e5e12a020af9c5c0a3bc4ad4fdd9af2d1784f1a3dac7c851cd794b43"
+content_hash: "834db42abb5615e2753a154d7b43df03b380160825e60de0396ca42324a4f37b"
 ---
 
 An interview with OpenAI CEO Sam Altman about the infrastructure buildout, expanding ChatGPT, and the vision that unites it all.

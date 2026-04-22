@@ -2,6 +2,8 @@
 title: "Nvidia Earnings, Moats and China, Nvidia vs. the AI Labs"
 reader_id: "01k3rwyw678pnp8vbyxwf76kz5"
 notion_page_id: "3484ebe7-f118-81e3-9c66-eb585c178b9d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k3rwyw678pnp8vbyxwf76kz5"
 source_url: "https://stratechery.com/2025/nvidia-earnings-moats-and-china-nvidia-vs-the-ai-labs/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-28"
 saved_at: "2025-08-28"
 reading_time: "11 mins"
 summary: "Nvidia's earning continue to be governed by supply — and reasoning models make that even more the case. Plus, why Nvidia is so desperate to get back into China."
-content_hash: "b8f4cfee6f85eedc6efa4cbf8712745efc308f7b37e613ca6952467fcab45cc4"
+content_hash: "7c943dc59baf3f3a93070edfee2e641b2d7304479de689323fa535532ffc7e40"
 ---
 
 Nvidia's earning continue to be governed by supply — and reasoning models make that even more the case. Plus, why Nvidia is so desperate to get back into China.

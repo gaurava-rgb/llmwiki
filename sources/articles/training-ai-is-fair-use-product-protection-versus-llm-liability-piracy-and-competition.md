@@ -2,6 +2,8 @@
 title: "Training AI is Fair Use, Product Protection Versus LLM Liability, Piracy and Competition"
 reader_id: "01jym3ejkanfyrvta6jk73ngzq"
 notion_page_id: "3484ebe7-f118-81a7-9712-dab57a6cbc1f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jym3ejkanfyrvta6jk73ngzq"
 source_url: "https://stratechery.com/2025/training-ai-is-fair-use-product-protection-versus-llm-liability-piracy-and-competition/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-25"
 saved_at: "2025-06-25"
 reading_time: "14 mins"
 summary: "The first big AI copyright decision has come down, and it's a big win for AI. It also provides a blueprint for how Congress can do more."
-content_hash: "1309e10e29146dda59ddd089d9fe16a984ae7fdf1be261aa32eb3a58c30c4530"
+content_hash: "e0bf83c07f71ff501132d3337fd23935a66961c0176aec6ba6d4814e516d9220"
 ---
 
 The first big AI copyright decision has come down, and it's a big win for AI. It also provides a blueprint for how Congress can do more.

@@ -2,6 +2,8 @@
 title: "An Interview with Netflix co-CEO Greg Peters About Engagement and Warner Bros."
 reader_id: "01kfkdzqsd8gmkdgmyzxhhrkmv"
 notion_page_id: "3464ebe7-f118-817a-aefe-d6bb2219e2ce"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kfkdzqsd8gmkdgmyzxhhrkmv"
 source_url: "https://stratechery.com/2026/an-interview-with-netflix-ceo-greg-peters-about-engagement-and-warner-bros/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-22"
 reading_time: "42 mins"
 summary: "An interview with Netflix co-CEO Greg Peters about engagement, competition, and the Warner Bros. acquisition."
-content_hash: "692f5939fbe384bc4294d46d1bf69d4af15783972236ae4ac173aea845242e80"
+content_hash: "fa7deb19a75d1f9e127818e150d193c8ba0258d21185ce8cb66deacc4244207f"
 ---
 
 An interview with Netflix co-CEO Greg Peters about engagement, competition, and the Warner Bros. acquisition.

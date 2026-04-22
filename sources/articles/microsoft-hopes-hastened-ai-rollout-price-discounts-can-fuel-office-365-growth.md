@@ -2,6 +2,8 @@
 title: "Microsoft Hopes Hastened AI Rollout, Price Discounts Can Fuel Office 365 Growth"
 reader_id: "01k5bskyfg30xkbfqxxtnj75b4"
 notion_page_id: "3484ebe7-f118-817d-b2ad-e4af25aff520"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyfg30xkbfqxxtnj75b4"
 source_url: "https://www.theinformation.com/articles/microsoft-hopes-hastened-ai-rollout-price-discounts-can-fuel-office-365-growth"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "8 mins"
 summary: "On paper, Informatica, a Redwood City-based cloud software firm with 5,000 white collar employees, is exactly the type of company that should be gung-ho to pay up and buy Microsoft 365 Copilot, the version of the company’s flagship Office software that comes with artificial intelligence features.\nAnd more than a year ago, Informatica did test out 365 Copilot for a handful of its employees, according to CIO Graeme Thompson. But Thompson said he has passed on buying seats primarily because he hasn’t seen uses for the AI that justify the price: at $30 a month per seat, Copilot roughly doubles the baseline cost of Office.\n“It’s easy for an employee to say, ‘Yes, this will help me,’ but hard to quantify how. And if they can’t quantify how it’ll help them … it’s not going to be a long discussion” over whether the software is worth paying for, Thompson said.Informatica, which plans to sell itself to Salesforce, a Microsoft rival in selling AI applications, isn’t paying for 365 Copilot anymore. Instead, it has focused on other AI tools, including a chatbot it built using in-house software and OpenAI models. The bot does much of what 365 Copilot can and costs less to develop than 365 Copilot seats, according to Thompson.\nFor nearly 30 years, Office has been one of Microsoft’s most prized crown jewels. The software accounts for roughly 30% of the company’s overall revenue and it still sees considerable growth—some 13% last year, to $87 billion. But Nadella has lately become increasingly concerned that Office’s growth could slow if Microsoft doesn’t add better AI to the software and convince customers the AI feature is worth it. Right now, 365 Copilot routinely struggles with basic functions, like accurately filling in what comes next in an Excel spreadsheet.\nIn response, Nadella has in recent months made improving 365 Copilot’s quality a top priority, executing a series of sweeping organizational and product changes meant to speed up development and rollout of the AI featu..."
-content_hash: "f75413a7ee3c702b82e9d32c800596e7958cd8a1dd5235cadd61d0817da230cd"
+content_hash: "da3a10573e52ffd75b2d9c9544e2437cbfb130bd400dd1355651d7c4a1e70fa0"
 ---
 
 ![Credit: Art by Clark Miller; photos from Getty Images.](https://tii.imgix.net/production/articles/15760/1d11cf15-4469-4cb6-9f6e-6fb1cea6f59d.jpg?fm=jpeg&auto=compress&w=610)

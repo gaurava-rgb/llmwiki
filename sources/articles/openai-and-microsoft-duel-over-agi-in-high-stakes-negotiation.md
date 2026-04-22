@@ -2,6 +2,8 @@
 title: "OpenAI and Microsoft Duel Over AGI in High-Stakes Negotiation"
 reader_id: "01jyptc6bw0asp76fpqnqgrydd"
 notion_page_id: "3484ebe7-f118-8169-aeeb-f62069406f2c"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyptc6bw0asp76fpqnqgrydd"
 source_url: "https://www.theinformation.com/articles/openai-microsoft-duel-agi-high-stakes-negotiation?rc=ayz15n"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2025-06-25"
 saved_at: "2025-06-26"
 reading_time: "12 mins"
 summary: "OpenAI is close to creating AGI and wants to restructure its business, but Microsoft disagrees with some terms. Microsoft fears losing exclusive access to OpenAI's advanced AI technology, which is crucial for its products. The two companies are in tough talks because both want to protect their interests as AI technology rapidly advances."
-content_hash: "987a7b9736276d432450dbc6f72d0ff0d568b4b3007cc83054d4c4496201c5c6"
+content_hash: "e22cf404e806741fbd465e536ed9065661a7b73b6bd196a4d5b4d92ee682a320"
 ---
 
 ![OpenAI and Microsoft Duel Over AGI in High-Stakes Negotiation](https://tii.imgix.net/production/articles/15299/cf3cfd34-fd4d-4986-a932-08c6ee1f462a.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Sam Altman, left, and Satya Nadella. Photos via Getty

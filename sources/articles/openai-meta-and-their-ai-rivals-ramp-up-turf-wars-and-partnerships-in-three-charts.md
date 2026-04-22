@@ -2,6 +2,8 @@
 title: "OpenAI, Meta and Their AI Rivals Ramp Up Turf Wars and Partnerships, in Three Charts"
 reader_id: "01kdm3h6ectgbjvxn6kwz6yh0j"
 notion_page_id: "3464ebe7-f118-81e6-b5d6-f838f5b4fd66"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kdm3h6ectgbjvxn6kwz6yh0j"
 source_url: "https://www.theinformation.com/articles/openai-meta-ai-rivals-ramp-turf-wars-partnerships-three-charts?rc=odbtx6"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2025-12-28"
 saved_at: "2025-12-29"
 reading_time: "5 mins"
 summary: "Big tech firms raced in 2025 to build full AI stacks, including servers, chips, devices and humanoid robots. Rivalry drove companies to both compete and partner, creating a tangled web of alliances. The goal is more control, lower costs, and bigger shares of fast-growing AI markets."
-content_hash: "06649d5d3ded9a3c9df715bcbc843160409aeb45ec339f910de9b60bd0d11a17"
+content_hash: "b059f56d69a6a584c62d1a5853b144bc759c499ffc2b4689ecc9747a80371020"
 ---
 
 Some content could not be imported from the original document. [View content ↗ ](<https://datawrapper.dwcdn.net/DrhqS/7/>)

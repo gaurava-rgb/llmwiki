@@ -2,6 +2,8 @@
 title: "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle"
 reader_id: "01kp95k2gfkpggsz3sgzt5jbcc"
 notion_page_id: "3464ebe7-f118-8105-af69-e2d00d82d80e"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kp95k2gfkpggsz3sgzt5jbcc"
 source_url: "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-15"
 saved_at: "2026-04-15"
 reading_time: "10 mins"
 summary: "Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple."
-content_hash: "217192f7492f7728f437674f0359db448e90143885b77d4846ee99f8bd3256a9"
+content_hash: "1999dde72910f835edb3a2a0d0fd2a6985e0c5750d4c86f9a34bf02fca6161ea"
 ---
 
 Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.

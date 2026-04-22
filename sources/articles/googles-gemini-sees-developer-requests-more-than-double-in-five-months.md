@@ -2,6 +2,8 @@
 title: "Google’s Gemini Sees Developer Requests More Than Double in Five Months"
 reader_id: "01kfcx0jgym75zhbqvv1nw2g7z"
 notion_page_id: "3464ebe7-f118-8109-92ab-cddd0a274c04"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kfcx0jgym75zhbqvv1nw2g7z"
 source_url: "https://www.theinformation.com/articles/googles-gemini-sees-skyrocketing-business-sales?rc=odbtx6"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2026-01-19"
 saved_at: "2026-01-20"
 reading_time: "5 mins"
 summary: "Google’s Gemini AI models have seen a big increase in use, with developer requests more than doubling in five months. This growth is helping Google Cloud make more money and attract more customers. However, some users have mixed feelings about Google’s software built on these AI models."
-content_hash: "6d8836ffff520737508b1f27aa2695db894799c8b463aa6d889e844ac4ec50c1"
+content_hash: "2212169c0b25197d4ebf941551573170524abcff576250404417ab4af5ab204d"
 ---
 
 ![Google’s Gemini Sees Developer Requests More Than Double in Five Months](https://tii.imgix.net/production/articles/16423/fe74cb6c-0463-40a7-8ae9-94e5aa6019ad.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)

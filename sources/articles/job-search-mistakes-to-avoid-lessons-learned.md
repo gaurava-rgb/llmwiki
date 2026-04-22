@@ -2,6 +2,8 @@
 title: "Job Search Mistakes to Avoid: Lessons Learned"
 reader_id: "01kk99ydwqjrcy2w4k91tgmmwa"
 notion_page_id: "3464ebe7-f118-81a7-8616-d3afbce9f151"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk99ydwqjrcy2w4k91tgmmwa"
 source_url: "https://www.linkedin.com/posts/margilgandhi_what-id-do-differently-if-i-had-to-job-search-share-7426826994769862657-FHgp"
 author: "Margil Gandhi"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-09"
 reading_time: "1 min"
 summary: "The author learned to balance job board use with referrals and direct outreach. They advise starting conversations early and treating networking with curiosity. Also, focus on sharing stories and results, not just resume details."
-content_hash: "35c2f533196041d3edf54f578702c4013b12ea5158ca87739cc52abbf156ee71"
+content_hash: "4f3b0dc0375e5162f3e191a665ae0a49ceab764e1718ee9a5856bd2bf2557e28"
 ---
 
 [ Margil Gandhi ](<https://www.linkedin.com/in/margilgandhi?trk=public_post_feed-actor-name>)

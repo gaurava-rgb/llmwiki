@@ -2,6 +2,8 @@
 title: "Ben Erez’s Post"
 reader_id: "01knhrhkqpgw99xjp378b0wymp"
 notion_page_id: "3464ebe7-f118-8169-b8d4-eed357339832"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01knhrhkqpgw99xjp378b0wymp"
 source_url: "https://www.linkedin.com/posts/benerez_anthropic-went-from-1b-to-19b-arr-in-14-share-7446724527532888064-gz2y"
 author: "Ben Erez"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-04-06"
 reading_time: "2 mins"
 summary: "Anthropic grew from $1B to $19B ARR in 14 months and needs strong product managers (PMs). Insider Loops launched a detailed guide to help candidates understand Anthropic's PM interview process. This is a great time to apply because the company values culture and trust deeply."
-content_hash: "d2a957ae49a128f4c09c688a023e0fa8fa15333bcf93e08bcd7e36d48ab25e1f"
+content_hash: "44646af33ec01527505cbcc9322aa5df2b81b344a9023ad0be25ee98e34e1f74"
 ---
 
 [ Ben Erez ](<https://www.linkedin.com/in/benerez?trk=public_post_feed-actor-name>)

@@ -2,6 +2,8 @@
 title: "AI Forces Silicon Valley to Confront a Moment of Ecstasy and Agony"
 reader_id: "01k3c0m4r2fmmqnhbtr0ttgt02"
 notion_page_id: "3484ebe7-f118-8159-a31c-ddba7f0d4571"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c0m4r2fmmqnhbtr0ttgt02"
 source_url: "https://www.theinformation.com/articles/ai-forces-silicon-valley-confront-moment-ecstasy-agony?rc=rpuplc"
 author: "Jemima McEvoy"
@@ -11,7 +13,7 @@ published: "2025-08-23"
 saved_at: "2025-08-23"
 reading_time: "6 mins"
 summary: "Silicon Valley is racing to reinvent itself around AI. Founders and workers feel excited and terrified, working harder and making big bets. Big valuations hide that durable AI revenue is scarce and concentrated in a few firms."
-content_hash: "807bde7e469b9eafba55b86b35c7f4df441eb83ee351783b324928c35dd8a026"
+content_hash: "56eabd45d06973ebd203d416b7722e875fb40cef7e61eb9cb18078adeec03784"
 ---
 
 Last fall, Howie Liu, CEO and co-founder of Airtable, arrived at a board meeting with an urgent realization: If Airtable, a maker of collaboration software, wanted to stay relevant, it needed to significantly rethink itself. “We started to feel like the incumbent instead of the disruptor and risked becoming one of the dinosaurs,” Liu said.

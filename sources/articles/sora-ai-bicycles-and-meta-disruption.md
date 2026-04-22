@@ -2,6 +2,8 @@
 title: "Sora, AI Bicycles, and Meta Disruption"
 reader_id: "01k6wyndnz5w56r5v81f349vfz"
 notion_page_id: "3484ebe7-f118-810e-9e91-c90b5f38c055"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6wyndnz5w56r5v81f349vfz"
 source_url: "https://stratechery.com/2025/sora-ai-bicycles-and-meta-disruption/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-06"
 saved_at: "2025-10-06"
 reading_time: "18 mins"
 summary: "Sora is going viral, suggesting there is a big opportunity in unlocking creativity. If that's true, that's good for humanity — and bad for Meta."
-content_hash: "0e53ceabd43fe2e0b03e7d2a8e7cdeb98b345780d87085725efff096903a50a3"
+content_hash: "bd9aaada8d4bb5dd46332171439ebb17b462e3bd158b0c3d850c64f72f0e216e"
 ---
 
 Sora is going viral, suggesting there is a big opportunity in unlocking creativity. If that's true, that's good for humanity — and bad for Meta.

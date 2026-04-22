@@ -2,6 +2,8 @@
 title: "Amazon Earnings, AWS and OpenAI, Did Amazon Solve Groceries?"
 reader_id: "01k98067000kxpb2q21dv9d5wr"
 notion_page_id: "3484ebe7-f118-8117-818c-fa38d5df0ac1"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k98067000kxpb2q21dv9d5wr"
 source_url: "https://stratechery.com/2025/amazon-earnings-aws-and-openai-did-amazon-solve-groceries/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-04"
 saved_at: "2025-11-04"
 reading_time: "9 mins"
 summary: "Amazon says the constraint right now is power, not chips; it's giving plenty of the latter to OpenAI. Then, Amazon solves groceries by getting faster tat delivering everything else."
-content_hash: "df109b6b3a698264bdcbe06d59dfb80c729b3e4b60efd6c1eda1a49201063f4b"
+content_hash: "cc92146963a65b46755577a9f18d77521687bc0915287f2193d5f002722f74d2"
 ---
 
 Amazon says the constraint right now is power, not chips; it's giving plenty of the latter to OpenAI. Then, Amazon solves groceries by getting faster tat delivering everything else.

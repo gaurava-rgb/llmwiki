@@ -2,6 +2,8 @@
 title: "Meta + Scale AI?, Meta's Reset, AI as Sustaining Innovation"
 reader_id: "01jxg0qa1f4c7vbehwx1630ya9"
 notion_page_id: "3484ebe7-f118-8186-9b74-e2a4bd285b04"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxg0qa1f4c7vbehwx1630ya9"
 source_url: "https://stratechery.com/2025/meta-scale-ai-metas-reset-ai-as-sustaining-innovation/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-11"
 saved_at: "2025-06-11"
 reading_time: "9 mins"
 summary: "Meta is reportedly buying 49% of Scale AI and hiring CEO Alexandr Wang; this seems to be deal about fixing Llama, not about Scale AI."
-content_hash: "10b77288526f5c7a4f41e1e8890848a0b17d1d806575faf73872ebfafc10ed67"
+content_hash: "b36cc0557ff1070dac5fcb95c2b3a93e96313106fb19e7519294ab1b4a45d5a0"
 ---
 
 Meta is reportedly buying 49% of Scale AI and hiring CEO Alexandr Wang; this seems to be deal about fixing Llama, not about Scale AI.

@@ -2,6 +2,8 @@
 title: "Paradigm Shifts and the Winner's Curse"
 reader_id: "01k2088p351w7sqfd7jjr8d31b"
 notion_page_id: "3484ebe7-f118-81e3-98c1-d77b8f9fc875"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k2088p351w7sqfd7jjr8d31b"
 source_url: "https://stratechery.com/2025/paradigm-shifts-and-the-winners-curse/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-06"
 saved_at: "2025-08-06"
 reading_time: "19 mins"
 summary: "When paradigms change, previous winners have the hardest time adjusting; that is why AI might be a challenge for Apple and Amazon"
-content_hash: "66a4d5af22c193f8c35c20d8c4acde378a7b831c1298769c0d543ec8c7f80545"
+content_hash: "98d4191891b839607c3450a2790479dc82e34c068ab87c6a010d8ca14b79dfb8"
 ---
 
 When paradigms change, previous winners have the hardest time adjusting; that is why AI might be a challenge for Apple and Amazon

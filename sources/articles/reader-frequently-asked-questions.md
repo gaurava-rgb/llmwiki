@@ -2,6 +2,8 @@
 title: "Reader: Frequently Asked Questions"
 reader_id: "01jxdywqcf7d8yhamwc2g4sgk3"
 notion_page_id: "3484ebe7-f118-8184-a16a-c5a7e8358754"
+category: "article"
+source_type: "readwise onboarding"
 reader_url: "https://read.readwise.io/read/01jxdywqcf7d8yhamwc2g4sgk3"
 source_url: "https://blog.readwise.io/p/f8c0f71c-fe5f-4025-af57-f9f65c53fed7/"
 author: "Daniel Doyon"
@@ -11,7 +13,7 @@ published: "2023-08-10"
 saved_at: "2025-06-10"
 reading_time: "54 mins"
 summary: "You can save articles to Reader using a browser extension or directly in the app, and highlights will sync with Readwise. Reader supports keyboard shortcuts for easy navigation and allows highlighting on both the open web and within the app. You can import articles from Instapaper or Pocket, and all your highlights are preserved for easy access later."
-content_hash: "ea0e9b722f098c17e5f30ddeae8a5bb17a4b8b859261714ca4ed2af4f45615ad"
+content_hash: "8f5a41f2e1d009722c12b665c0be808e70c4b42fbf1e87503d8c6fa0fa3c2d20"
 ---
 
 ## Pro Tip: Use Ghostreader on this doc 👻

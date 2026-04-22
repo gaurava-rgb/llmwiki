@@ -2,6 +2,8 @@
 title: "Apple’s “F1” Movie Opens, Spotlighting Puzzle Over Strategy"
 reader_id: "01jyx51mx6pq7rtxx0ywh30kvs"
 notion_page_id: "3484ebe7-f118-81fc-aeca-e65f79443ab7"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyx51mx6pq7rtxx0ywh30kvs"
 source_url: "https://www.theinformation.com/articles/apples-f1-movie-opens-spotlighting-puzzle-strategy"
 author: "Martin Peers"
@@ -11,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-06-29"
 reading_time: "5 mins"
 summary: "Can I have a show of hands of those who plan this weekend to see the new Apple-made Brad Pitt movie, “F1,” which opened today in theaters? It is the kind of film—full of shots of cars racing at high speed—that surely looks better on the big screen. That’s definitely the view of Eddy Cue, the Apple executive with responsibility for the company’s entertainment operations: He told Bloomberg in an interview published this week that “theatrical experiences are great and I’m a huge fan.” Movie theater owners across America will be grateful for his support—if not Apple shareholders.It’s one thing for Apple to lose a billion dollars annually on a streaming service, as it now does. It’s another to make big-budget movies for theatrical release, where the possibility of losing massive amounts of money is very real. The new movie, which reportedly cost $200 million, intensifies long-standing questions about Apple’s rationale for getting into entertainment. In that context, it’s instructive to see Cue’s comment to Bloomberg that “Apple got into this business because we thought it would be a good business.” That’s a bit worrisome. No sane person gets into movies and TV thinking it’s a good business! Of course, while they might say that’s the reason, it’s usually more about the razzmatazz, to mingle with stars and attend the Oscars. Maybe Apple thinks it helps enhance its brand. But profits aren’t likely to be the rationale. Film and television production is more a consumer of funds than a producer. Take Disney and Warner Bros. Discovery, two of the biggest entertainment companies, with well-established film and TV studios. Both reported that their studio operations had an operating profit margin in their 2024 fiscal year of a little above 4%. The year before, it was lower for both (Disney lost money in the segment!). Apple’s profit margin, by the way, was 31%. Both Warner and Disney make a bunch more money from TV channels (mostly the traditional style, which are declining), w..."
-content_hash: "d76569224382cf908575d0af9dcb0a5fbac96e2c9948884c69776cb0f38efb89"
+content_hash: "90c87e81f8140a027af35d8d73882b352b536ec9f6eae1e60d98250555698943"
 ---
 
 ![Credit: Brad Pitt and Tom Cruise at the European premiere of F1. Photo via Getty](https://tii.imgix.net/production/articles/15287/34669bb1-493a-4459-911a-7cb38f12d87b-rrFQ6d.png?fm=jpeg&auto=compress&w=610)

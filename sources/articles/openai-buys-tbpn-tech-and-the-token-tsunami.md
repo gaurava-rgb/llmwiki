@@ -2,6 +2,8 @@
 title: "OpenAI Buys TBPN, Tech and the Token Tsunami"
 reader_id: "01knhzs1d3hsbavxhmdpfba48e"
 notion_page_id: "3464ebe7-f118-818c-a0a7-e35c9b2b638d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01knhzs1d3hsbavxhmdpfba48e"
 source_url: "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-06"
 saved_at: "2026-04-06"
 reading_time: "8 mins"
 summary: "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services."
-content_hash: "11d12e3826d71f279face38f9dc49e3b9ce0c43a58c926dec5881e8f5217e01a"
+content_hash: "f029118130a38098a23d6241630126dd0db833223b843e2df7b248a6e2d2fc61"
 ---
 
 OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.

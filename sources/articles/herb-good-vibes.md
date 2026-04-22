@@ -2,6 +2,8 @@
 title: "herb - good vibes"
 reader_id: "01k7gjtrdc975qwb1naxh41dt4"
 notion_page_id: "3484ebe7-f118-818c-ac0d-f02e2698b8c7"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k7gjtrdc975qwb1naxh41dt4"
 source_url: "https://www.threads.com/@fungidivine/post/DPwPVuiir7o?xmt=AQF0K1K0FlEUiR5LGt1kK0GYQ4kKBgXibbf1eK412mRGmw&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-10-13"
 saved_at: "2025-10-14"
 reading_time: "1 min"
 summary: "The post mixes mushroom supplement claims with spiritual and healing ideas. It also asserts that racism is taught, not innate, and stresses human unity. Finally, it notes people returning to northern Gaza after a recent ceasefire and mentions financial moves in distressed-debt investing."
-content_hash: "b43da1af774f9031e547b0e667f59245a1676515a283874691a25843576e5547"
+content_hash: "805a0b326e487a737e1e5c099b3b0709000d51d351f6c7364b03220022b896cc"
 ---
 
 Psilocybin - trauma rewiring. Lion's Mane - neuro-regrowth. Reishi - nervous system reset. Cordyceps - cellular energy ignition. Chaga - deep DNA restoration. Turkey Tail - gut-brain harmony. Tremella - skin matrix rebirth. Shiitake - liver detox signal.Not a wellness trend. Not just supplements. This is ancient biotech Decoded by time, designed for you.

@@ -2,6 +2,8 @@
 title: "Xbox Replaces Head of Gaming, Xbox History, Whither Xbox"
 reader_id: "01kjad6gefsrapwm677n068d0d"
 notion_page_id: "3464ebe7-f118-8130-a440-ffee2c6bb8db"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjad6gefsrapwm677n068d0d"
 source_url: "https://stratechery.com/2026/xbox-replaces-head-of-gaming-xbox-history-whither-xbox/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-25"
 saved_at: "2026-02-25"
 reading_time: "11 mins"
 summary: "Xbox has a new head, who isn't a gamer; I suspect Microsoft is doing what it should have done a decade ago: get out of the console business."
-content_hash: "f2bf02c4d80fe70b9285f06ff38d7d3bce750f08fdaebf54656b3b9ffc641bb7"
+content_hash: "f2d823c71ac3794180f3638709fd30a012b9407fa1fa688dada35e200d47a699"
 ---
 
 Xbox has a new head, who isn't a gamer; I suspect Microsoft is doing what it should have done a decade ago: get out of the console business.

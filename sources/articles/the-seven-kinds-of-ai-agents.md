@@ -2,6 +2,8 @@
 title: "The Seven Kinds of AI Agents"
 reader_id: "01jzkj1y9k1v9vwcsvhtayyevb"
 notion_page_id: "3484ebe7-f118-81e1-84de-eb9aec36aebb"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jzkj1y9k1v9vwcsvhtayyevb"
 source_url: "https://www.theinformation.com/articles/seven-kinds-ai-agents?rc=ayz15n"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2025-07-07"
 saved_at: "2025-07-07"
 reading_time: "5 mins"
 summary: "AI agents are smart programs that can do many tasks on their own, like helping with coding or customer support. They connect to different apps and work for a long time without needing much human help. Though costly, these agents save money by doing jobs faster and reducing the need for extra staff."
-content_hash: "d2e31934200e810c0987559e0cefd3bef22f1b7a9566cbbd9778064e927d33a6"
+content_hash: "5fc90466ce6bbfdd3a80b63b26f52dba23b7c86331979d253b9443404ef1caaa"
 ---
 
 ![The Seven Kinds of AI Agents](https://tii.imgix.net/production/articles/15352/ca1a4b04-5245-447a-9cab-89e3af0e985d.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Art via Clark Miller

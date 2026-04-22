@@ -2,6 +2,8 @@
 title: "TSMC Earnings, The TSMC Brake, Intel Earnings"
 reader_id: "01k8nznrh770rz87p4dk6zttcx"
 notion_page_id: "3484ebe7-f118-810f-b49a-d651be688bc2"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k8nznrh770rz87p4dk6zttcx"
 source_url: "https://stratechery.com/?p=17425"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-28"
 saved_at: "2025-10-28"
 reading_time: "11 mins"
 summary: "TSMC's earnings reinforce the possibility that TSMC's willingness to invest is real governor on the AI bubble. Intel needs to provide some competition."
-content_hash: "c2d1075d0beab149dec49e5d80b53fb352a611167aa6146480c7bde0d5717f69"
+content_hash: "d5f2668a5cc09ba669db5dd275498da84f21e74bba3f429505247b90d5ea6ced"
 ---
 
 TSMC's earnings reinforce the possibility that TSMC's willingness to invest is real governor on the AI bubble. Intel needs to provide some competition.

@@ -2,6 +2,8 @@
 title: "Inside the Great AI Talent Auction: The Deals, the Free Agents—and the Egos"
 reader_id: "01jyx51n2gnbkw68j79qxr695z"
 notion_page_id: "3484ebe7-f118-819a-965a-fdabe7f18af8"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyx51n2gnbkw68j79qxr695z"
 source_url: "https://www.theinformation.com/articles/inside-great-ai-talent-auction-deals-free-agents-egos"
 author: "Erin Woo"
@@ -11,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-06-29"
 reading_time: "8 mins"
 summary: "Say you’re at the top of your field. Say you’ve been promoted to be a senior researcher at OpenAI, watching the paper value of your equity swell as your company’s valuation goes from less than $20 billion to $260 billion in just four years. Say Mark Zuckerberg—yes, Zuck, personally—comes texting and calling, offering you tens of millions of dollars to help salvage his struggling AI lab.\nWhat do you do? Consider whether the move is actually worth it.\n“A lot of the early OpenAI people have achieved financial independence already,” said one person who was in that situation. “At some point, people are seeing a $25 million offer, and they’re just like, ‘Well, after tax it’s half that.’” The person turned Zuckerberg down. “I remember 10 years ago, people would be like, ‘Wow, a $400,000 offer.’ But now it’s gotten so crazy.”That’s something of an understatement. Hiring for AI talent has been hot since the moment after ChatGPT’s 2022 launch. As an astonishing amount of money poured into the industry, the recruiting drive intensified. A year or so ago, Elon Musk called the environment “the craziest talent war I’ve ever seen.” It has only escalated since.\n“AI researchers have become soccer players in the past 18 months: They go where they are paid the most,” said Victor Sanh, a former Hugging Face researcher who received his own series of “eye-watering offers” before deciding to do his own AI startup.\nCircumstances have reached the point of outright frenzy in the last several weeks, driven by Zuckerberg’s blitzkrieg recruiting—a bid to bolster Meta Platforms’ ranks in an effort to catch up with its AI rivals.\nThe splashiest deal: Meta hired Scale CEO Alexandr Wang as part of a $14.3 billion deal to take a 49% stake in Scale. It’s also in advanced talks to hire former GitHub CEO Nat Friedman and Safe Superintelligence CEO Daniel Gross and partially buy out their venture fund, which could cost more than $1 billion. Meanwhile, OpenAI’s Sam Altman has said Zuckerberg has offer..."
-content_hash: "39efef9c6c8ebdaa7aa4da1a49fe0d7a3d8783e5d9263b3d2c87f4ac3298764f"
+content_hash: "0f2f3fec1ed748ae8784a4ec8dfbc788d1bd72471fdc804905f3a52ed16bc4c7"
 ---
 
 ![Credit: Art by Clark Miller.](https://tii.imgix.net/production/articles/15310/399f5b71-8ea9-444f-a92b-3823d7b17831.jpg?fm=jpeg&auto=compress&w=610)

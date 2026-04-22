@@ -2,6 +2,8 @@
 title: "TSMC Earnings, The TSMC Brake Revisited, Why AI Needs Foundry Competition"
 reader_id: "01kfgvrqpf413ywfk7d0c6f5xe"
 notion_page_id: "3464ebe7-f118-81b7-be5e-c49087530e9e"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kfgvrqpf413ywfk7d0c6f5xe"
 source_url: "https://stratechery.com/2026/tsmc-earnings-the-tsmc-brake-revisited-why-ai-needs-foundry-competition/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-21"
 saved_at: "2026-01-21"
 reading_time: "8 mins"
 summary: "TSMC admitted that it has invested too little in the face of overwhelming demand for AI; that's why the industry needs to facilitate competition for the foundry leader."
-content_hash: "9248c5d09c72402dfb7105f3c6f6e1abf920a681428edca6b40ed836bf497e03"
+content_hash: "8a0b6c2936f799ba582f6ca534c82fe1b9d10624b4bc5416de5ebb3c5702b361"
 ---
 
 TSMC admitted that it has invested too little in the face of overwhelming demand for AI; that's why the industry needs to facilitate competition for the foundry leader.

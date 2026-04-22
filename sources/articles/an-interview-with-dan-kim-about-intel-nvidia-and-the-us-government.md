@@ -2,6 +2,8 @@
 title: "An Interview with Dan Kim About Intel, Nvidia, and the U.S. Government"
 reader_id: "01k4wydmt1tfxekdgkavephy14"
 notion_page_id: "3484ebe7-f118-816d-831e-fcdd6a38bd95"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k4wydmt1tfxekdgkavephy14"
 source_url: "https://stratechery.com/2025/an-interview-with-dan-kim-about-intel-nvidia-and-the-u-s-government/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-11"
 saved_at: "2025-09-11"
 reading_time: "54 mins"
 summary: "Dan Kim says the U.S. lacked a leading‑edge foundry ecosystem, so the government took a stake in Intel to protect domestic chip supply. Intel is technically strong but has execution, trust, and demand problems and needs financial runway to compete with TSMC. The move reflects hard trade‑offs between market accountability and national security in the U.S.–China tech race."
-content_hash: "7a4ad1816eb5c04e59a21ebedac6796cfafd29fc616c9a97c35b570de94f3256"
+content_hash: "22c87a2d29a489f16719d433dc516e4a6918647194be88cf5bd3e5b15e425a0b"
 ---
 
 An interview with Dan Kim about the CHIPS program, why the U.S. took a stake in Intel, and the fraught dispute about Nvidia and China.

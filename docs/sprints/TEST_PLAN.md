@@ -20,7 +20,7 @@ python3 -m unittest discover -s tests
 | No private article access URLs | Public article markdown is safe to push | tracked article markdown does not contain private access tokens, Passport member URLs, or account email markers |
 | Wiki index links resolve | Agents can navigate compiled topics/concepts | all `[[topics/...]]` and `[[concepts/...]]` links in `INDEX.md` resolve |
 | Article image references resolve | Raw markdown can preserve local images when materialized | any local image paths in article frontmatter/body exist |
-| Capture bridge contracts | Reader/Notion capture is idempotent and public-safe | URL sanitizer, manifest, content hashes, dry-run behavior, and stale-file detection work without network |
+| Capture bridge contracts | Reader/Notion capture is idempotent and public-safe | URL sanitizer, supported Reader categories, `category`/`source_type` metadata, manifest, content hashes, dry-run behavior, and stale-file detection work without network |
 
 ## Planned Fixture Tests
 

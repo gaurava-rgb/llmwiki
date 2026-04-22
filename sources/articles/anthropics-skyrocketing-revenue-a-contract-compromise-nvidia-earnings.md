@@ -2,6 +2,8 @@
 title: "Anthropic's Skyrocketing Revenue, A Contract Compromise?, Nvidia Earnings"
 reader_id: "01kjwpehcx24mbkjp10tbmbe0x"
 notion_page_id: "3464ebe7-f118-815b-a083-fa6f858c035d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjwpehcx24mbkjp10tbmbe0x"
 source_url: "https://stratechery.com/2026/anthropics-skyrocketing-revenue-a-contract-compromise-nvidia-earnings/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-04"
 saved_at: "2026-03-04"
 reading_time: "9 mins"
 summary: "Anthropic's enterprise business is reaching escape velocity, which increases the importance of finding a compromise with the government. Then, agents dramatically increase demand for Nvidia chips, even if they threaten software."
-content_hash: "8dbdd375b7b28feabf061b0e7fa5f3c414a454c48382c418a5a26cff37c328eb"
+content_hash: "e3ad16d26caeb6a30e4379d1e308767ab35186d1a72e2acaa5a0cff2bc3839c7"
 ---
 
 Anthropic's enterprise business is reaching escape velocity, which increases the importance of finding a compromise with the government. Then, agents dramatically increase demand for Nvidia chips, even if they threaten software.

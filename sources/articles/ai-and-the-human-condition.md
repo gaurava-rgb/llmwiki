@@ -2,6 +2,8 @@
 title: "AI and the Human Condition"
 reader_id: "01ke7m69spk2eqz775dqcfdba8"
 notion_page_id: "3464ebe7-f118-81bd-9c3d-fe61de5d8e43"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01ke7m69spk2eqz775dqcfdba8"
 source_url: "https://stratechery.com/2026/ai-and-the-human-condition/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-05"
 saved_at: "2026-01-05"
 reading_time: "12 mins"
 summary: "AI might replace all of the jobs; that's only a problem if you think that humans will care, but if they care, they will create new jobs."
-content_hash: "4d73833f6a105b86c9e80347a926551e64eb489b5ffbbf46550101ebeb5d1886"
+content_hash: "56d44381da62c933ce93370176d1ca344b9f5331530b6cb9cdd4e2ed48c02685"
 ---
 
 AI might replace all of the jobs; that's only a problem if you think that humans will care, but if they care, they will create new jobs.

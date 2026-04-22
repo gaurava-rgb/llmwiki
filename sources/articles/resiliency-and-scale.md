@@ -2,6 +2,8 @@
 title: "Resiliency and Scale"
 reader_id: "01k86gp1w8cf9bhqnnwxqtdsam"
 notion_page_id: "3484ebe7-f118-81bd-bf87-e8421f27dc61"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k86gp1w8cf9bhqnnwxqtdsam"
 source_url: "https://stratechery.com/2025/resiliency-and-scale/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-22"
 saved_at: "2025-10-22"
 reading_time: "12 mins"
 summary: "Decreasing transportation and communications costs increases resiliency in theory, but destroys it in practice. The only way to have resiliency is through less efficiency."
-content_hash: "a736ab8054bd8811d8c5ec68d2ff7fb29f92d4fe9f65f5a112c633d0ff4b4abf"
+content_hash: "7e85fd43bab634e5b57ba9ea43dee3e3042260a55d02b22a7a54180def9c9440"
 ---
 
 Decreasing transportation and communications costs increases resiliency in theory, but destroys it in practice. The only way to have resiliency is through less efficiency.

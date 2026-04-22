@@ -2,6 +2,8 @@
 title: "Vibe Coding is OVER.. Here’s What Comes Next. | by Michal Malewicz | Mar, 2026 | Medium"
 reader_id: "01knqfwj5dskyyr8khke752c8e"
 notion_page_id: "3484ebe7-f118-815d-8fdf-c23c2bbbf11f"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqfwj5dskyyr8khke752c8e"
 source_url: "https://archive.ph/BSRXo"
 author: "archive.ph"
@@ -11,7 +13,7 @@ published: "2026-03-26"
 saved_at: "2026-04-08"
 reading_time: "11 mins"
 summary: "Many people use AI to build apps fast but without skill or care, leading to low-quality, forgettable products. True value comes from understanding design and putting real effort into solving problems. The future favors creators who use AI as a tool, not a crutch, to craft thoughtful and unique work."
-content_hash: "c130efbcebe7dcfe4cbb9def91881c7f9be2495771549aa9d6c0826a8b1369d0"
+content_hash: "ccb6f5dc87888d53c68309c1c2419c6f57fd0d9ecea6301de1d6757d3062c46d"
 ---
 
 ## Here’s What Comes Next.

@@ -2,6 +2,8 @@
 title: "Anthony Bourdain's Tip For Getting Better Service At Any Restaurant"
 reader_id: "01kdetzheq0eszp669cd0n8xhy"
 notion_page_id: "3464ebe7-f118-819b-a033-dfbafb7f86b6"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kdetzheq0eszp669cd0n8xhy"
 source_url: "https://www.mashed.com/2045885/anthony-bourdain-tip-better-restaurant-service/"
 author: "Nick Pisano"
@@ -11,7 +13,7 @@ published: "2025-12-20"
 saved_at: "2025-12-27"
 reading_time: "2 mins"
 summary: "Anthony Bourdain advised watching your server's face because they often know what's good or bad to order. Servers see kitchen issues and warn customers with subtle cues. Noticing their reactions can help you avoid bad dishes and have a better meal."
-content_hash: "35fde123d3257665b5543fdc7092c9530d0d0f652e0b3c815e17437b8377779d"
+content_hash: "ff12377ce6414a07b26d89cb740d9b6c15ad97029be37c421f078cb08402aae6"
 ---
 
 ![Closeup of Anthony Bourdain](https://www.mashed.com/img/gallery/anthony-bourdains-tip-for-getting-better-service-at-any-restaurant/intro-1765911085.jpg)

@@ -2,6 +2,8 @@
 title: "7. Understanding the Balance Sheet Statement (Part 2)"
 reader_id: "01jyqn2vtahfgfpnnrxdmh422k"
 notion_page_id: "3484ebe7-f118-81bd-878b-d23c38a3712e"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyqn2vtahfgfpnnrxdmh422k"
 source_url: "https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/"
 author: "Varsity by Zerodha"
@@ -11,7 +13,7 @@ published: "2014-10-24"
 saved_at: "2025-06-27"
 reading_time: "9 mins"
 summary: "The assets side of the balance sheet shows what the company owns, divided into non-current and current assets. Non-current assets include fixed and intangible assets that provide long-term benefits, while current assets are short-term and easily converted to cash. The total assets value equals the sum of liabilities and shareholders’ funds, keeping the balance sheet balanced."
-content_hash: "75748345cd8e428447cdb2796ab9dd546c2973c48a8d0a497aa5f4312b350c5d"
+content_hash: "d00489cd648dca87e4994027b574dafb84df130a958ce4558a6703140c8ee991"
 ---
 
 ## 7.1 – The Assets side of Balance Sheet

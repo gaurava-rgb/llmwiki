@@ -2,6 +2,8 @@
 title: "Opus 4.5 and Anthropic's Aligned Enterprise Strategy, ChatGPT Shopping Research, Meta to Use TPUs?"
 reader_id: "01kaxqd7af35q8t7k0xj644mha"
 notion_page_id: "3464ebe7-f118-81fe-be58-c268bd354cbd"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kaxqd7af35q8t7k0xj644mha"
 source_url: "https://stratechery.com/2025/opus-4-5-and-anthropics-aligned-enterprise-strategy-chatgpt-shopping-research-meta-to-use-tpus/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-25"
 saved_at: "2025-11-25"
 reading_time: "9 mins"
 summary: "Anthropic's Opus 4.5 appears to be a big breakthrough that slots into Anthropic's enterprise strategy, while ChatGPT gets new consumer features, and Meta might use Google's TPUs"
-content_hash: "fc1e2999f64c1f651fc01124a85853aa21699bab030360df88449275d4f8ee8f"
+content_hash: "1b9b9f82730d1bed1a913e9db3598e358520b9a39e2e702263005e3d0ebba951"
 ---
 
 Anthropic's Opus 4.5 appears to be a big breakthrough that slots into Anthropic's enterprise strategy, while ChatGPT gets new consumer features, and Meta might use Google's TPUs

@@ -2,6 +2,8 @@
 title: "OpenAI’s Microsoft Deal; Ellison’s Risky Business"
 reader_id: "01k5bskywecwqvm374wx17cpr1"
 notion_page_id: "3484ebe7-f118-81da-acec-d555c7f8f9af"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskywecwqvm374wx17cpr1"
 source_url: "https://www.theinformation.com/articles/openais-microsoft-deal-ellisons-risky-business"
 author: "Martin Peers"
@@ -11,7 +13,7 @@ published: "2025-09-12"
 saved_at: "2025-09-17"
 reading_time: "5 mins"
 summary: "We got big news this afternoon from the folks at OpenAI and Microsoft: They are close to a peace deal. Yes, after nearly a year of talks over changes to their partnership, the companies announced they had signed a “non-binding memorandum of understanding for the next phase of our partnership.” Contractual terms now have to be finalized. Hmmm. That sounds like a deal you have when you don’t really have a deal. (More coverage is here).The two companies have been at odds for a while, over all manner of things, as we reported here, here and here. A key issue is that OpenAI wants to convert its for-profit business into a company whose investors own shares, which would make it easier for the ChatGPT creator to raise money and eventually go public. (Raising money is something OpenAI needs to do a lot of, as this story explains). Today’s statement was bereft of details indicating whether the two companies have resolved any of the contentious issues that have divided them (like what happens with Microsoft’s right to share in OpenAI’s revenue). One thing we did learn was that the nonprofit that controls OpenAI’s for-profit business will have an equity stake of more than $100 billion after the changes. But OpenAI didn’t disclose the nonprofit’s percentage stake. As OpenAI was recently valued at $500 billion in an employee share sale, the nonprofit would seem to have at least a 20% stake. How will Elon Musk, who has sued OpenAI over the corporate restructuring, react to that? Today’s news in some ways raised more questions than it answered.Ellison’s Risky BusinessWho isn’t tempted to go crazy on a shopping spree when they have a little more money in their pocket? Oracle founder Larry Ellison seems to be one of those people. On Thursday, The Wall Street Journal scooped the news that Ellison was backing his son David in plans for a mostly-cash bid for Warner Bros. Discovery. That’s a deal that will likely cost at least $70 billion, including assumption of debt. In theory, the ..."
-content_hash: "aa1e6631e35cfc94330cda4e3d8adc1786d7361a96f5308b7eb1590e5e2dfe3d"
+content_hash: "b98edc96379194e327e6d35e04091434f53302b0e51bf62186bc2bd4497f27d5"
 ---
 
 ![Credit: David and Larry Ellison. Photos via Getty](https://tii.imgix.net/production/articles/15749/e95898a0-58f6-45be-873e-422a64d684ca-gd1ykB.png?fm=jpeg&auto=compress&w=610)

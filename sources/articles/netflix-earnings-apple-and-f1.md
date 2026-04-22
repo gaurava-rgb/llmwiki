@@ -2,6 +2,8 @@
 title: "Netflix Earnings, Apple and F1"
 reader_id: "01k0sm0ess4fe3g7qy8zk45eaj"
 notion_page_id: "3484ebe7-f118-81e4-9777-c8e4e981ae20"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k0sm0ess4fe3g7qy8zk45eaj"
 source_url: "https://stratechery.com/2025/netflix-earnings-apple-and-f1/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-22"
 saved_at: "2025-07-22"
 reading_time: "11 mins"
 summary: "Netflix advertising will change the service; then, F1 might be headed to Apple TV, and it might work."
-content_hash: "2f14f1f242b3bf37190aac846f2c2ce33f743be35710feb9cf59a665a78124bc"
+content_hash: "3203caf24ed1b58a2d8b9e722cf734c0c91d492c78d174a769a904cb1ac49c2a"
 ---
 
 Netflix advertising will change the service; then, F1 might be headed to Apple TV, and it might work.

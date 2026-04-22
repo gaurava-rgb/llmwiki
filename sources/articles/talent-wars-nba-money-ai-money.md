@@ -2,6 +2,8 @@
 title: "Talent Wars, NBA Money, AI Money"
 reader_id: "01jyjpxn1t54fz79n2n89ba0nb"
 notion_page_id: "3484ebe7-f118-81e5-85b6-eaa8b5c24459"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyjpxn1t54fz79n2n89ba0nb"
 source_url: "https://stratechery.com/2025/talent-wars-nba-money-ai-money/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-24"
 saved_at: "2025-06-25"
 reading_time: "7 mins"
 summary: "Top AI talents is starting to get NBA level money — and they might still be underpaid."
-content_hash: "bd24ecf0c66acc7255371c0d24de4f44f5d67fa5051c3250b9d3eec3e7c62475"
+content_hash: "5fe94b352d491c90495608bc830f588b18d3969b59e9c96b4eac2de0a12b8f84"
 ---
 
 Top AI talents is starting to get NBA level money — and they might still be underpaid.

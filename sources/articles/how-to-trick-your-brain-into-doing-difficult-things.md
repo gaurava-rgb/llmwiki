@@ -2,6 +2,8 @@
 title: "How to Trick Your Brain into Doing Difficult Things"
 reader_id: "01kbfd3ks8m24qrebmcb9y2de3"
 notion_page_id: "3484ebe7-f118-8129-b71d-d809dd6b9255"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kbfd3ks8m24qrebmcb9y2de3"
 source_url: "https://www.brainhealthdecoded.com/p/how-to-trick-your-brain-into-doing?r=38jwv"
 author: "Dr. Dominic Ng"
@@ -11,7 +13,7 @@ published: "2025-11-18"
 saved_at: "2025-12-02"
 reading_time: "4 mins"
 summary: "Your brain avoids discomfort and protects your ego, so it creates resistance to hard tasks. Use simple tricks like the two-minute rule, prep work, rewards, and making tasks fun to bypass that resistance. Shift identity (act like the person you want to be) and treat efforts as experiments to reduce fear and keep going."
-content_hash: "0c5c01df474e7537430605f07833b8ae2f8240950b284a68a32cbc04176fce89"
+content_hash: "c0504f7762c8d8bed6e2d4f239275f317c155848dd1771deec3d334751de7273"
 ---
 
 ### A Neuroscientist’s 7 Proven Ways to Get Yourself to Do What Matters

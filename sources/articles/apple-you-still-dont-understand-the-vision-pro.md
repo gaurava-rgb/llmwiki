@@ -2,6 +2,8 @@
 title: "Apple: You (Still) Don't Understand the Vision Pro"
 reader_id: "01kesmw8n91d3t8vqwqnyf4vp3"
 notion_page_id: "3464ebe7-f118-81d1-b72f-f57da1eb9a8a"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kesmw8n91d3t8vqwqnyf4vp3"
 source_url: "https://stratechery.com/?p=18033"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-12"
 saved_at: "2026-01-12"
 reading_time: "11 mins"
 summary: "The first live sporting event was broadcast in the Vision Pro, and it's a big disappointment. The experience could be amazing, but Apple actively ruins it."
-content_hash: "49ad5f949c25826d18523e0502c5da97a1e63769098ca00779f798ccb21de8e2"
+content_hash: "c9b37fc3eecbc77272cf38abd017f7ca4386211eb4f9df811c03dd0b6a8921a6"
 ---
 
 The first live sporting event was broadcast in the Vision Pro, and it's a big disappointment. The experience could be amazing, but Apple actively ruins it.

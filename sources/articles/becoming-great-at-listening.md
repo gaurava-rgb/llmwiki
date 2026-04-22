@@ -2,6 +2,8 @@
 title: "Becoming great at listening"
 reader_id: "01kk24ce8zf86n8p5wk9bb68p7"
 notion_page_id: "3464ebe7-f118-8156-85e4-e1496b8ff471"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk24ce8zf86n8p5wk9bb68p7"
 source_url: "https://shreyasdoshi.substack.com/p/becoming-great-at-listening?r=38jwv"
 author: "Shreyas Doshi"
@@ -11,7 +13,7 @@ published: "2025-12-04"
 saved_at: "2026-03-06"
 reading_time: "5 mins"
 summary: "Listening and thinking are different modes and should be done separately.  \nFirst, fully listen without judging or planning a reply.  \nThen pause to think, synthesize, and respond clearly."
-content_hash: "19fc005bf04f49990c3bb58f462754283b5c5452fa7fcea4cc6ac076c08f28e3"
+content_hash: "228768bca68b8e763026859f0aa1bba5b65c61f7a1bc1f5390e437da198c147a"
 ---
 
 ### A concise guide on going from good to great at listening. Plus, an audio deep-dive that reveals what world-class listening looks like, how you can get there, and why it matters.

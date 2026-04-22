@@ -2,6 +2,8 @@
 title: "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing"
 reader_id: "01kme9st9xcq7ta2p1r9cf6g41"
 notion_page_id: "3464ebe7-f118-81c7-a96e-f17bcd083fc3"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kme9st9xcq7ta2p1r9cf6g41"
 source_url: "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/"
 author: "Emily Mullin"
@@ -11,7 +13,7 @@ published: "2026-03-23"
 saved_at: "2026-03-23"
 reading_time: "5 mins"
 summary: "A startup called R3 Bio wants to create organ systems without brains to replace animal testing. These \"organ sacks\" could also one day provide human organs for transplant. The goal is to reduce animal suffering and solve organ shortages ethically."
-content_hash: "7fa224b21c4b7004206086f5c5c4a2509f49c6fd7268fd1dfd3a2d9c3d59efaf"
+content_hash: "e033641ec930edd40adf57d3447c1c34b69770d811d90577a1463259e0dcdccd"
 ---
 
 R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions.

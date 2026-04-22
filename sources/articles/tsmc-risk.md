@@ -2,6 +2,8 @@
 title: "TSMC Risk"
 reader_id: "01kfxqbky39w44yspzd82sr3qm"
 notion_page_id: "3464ebe7-f118-8193-ae07-d54252833558"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kfxqbky39w44yspzd82sr3qm"
 source_url: "https://stratechery.com/2026/tsmc-risk/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-26"
 saved_at: "2026-01-26"
 reading_time: "11 mins"
 summary: "If hyperscalers and chip companies don't build up a TSMC competitor they are set to forego billions of dollars in revenue and stunt the AI revolution."
-content_hash: "1c98231c274481fc465aed8ffcb586c926a61b5abc49dfea10dfe219e8c68e24"
+content_hash: "491c3265b43ab5c083fd1ad60c5f63dd5d484a84c460f9dfb09fb24a0fe0a080"
 ---
 
 If hyperscalers and chip companies don't build up a TSMC competitor they are set to forego billions of dollars in revenue and stunt the AI revolution.

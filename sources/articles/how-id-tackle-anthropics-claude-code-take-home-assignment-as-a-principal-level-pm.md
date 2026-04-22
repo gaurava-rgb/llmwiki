@@ -2,6 +2,8 @@
 title: "How I’d Tackle Anthropic’s Claude Code Take Home Assignment (as a Principal-level PM)"
 reader_id: "01kk61w2zenb73c42vxxn3xe7f"
 notion_page_id: "3464ebe7-f118-81ea-819a-f2724af83729"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kk61w2zenb73c42vxxn3xe7f"
 source_url: "https://substack.com/@bonnieyu/note/p-179178211?r=38jwv"
 author: "Substack"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-08"
 reading_time: "9 mins"
 summary: "A real world walkthrough of product thinking - from brief to metrics"
-content_hash: "1e1437a772ec07c91515464aea3adb3a16fd46bb341d255ed4ec67ba41c3e7dc"
+content_hash: "93b5d81de147d6b754aabd8448878b83351c483ce658ad9175b2d84fb0b6632b"
 ---
 
 I recently reviewed a few PM’s take-home assignments from the Anthropic interview process, and noticed some common mistakes. There were basic misses in how they interpreted and understood the assignment. I’ll walk you through my approach so you can confidently meet core expectations and showcase your best strategic thinking.

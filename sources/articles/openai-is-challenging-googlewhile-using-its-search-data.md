@@ -2,6 +2,8 @@
 title: "OpenAI Is Challenging Google—While Using Its Search Data"
 reader_id: "01k3c1gqtm1k6fmseyhzbb3d1f"
 notion_page_id: "3484ebe7-f118-8107-ac32-f62c61367da1"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c1gqtm1k6fmseyhzbb3d1f"
 source_url: "https://www.theinformation.com/articles/openai-challenging-google-using-search-data?rc=rpuplc"
 author: "Natasha Mascarenhas"
@@ -11,7 +13,7 @@ published: "2025-08-21"
 saved_at: "2025-08-23"
 reading_time: "5 mins"
 summary: "OpenAI has been using Google search results scraped via SerpApi to power ChatGPT answers on news and current events. Google refused OpenAI direct access and has tried to block scraping, even while OpenAI rents Google Cloud servers. This reliance on Google data raises legal and competitive questions as AI rivals challenge Google's search dominance."
-content_hash: "d0056158f3c2121497f7bea635fcc0d24f5e44039426971e2d89643d5cc8283d"
+content_hash: "834495f6473a452864788cd57728e2f06f654c54714831dc95670d544d37f49c"
 ---
 
 ![OpenAI Is Challenging Google—While Using Its Search Data](https://tii.imgix.net/production/articles/15630/e75e301c-126d-4898-a46f-0ab096288f4b.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Google CEO Sundar Pichai, left, and Sam Altman. Photos via Getty

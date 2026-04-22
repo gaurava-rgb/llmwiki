@@ -2,6 +2,8 @@
 title: "Nvidia GTC in DC, Qualcomm's AI Chip, OpenAI's Restructuring"
 reader_id: "01k8rhzbhvrdq2anvpkytbeh1y"
 notion_page_id: "3484ebe7-f118-8181-8c40-c72fe9069946"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k8rhzbhvrdq2anvpkytbeh1y"
 source_url: "https://stratechery.com/2025/nvidia-gtc-in-dc-qualcomms-ai-chip-openais-restructuring/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-29"
 saved_at: "2025-10-29"
 reading_time: "10 mins"
 summary: "Nvidia makes its pitch to DC to preserve its CUDA moat, which also explains the challenges facing Qualcomm's new chip. Then, OpenAI's restructuring and Microsoft's collar trade."
-content_hash: "94df88ed5e18b72a27f5b8ce6b20f80be24a794ba8c90c7af2ea5405beaf8640"
+content_hash: "2b72699a17e2cb084b2180dbf60477dce2e24ab33e362c6c03844d467d17688a"
 ---
 
 Nvidia makes its pitch to DC to preserve its CUDA moat, which also explains the challenges facing Qualcomm's new chip. Then, OpenAI's restructuring and Microsoft's collar trade.

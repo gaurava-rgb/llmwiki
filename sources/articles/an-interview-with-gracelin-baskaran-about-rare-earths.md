@@ -2,6 +2,8 @@
 title: "An Interview with Gracelin Baskaran About Rare Earths"
 reader_id: "01k7mfrc37sc5ranpjq396veg1"
 notion_page_id: "3484ebe7-f118-819a-919c-ffbc52e7eefb"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k7mfrc37sc5ranpjq396veg1"
 source_url: "https://stratechery.com/2025/an-interview-with-gracelin-baskaran-about-rare-earths/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-15"
 saved_at: "2025-10-15"
 reading_time: "42 mins"
 summary: "An interview with Dr. Gracelin Baskaran about rare earths: how did the U.S. become dependent on China, and how do we fix the problem going forward?"
-content_hash: "14d09268988789d455c3349f6a6477006ee1063e09c51a2283fc0e04a705110c"
+content_hash: "9a0d815bf3c9db1e97bba6851016200932016d445da31c2959c2a3ee1626722e"
 ---
 
 An interview with Dr. Gracelin Baskaran about rare earths: how did the U.S. become dependent on China, and how do we fix the problem going forward?

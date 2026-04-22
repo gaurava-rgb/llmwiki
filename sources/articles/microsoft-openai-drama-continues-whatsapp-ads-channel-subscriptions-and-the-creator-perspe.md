@@ -2,6 +2,8 @@
 title: "Microsoft-OpenAI Drama Continues, WhatsApp Ads, Channel Subscriptions and the Creator Perspective"
 reader_id: "01jxzkq1thcja28bfmrds0836g"
 notion_page_id: "3484ebe7-f118-8127-92aa-c992f936a533"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxzkq1thcja28bfmrds0836g"
 source_url: "https://stratechery.com/2025/microsoft-openai-drama-continues-whatsapp-ads-channel-subscriptions-and-the-creator-perspective/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-17"
 saved_at: "2025-06-17"
 reading_time: "11 mins"
 summary: "Microsoft and AI continue to fight, and WhatsApp adds ads and subscriptions (and I explain why as a creator I'm not interested)."
-content_hash: "c21f0d44249b27613c315f5422a672406526b2193af7dddf4fbff4f286f4b655"
+content_hash: "76f114c58357ae62e004b6828ac864963b73db262b548fccfc2fceeb7ac04342"
 ---
 
 Microsoft and AI continue to fight, and WhatsApp adds ads and subscriptions (and I explain why as a creator I'm not interested).

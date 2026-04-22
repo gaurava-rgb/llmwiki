@@ -2,6 +2,8 @@
 title: "Robotaxis and Suburbia"
 reader_id: "01kac1s21vzr1nd75dwywjdxxy"
 notion_page_id: "3484ebe7-f118-818c-b3e9-c9f863d018ed"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kac1s21vzr1nd75dwywjdxxy"
 source_url: "https://stratechery.com/2025/robotaxis-and-suburbia/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-18"
 saved_at: "2025-11-18"
 reading_time: "16 mins"
 summary: "Robotaxis are poised to further close the delta between suburbs and the city; the city (and Uber) might never recover."
-content_hash: "630ab27682dae88a7a0266f99365b2513c16c2e916c72444fa5a440a74746db0"
+content_hash: "118ae2da5ed292818efaf06ee7e1579c252cfda5ddcdf2a3a623651069caa53c"
 ---
 
 Robotaxis are poised to further close the delta between suburbs and the city; the city (and Uber) might never recover.

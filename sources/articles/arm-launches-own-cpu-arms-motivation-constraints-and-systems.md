@@ -2,6 +2,8 @@
 title: "Arm Launches Own CPU, Arm's Motivation, Constraints and Systems"
 reader_id: "01kmjsn5r5c61qd751kkzdgwh4"
 notion_page_id: "3464ebe7-f118-8173-8be6-f195da4ca892"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kmjsn5r5c61qd751kkzdgwh4"
 source_url: "https://stratechery.com/2026/arm-launches-own-cpu-arms-motivation-constraints-and-systems/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-25"
 saved_at: "2026-03-25"
 reading_time: "10 mins"
 summary: "Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving."
-content_hash: "0e5ef34581c45631183cc8617ebda0ce130072aaf3b7ac491eb71a5bafdd61f2"
+content_hash: "a98f03e770249797f720defac4bf542ad14f304c1c4a924056493fca4952cab1"
 ---
 
 Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving.

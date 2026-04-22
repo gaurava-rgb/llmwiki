@@ -2,6 +2,8 @@
 title: "Netflix Earnings, KPop Demon Hunters and Netflix Hit Production"
 reader_id: "01k892p05n7jpemgvp7nt3tk5q"
 notion_page_id: "3484ebe7-f118-8153-bb7b-f20114b56d64"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k892p05n7jpemgvp7nt3tk5q"
 source_url: "https://stratechery.com/2025/netflix-earnings-kpop-demon-hunters-and-netflix-hit-production/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-23"
 saved_at: "2025-10-23"
 reading_time: "10 mins"
 summary: "Netflix's growth will depend on advertising; then, more evidence that Netflix was uniquely responsible for KPop Demon Hunters' success."
-content_hash: "af9ebafe6a0224d5cc02d6e47fba8112f4c90d3047a9354fb607517a0f2bf70c"
+content_hash: "8dd81546a25e31f2a0fbd36661375ac0bf642e3d5e275a1ec303aed7c2a86e12"
 ---
 
 Netflix's growth will depend on advertising; then, more evidence that Netflix was uniquely responsible for KPop Demon Hunters' success.

@@ -2,6 +2,8 @@
 title: "Attention Media ≠ Social Networks"
 reader_id: "01kj6nw3qm2er74t4z9nsh5pqq"
 notion_page_id: "3464ebe7-f118-8148-8a13-fee83dcaa528"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kj6nw3qm2er74t4z9nsh5pqq"
 source_url: "https://susam.net/attention-media-vs-social-networks.html"
 author: "susam.net"
@@ -11,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-02-24"
 reading_time: "3 mins"
 summary: "Early social networks were simple and focused on real connections with friends. Over time, they changed into attention-grabbing platforms full of random content and fake notifications. Mastodon feels more like the old social networks, showing updates only from people you choose to follow."
-content_hash: "ca1c7119c40f1dba7a46660eea4776f85e381f3934d462c2f7773456b56901ee"
+content_hash: "e77fac8b2576f41236dd615220dd94819537261d257ca6ce04a4acdc4b30cb2f"
 ---
 
 When web-based social networks started flourishing nearly two decades ago, they were genuinely social networks. You would sign up for a popular service, follow people you knew or liked and read updates from them. When you posted something, your followers would receive your updates as well. Notifications were genuine. The little icons in the top bar would light up because someone had sent you a direct message or engaged with something you had posted. There was also, at the beginning of this millennium, a general sense of hope and optimism around technology, computers and the Internet. Social networking platforms were one of the services that were part of what was called Web 2.0, a term used for websites built around user participation and interaction. It felt as though the information superhighway was finally reaching its potential. But sometime between 2012 and 2016, things took a turn for the worse.

@@ -2,6 +2,8 @@
 title: "Agents Over Bubbles"
 reader_id: "01kkvycpg11m9619xe4ejsfcbf"
 notion_page_id: "3464ebe7-f118-815d-a9e8-d738e35a2519"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kkvycpg11m9619xe4ejsfcbf"
 source_url: "https://stratechery.com/?p=18541"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-16"
 saved_at: "2026-03-16"
 reading_time: "16 mins"
 summary: "Agents are fundamentally changing the shape of demand for compute, both in terms of how they work and in terms of who will use them. They're so compelling that I no longer believe we're in a bubble."
-content_hash: "a137fce264ceefd702f3f56ac26d6a226fa4834625f29ac35db8945988485f52"
+content_hash: "1029b7ece1c41368292ea706e4fbd2436eb64fa7df48673ca8ebe1add2c0a5bc"
 ---
 
 Agents are fundamentally changing the shape of demand for compute, both in terms of how they work and in terms of who will use them. They're so compelling that I no longer believe we're in a bubble.

@@ -2,6 +2,8 @@
 title: "One more step"
 reader_id: "01khqkz40t7z8wsd8pmqnk9jpv"
 notion_page_id: "3464ebe7-f118-8135-ac76-f351c31a61bb"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khqkz40t7z8wsd8pmqnk9jpv"
 source_url: "https://archive.ph/2026.02.13-160935/https://www.theverge.com/column/878337/optimizer-oura-wearables-fda-regulation-digital-health-screeners"
 author: "archive.ph"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-18"
 reading_time: "1 min"
 summary: "You must complete a CAPTCHA to use archive.ph. This check proves you are not a robot. Running an antivirus can help avoid this in the future."
-content_hash: "2cff93960a3b2949777c6f09e04d837184434c1c024dc74cf974e7962ddb5c69"
+content_hash: "d96487964f09a46f8bd8c57601ae18b9ed41176ab4dad20ff10b3a94d3194da5"
 ---
 
 ##  Please complete the security check to access archive.ph

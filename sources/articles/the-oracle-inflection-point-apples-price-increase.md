@@ -2,6 +2,8 @@
 title: "The Oracle Inflection Point, Apple's Price Increase"
 reader_id: "01k59v0wkf8tmjdxsxg7kp6zrm"
 notion_page_id: "3484ebe7-f118-819c-bfdc-d2c0ed4f3a1f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k59v0wkf8tmjdxsxg7kp6zrm"
 source_url: "https://stratechery.com/2025/the-oracle-inflection-point-apples-price-increase/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-16"
 saved_at: "2025-09-16"
 reading_time: "12 mins"
 summary: "Oracle's AI commitment requires debt, which marks an inflection point in a potential AI bubble; then, Apple finally increases iPhone prices"
-content_hash: "2bf4c9dc5b64e703b39e51e16ede99cdd2627b03645633e61da9d0c4d241ef10"
+content_hash: "35231acaabca06679075c2c08cbebfeed087ced4c443ecbdba635762db4007f7"
 ---
 
 Oracle's AI commitment requires debt, which marks an inflection point in a potential AI bubble; then, Apple finally increases iPhone prices

@@ -2,6 +2,8 @@
 title: "I lie my a** off on my resume and it’s really paid off"
 reader_id: "01kb0a9rwhff27br6dte56psab"
 notion_page_id: "3464ebe7-f118-81d0-bb5e-c3730f3fd3cc"
+category: "article"
+source_type: "Reader add from clipboard"
 reader_url: "https://read.readwise.io/read/01kb0a9rwhff27br6dte56psab"
 source_url: "https://www.reddit.com/r/confession/comments/1p6p9fr/i_lie_my_a_off_on_my_resume_and_its_really_paid/?share_id=GY9E6U5Y8MHAqUO4ihd48"
 author: "Thrifty_Piano"
@@ -11,7 +13,7 @@ published: "2025-11-25"
 saved_at: "2025-11-26"
 reading_time: "39 mins"
 summary: "The poster admits to lying on their resume for about a decade and says it helped them get jobs. Many commenters say others do the same and sometimes back it up or learn on the job. Some warn it can backfire or is unethical."
-content_hash: "31a08f7f41e323c6526feee3dcf0c0f7bd42ea8e52d028809db69e82e57ec782"
+content_hash: "4681e9bf469fd4728f04b75a969ad9ec91a31ff397c4e2da68937bcd241af502"
 ---
 
 **[r/confession](<https://www.reddit.com/r/confession/>)**

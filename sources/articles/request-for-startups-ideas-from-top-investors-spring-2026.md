@@ -2,6 +2,8 @@
 title: "Request for startups - ideas from top investors Spring 2026"
 reader_id: "01kkyrrg0wxd2y6fgzeefpdfy0"
 notion_page_id: "3464ebe7-f118-8172-be4e-c4d23a4fd547"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkyrrg0wxd2y6fgzeefpdfy0"
 source_url: "https://nextplayso.substack.com/p/request-for-startups-ideas-from-top?r=78wjcd"
 author: "Ben Lang"
@@ -11,7 +13,7 @@ published: "2026-03-15"
 saved_at: "2026-03-17"
 reading_time: "7 mins"
 summary: "Top investors shared unique startup ideas for 2026, including family connection apps, AI-powered finance tools, and digital security products. They also suggested opportunities in AI-driven wealth advisory, national resilience, and new software for manufacturing and education. Many ideas focus on combining AI with human expertise to create innovative businesses and solve real-world problems."
-content_hash: "0f92851fb876563bf364deea0ac04dff3c08c858db8a3156a7effe39ee2b089c"
+content_hash: "8776c4e557f4bb5147e7a0519d4eaa7d5d2c462c4051c9336d7b6de6ae07eb2e"
 ---
 
 ### Submissions from investors at Google Ventures, CRV, Forerunner, XYZ, and more

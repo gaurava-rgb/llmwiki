@@ -2,6 +2,8 @@
 title: "Google Earnings, Meta Earnings, The Cost of Reality Labs"
 reader_id: "01k95dcf5b3qbe89ryx371fknj"
 notion_page_id: "3484ebe7-f118-813e-b5f5-f4de74c35e71"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k95dcf5b3qbe89ryx371fknj"
 source_url: "https://stratechery.com/2025/google-earnings-meta-earnings-the-cost-of-reality-labs/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-03"
 saved_at: "2025-11-03"
 reading_time: "10 mins"
 summary: "Google's earnings are great, and GCP alone justifies more capex; Meta, meanwhile, is being punished for not having a clear product application for AI."
-content_hash: "21d8f661c391a638c3cccb3c34b8da6d6e52063d36b70c3384a36ce0d33e9d2b"
+content_hash: "7dde046527e4541f1ce6bbbd87bc3802b4211dfbd9f3225848be7d39295a377d"
 ---
 
 Google's earnings are great, and GCP alone justifies more capex; Meta, meanwhile, is being punished for not having a clear product application for AI.

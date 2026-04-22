@@ -2,6 +2,8 @@
 title: "Copilot Cowork, Anthropic's Integration, Microsoft's New Bundle"
 reader_id: "01kkbzg20exvehg86ax3qb027r"
 notion_page_id: "3464ebe7-f118-8117-a57c-e24207699b55"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kkbzg20exvehg86ax3qb027r"
 source_url: "https://stratechery.com/2026/copilot-cowork-anthropics-integration-microsofts-new-bundle/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-10"
 saved_at: "2026-03-10"
 reading_time: "8 mins"
 summary: "Microsoft is seeking to commoditize its complements, but Anthropic has a point of integration of their own; it's good enough that Microsoft is making a new bundle on top of it."
-content_hash: "5e77e77fd8af977b779b8e584e1d9cdd8a2a59bc7d7f31d55f7a5710dd9c3b06"
+content_hash: "7107bc3904a33c9366d8ea442e95ba4ecfccafae29fabebb134bd63d8f13c6d6"
 ---
 
 Microsoft is seeking to commoditize its complements, but Anthropic has a point of integration of their own; it's good enough that Microsoft is making a new bundle on top of it.

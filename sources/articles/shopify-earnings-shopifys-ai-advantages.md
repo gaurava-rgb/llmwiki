@@ -2,6 +2,8 @@
 title: "Shopify Earnings, Shopify's AI Advantages"
 reader_id: "01khrxxerw3wbrq1yzy6a6mgcy"
 notion_page_id: "3464ebe7-f118-81e9-9d00-c0363bb11c56"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01khrxxerw3wbrq1yzy6a6mgcy"
 source_url: "https://stratechery.com/2026/shopify-earnings-shopifys-ai-advantages/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-18"
 saved_at: "2026-02-18"
 reading_time: "10 mins"
 summary: "Shopify is poised to be one of the biggest winners from AI; it would behoove investors to actually understand the businesses they are selling."
-content_hash: "61cb27c397d5c1d88b96e72650010652965639b2ecb62e457032907d53374503"
+content_hash: "4aa9de674de98f169be7e6a56f53a580ce9e328589c2667f0dce47a45665bf33"
 ---
 
 Shopify is poised to be one of the biggest winners from AI; it would behoove investors to actually understand the businesses they are selling.

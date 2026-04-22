@@ -2,6 +2,8 @@
 title: "Boost Job Search Efficiency with Claude AI"
 reader_id: "01km1qtwpc3csgpzv1maqyy9sn"
 notion_page_id: "3464ebe7-f118-81fd-9eb8-c7e9c165a37e"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01km1qtwpc3csgpzv1maqyy9sn"
 source_url: "https://www.linkedin.com/posts/amangoyal99_claudeai-chromeextension-jobsearch-share-7434508381945520128-Mw4n"
 author: "Aman Goyal"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-19"
 reading_time: "1 min"
 summary: "Claude AI in Chrome helps you write job search emails fast without switching tabs. It drafts replies, cover letters, and follow-ups in seconds right where you work. This saves hours and keeps your focus while boosting your chances with recruiters."
-content_hash: "b8020b5386efca106605e435171228060df5047c762751cc153b3a5f7f0e5f24"
+content_hash: "6d7edd6732a2fccbecbecf8d71034c25b638058deffdc121bf1ca74d905188a9"
 ---
 
 [ Aman Goyal ](<https://www.linkedin.com/in/amangoyal99?trk=public_post_feed-actor-name>)

@@ -2,6 +2,8 @@
 title: "KPop Demon Hunters, Sony's Risk, The Netflix Aggregator"
 reader_id: "01k3pagy2ckyh3br1q2yhb978v"
 notion_page_id: "3484ebe7-f118-8173-ad00-ca5c3977702d"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k3pagy2ckyh3br1q2yhb978v"
 source_url: "https://stratechery.com/2025/kpop-demon-hunters-sonys-risk-the-netflix-aggregator/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-27"
 saved_at: "2025-08-27"
 reading_time: "10 mins"
 summary: "KPop Demon Hunters is the hit of the year. Sony missed out, but they didn't make a mistake; Netflix won the reward by being an Aggregator."
-content_hash: "f46d4c5b82ae925193d27e00ee7d64f0a1208549abfb214d9358ac672d30ca5c"
+content_hash: "33625689d98cd47bfca52f6da8db475c3769df516e73af11bbc0f7a182287123"
 ---
 
 KPop Demon Hunters is the hit of the year. Sony missed out, but they didn't make a mistake; Netflix won the reward by being an Aggregator.

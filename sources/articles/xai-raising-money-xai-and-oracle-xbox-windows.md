@@ -2,6 +2,8 @@
 title: "xAI Raising Money, xAI and Oracle, Xbox = Windows"
 reader_id: "01jy23a64zbj89y9wx2tej2vmr"
 notion_page_id: "3484ebe7-f118-814c-a03d-d84936de211b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jy23a64zbj89y9wx2tej2vmr"
 source_url: "https://stratechery.com/2025/xai-raising-money-xai-and-oracle-xbox-windows/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-18"
 saved_at: "2025-06-18"
 reading_time: "9 mins"
 summary: "Everyone wants xAI to exist, but is anyone actually using it? Then, Xbox as it once existed is dead; it's just Windows now."
-content_hash: "1fc2776d336616e0f6264b4c8b528d6a707aba24e43695101acc9455440e9a24"
+content_hash: "972c2d8f164f600b7a7aeff7defea787cc758cb0eb0ac2b22b9d8cb7cc414d91"
 ---
 
 Everyone wants xAI to exist, but is anyone actually using it? Then, Xbox as it once existed is dead; it's just Windows now.

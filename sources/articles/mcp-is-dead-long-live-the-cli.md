@@ -2,6 +2,8 @@
 title: "MCP is dead. Long live the CLI"
 reader_id: "01kjrh9p6xdggz4bmp96hn8fjb"
 notion_page_id: "3464ebe7-f118-815c-8060-c6c43d3326d2"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kjrh9p6xdggz4bmp96hn8fjb"
 source_url: "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html"
 author: "Eric Holmes"
@@ -11,7 +13,7 @@ published: "2026-02-27"
 saved_at: "2026-03-03"
 reading_time: "4 mins"
 summary: "The author argues that the Model Context Protocol (MCP) is unnecessary because command-line interfaces (CLIs) already let AI tools work well and are easier to use and debug. CLIs are simple, reliable, and support existing authentication and composability, unlike MCP which adds complexity and friction. Builders should focus on creating good APIs and CLIs instead of investing heavily in MCP servers."
-content_hash: "15bc8bfe679a51d61322b068d6f1e7e03f84f29ccc2356ad1ee8f2f8d959b6b5"
+content_hash: "0356a7232b69607035826dc26d4418ea7ce0930290ec949e33969db70e9b5389"
 ---
 
 I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.

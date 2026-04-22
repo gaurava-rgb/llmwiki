@@ -2,6 +2,8 @@
 title: "ChatGPT 5, Product Trade-Offs, Personality and Model Upgrades"
 reader_id: "01k2hxrz474382h1sd73jj9ks8"
 notion_page_id: "3484ebe7-f118-81be-9541-c396b2da4161"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k2hxrz474382h1sd73jj9ks8"
 source_url: "https://stratechery.com/2025/chatgpt-5-product-trade-offs-personality-and-model-upgrades/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-13"
 saved_at: "2025-08-13"
 reading_time: "18 mins"
 summary: "GPT-5 seems fine; the more interesting questions are about the ChatGPT product and OpenAI’s tradeoffs."
-content_hash: "c35e618c33b70c9384e5be20dd3fec961cd09edb3cb1b090459650fdfdc76f2c"
+content_hash: "80fbb60e3e6f0bb80451e9a2bb2374f17d4eae96672aa708c8113ff12b92a846"
 ---
 
 GPT-5 seems fine; the more interesting questions are about the ChatGPT product and OpenAI’s tradeoffs.

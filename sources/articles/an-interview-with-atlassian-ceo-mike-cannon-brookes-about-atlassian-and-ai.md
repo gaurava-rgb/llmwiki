@@ -2,6 +2,8 @@
 title: "An Interview with Atlassian CEO Mike Cannon-Brookes About Atlassian and AI"
 reader_id: "01kbn7tatfrx5r0mafhj9e8vj8"
 notion_page_id: "3464ebe7-f118-816c-90d6-c5674d413d8f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kbn7tatfrx5r0mafhj9e8vj8"
 source_url: "https://stratechery.com/2025/an-interview-with-atlassian-ceo-mike-cannon-brookes-about-atlassian-and-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-04"
 saved_at: "2025-12-04"
 reading_time: "54 mins"
 summary: "An interview with Atlassian founder and CEO Mike Cannon-Brookes about building Atlassian and why he is optimistic about AI."
-content_hash: "59d8ce7a928c49b1a7918718dca6e7a130bfe04ce7e1b3fdd338bcc0715b59bb"
+content_hash: "bbffe7b426bad37560091972fc7eb0e81caf9b14f84d7a945a65aeec29ecf4a4"
 ---
 
 An interview with Atlassian founder and CEO Mike Cannon-Brookes about building Atlassian and why he is optimistic about AI.

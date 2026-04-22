@@ -2,6 +2,8 @@
 title: "The YouTube Tip of the Google Spear"
 reader_id: "01k5vvpdgk7mwzwm07hc0tz4ta"
 notion_page_id: "3484ebe7-f118-8144-bfe6-c2fedb5047fa"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5vvpdgk7mwzwm07hc0tz4ta"
 source_url: "https://stratechery.com/2025/the-youtube-tip-of-the-google-spear/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-23"
 saved_at: "2025-09-23"
 reading_time: "14 mins"
 summary: "I've come to appreciate Google's amorphous nature; what makes me bullish is the clarity of YouTube's AI opportunity."
-content_hash: "a1449e90b1dfd71504a9eee5f52bd61c7d1723fa6692a89e23c504541bdf88d6"
+content_hash: "39615cb074d44130b4e51e795e3ed09b37e6c20effdd48bdb59aac5445dc2161"
 ---
 
 I've come to appreciate Google's amorphous nature; what makes me bullish is the clarity of YouTube's AI opportunity.

@@ -2,6 +2,8 @@
 title: "AI Prototyping Course: Themes and Takeaways from Week 1"
 reader_id: "01kk07n5xgmsy8nwmft7znmge5"
 notion_page_id: "3464ebe7-f118-8152-bb30-e17d98b2356d"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk07n5xgmsy8nwmft7znmge5"
 source_url: "https://www.linkedin.com/posts/priyamathewprofile_kicked-off-week-1-of-my-maven-course-on-ai-activity-7432563643436859392-Bstr"
 author: "Priya Mathew Badger"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-06"
 reading_time: "1 min"
 summary: "AI is now a normal part of product work, used for ideas and quick designs. The course focused more on how to use AI well, not just which tools to pick. Students learned to create many versions to find the best solution faster."
-content_hash: "d2c63cd0f9cebe87acbebedcf1707a5888dbf019635f8dd35ca0ffc9b0369197"
+content_hash: "91b00afabf98d4934b67bf9d9007489cef14cbfc186a54b9d7dd241695695173"
 ---
 
 [ Priya Mathew Badger ](<https://www.linkedin.com/in/priyamathewprofile?trk=public_post_feed-actor-name>)

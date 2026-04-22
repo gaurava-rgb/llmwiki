@@ -2,6 +2,8 @@
 title: "Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million"
 reader_id: "01kfcx3hpt4ggxbyjh19waw9vh"
 notion_page_id: "3464ebe7-f118-81b9-ba49-c3792ea48069"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kfcx3hpt4ggxbyjh19waw9vh"
 source_url: "https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million?rc=odbtx6"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2026-01-14"
 saved_at: "2026-01-20"
 reading_time: "4 mins"
 summary: "Microsoft is spending nearly $500 million a year on Anthropic AI to power products like GitHub Copilot. The company is also encouraging its sales teams to sell Anthropic AI models alongside OpenAI models through Azure. This partnership helps Microsoft improve its AI products and compete with other cloud providers."
-content_hash: "4c235f1d7b16cdeb88aa2fce6d8c763217e560de70b0a9c5e5f7a9836c7e512e"
+content_hash: "e93cf3c4873225c3b1d3ee3d4243400320d1866efc72a7aff4c5ea88785e17a7"
 ---
 
 ![Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million](https://tii.imgix.net/production/articles/16401/e80658dd-40f2-4bea-b142-a45ba894faf9.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)From left, Anthropic CEO Dario Amodei, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman. Images via Getty, art from Mike Sullivan

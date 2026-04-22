@@ -2,6 +2,8 @@
 title: "Apple Earnings, Siri White-Labels Gemini, Short-Term Gains and Long-Term Risk"
 reader_id: "01k9qdxq0jfypb9cfdeewt26z0"
 notion_page_id: "3484ebe7-f118-810d-898b-dc987ac31213"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k9qdxq0jfypb9cfdeewt26z0"
 source_url: "https://stratechery.com/2025/apple-earnings-siri-white-labels-gemini-short-term-gains-and-long-term-risk/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-10"
 saved_at: "2025-11-10"
 reading_time: "12 mins"
 summary: "Apple is already benefitting from AI via the App Store. Meanwhile, Siri will white-label Gemini; the long-term implications are significant."
-content_hash: "644271d6e25d12eb6e2f103d687c9a0f07a0ebc957156f95a556814847d0a6c7"
+content_hash: "19a251ea89bc63dc06420b39dec7071919721b493bcdf71e253d11316d55f1ac"
 ---
 
 Apple is already benefitting from AI via the App Store. Meanwhile, Siri will white-label Gemini; the long-term implications are significant.

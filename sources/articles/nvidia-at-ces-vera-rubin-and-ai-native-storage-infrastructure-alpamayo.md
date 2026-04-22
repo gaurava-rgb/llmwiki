@@ -2,6 +2,8 @@
 title: "Nvidia at CES, Vera Rubin and AI-Native Storage Infrastructure, Alpamayo"
 reader_id: "01kecs3vpc271nfjbgba67pfgm"
 notion_page_id: "3464ebe7-f118-81dd-94de-ee79aae55953"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kecs3vpc271nfjbgba67pfgm"
 source_url: "https://stratechery.com/2026/nvidia-at-ces-vera-rubin-and-ai-native-storage-infrastructure-alpamayo/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-07"
 saved_at: "2026-01-07"
 reading_time: "10 mins"
 summary: "Nvidia's CES announcements didn't have much for consumers, but affects them all the same."
-content_hash: "f181574d1d55c6634c39746a2e99344e5e504ff2be0986b9fb3b27c56e4ca1e9"
+content_hash: "4a8b83b21af52b5e6651198e1cc0d1974671d44df9fc239a6312f1f7c150c9be"
 ---
 
 Nvidia's CES announcements didn't have much for consumers, but affects them all the same.

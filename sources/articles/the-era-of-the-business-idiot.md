@@ -2,6 +2,8 @@
 title: "The Era Of The Business Idiot"
 reader_id: "01jyx4pn5jwvehhsfhpes37y2f"
 notion_page_id: "3484ebe7-f118-819e-9bb2-ff5b0d175998"
+category: "article"
+source_type: "Wisereads discovery"
 reader_url: "https://read.readwise.io/read/01jyx4pn5jwvehhsfhpes37y2f"
 source_url: "https://www.wheresyoured.at/the-era-of-the-business-idiot/"
 author: "Edward Zitron May 21"
@@ -11,7 +13,7 @@ published: "2025-05-21"
 saved_at: "2025-06-29"
 reading_time: "51 mins"
 summary: "The modern economy is dominated by managers who lack real understanding of their businesses and customers, leading to ineffective decision-making. This phenomenon, fueled by decades of neoliberal thinking, promotes short-term gains over meaningful contributions. As a result, we see a rise of \"Business Idiots\" who thrive on alienation and avoid accountability."
-content_hash: "694101e72d8a533501c6498ea2eaf263a89db09e53ed25c4bc1832b2702ad989"
+content_hash: "c4c5f962ed88b7d84a39c71de86dcdb4f5b93388b468df17d34043d34c430410"
 ---
 
 **_Fair warning: this is the longest thing I've written on this newsletter. I do apologize._**

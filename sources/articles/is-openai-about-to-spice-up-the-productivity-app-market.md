@@ -2,6 +2,8 @@
 title: "Is OpenAI About to Spice Up the Productivity App Market?"
 reader_id: "01jyx51mzyr1wt7kkcwtf4qd43"
 notion_page_id: "3484ebe7-f118-8101-8433-e928c1b87258"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyx51mzyr1wt7kkcwtf4qd43"
 source_url: "https://www.theinformation.com/articles/openai-spice-productivity-app-market"
 author: "Aaron Holmes"
@@ -11,7 +13,7 @@ published: "2025-06-28"
 saved_at: "2025-06-29"
 reading_time: "4 mins"
 summary: "As if OpenAI isn’t fighting enough battles, the startup is now eyeing a new front line: productivity apps currently dominated by Microsoft’s Office 365 and Google’s Workspace.As my colleagues reported this week, OpenAI has been prototyping a new tool within ChatGPT that would let multiple people collaborate on documents and communicate with each other, as well as with the AI.OpenAI’s plans to release such a product aren’t clear. But if it went ahead, you’d imagine the company would pair the collaboration software with file storage. Doing so would bring the startup into greater competition with Microsoft and Google, both of which added ChatGPT-like features to their productivity app bundles. Companies like Notion, a Google Docs rival that has been using OpenAI models to power chatbot features in its product, might be feeling a little queasy about the prospect of OpenAI entering the productivity app race.How successful OpenAI’s bid to eat into the productivity market will likely come down to one factor: price. Enterprises are notoriously cost conscious, and in the past have been inclined to buy discounted bundles and in combination with other software, such as cybersecurity. That means OpenAI would probably just include the new collaboration features into the corporate ChatGPT subscriptions that thousands of enterprises already buy, like it did with its recently launched notetaking tool. If OpenAI did that, its subscription would be cheaper than bundles from Microsoft and Google that combine those companies’ chatbots with collaboration software, though OpenAI doesn’t offer other services like email and identity authentication software that those firms include.The startup has already signaled that it’s willing to play the bundling game as it competes with Microsoft: OpenAI this month started offering corporate customers discounts on ChatGPT when they agree to spend heavily on other products, we scooped last week. Putting out an Office competitor could also be anothe..."
-content_hash: "8978239af7346539c60104084bd633240f79d9e64eeb1716da56d0855294ef53"
+content_hash: "79b8486fea137535a377bd9ce67c2f7003262c67bab01d216621b1ad07ccc4e4"
 ---
 
 ![Credit: Photo via Getty](https://tii.imgix.net/production/articles/15303/ee3fc1a4-4ecd-4ad1-8e72-cd5309e7e751-mUorJd.jpg?fm=jpeg&auto=compress&w=610)

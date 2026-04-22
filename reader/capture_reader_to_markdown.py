@@ -22,7 +22,7 @@ ARTICLES_DIR = REPO_ROOT / "sources" / "articles"
 IMAGES_DIR = REPO_ROOT / "sources" / "images"
 MANIFEST_PATH = ARTICLES_DIR / "manifest.jsonl"
 API_BASE = "https://readwise.io/api/v3"
-READER_CATEGORIES = {"article", "rss"}
+READER_CATEGORIES = {"article", "rss", "tweet", "email", "video", "pdf", "epub"}
 REQUEST_TIMEOUT = 30
 IMAGE_TIMEOUT = 20
 NOTION_VERSION = "2022-06-28"
@@ -184,6 +184,10 @@ def normalize_tags(tags_raw: Any) -> list[str]:
     return []
 
 
+def source_type_for(doc: dict[str, Any]) -> str:
+    return str(doc.get("source_type") or doc.get("source") or "")
+
+
 def html_to_markdown(html: str) -> str:
     import html2text
 
@@ -208,12 +212,16 @@ def build_frontmatter(doc: dict[str, Any], body: str, notion_page_id: str = "", 
     reader_id = str(doc.get("id") or "")
     reader_url = sanitize_url(doc.get("url") or f"https://read.readwise.io/read/{reader_id}")
     source_url = sanitize_url(doc.get("source_url") or "")
+    category = str(doc.get("category") or "")
+    source_type = source_type_for(doc)
     tags = normalize_tags(doc.get("tags") or {})
 
     fields: list[tuple[str, str]] = [
         ("title", yaml_string(doc.get("title") or "Untitled")),
         ("reader_id", yaml_string(reader_id)),
         ("notion_page_id", yaml_string(notion_page_id)),
+        ("category", yaml_string(category)),
+        ("source_type", yaml_string(source_type)),
         ("reader_url", yaml_string(reader_url)),
         ("source_url", yaml_string(source_url)),
         ("author", yaml_string(doc.get("author") or "")),
@@ -572,6 +580,8 @@ def capture_docs(
         record = {
             "reader_id": reader_id,
             "notion_page_id": notion_page_id,
+            "category": str(doc.get("category") or ""),
+            "source_type": source_type_for(doc),
             "path": rel_path,
             "reader_url": sanitize_url(doc.get("url") or f"https://read.readwise.io/read/{reader_id}"),
             "source_url": sanitize_url(doc.get("source_url") or ""),

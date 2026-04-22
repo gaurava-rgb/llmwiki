@@ -2,6 +2,8 @@
 title: "I've heard that being a PM takes a lot of soft skills. How have they carried over into the non-work aspects of your life?"
 reader_id: "01jyw0zn9jwdxwhb2w4k3wp7fm"
 notion_page_id: "3484ebe7-f118-81a3-a5e9-ebcdd5cd98a5"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyw0zn9jwdxwhb2w4k3wp7fm"
 source_url: "https://www.reddit.com/r/ProductManagement/comments/1lk1pji/ive_heard_that_being_a_pm_takes_a_lot_of_soft/"
 author: "thebipolarironman"
@@ -11,7 +13,7 @@ published: "2025-06-25"
 saved_at: "2025-06-28"
 reading_time: "1 min"
 summary: ""
-content_hash: "68ff8a22d94004aea704fcad0224a7569fbe06bc7365c02e664efcc308f5fdd3"
+content_hash: "178c116f18edf0ea8984076380dbce771b51fad9451f3022a916c38f4f39085d"
 ---
 
 [r/ProductManagement](<https://www.reddit.com/r/ProductManagement/>)

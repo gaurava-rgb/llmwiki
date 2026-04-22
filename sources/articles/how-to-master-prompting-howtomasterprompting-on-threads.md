@@ -2,6 +2,8 @@
 title: "How To Master Prompting (@howtomasterprompting) on Threads"
 reader_id: "01kfngm5wtyq25ng5r315vecbz"
 notion_page_id: "3464ebe7-f118-817b-9b4d-e5b31f96a05f"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kfngm5wtyq25ng5r315vecbz"
 source_url: "https://www.threads.com/@howtomasterprompting/post/DT05H0eCtls?xmt=AQF0nmCVTXGzLS11JSK1MWrkgxfbYMsFnvtnku5mWwzflm2kV3OnDu9CHgJ4zBs6arMA1gmj&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2026-01-22"
 saved_at: "2026-01-23"
 reading_time: "1 min"
 summary: "This post teaches how to create clear and effective About sections that show who you help and what results you get. The author has helped over 500 people start AI writing businesses making $100 a day without needing an audience. In 30 days, you can earn your first $100 or miss a big opportunity."
-content_hash: "a246d7506f87ab741d7a704f3d6861af41da9844ca333a9a49a4f57295f573a9"
+content_hash: "ad884f9396e85f471860d0b6ea60ce5673c8cf7b3381bbe67874ee75a7105ec2"
 ---
 
 3\. Value-First About Section“Rewrite my About section [paste] to show who I help, what I do, and what business results I create. No fluff.”

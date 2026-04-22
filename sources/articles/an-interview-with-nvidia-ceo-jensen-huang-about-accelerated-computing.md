@@ -2,6 +2,8 @@
 title: "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing"
 reader_id: "01kkyg4ph14xnxjk5qx6tms5ab"
 notion_page_id: "3464ebe7-f118-81ed-a27a-e9a1e985c6c9"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kkyg4ph14xnxjk5qx6tms5ab"
 source_url: "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-17"
 saved_at: "2026-03-17"
 reading_time: "29 mins"
 summary: "An interview with Nvidia CEO Jensen Huang about his GTC 2026 keynote, navigating China and DC, and remembering Nvidia's true nature."
-content_hash: "8a61147b0cd5431f04d50956d10334c70fcb26309bafffcd3ec75dc0e3b4654e"
+content_hash: "2c51d3b1c64541a137e8e7b29ee2fe639ee285a1f72be0d337f9a01d31f91faf"
 ---
 
 An interview with Nvidia CEO Jensen Huang about his GTC 2026 keynote, navigating China and DC, and remembering Nvidia's true nature.

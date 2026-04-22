@@ -2,6 +2,8 @@
 title: "An Interview with Benedict Evans About AI and Software"
 reader_id: "01kgqfh4jpgfqt6sp88nz52b0b"
 notion_page_id: "3464ebe7-f118-81fc-9051-ffcdc8531fee"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kgqfh4jpgfqt6sp88nz52b0b"
 source_url: "https://stratechery.com/2026/an-interview-with-benedict-evans-about-ai-and-software/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-05"
 saved_at: "2026-02-05"
 reading_time: "50 mins"
 summary: "An interview with Benedict Evans about the crisis facing software, the future of the corporation, OpenAI, and the struggle to define the LLM paradigm."
-content_hash: "59591220d8c200b02f311c20a1f3efedb738ff7c7f8a63776e9174cd621719ed"
+content_hash: "dcaf8e85575389e8aaa4433176fb1a865fc4eba16239d56b652b6786974bed13"
 ---
 
 An interview with Benedict Evans about the crisis facing software, the future of the corporation, OpenAI, and the struggle to define the LLM paradigm.

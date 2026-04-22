@@ -2,6 +2,8 @@
 title: "Oracle Pops, From Databases to AI, Oracle and OpenAI"
 reader_id: "01k56mzc80cvvhwt9k85y59288"
 notion_page_id: "3484ebe7-f118-81a6-a807-d84a4c3588e9"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k56mzc80cvvhwt9k85y59288"
 source_url: "https://stratechery.com/2025/oracle-pops-from-databases-to-ai-oracle-and-openai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-15"
 reading_time: "8 mins"
 summary: "Oracle's stock sky-rocketed after reporting massive future performance obligations, mostly from OpenAI. It's a big risk, but Oracle is uniquely prepared to capitalize."
-content_hash: "eb3e922cbef7f2dd72ae05ec5cb5294df0bda8eae4f84b1bc50174385f46bb0f"
+content_hash: "3ef89d3173245e1b294287aa9fcfff1a63deb3975d343941b4217b17c6987210"
 ---
 
 Oracle's stock sky-rocketed after reporting massive future performance obligations, mostly from OpenAI. It's a big risk, but Oracle is uniquely prepared to capitalize.

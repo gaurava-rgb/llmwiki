@@ -2,6 +2,8 @@
 title: "What I Learnt Using Claude Code to Build Production-Ready Apps"
 reader_id: "01knqg9kbvqb3qwr6d58g09sep"
 notion_page_id: "3464ebe7-f118-8185-bbc6-fed0722676fa"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqg9kbvqb3qwr6d58g09sep"
 source_url: "https://medium.com/data-science-collective/what-i-learnt-using-claude-code-to-build-production-ready-apps-a27272af0c48"
 author: "Farhad Malik"
@@ -11,7 +13,7 @@ published: "2026-03-30"
 saved_at: "2026-04-08"
 reading_time: "17 mins"
 summary: "Claude Code helps automate coding tasks by planning, writing, testing, and managing code workflows. It can be extended with custom rules, skills, and plugins to fit team needs and connect to external tools. Using features like agent teams and subagents improves productivity and code quality while allowing easy control and review."
-content_hash: "cede86c2695fbaf568b85111ebb23c06bd5059976e7c729846d923a0cf894a38"
+content_hash: "563daf3df9d48854c62baa5f64f578e077dd392b9359e0cc761bb4a9e6e3f422"
 ---
 
 ## A practical guide covering the building blocks, hidden features, and tips that helped me build stable applications

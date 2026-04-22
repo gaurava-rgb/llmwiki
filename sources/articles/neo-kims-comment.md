@@ -2,6 +2,8 @@
 title: "Neo Kim's comment"
 reader_id: "01kjwpedh4b9ps2yg8tfek6re7"
 notion_page_id: "3464ebe7-f118-81b5-92f0-e48ccfd4ae87"
+category: "article"
+source_type: "Reader add from clipboard"
 reader_url: "https://read.readwise.io/read/01kjwpedh4b9ps2yg8tfek6re7"
 source_url: "https://substack.com/@systemdesignone/note/c-213989405?r=78wjcd"
 author: "Neo Kim"
@@ -11,7 +13,7 @@ published: "2026-02-13"
 saved_at: "2026-03-04"
 reading_time: "1 min"
 summary: "Neo Kim shares 19 important system design case studies to help you learn how popular platforms work. The list includes designs of YouTube, WhatsApp, Uber, and more. Save this guide to improve your system design skills."
-content_hash: "329d5c7c647bcd3aad2f9edd0379f5ea96bafe9d28afd3a8d73540cc8e0e0fd1"
+content_hash: "c20656b72be6f5d2809ae920029bfabeae278137ae2b28d690a71c98a5d3a9c9"
 ---
 
 If you want to become good at system design,

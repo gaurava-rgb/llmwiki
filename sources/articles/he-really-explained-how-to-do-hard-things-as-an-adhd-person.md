@@ -2,6 +2,8 @@
 title: "He really explained how to do hard things as an ADHD person"
 reader_id: "01kgasbb2gr97e6t319yjceajp"
 notion_page_id: "3464ebe7-f118-813c-b952-e44cbe5e69b6"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kgasbb2gr97e6t319yjceajp"
 source_url: "https://www.threads.com/@focusedmind.co/post/DUKVZjlEVxA?xmt=AQF0w5yfMHA5AJ6M5FkhYuC5gUnNQBSQXEvDrtFLSzIa6K8tV50XyPkzSgw_42LOYs6o8GRV&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2026-01-31"
 saved_at: "2026-01-31"
 reading_time: "1 min"
 summary: "He really explained how to do hard things as an ADHD person"
-content_hash: "30b2f0497e4319c12a0ec198345bf2c0e22054c191348274093989cd62d492c6"
+content_hash: "9ff635f206e529feeaebf32f18f4bb503bc5f856a94adf0eeb3ef19f8b32054e"
 ---
 
 He really explained how to do hard things as an ADHD person

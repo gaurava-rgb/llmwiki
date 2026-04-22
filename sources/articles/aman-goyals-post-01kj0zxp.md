@@ -2,6 +2,8 @@
 title: "Aman Goyal’s Post"
 reader_id: "01kj0zxpvmkyn59v23n74246mk"
 notion_page_id: "3464ebe7-f118-8111-a2ee-e937346b6d96"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kj0zxpvmkyn59v23n74246mk"
 source_url: "https://www.linkedin.com/posts/amangoyal99_find-your-dream-job-in-the-next-20-days-activity-7430657495599153152-FyZ2"
 author: "Aman Goyal"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-21"
 reading_time: "1 min"
 summary: "Aman Goyal shares a way to find your dream job in 20 days using three AI tools that automate job searching, resume writing, and applying. These tools work together to find many jobs, create custom applications, and contact hiring managers without manual effort. This method helps you get more interviews faster and avoids the burnout of traditional job hunting."
-content_hash: "9433b35f8f8735144d3c0edac9bbce27aff61cd1ddcc1584efd653f8d35bd0fc"
+content_hash: "74c1496b5b98cec4b13070e3c714dae386136fd35079389bb886e784d4c95de0"
 ---
 
 [ Aman Goyal ](<https://www.linkedin.com/in/amangoyal99?trk=public_post_feed-actor-name>)

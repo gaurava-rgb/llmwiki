@@ -2,6 +2,8 @@
 title: "Aditya Turalapati’s Post"
 reader_id: "01khrmjmey89af8b6bdvjjmyvx"
 notion_page_id: "3464ebe7-f118-8115-8ab6-d792a4ae53d0"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01khrmjmey89af8b6bdvjjmyvx"
 source_url: "https://www.linkedin.com/posts/aditya-turalapati_vibecoding-evals-scale-activity-7429824140729139201-82mI"
 author: "Aditya Turalapati"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-18"
 reading_time: "2 mins"
 summary: "AI product manager interviews now focus on building and evaluating AI systems, not just reasoning. Candidates must show hands-on skills like coding, testing, and improving AI products. The role requires thinking like a builder, evaluator, and strategist to meet higher expectations and impact."
-content_hash: "9e67ff0e6558aede826d8a04074da7ff9aa6024a751b8b6fdc179eb680433662"
+content_hash: "1bded5fd033549be30380c3786401c08d2f1aa3d778a8503ca31a0f027c3caee"
 ---
 
 [ Aditya Turalapati ](<https://in.linkedin.com/in/aditya-turalapati?trk=public_post_feed-actor-name>)

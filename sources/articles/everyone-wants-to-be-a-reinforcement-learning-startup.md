@@ -2,6 +2,8 @@
 title: "Everyone Wants To Be a Reinforcement Learning Startup"
 reader_id: "01k5bskyjnbmpx5gcngs5st9he"
 notion_page_id: "3484ebe7-f118-81ef-982e-d31b93c60f68"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyjnbmpx5gcngs5st9he"
 source_url: "https://www.theinformation.com/articles/everyone-wants-reinforcement-learning-startup"
 author: "Stephanie Palazzolo"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "5 mins"
 summary: "These days, artificial intelligence developers, investors and founders are all obsessed with “reinforcement learning,” a method for improving AI by rewarding it for accomplishing certain goals and penalizing it for other behaviors.Investors tell me that they’re getting pitched on dozens of RL-related startups per week, ranging from those building simulations of real apps for models to learn how to use to those aiming to help businesses specialize models on their performance metrics. Existing startups are pivoting into this area as well. One example is LMArena, a site that pits AI models against each other and lets users vote on which response they like the best. Originally funded through a combination of grants and donations, LMArena raised a $100 million “seed” round in May from Andreessen Horowitz and the investment arm of the University of California.By pitting models against each other, LMArena generates data on what users like and dislike about model responses—a crucial part of the reinforcement learning process. For instance, LMArena also offers “WebDev Arena,” a benchmark that allows users to provide an idea for a website or app like a “calorie tracker app” and then uses different AI coding assistants to create mock-ups of that app. Then, the user can vote on which mock-up they like best. That sort of data is extremely valuable to companies making those models, which explains how LMArena has reached several million dollars in annualized revenue in the five months since its launch as a for-profit company, said a person with knowledge of the numbers. It sells that data to model developers, they told me.Other AI startups are also emphasizing their access to valuable data. Last Thursday, Anysphere, the maker of popular coding assistant Cursor, said on X it had trained a new version of its code autocomplete model, Tab, which makes fewer but better suggestions than the previous model. The company said the model was trained in such a way that it was discouraged f..."
-content_hash: "b934b4a5dd9688f4be23a6ead8745e1ebea269f316846e837556ada113761ca4"
+content_hash: "efd529d9f22d5a9aef32b3d6882f19513bf4bc1a05e533ef2237e2f978f45951"
 ---
 
 ![Credit: Here you go! Art via Getty](https://tii.imgix.net/production/articles/15761/e5add3fd-eb94-4a4f-aaa3-186e5fff88b1-BKi8fm.png?fm=jpeg&auto=compress&w=610)

@@ -2,6 +2,8 @@
 title: "Elizabeth Holmes’s Resurrection is Gonna Happen"
 reader_id: "01k5bskyrj2a5q6yan775rrtbm"
 notion_page_id: "3484ebe7-f118-81a7-a6f7-ff60708269cd"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyrj2a5q6yan775rrtbm"
 source_url: "https://www.theinformation.com/articles/elizabeth-holmess-resurrection-gonna-happen"
 author: "Abram Brown"
@@ -11,7 +13,7 @@ published: "2025-09-13"
 saved_at: "2025-09-17"
 reading_time: "6 mins"
 summary: "Welcome, Weekenders! In this newsletter:• The Big Read: Anthropic’s different approach to Trump • The Arena: Steve Ballmer may be too rich for the NBA• Artificial Intelligence: AI boom complicates how schools recruit, retain doctoral students • Plus, our Recommendations: “Fiasco: Benghazi,” “Make Me Commissioner” and “And So It Goes”Elizabeth Holmes, the Theranos founder convicted of defrauding investors in 2022, seems intent on winning back the hearts and minds of Silicon Valley—one Twitter shitpost at a time. We’d be fools to think she can’t pull it off. In fact, she already sorta has. Ever since her long-dormant X account, @elizabethholmes, sparked to life about a week ago, quite a few of its posts have gone viral. And the account has deliberately interacted with some of the technorati who think of X as a pied-à-terre, such as Jason Calacanis and Bryan Johnson. Their replies to @elizabethholmes in front of their large followings have made the account’s return even more unmissable, and generally, the retweets have been done with misty-eyed good humor. You’d think Holmes was just that absent-minded friend who finally replied to the birthday party chat. Holmes’ apparent industriousness has impressed Justin Paperny, a consultant to the rich and infamous about life in the cooler. “Certainly your body is confined in prison, but that doesn’t mean you can’t be productive,” said Paperny, who speaks with experience. He kept a handwritten diary while serving 18 months in federal prison for securities fraud in the 2000s, passing entries to someone else to type up and post on a blog. “Writing for me was cathartic. It was a way to provide the outside world a glimpse of that foreign world of imprisonment and a way to share plans for the future with my network,” said Paperny, making sure to emphasize that Holmes can only earn full redemption by actually completing the plans she proposes via Twitter.Holmes currently resides at Federal Prison Camp, Bryan in east Texas, which pr..."
-content_hash: "062aeddba790b70ad75418ad01a9e3134d7687e5b530735ae09a3a04b1a133cd"
+content_hash: "9d1eac86343ed2a394120f1205907c00d304ad08e12081942cd378cce39fdaec"
 ---
 
 ![Credit: Art by Clark Miller; photos from Getty Images](https://tii.imgix.net/production/articles/15716/4e3c5e2c-c389-44aa-9222-bd88a17a1309-DQv3k8.jpg?fm=jpeg&auto=compress&w=610)

@@ -2,6 +2,8 @@
 title: "Anthropic's New TPU Deal, Anthropic's Computing Crunch, The Anthropic-Google Alliance"
 reader_id: "01knmk6knp845c6amazzg28het"
 notion_page_id: "3464ebe7-f118-81a3-8c65-e24ab04a146b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01knmk6knp845c6amazzg28het"
 source_url: "https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-07"
 saved_at: "2026-04-07"
 reading_time: "7 mins"
 summary: "Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google."
-content_hash: "3b4d648ef3add39b84314bef32d6e3f6fc0d48f365a8cb6e701f76417d825d78"
+content_hash: "a1e70d5b43d0b95e8150340b2b0269908310a73e2eef4201488ef4c8867ceaf5"
 ---
 
 Anthropic needs compute, and Google has the most: it's a natural partnership, particularly for Google.

@@ -2,6 +2,8 @@
 title: "The Quiet Revolution of Agentic Commerce"
 reader_id: "01kjajyrqtvq3nwkythks6v5eg"
 notion_page_id: "3464ebe7-f118-815b-930a-ee1123cc5f23"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kjajyrqtvq3nwkythks6v5eg"
 source_url: "https://www.linkedin.com/pulse/quiet-revolution-agentic-commerce-todd-rebner-ndjaf"
 author: "Todd Rebner"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-25"
 reading_time: "3 mins"
 summary: "The next disruption in digital commerce won’t arrive with a flashy product launch. It will arrive quietly, when an AI agent negotiates a better price on your cloud computing contract while you sleep, or when a procurement system autonomously reroutes orders across three continents before any human n"
-content_hash: "dc02e1f3c36e9be5ef0e97d62c617512b44175020df5d781f37f119333f7e69a"
+content_hash: "067888ed25f3ce76441080d9a8bdf9eddfaf2521810e40c2f44804b6e6a489ba"
 ---
 
 ![The Quiet Revolution of Agentic Commerce](https://media.licdn.com/dms/image/v2/D4D12AQFc3mQPKI89Gw/article-cover_image-shrink_720_1280/B4DZxENXusGgAI-/0/1770670882057?e=2147483647&v=beta&t=aOaAUy-ldH6KARLdlkl8dV0a3z21pPwLi8v8SRLTFq0)

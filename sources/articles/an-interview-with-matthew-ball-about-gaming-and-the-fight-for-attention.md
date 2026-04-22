@@ -2,6 +2,8 @@
 title: "An Interview with Matthew Ball About Gaming and the Fight for Attention"
 reader_id: "01khvgm77kgb9ey2t0agwnxw1f"
 notion_page_id: "3464ebe7-f118-8195-88d0-f5ae97686050"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01khvgm77kgb9ey2t0agwnxw1f"
 source_url: "https://stratechery.com/2026/an-interview-with-matthew-ball-about-gaming-and-the-fight-for-attention/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-19"
 saved_at: "2026-02-19"
 reading_time: "43 mins"
 summary: "An interview with Matthew Ball about the state of the video gaming industry in 2026, and why everything is a fight for attention."
-content_hash: "416f85de7c13e3b06a2155bb6c0a8a209f6670684572d29edee69a6fa7a3c5cb"
+content_hash: "1443472924640446e6f8106604eb34283aa212246e9038d94b8a4546aa2094ee"
 ---
 
 An interview with Matthew Ball about the state of the video gaming industry in 2026, and why everything is a fight for attention.

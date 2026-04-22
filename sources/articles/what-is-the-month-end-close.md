@@ -2,6 +2,8 @@
 title: "What Is the Month-End Close?"
 reader_id: "01jytapf3y9d41aazygheg2g6y"
 notion_page_id: "3484ebe7-f118-818e-bab2-f4d3398b41bc"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jytapf3y9d41aazygheg2g6y"
 source_url: "https://www.blackline.com/resources/glossaries/month-end-close/"
 author: "bl-prod"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-06-28"
 reading_time: "6 mins"
 summary: "The month-end close is a process where businesses review and finalize all financial transactions for the month. It helps ensure accurate financial data for decision-making and reporting. Using good practices and automation can make this process faster and more reliable."
-content_hash: "fa0537b1dbe710a7839eda31e6e5a91d36502602a182813afb31cb8fcaa15e08"
+content_hash: "133977fe94f395e987b603cbfa2138237cb94e0e12e31fd4fcb5ee2799d790ad"
 ---
 
 The month-end close is an accounting procedure that finalizes and closes out all financial activity for a business for the preceding month. This timeframe represents a well-defined period for accounting purposes. The process involves reviewing, documenting, and reconciling all financial transactions for that period. It is intended to ensure that all transactions have been properly accounted for, which allows the business to close the books on this financial activity and start a new month with a fresh set of records.

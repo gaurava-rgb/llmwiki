@@ -2,6 +2,8 @@
 title: "This guy literally shows how to make millions with AI"
 reader_id: "01kbqk4cey0qgtcmehb5z9vm2j"
 notion_page_id: "3464ebe7-f118-81f0-9c89-d75b7cea7a0c"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kbqk4cey0qgtcmehb5z9vm2j"
 source_url: "https://www.threads.com/@thesimplifyai/post/DR2NFRaCHf-?xmt=AQF0mk-7F7v10hB0bYCwRqZsCBgkewo1fNizP7Er4VXiwtC0QlFurjiOcn8FetwbQvvEVws&slof=1"
 author: "Threads"
@@ -11,7 +13,7 @@ published: "2025-12-04"
 saved_at: "2025-12-05"
 reading_time: "1 min"
 summary: "This guy literally shows how to make millions with AI"
-content_hash: "028949125468882e24fb6172004e516ab07bcda30734c2cab1d549fb38a96a2e"
+content_hash: "8ea2f03b5de62218a221630bf7333ef3c11aa538950f4772c198340fe29418d4"
 ---
 
 This guy literally shows how to make millions with AI

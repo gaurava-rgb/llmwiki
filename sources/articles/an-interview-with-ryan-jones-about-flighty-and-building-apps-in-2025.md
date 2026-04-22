@@ -2,6 +2,8 @@
 title: "An Interview with Ryan Jones About Flighty and Building Apps in 2025"
 reader_id: "01kc78xfbwzjtgxee59e7kdqzm"
 notion_page_id: "3464ebe7-f118-8106-89fa-e36c426091a7"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kc78xfbwzjtgxee59e7kdqzm"
 source_url: "https://stratechery.com/2025/an-interview-with-ryan-jones-about-flighty-and-building-apps-in-2025/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-11"
 saved_at: "2025-12-11"
 reading_time: "54 mins"
 summary: "An interview with Ryan Jones about Flighty, my favorite iOS app, and how the App Store has evolved over the last 15 years."
-content_hash: "367561c0965bdfc8c81ab2daefde70ffe207ea8838c89a48b0fdcdd07777ffa9"
+content_hash: "6d17e19202015fbadbad8f370c3662363abaad2f6cf90a18cde8d86ccab089b5"
 ---
 
 An interview with Ryan Jones about Flighty, my favorite iOS app, and how the App Store has evolved over the last 15 years.

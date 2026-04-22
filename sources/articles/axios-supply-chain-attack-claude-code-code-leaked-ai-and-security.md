@@ -2,6 +2,8 @@
 title: "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security"
 reader_id: "01kn541xhjwnv04paf522jxmv5"
 notion_page_id: "3464ebe7-f118-8194-afb3-d739146b1410"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kn541xhjwnv04paf522jxmv5"
 source_url: "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-01"
 saved_at: "2026-04-01"
 reading_time: "8 mins"
 summary: "AI is going to be bad for security in the short-term, but much better than humans in the long-term."
-content_hash: "c0f8b522729edcd45b579bd06af9d81bde4878660855dfcf66fe18d08f483745"
+content_hash: "5cf45afebfa9a4a28a6f9bbff216743dc138084c6dcaaa5310bc4257aeba8ef3"
 ---
 
 AI is going to be bad for security in the short-term, but much better than humans in the long-term.

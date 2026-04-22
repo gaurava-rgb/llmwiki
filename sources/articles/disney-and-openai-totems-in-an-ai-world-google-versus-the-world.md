@@ -2,6 +2,8 @@
 title: "Disney and OpenAI, Totems in an AI World, Google Versus the World"
 reader_id: "01kchj1tdyzqq5202gz34gbn3v"
 notion_page_id: "3464ebe7-f118-81cf-a775-cf94e1cae9cc"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kchj1tdyzqq5202gz34gbn3v"
 source_url: "https://stratechery.com/2025/disney-and-openai-totems-in-an-ai-world-google-versus-the-world/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-15"
 saved_at: "2025-12-15"
 reading_time: "7 mins"
 summary: "Disney made a deal with OpenAI, which both speaks to the durability of Disney's assets and to OpenAI's competition with Google."
-content_hash: "ef89406ef936bb7ea97791e33499db0423e6289ccf9d9bf596223522f8fe6378"
+content_hash: "94e25e2be454ff5231053a7b756f363f9c09553d04894c3f7bd94e54b11064e0"
 ---
 
 Disney made a deal with OpenAI, which both speaks to the durability of Disney's assets and to OpenAI's competition with Google.

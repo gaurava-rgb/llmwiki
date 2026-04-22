@@ -2,6 +2,8 @@
 title: "Google, Nvidia, and OpenAI"
 reader_id: "01kbdh0x9g4qh622x178fss1hg"
 notion_page_id: "3464ebe7-f118-8118-8d3a-cfca5a573fd3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kbdh0x9g4qh622x178fss1hg"
 source_url: "https://stratechery.com/2025/google-nvidia-and-openai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-01"
 saved_at: "2025-12-01"
 reading_time: "13 mins"
 summary: "OpenAI and Nvidia are both under threat from Google; I like OpenAI's chances best, but they need an advertising model to beat Google as an Aggregator."
-content_hash: "7aa6663f5d35194424cd5afa93fc05d66bdd9c11634886cc234a822d4210904c"
+content_hash: "598f3f4fdafa22207ffbc9260d8956677b86358ebc154c7d5a7a5a26310268df"
 ---
 
 OpenAI and Nvidia are both under threat from Google; I like OpenAI's chances best, but they need an advertising model to beat Google as an Aggregator.

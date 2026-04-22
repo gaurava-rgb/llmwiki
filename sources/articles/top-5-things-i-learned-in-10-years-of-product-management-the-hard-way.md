@@ -2,6 +2,8 @@
 title: "Top 5 things I learned in 10+ years of product management (the hard way)"
 reader_id: "01jz6ehb91xkdb9bwfn3qq5ydt"
 notion_page_id: "3484ebe7-f118-81f2-a695-c67ce809d11a"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jz6ehb91xkdb9bwfn3qq5ydt"
 source_url: "https://old.reddit.com/r/ProductManagement/comments/1lprteu/top_5_things_i_learned_in_10_years_of_product/"
 author: "old.reddit.com"
@@ -11,7 +13,7 @@ published: "2025-07-02"
 saved_at: "2025-07-02"
 reading_time: "1 min"
 summary: "Good product managers know alignment is ongoing, not a one-time meeting. They handle changing plans by managing expectations, not just sticking to roadmaps. Clear goals and honest communication, including saying no, build the best teams and products."
-content_hash: "1150d2cb5b8d7ac872280bfe61804cb8d9ba2829fef2668ab0b3d468836b9f70"
+content_hash: "852a429fddeedb33e400154c7aa1405d55929b06ccfc5eee32b52b19928b01eb"
 ---
 
 I’ve been in product for over a decade, across B2B, SaaS, some messy startups and one too-big-to-move enterprise. I’ve shipped things I’m proud of and plenty I’d rather forget.

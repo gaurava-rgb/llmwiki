@@ -2,6 +2,8 @@
 title: "Why MIT’s Viral AI Study Struck A Nerve"
 reader_id: "01k3c2vygvryrks11f8jas9cjy"
 notion_page_id: "3484ebe7-f118-8132-a322-fe3d297ee92f"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k3c2vygvryrks11f8jas9cjy"
 source_url: "https://www.theinformation.com/articles/mits-viral-ai-study-struck-nerve?rc=rpuplc"
 author: "Abram Brown"
@@ -11,7 +13,7 @@ published: "2025-08-23"
 saved_at: "2025-08-23"
 reading_time: "7 mins"
 summary: "Investors keep pouring huge sums into AI even though it’s unclear the money is paying off.  \nA viral MIT report claiming 95% of organizations get zero AI return — based mainly on 52 interviews — rattled tech stocks.  \nTech feels both boom and anxiety as startups and giants like Snap and Apple wrestle with AR, AI limits, and uneven gains."
-content_hash: "868b09af3539d9455dcde38d04ef075eb0a17d8b00ac25670244e25114fd09d5"
+content_hash: "0359ad624622ef479466ef029fab2c207b4e536f807e9139532eff2bc3ef7cda"
 ---
 
 ![Why MIT’s Viral AI Study Struck A Nerve](https://tii.imgix.net/production/articles/15644/8cd25be9-34de-44ce-b401-8f7f60f9d850-5202bE.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Art by Clark Miller

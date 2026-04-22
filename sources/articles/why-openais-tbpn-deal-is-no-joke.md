@@ -2,6 +2,8 @@
 title: "Why OpenAI's TBPN Deal is No Joke"
 reader_id: "01kna6nb2neyg5mpymv51wbjn0"
 notion_page_id: "3464ebe7-f118-8191-88e6-f68c7df8e203"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kna6nb2neyg5mpymv51wbjn0"
 source_url: "https://www.theinformation.com/newsletters/the-briefing/openais-tbpn-deal-joke?rc=p2bxcy"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2026-04-03"
 saved_at: "2026-04-03"
 reading_time: "3 mins"
 summary: "OpenAI bought TBPN to improve its communication with tech leaders, despite already being very well known. TBPN is more like a friendly podcast than a serious news source, so it won’t criticize OpenAI. Meanwhile, SpaceX aims for a very high valuation, and other tech companies like Microsoft and Tesla are also making big moves in AI and technology."
-content_hash: "e28a3a64b7fa65058c4ed2ce3072a89c20608038956facaa02f7046ac7951fde"
+content_hash: "aea800544f738f2e23c5af76bd87c023ce463615b59949524bd56757e625db08"
 ---
 
 ![Why OpenAI's TBPN Deal is No Joke](https://tii.imgix.net/production/articles/16869/c2332464-6300-49d6-b7f2-5a74c61c5e7b-eIocpC.jpg?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)TBPN hosts John Coogan (left) and Jordi Hays. Photo courtesy of TBPN.

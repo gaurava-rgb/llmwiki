@@ -2,6 +2,8 @@
 title: "Aman Goyal’s Post"
 reader_id: "01kk4fdwbyqadhw12vvmz61nvr"
 notion_page_id: "3464ebe7-f118-81ec-824f-edcb775eca76"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kk4fdwbyqadhw12vvmz61nvr"
 source_url: "https://www.linkedin.com/posts/amangoyal99_claudeskills-jobsearch-ai-share-7435746243491823616-Agiu"
 author: "Aman Goyal"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-07"
 reading_time: "2 mins"
 summary: "Aman Goyal created Claude Skills, five AI tools that automate job search tasks like resume building, emailing, and interview prep. These tools helped him get hired in 40 days and now anyone can use them. He offers access to these skills to help people find jobs faster and easier."
-content_hash: "3a1498e0966d0a62fa3fa51d780d8cc38b26a5f51504152e942754744cb6ab1b"
+content_hash: "a1ad51a379eb60e5cebac4e3c81f86b59b575442f3e2f45b8f4e5ba2dcef4ead"
 ---
 
 [ Aman Goyal ](<https://www.linkedin.com/in/amangoyal99?trk=public_post_feed-actor-name>)

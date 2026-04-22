@@ -2,6 +2,8 @@
 title: "Apple and Gemini, Foundation vs. Aggregation, Universal Commerce Protocol"
 reader_id: "01kew7z6nkmjz7k4ebcr53b4c1"
 notion_page_id: "3464ebe7-f118-8166-b9f0-d8fdd0cf8f85"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kew7z6nkmjz7k4ebcr53b4c1"
 source_url: "https://stratechery.com/2026/apple-and-gemini-foundation-vs-aggregation-universal-commerce-protocol/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-13"
 saved_at: "2026-01-13"
 reading_time: "9 mins"
 summary: "The deal to put Gemini at the heart of Siri is official, and it makes sense for both sides; then Google runs its classic playbook with Universal Commerce Protocol."
-content_hash: "e8fbcc9bad74844fc4a13ca672a8eac50e94d89f4ca1cf060b455180e8706928"
+content_hash: "bf60d49793289e9ad7605de91a9084f77578d62e4a98e6759ab2b3ce3c2c94e1"
 ---
 
 The deal to put Gemini at the heart of Siri is official, and it makes sense for both sides; then Google runs its classic playbook with Universal Commerce Protocol.

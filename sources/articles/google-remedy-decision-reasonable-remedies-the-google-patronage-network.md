@@ -2,6 +2,8 @@
 title: "Google Remedy Decision, Reasonable Remedies, The Google Patronage Network"
 reader_id: "01k48c42s6y4n8dtwn2pnz2vzr"
 notion_page_id: "3484ebe7-f118-8106-b6a0-f83a28359cef"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k48c42s6y4n8dtwn2pnz2vzr"
 source_url: "https://stratechery.com/2025/google-remedy-decision-reasonable-remedies-the-google-patronage-network/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-03"
 saved_at: "2025-09-03"
 reading_time: "9 mins"
 summary: "Google lost some battles but won the war in its search distribution case: the Google patronage network was deemed too important to undo."
-content_hash: "66e0ee2645b79cba573e640f87f3331c39c408978f5e7c006439d439fd117b7a"
+content_hash: "027a4b3bc44e6810306edc00640a2ff418062b09bfee7aa121e6e4d0ed61ada6"
 ---
 
 Google lost some battles but won the war in its search distribution case: the Google patronage network was deemed too important to undo.

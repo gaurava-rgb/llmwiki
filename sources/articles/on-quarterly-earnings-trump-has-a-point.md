@@ -2,6 +2,8 @@
 title: "On Quarterly Earnings, Trump Has a Point"
 reader_id: "01k5bskyehkh3523c354f0yztt"
 notion_page_id: "3484ebe7-f118-81bf-9ef3-d2f23101a465"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyehkh3523c354f0yztt"
 source_url: "https://www.theinformation.com/articles/quarterly-earnings-trump-point"
 author: "Martin Peers"
@@ -11,7 +13,7 @@ published: "2025-09-16"
 saved_at: "2025-09-17"
 reading_time: "4 mins"
 summary: "Imagine a world where companies report earnings only twice a year, instead of every quarter. As John Lennon put it, “you may say I’m a dreamer, but I’m not the only one.” Donald Trump reminded us on Monday that he is a big proponent of switching to a half-yearly corporate reporting cadence, away from the quarterly one. His pitch is that doing so would encourage companies to focus on the long term, rather than the next quarter. This may be a Trump policy that transcends party politics. After all, as things stand now, it often seems we’ve barely finished one round of earnings when the next one starts. And anyone who’s spent countless hours listening to quarterly earnings calls—sometimes little more than a marketing presentation (hello, Tim Cook)—knows what a mind-numbing experience it can be. (Don’t get me started on those suck-up analysts who preface every question with “Good quarter, guys”). Even so, the idea of reducing the frequency provokes much debate. Trump brought it up once before, in his first term, and that time the Securities and Exchange Commission invited public comment. Not surprisingly, various investor groups and individual fund managers—including BlackRock, CalPERS and T. Rowe Price—made clear they like the current system, which ensures investors have plenty of information to assess corporate performance.Meanwhile, several companies that submitted comments back then—mostly smaller firms such as Ball Corp. and Daktronics—were supportive of moving away from quarterly reports, citing the time-consuming nature of frequent earnings updates. In that regard, the U.S. Chamber of Commerce made a good point when it argued, in its comment to the SEC, in favor of less frequent reporting. The Chamber's point was that the number of companies traded publicly had fallen sharply in the previous 20 years and that anything that reduces the burden of going public would be helpful. That argument should resonate with tech investors. We know that private tech firms are ..."
-content_hash: "282a9bb62c9cec177912085776c1f3c8cd4b21ecca8097b22833cf285c54bb8a"
+content_hash: "306dbab8ac1553bd04d3e33f64f80506467809f76e6c0143eb34a313640b2686"
 ---
 
 ![Credit: Photo via Getty](https://tii.imgix.net/production/articles/15764/55c1e6b2-c0ca-4c45-afaa-2925c06e969d-yzDPrp.jpg?fm=jpeg&auto=compress&w=610)

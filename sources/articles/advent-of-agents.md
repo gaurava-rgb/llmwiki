@@ -2,6 +2,8 @@
 title: "Advent of Agents"
 reader_id: "01kn5cxhypyjvpfs5768e19kpe"
 notion_page_id: "3464ebe7-f118-8167-9f1b-c24bd618665f"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kn5cxhypyjvpfs5768e19kpe"
 source_url: "https://adventofagents.com/"
 author: "adventofagents.com"
@@ -11,7 +13,7 @@ published: "2026-03-01"
 saved_at: "2026-04-01"
 reading_time: "1 min"
 summary: "A new season of AI Agent tutorials is here this spring. You can learn to build real agents using Gemini, ADK, and Google Cloud. These tools help create production-ready AI agents."
-content_hash: "8f179b53388008b81a77adfa9faf894c282f08668b3199bb111577b7d0f05ab9"
+content_hash: "6b3fb939309ed126d445495c3a208c5ec284643fa70a84e5b84974e835c4798a"
 ---
 
 🌸 New Season

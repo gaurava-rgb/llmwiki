@@ -2,6 +2,8 @@
 title: "An Interview with Kalshi CEO Tarek Monsour About Prediction Markets"
 reader_id: "01kg2w554p5zyt99xvrjsyqr1s"
 notion_page_id: "3464ebe7-f118-8184-8751-c27a33c1f387"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kg2w554p5zyt99xvrjsyqr1s"
 source_url: "https://stratechery.com/2026/an-interview-with-kalshi-ceo-tarek-monsour-about-prediction-markets/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-28"
 saved_at: "2026-01-28"
 reading_time: "52 mins"
 summary: "An interview with Kalshi co-founder and CEO Tarek Monsour about the value of prediction markets."
-content_hash: "efd07ac4ea2d55c599bc95f23be3d025e20a095a480935e9f27f0ef4e6dae279"
+content_hash: "6e0274202d51ba50b3db459da89fcec9cef6a0af0918259f699e4ee76d44ed78"
 ---
 
 An interview with Kalshi co-founder and CEO Tarek Monsour about the value of prediction markets.

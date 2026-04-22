@@ -2,6 +2,8 @@
 title: "Google Earnings, Google Flips the Switch on Cloud, Search Notes"
 reader_id: "01k0y9zhbp1gdjjsdjxhkmgykc"
 notion_page_id: "3484ebe7-f118-81a6-9fbf-cc29ac97cc4b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k0y9zhbp1gdjjsdjxhkmgykc"
 source_url: "https://stratechery.com/2025/google-earnings-google-flips-the-switch-on-cloud-search-notes/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-24"
 saved_at: "2025-07-24"
 reading_time: "9 mins"
 summary: "Google doubles down on AI in the cloud"
-content_hash: "1405f9cd7021966ea4f1ab1153ba131cc08a91df7b081210d87192c0e8ae4209"
+content_hash: "5e9826ca5f032505c418e89083e5341582e8a1a9d81cdaebb170a8cc43cfa023"
 ---
 
 Google doubles down on AI in the cloud

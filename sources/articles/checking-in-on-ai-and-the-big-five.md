@@ -2,6 +2,8 @@
 title: "Checking In on AI and the Big Five"
 reader_id: "01jyeyp20knvx65vf07k0h5k5h"
 notion_page_id: "3484ebe7-f118-81d4-bcae-ce3e54b73e75"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jyeyp20knvx65vf07k0h5k5h"
 source_url: "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-23"
 saved_at: "2025-06-23"
 reading_time: "18 mins"
 summary: "A review of the current state of AI through the lens of the Big Five tech companies."
-content_hash: "feac53d72a068d2b42ff6d77de9f3f15ec8d31bb7b88d5f767a2392c1ecc7fd3"
+content_hash: "3363df62c4b3402556146bb115b289f683516b534d878d3023d50248b49fd755"
 ---
 
 A review of the current state of AI through the lens of the Big Five tech companies.

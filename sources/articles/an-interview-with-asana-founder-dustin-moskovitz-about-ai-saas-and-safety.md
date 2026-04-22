@@ -2,6 +2,8 @@
 title: "An Interview with Asana Founder Dustin Moskovitz about AI, SaaS, and Safety"
 reader_id: "01k80t57pata9e6aq292pvg89d"
 notion_page_id: "3484ebe7-f118-8137-a7d9-f192071e3d2e"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k80t57pata9e6aq292pvg89d"
 source_url: "https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-20"
 saved_at: "2025-10-20"
 reading_time: "43 mins"
 summary: "An interview with Asana founder and Chariman Dustin Moskovitz about Asana, AI's impact on SaaS, and the debate about AI Safety"
-content_hash: "259210fe7a574a0b16be6e2a7fc06769f692b07e1a3869113007a9d8763ad53b"
+content_hash: "4413eb261185ffa1c75d3b3f9bf8807c94c8f64067f9d02fe91564400f7f56e2"
 ---
 
 An interview with Asana founder and Chariman Dustin Moskovitz about Asana, AI's impact on SaaS, and the debate about AI Safety

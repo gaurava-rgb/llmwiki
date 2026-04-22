@@ -2,6 +2,8 @@
 title: "Nabil Mastan’s Post"
 reader_id: "01kn8c4pv731whtgs145ff1ht5"
 notion_page_id: "3464ebe7-f118-8179-ab0a-fd36a072cf4f"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kn8c4pv731whtgs145ff1ht5"
 source_url: "https://www.linkedin.com/posts/nabil-mastan_github-namastanresume-tailoring-agents-share-7444773315589652480-srQr"
 author: "Nabil Mastan"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-04-03"
 reading_time: "2 mins"
 summary: "Nabil Mastan built an AI tool that helps you see if a job fits you instead of just making your resume look good. The tool keeps your words but asks questions to improve weak resume points based on real experience. This saves time by showing which jobs match you well and which don’t."
-content_hash: "497b5ccd071f8066695a7ca265f99d82e57a42da0bbcf86c8b580d2d134b9f8c"
+content_hash: "60e72b3657db59232909bd5b413cc6fdf8ece5273a07cfa7be6fee00cbf86289"
 ---
 
 [ Nabil Mastan ](<https://www.linkedin.com/in/nabil-mastan?trk=public_post_feed-actor-name>)

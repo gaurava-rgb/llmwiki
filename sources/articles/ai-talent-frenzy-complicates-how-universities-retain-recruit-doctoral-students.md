@@ -2,6 +2,8 @@
 title: "AI Talent Frenzy Complicates How Universities Retain, Recruit Doctoral Students"
 reader_id: "01k5bskypn4e26nntsn71k1v84"
 notion_page_id: "3484ebe7-f118-81d4-b2c8-c3c4dac17567"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskypn4e26nntsn71k1v84"
 source_url: "https://www.theinformation.com/articles/ai-talent-frenzy-complicates-universities-retain-recruit-doctoral-students"
 author: "Andrew Zucker"
@@ -11,7 +13,7 @@ published: "2025-09-14"
 saved_at: "2025-09-17"
 reading_time: "3 mins"
 summary: "Even though applications aren’t due until December, an avalanche of emails have already hit Naomi Saphra, a soon-to-be assistant professor of computer science at Boston University who’s currently finishing up research across town at Harvard University.\nThe messages are from people eager to join Saphra as BU doctoral students and contribute to her work on natural language processing, part of the bedrock of the AI revolution. Her decision is more complicated than it would’ve been a couple years ago: She’ll weigh both their qualifications and their likelihood of sticking with the program rather than bolting quickly for a corporate AI job.“I see students leaving,” Saphra said with a sigh. “There’s always been better money in industry than in a Ph.D. program, but I do see a bit more concern about it” tempting doctoral students to depart early.\nAs the frenzy to hire AI talent has intensified lately, it has overturned life in Silicon Valley—and thrown the world of advanced academia into increasing disarray, too as the allure of the corporate AI boom balloons. “I think everybody feels a little bit of the fear of missing out,” said Harvard assistant professor David Alvarez-Melis.\nThat has especially complicated even the best schools’ efforts to recruit and retain doctoral students in AI-related subjects. Like all doctoral candidates, these students form an unglamorous but essential part of academia: They make up a sizable portion of the undergraduate teaching staff and are critical contributors to advanced research led by tenured professors—the kind of work that brings prestige to a school and often supports private-sector efforts. Of course, it also means that fewer of these doctoral students become full professors.\nIf too many of those doctoral students leave early, it could jeopardize the system and, as MIT professor Jim Collins puts it, have companies “eating seed corn for the field,” depleting resources meant to sustain the fertile ecosystem connecting academia and t..."
-content_hash: "f3933252bde3abb18db95ed2ad961ba57f06baf16f5488ffbe36b609a45477f7"
+content_hash: "34aa8aea6ae39418ddf8e5086445861ed00c8e39518f46af0be3b38a96aaaab4"
 ---
 
 ![Credit: Art by Clark Miller](https://tii.imgix.net/production/articles/15756/870771db-514f-42a5-afc5-d613a63e7943.jpg?fm=jpeg&auto=compress&w=610)

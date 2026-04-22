@@ -2,6 +2,8 @@
 title: "China AI Chips, A China Chip Control Framework, Whither HBM"
 reader_id: "01k2fqdf17jgth04rgy4z92wsj"
 notion_page_id: "3484ebe7-f118-8163-9b82-ed3f3ec08a4a"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k2fqdf17jgth04rgy4z92wsj"
 source_url: "https://stratechery.com/?p=16663"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-08-12"
 saved_at: "2025-08-12"
 reading_time: "11 mins"
 summary: "President's Trump plan for the U.S. to get paid by Nvidia and AMD for China exports is dubious, but overall policy is headed in the right direction."
-content_hash: "1965e40ed5f26a1507445306febed0b2c5bd5eaed27c463a8a4f335dd1b4bffe"
+content_hash: "fe5af579a6c246899ffa717d6a002e86de9f4ca302317ee0fb78bf7eab2df5bb"
 ---
 
 President's Trump plan for the U.S. to get paid by Nvidia and AMD for China exports is dubious, but overall policy is headed in the right direction.

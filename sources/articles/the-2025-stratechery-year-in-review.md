@@ -2,6 +2,8 @@
 title: "The 2025 Stratechery Year in Review"
 reader_id: "01kcs9d48rawqa8710jh31qd7j"
 notion_page_id: "3464ebe7-f118-813b-a525-cbe1c0b1213f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kcs9d48rawqa8710jh31qd7j"
 source_url: "https://stratechery.com/2025/the-2025-stratechery-year-in-review/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-18"
 saved_at: "2025-12-18"
 reading_time: "6 mins"
 summary: "The most popular and most important posts on Stratechery in 2025."
-content_hash: "a8fa34b82ab9fbda71e835180a8ec96463bcb629df281b9b28019c700e2ca9eb"
+content_hash: "46abadfa276fa88f3dc51f34f3a4794c0c805a83d3a3aa6fb72925ed70d62e19"
 ---
 
 The most popular and most important posts on Stratechery in 2025.

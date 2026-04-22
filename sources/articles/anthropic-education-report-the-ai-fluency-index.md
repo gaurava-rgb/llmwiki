@@ -2,6 +2,8 @@
 title: "Anthropic Education Report: The AI Fluency Index"
 reader_id: "01kj6p7w5bd5pn1407qckpd3mr"
 notion_page_id: "3464ebe7-f118-818d-a9a2-eeac8a088bab"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kj6p7w5bd5pn1407qckpd3mr"
 source_url: "https://www.anthropic.com/research/AI-fluency-index"
 author: "anthropic.com"
@@ -11,7 +13,7 @@ published: "2026-02-23"
 saved_at: "2026-02-24"
 reading_time: "9 mins"
 summary: "People using AI often improve their skills by having longer, more detailed conversations that involve iteration and refinement. Most users treat AI as a helpful partner instead of fully relying on it. This study provides a baseline to track how people become more fluent with AI over time."
-content_hash: "3a38746825ee633e89c59b7d0a0ed4e48bbf78012c2cad23f4bcc3ebd2b6f34a"
+content_hash: "ed44f8bd40a2994326a3715e77cce7b31b1ba030500bc567c6d9ed2c2b6d108b"
 ---
 
 ![Anthropic Education Report: The AI Fluency Index](https://www-cdn.anthropic.com/images/4zrzovbb/website/77dd9077412abc790bf2bc6fa3383b37724d6305-1000x1000.svg)

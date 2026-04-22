@@ -2,6 +2,8 @@
 title: "Dushyant Sharma’s Post"
 reader_id: "01k70srv3ykv67cf1b25rd6ftr"
 notion_page_id: "3484ebe7-f118-817c-ba54-e3eabca8dae6"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k70srv3ykv67cf1b25rd6ftr"
 source_url: "https://www.linkedin.com/posts/dushyantssharma_aipm-aiproductmanagement-productmanagement-activity-7380825390442987520-aR1t/"
 author: "Dushyant Sharma"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-10-08"
 reading_time: "1 min"
 summary: "Dushyant Sharma shares a concise rubric for hiring or becoming an AI product manager.  \nKey areas: ecosystem awareness, core AI concepts, product trust/scale, and collaboration with restraint.  \nHe emphasizes practical tradeoffs, human‑in‑the‑loop design, and evidence of shipped impact."
-content_hash: "22fd4311f802a1eeb3507cd48fe38c185207a6bb6b5c587e688275edcd64c006"
+content_hash: "b28b2e6b9e92b89b4b28f77d28e9b52a916a124a15bb63865456c0df08efd2fd"
 ---
 
 [ Dushyant Sharma ](<https://in.linkedin.com/in/dushyantssharma?trk=public_post_feed-actor-name>)

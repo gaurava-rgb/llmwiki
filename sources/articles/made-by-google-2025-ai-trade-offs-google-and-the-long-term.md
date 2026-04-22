@@ -2,6 +2,8 @@
 title: "Made by Google 2025, AI Trade-offs, Google and the Long-Term"
 reader_id: "01k45sd4098jq8ytfhgt08aj2c"
 notion_page_id: "3484ebe7-f118-8114-aa7b-c7f7e3a0433b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k45sd4098jq8ytfhgt08aj2c"
 source_url: "https://stratechery.com/2025/made-by-google-2025-ai-trade-offs-google-and-the-long-term/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-02"
 saved_at: "2025-09-02"
 reading_time: "10 mins"
 summary: "Google's latest Pixel event re-imagined launch events; it was appropriate given that Google is truly re-imagining the smartphone."
-content_hash: "ca29631cb460a41a9a3d48977036d0a34ff0440e21e92a3ac0002c9446b3c2b5"
+content_hash: "151fcd5757c0e51abc5d8b0e63f67b2a144ddbef2652243b3092ac45fb8e9377"
 ---
 
 Google's latest Pixel event re-imagined launch events; it was appropriate given that Google is truly re-imagining the smartphone.

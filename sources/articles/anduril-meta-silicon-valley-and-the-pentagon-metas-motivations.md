@@ -2,6 +2,8 @@
 title: "Anduril + Meta, Silicon Valley and the Pentagon, Meta's Motivations"
 reader_id: "01jxe1a9gbbhaj5rj346gk5efs"
 notion_page_id: "3484ebe7-f118-81f9-a108-ea81e96d8c88"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxe1a9gbbhaj5rj346gk5efs"
 source_url: "https://stratechery.com/2025/anduril-meta-silicon-valley-and-the-pentagon-metas-motivations/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-04"
 saved_at: "2025-06-10"
 reading_time: "10 mins"
 summary: "Meta made a deal with Anduril to develop headsets for the military; does Reality Labs finally have a customer that will justify the investment?"
-content_hash: "915e0706bf3acd158509574a53ef2606b1026caf32d0b44ca6fc8d09254ab92c"
+content_hash: "bc0f0c33ed10d5722893d2f121867666432a881483f9bafac5f4df7080727f0c"
 ---
 
 Meta made a deal with Anduril to develop headsets for the military; does Reality Labs finally have a customer that will justify the investment?

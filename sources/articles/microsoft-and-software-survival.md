@@ -2,6 +2,8 @@
 title: "Microsoft and Software Survival"
 reader_id: "01kgj09fyrpxqvs5fjwprxk8q0"
 notion_page_id: "3464ebe7-f118-81d6-8793-ff5a511eb014"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kgj09fyrpxqvs5fjwprxk8q0"
 source_url: "https://stratechery.com/?p=18218"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-03"
 saved_at: "2026-02-03"
 reading_time: "14 mins"
 summary: "Microsoft got hammered on Wall Street for capacity allocation decisions that were the right ones: the software that wins will use AI to usurp other software."
-content_hash: "f433ac64f2d00d3bd4b7eb82b35e88d63ee6f72ae92f99e2660f235fce5ff08f"
+content_hash: "0a47748ddabf8364d5507cd1e5c3198be74dc646321e3b6cd3a87cecfe168cfc"
 ---
 
 Microsoft got hammered on Wall Street for capacity allocation decisions that were the right ones: the software that wins will use AI to usurp other software.

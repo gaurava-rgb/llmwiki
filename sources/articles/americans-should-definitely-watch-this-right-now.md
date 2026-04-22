@@ -2,6 +2,8 @@
 title: "Americans should definitely watch this right now"
 reader_id: "01k9wf62xd5rp0g24xr2st5dvx"
 notion_page_id: "3484ebe7-f118-81d9-8887-eed376abe9e4"
+category: "article"
+source_type: "Reader add from clipboard"
 reader_url: "https://read.readwise.io/read/01k9wf62xd5rp0g24xr2st5dvx"
 source_url: "https://www.reddit.com/r/TikTokCringe/comments/1ouiy1z/americans_should_definitely_watch_this_right_now/?share_id=EtFpFU39wRfwP0P_xpkpA"
 author: "takalfka"
@@ -11,7 +13,7 @@ published: "2025-11-11"
 saved_at: "2025-11-12"
 reading_time: "39 mins"
 summary: "Many commenters say both major parties now serve elites, not regular people.  \nThey blame neoliberalism, Super PACs, and corruption for politics failing.  \nSome urge more parties, ranked-choice voting, or greater public engagement."
-content_hash: "5fcd644c8ecb828d6acceabf3a91fac0bd64c0df75722de1f1556b80ce791e82"
+content_hash: "c6c9c1f1b394ab5d548e03f73b090af94e12360de4cc49fd44f078245c69f328"
 ---
 
 **[r/TikTokCringe](<https://www.reddit.com/r/TikTokCringe/>)**

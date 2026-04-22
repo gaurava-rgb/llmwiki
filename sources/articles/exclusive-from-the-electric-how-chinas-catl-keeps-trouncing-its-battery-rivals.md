@@ -2,6 +2,8 @@
 title: "Exclusive From The Electric: How China's CATL Keeps Trouncing Its Battery Rivals"
 reader_id: "01k5bskymktcc3qyampgp0aahc"
 notion_page_id: "3484ebe7-f118-812d-aeec-d7951302c075"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskymktcc3qyampgp0aahc"
 source_url: "https://www.theinformation.com/articles/exclusive-electric-chinas-catl-keeps-trouncing-battery-rivals"
 author: "Steve LeVine"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "6 mins"
 summary: "Lingbo Zhu was scribbling on a sheet of paper last week, sketching out a lineup of batteries that no other company could match. Zhu is international chief technology officer of China’s Contemporary Amperex Technology Ltd., the world’s largest battery maker, which took another leap forward last week. Just days earlier, on the eve of Europe’s largest auto show in Munich, Zhu stood on a stage and added a blockbuster new battery called the Shenxing Pro to CATL’s lineup. As we reported, he said the battery could deliver almost 400 miles of driving range and, when it needed more juice, a driver could add 210 miles of range in 20 minutes.Now, sitting with me at CATL’s sprawling exhibit at the show, he sketched out more of CATL’s offerings. They included a battery that is ultra cheap and offers modest range, and another that costs more but goes farther.Then he offered a peek into the future. CATL was working on a battery that was both relatively cheap and offered even longer range. But it wasn’t quite ready yet. When I pressed Zhu on the details, he conceded that this version couldn’t be charged enough times to go into an electric vehicle.He was excited about it nonetheless. If it worked, the battery chemistry that CATL dominates—a mix of conventional lithium, iron and phosphate, known as LFP—could capture 90% of the market. “Then this will be a huge hit,” he told me.CATL’s dominance is really China’s dominance of the global battery market. One of CATL’s primary advantages is its vertical integration, with ownership of key lithium mines, stakes in component manufacturers, and by far the world’s largest global constellation of battery gigafactories.CATL’s success shows how China has come to dominate the battery industry. The company has stuck with the conventional LFP battery chemistry, but squeezed out efficiencies in production and performance, while obsessing over quality. Western battery manufacturers, meanwhile, tried to leapfrog current technologies with new chemist..."
-content_hash: "1080ba8ab70481e6d62ef1e615c8a214ccb55c71d6bc63f46f9c0b09cad22c28"
+content_hash: "7654d0cdef3f5366f929703e61f95277644a298cfcb9808939ab7aade186fe6c"
 ---
 
 ![Credit: CATL](https://tii.imgix.net/production/articles/15758/aa8705c8-5b7f-4999-bf0d-e525171d3f05-psKcYz.jpg?fm=jpeg&auto=compress&w=610)

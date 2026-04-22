@@ -2,6 +2,8 @@
 title: "ChatGPT Image 1.5; Apple v. Epic, Continued; Holiday Schedule"
 reader_id: "01kcpq0f9d6afjtyztqbyjpsp1"
 notion_page_id: "3464ebe7-f118-8121-88b9-ca8ed777d7fc"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kcpq0f9d6afjtyztqbyjpsp1"
 source_url: "https://stratechery.com/2025/chatgpt-image-1-5-apple-v-epic-continued-holiday-schedule/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-17"
 saved_at: "2025-12-17"
 reading_time: "7 mins"
 summary: "ChatGPT Image 1.5 launched, and while it seems comparable to Gemini's Nano Banana Pro, the product around it shows OpenAI's advantages. Then, Apple v. Epic rolls on."
-content_hash: "c85f2af211fd24a5c9243193df152c5ef8769a540543facca408d616e865c29e"
+content_hash: "99d6cebcad854e64b913ae609074fda714d6a47c17c14cce02542e9102c92335"
 ---
 
 ChatGPT Image 1.5 launched, and while it seems comparable to Gemini's Nano Banana Pro, the product around it shows OpenAI's advantages. Then, Apple v. Epic rolls on.

@@ -2,6 +2,8 @@
 title: "MIT Sloan Executive Education"
 reader_id: "01kmf18j0s2cxhhh40wm7xy5v1"
 notion_page_id: "3464ebe7-f118-8137-8ba4-e85ba34c093c"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmf18j0s2cxhhh40wm7xy5v1"
 source_url: "https://executive.mit.edu/blog/proptech-innovations-how-technology-is-shaping-the-future-of-real-estate.html"
 author: "MIT"
@@ -11,7 +13,7 @@ published: "2026-03-20"
 saved_at: "2026-03-24"
 reading_time: "5 mins"
 summary: "Proptech is changing how real estate is designed, managed, and sold by using new technologies like smart systems and data analytics. Executives who learn to use these tools can make better decisions and gain a competitive edge. MIT Sloan Executive Education offers programs to help leaders understand and apply proptech for strategic success."
-content_hash: "eaab799e1b8120cb1d772b6faa22096c627f2f3348e8a149a83cb42c377d64fb"
+content_hash: "88be853aa3046481c1b3b026e2c29de65e7844e419c80d8a9a0522b7cb1b5340"
 ---
 
 The real estate industry is evolving at an unprecedented pace, reshaping both how properties are bought and sold and how organizations manage and utilize space. At the heart of this shift is proptech — specialized technology that, alongside innovative design and space usage strategies, is redefining what’s possible in the built environment.

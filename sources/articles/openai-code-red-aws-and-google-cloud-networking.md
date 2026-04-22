@@ -2,6 +2,8 @@
 title: "OpenAI Code Red, AWS and Google Cloud Networking"
 reader_id: "01kbfd3y1dz8axqab5vsr0r0na"
 notion_page_id: "3464ebe7-f118-8173-9503-d2ac10c1c688"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kbfd3y1dz8axqab5vsr0r0na"
 source_url: "https://stratechery.com/2025/openai-code-red-aws-and-google-cloud-networking/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-02"
 saved_at: "2025-12-02"
 reading_time: "7 mins"
 summary: "OpenAI is declaring code red and doubling down on ChatGPT, highlighting the company's bear case. Then, AWS makes it easier to run AI workloads on other clouds."
-content_hash: "f32d3e5c9080fe76f8512022b86d7b455149916dc38c0131153388bc0f85085b"
+content_hash: "edeb7774b9610356bfaccf32eb8046588b206343a27a7726eec3f3ffc65cf847"
 ---
 
 OpenAI is declaring code red and doubling down on ChatGPT, highlighting the company's bear case. Then, AWS makes it easier to run AI workloads on other clouds.

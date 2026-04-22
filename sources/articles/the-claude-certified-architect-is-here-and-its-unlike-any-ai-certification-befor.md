@@ -2,6 +2,8 @@
 title: "The Claude Certified Architect Is Here — And It’s Unlike Any AI Certification Before It"
 reader_id: "01knqgyqfxwszw8f7dtrx79k8k"
 notion_page_id: "3464ebe7-f118-81c2-809c-e03876a9eac4"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01knqgyqfxwszw8f7dtrx79k8k"
 source_url: "https://medium.com/@reliabledataengineering/the-claude-certified-architect-is-here-and-its-unlike-any-ai-certification-before-it-7abe0fe678d1"
 author: "Reliable Data Engineering"
@@ -11,7 +13,7 @@ published: "2026-03-18"
 saved_at: "2026-04-08"
 reading_time: "7 mins"
 summary: "Anthropic launched the Claude Certified Architect, a proctored exam that tests real AI system design skills, not just basic AI use. This certification shows deep knowledge in building production-grade Claude applications and is taken seriously by top firms. Preparing for the exam helps engineers improve their job skills, making this credential valuable and timely."
-content_hash: "0ce60c18ef1f641e3c1300b5095877600ac304b8e097b56287d41ab14b0810d5"
+content_hash: "adb37d371055ea9df8a28cca9fe86bee93107854ab091bb50f5b9b6f4c3b645d"
 ---
 
 _Anthropic just launched its first official technical credential — a proctored, architecture-level exam that separates people who use AI from people who build production systems with it. Here’s everything you need to know and why the timing matters._

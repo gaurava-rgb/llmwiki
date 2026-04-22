@@ -2,6 +2,8 @@
 title: "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise"
 reader_id: "01knsqs9c666vavmercevpra5h"
 notion_page_id: "3464ebe7-f118-81b0-9a10-cbd1bd78f09b"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01knsqs9c666vavmercevpra5h"
 source_url: "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-09"
 saved_at: "2026-04-09"
 reading_time: "40 mins"
 summary: "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI."
-content_hash: "d856034511d20b74c6b0ddca563dce6b42026254fe27462e7eb2bae06b1d3988"
+content_hash: "15eea2670af551755ac588177d41a5cea8acf63dc9b41f2693bff1742f7de5ec"
 ---
 
 An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.

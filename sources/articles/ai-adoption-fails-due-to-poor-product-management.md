@@ -2,6 +2,8 @@
 title: "AI Adoption Fails Due to Poor Product Management"
 reader_id: "01kh27zak8w7epgwzeje52rcgw"
 notion_page_id: "3464ebe7-f118-81f8-9657-dae4b63ae68d"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kh27zak8w7epgwzeje52rcgw"
 source_url: "https://www.linkedin.com/posts/chasekellison_a-new-harvard-business-review-piece-just-share-7424822456378503168-qtvo"
 author: "Chase Kellison"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-02-09"
 reading_time: "2 mins"
 summary: "AI adoption often fails because teams lack strong product management skills. Successful teams focus on solving real workflow problems and integrate AI smoothly into their processes. They use clear goals, feedback, and iteration to make AI tools reliable and useful."
-content_hash: "2ded9e910e776c73f9ad4a8018621fa8d2f75b66825a9ad3c73ed0f1e3dfab6a"
+content_hash: "4457cd3418a36ae2ebecaa028241213bb005490feaa465c821e94c897bb19f07"
 ---
 
 [ Chase Kellison ](<https://www.linkedin.com/in/chasekellison?trk=public_post_feed-actor-name>)

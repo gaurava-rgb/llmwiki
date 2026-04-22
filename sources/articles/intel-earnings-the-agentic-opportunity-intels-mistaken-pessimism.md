@@ -2,6 +2,8 @@
 title: "Intel Earnings, The Agentic Opportunity, Intel's Mistaken Pessimism"
 reader_id: "01kg09vkhxxqrvd9ywerxy7zxn"
 notion_page_id: "3464ebe7-f118-8106-b200-fd8dae699bbf"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kg09vkhxxqrvd9ywerxy7zxn"
 source_url: "https://stratechery.com/2026/intel-earnings-the-agentic-opportunity-intels-mistaken-pessimism/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-27"
 saved_at: "2026-01-27"
 reading_time: "7 mins"
 summary: "Intel's earnings were disappointing because the company is missing a huge opportunity by virtue of selling off its capacity."
-content_hash: "8956bdb726bd8ed972309db41b1220a440ac19939a68b8feadd5dd07ff49fac0"
+content_hash: "8f5e2552522a230ae14cb224a0035270049636c81b7989e6899a271f95c67ce5"
 ---
 
 Intel's earnings were disappointing because the company is missing a huge opportunity by virtue of selling off its capacity.

@@ -2,6 +2,8 @@
 title: "The Education of Roku’s Anthony Wood"
 reader_id: "01k0je7kvedkpv5538hw6rjgp5"
 notion_page_id: "3484ebe7-f118-8128-9952-ee29be9bad11"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k0je7kvedkpv5538hw6rjgp5"
 source_url: "https://www.theinformation.com/articles/education-rokus-anthony-wood?rc=ayz15n"
 author: "Information.com"
@@ -11,7 +13,7 @@ published: "2025-07-18"
 saved_at: "2025-07-19"
 reading_time: "7 mins"
 summary: "Roku’s CEO, Anthony Wood, used to keep the home screen free of many ads but has now allowed more types of advertisements to boost revenue. Roku grew fast by making streaming easy, but the market is now crowded and growth has slowed. Wood faces tough choices as Roku competes with big companies and changes how it shows content and ads."
-content_hash: "25dc552bea56c8cf19b165c8f3d0fa11710abc62dc1fa73ef25034c7a10a8274"
+content_hash: "8e9e3cb13e227675b5522cedb9bc1774b851b06b442bfacf73185c8c7d2f909e"
 ---
 
 ![The Education of Roku’s Anthony Wood](https://tii.imgix.net/production/articles/15420/2bf6b9f6-659c-4af7-a7d7-5d1198e98f5d.png?auto=compress&fit=crop&auto=format&w=400&dpr=4.5)Photo via Getty

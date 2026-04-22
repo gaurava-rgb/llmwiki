@@ -2,6 +2,8 @@
 title: "TikTok, Instagram Plot TV Apps Following YouTube’s Success"
 reader_id: "01k0jge876jrjmr8tmjf6cwnfz"
 notion_page_id: "3484ebe7-f118-81db-afe3-d2c766ab31ef"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k0jge876jrjmr8tmjf6cwnfz"
 source_url: "https://www.theinformation.com/articles/tiktok-instagram-plot-tv-apps-following-youtubes-success?rc=ayz15n"
 author: "Kaya Yurieff"
@@ -11,7 +13,7 @@ published: "2025-06-26"
 saved_at: "2025-07-19"
 reading_time: "4 mins"
 summary: "TikTok and Instagram plan to create new apps for TVs, following YouTube’s success on big screens. They want to attract older viewers and earn more ad money by offering videos better suited for TVs. Both face challenges but see the TV market as an important opportunity to grow."
-content_hash: "bb840833481c448fb06053278ae5a1d4b81b375b7891c2add1a4dab2cf75dfc3"
+content_hash: "e528575fb1d301562a2d92d232dd06bbb2a1e6d5bb1b4f27d66df91058368590"
 ---
 
 ![TikTok, Instagram Plot TV Apps Following YouTube’s Success](https://tii.imgix.net/production/articles/15305/f951d8fd-d420-4b97-aa04-0ad45f4372aa.gif?auto=compress&fit=crop&gif-q=50&w=400&dpr=4.5)Art by Mike Sullivan.

@@ -2,6 +2,8 @@
 title: "Anthropic and Alignment"
 reader_id: "01kjqdt8vk98ss41knffhkdmmp"
 notion_page_id: "3464ebe7-f118-81a2-9a90-d28c3aa0e92a"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kjqdt8vk98ss41knffhkdmmp"
 source_url: "https://stratechery.com/2026/anthropic-and-alignment/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-02"
 saved_at: "2026-03-02"
 reading_time: "14 mins"
 summary: "Anthropic is in a standoff with the Department of War; while the company's concerns are legitimate, it position is intolerable and misaligned with reality."
-content_hash: "fe96676adc31fa3854b8e0b2d9f69eec2ebeabcf1a21bf9fe5b42446b58f0f50"
+content_hash: "09cdf475dae7bcf7d58d7653e509d84190c0ca6788ee1acded59d30237c39d26"
 ---
 
 Anthropic is in a standoff with the Department of War; while the company's concerns are legitimate, it position is intolerable and misaligned with reality.

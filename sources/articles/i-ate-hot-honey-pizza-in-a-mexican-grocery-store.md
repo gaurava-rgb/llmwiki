@@ -2,6 +2,8 @@
 title: "[I ate] Hot Honey Pizza in a Mexican grocery store."
 reader_id: "01k4jy15shn9e9q32kadq52ngz"
 notion_page_id: "3484ebe7-f118-812e-b702-ea2c774fa6ce"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k4jy15shn9e9q32kadq52ngz"
 source_url: "https://www.reddit.com/r/food/comments/1nattgb/i_ate_hot_honey_pizza_in_a_mexican_grocery_store/?share_id=krcIEumX2h9rx4Q6tm_eU"
 author: "Tribat_1"
@@ -11,7 +13,7 @@ published: "2025-09-07"
 saved_at: "2025-09-07"
 reading_time: "1 min"
 summary: ""
-content_hash: "0c51964ef1202e153ef4263ae4d09436a39491acaa66a6674d6419641099ac5a"
+content_hash: "8387a89eb6dd3264bd8475e89bd4dcc1d79df983b3f3357ff31e5db9240b0b35"
 ---
 
 [r/food](<https://www.reddit.com/r/food/>)

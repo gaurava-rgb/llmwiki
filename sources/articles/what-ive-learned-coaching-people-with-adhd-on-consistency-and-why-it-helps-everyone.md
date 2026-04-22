@@ -2,6 +2,8 @@
 title: "What I’ve learned coaching people with ADHD on consistency (and why it helps everyone)"
 reader_id: "01jys72141yvbephjtgp69vc8c"
 notion_page_id: "3484ebe7-f118-8143-9499-efc6614f1dab"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jys72141yvbephjtgp69vc8c"
 source_url: "https://www.reddit.com/r/ADHD/comments/1llwhxc/what_ive_learned_coaching_people_with_adhd_on/"
 author: "Mammoth_Spring_5737"
@@ -11,7 +13,7 @@ published: "2025-06-27"
 saved_at: "2025-06-27"
 reading_time: "1 min"
 summary: "People with ADHD do better when they link tasks to regular habits instead of waiting for motivation. Simple routines with clear, small steps work best because they reduce decision-making. These tips help everyone stay consistent, especially on tough days."
-content_hash: "d16ef961066e2c4b73ff8e4255eb26fd2ce3ce398225139f72740536f649db2c"
+content_hash: "8b5addd1b87bd38d698209588b3cad1edad5f1d600e8770f22402e065701c77f"
 ---
 
 [r/ADHD](<https://www.reddit.com/r/ADHD/>)

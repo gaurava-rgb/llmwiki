@@ -2,6 +2,8 @@
 title: "Tech Philosophy and AI Opportunity"
 reader_id: "01jznm2ce4zys5haprh0fnmhxe"
 notion_page_id: "3484ebe7-f118-81d4-89b2-e4167294b7e5"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jznm2ce4zys5haprh0fnmhxe"
 source_url: "https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-08"
 saved_at: "2025-07-08"
 reading_time: "15 mins"
 summary: "Positioning AI contenders — and losers — by their tech philosophy and business potential."
-content_hash: "be77c2f0fdb1154464111a9af9fbc5b0d0010b674abd7d1d094b6adbe5bf3bcf"
+content_hash: "f36140156b5d23d454ce77019e48c438be12841a6422dda14fe6def53e1f58ba"
 ---
 
 Positioning AI contenders — and losers — by their tech philosophy and business potential.

@@ -2,6 +2,8 @@
 title: "As Tech Leaders Flatter Trump, Anthropic Takes a Cooler Approach"
 reader_id: "01k5bskyvfx0tkd6x3b949cn02"
 notion_page_id: "3484ebe7-f118-8130-a7f2-da8e9e40da24"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskyvfx0tkd6x3b949cn02"
 source_url: "https://www.theinformation.com/articles/tech-leaders-flatter-trump-anthropic-takes-cooler-approach"
 author: "Sylvia Varnham O'Regan"
@@ -11,7 +13,7 @@ published: "2025-09-12"
 saved_at: "2025-09-17"
 reading_time: "7 mins"
 summary: "In June, the artificial intelligence startup Anthropic was finally getting close to hiring a candidate—a Republican—for its top government relations job after months of searching for someone. That decision marked a shift: Anthropic had hired several former Biden staffers earlier in the year, which had aggravated people in the Trump administration working on AI issues, according to two people familiar with the situation.\nBut after further discussion inside Anthropic, the company changed course. It called off the hire of the Republican candidate and instead promoted Sarah Heck, an existing staffer who had worked in the Obama administration.\nIn an interview last week, Anthropic cofounder Jack Clark said the company is now bringing on another government relations person who will report to Heck and be the company’s main point of contact in Washington D.C. Clark declined to identify the person or say whether they were a Republican or a Democrat.The moves show how one of the most important AI startups is still figuring out how far it’s willing to go to play nice with the Trump administration. Anthropic’s rivals, including OpenAI, Meta Platforms and Google, have gone to extreme lengths to curry favor with the president and his allies by doing everything from donating to Trump’s inauguration, rolling back diversity initiatives and announcing huge investments in U.S. infrastructure projects. In July, OpenAI CEO Sam Altman even forsook the Democratic party, his political home for most of his adult life.\nAnthropic, in contrast, is taking a different approach. While the Trump administration has been focused on stripping away regulations to free up American AI companies, the San Francisco-based Anthropic hasn’t shied away from speaking out on the potential downsides of the technology, including risks to the safety of humanity. It even screens new recruits partly on how they handle moral dilemmas.\nAnthropic CEO Dario Amodei this year publicly opposed a draft provision in Trump’..."
-content_hash: "fc638ea13f16d9aa52f7ab694c9d26f0759e2af45d7c8d0106e45bbb9ff28909"
+content_hash: "fdec8fa0d6a2afdec9504c3686bef20ab58f7d9de8a5a7eab08b505ddbebf8e2"
 ---
 
 ![Credit: Art by Clark Miller; Getty Images](https://tii.imgix.net/production/articles/15750/eacdd740-f26e-4872-90b9-7ec60c1f8b46.jpg?fm=jpeg&auto=compress&w=610)

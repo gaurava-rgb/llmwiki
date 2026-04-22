@@ -2,6 +2,8 @@
 title: "Barbell Medicine Guide to Protein"
 reader_id: "01k7a3akfx9wm8kap939nj1pwk"
 notion_page_id: "3484ebe7-f118-81fc-9494-eb90e6735285"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01k7a3akfx9wm8kap939nj1pwk"
 source_url: "https://www.barbellmedicine.com/blog/barbell-medicine-protein-recommendations/"
 author: "Jordan Feigenbaum"
@@ -11,7 +13,7 @@ published: "2021-05-28"
 saved_at: "2025-10-11"
 reading_time: "13 mins"
 summary: "Protein builds and preserves muscle, and total daily intake matters most. Aim for about 1.3–2.2 g/kg/day for most people, with up to 3.1 g/kg/day for very lean or hard-training individuals. Protein source (animal or plant) matters less if total protein and essential amino acids are adequate."
-content_hash: "d1bcac6196fadfb40b62327b468eca626c6d0c530a57d469ac04a3dbc0ced38d"
+content_hash: "ace8905f09933d0908b5b8a5b4d066c05fe16dda2642da76e120f4a292aec052"
 ---
 
 ![](https://www.barbellmedicine.com/wp-content/uploads/2021/05/My-Post-93-e1747425369320.png)

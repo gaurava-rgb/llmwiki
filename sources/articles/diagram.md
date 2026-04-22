@@ -2,6 +2,8 @@
 title: "Diagram."
 reader_id: "01kgr8happwra4km8pjtsw5n7a"
 notion_page_id: "3464ebe7-f118-819a-96a1-fbb4be0a429b"
+category: "article"
+source_type: "Reader add from clipboard"
 reader_url: "https://read.readwise.io/read/01kgr8happwra4km8pjtsw5n7a"
 source_url: "https://ruben.substack.com/p/infographic?r=78wjcd"
 author: "Ruben Hassid"
@@ -11,7 +13,7 @@ published: "2025-11-30"
 saved_at: "2026-02-06"
 reading_time: "4 mins"
 summary: "This newsletter teaches how to create accurate and detailed infographics using the new AI tool Nano-Banana-Pro from Google. It shares the best prompts for making various infographic styles, from simple to complex, including videos and transcripts. A bonus video shows how to make an infographic and a LinkedIn post step-by-step."
-content_hash: "d5d9215dcbc2577a686875eb424cb105173ff635662d7e274390c93998e58d4b"
+content_hash: "2c911192a8950790d0207949edd2ec58dd03d60db6f99cd10f55bbee208a8b2a"
 ---
 
 ### How to create diagrams with AI.

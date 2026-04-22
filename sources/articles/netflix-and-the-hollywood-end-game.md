@@ -2,6 +2,8 @@
 title: "Netflix and the Hollywood End Game"
 reader_id: "01kbzhp4wrvv0ec8cnz1s10383"
 notion_page_id: "3464ebe7-f118-8113-9029-d8994bad4d3f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kbzhp4wrvv0ec8cnz1s10383"
 source_url: "https://stratechery.com/2025/netflix-and-the-hollywood-end-game/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-12-08"
 saved_at: "2025-12-08"
 reading_time: "11 mins"
 summary: "Netflix is driving the Hollywood end game, likely confident it can increase the value of IP, and fend off YouTube."
-content_hash: "d6c8685d9c01e082e7693be0d9500d2632e2d8d2042d93d96cb6097691d35d10"
+content_hash: "6d1d6786ed16a9507a1985371e001c1ccc6bb34263abc4f2b551277db2a5ff03"
 ---
 
 Netflix is driving the Hollywood end game, likely confident it can increase the value of IP, and fend off YouTube.

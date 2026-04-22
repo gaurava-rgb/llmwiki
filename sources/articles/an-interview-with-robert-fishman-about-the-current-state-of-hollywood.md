@@ -2,6 +2,8 @@
 title: "An Interview with Robert Fishman About the Current State of Hollywood"
 reader_id: "01kkhnhkat9myt940dn9g5shx4"
 notion_page_id: "3484ebe7-f118-8151-b05b-c8c019289ce7"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kkhnhkat9myt940dn9g5shx4"
 source_url: "https://stratechery.com/2026/an-interview-with-robert-fishman-about-the-current-state-of-hollywood/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-03-12"
 saved_at: "2026-03-12"
 reading_time: "38 mins"
 summary: "An interview with MoffettNathanson's Robert Fishman about the current state of Hollywood, including Netflix, Paramount, YouTube, Disney, and Amazon."
-content_hash: "448db0a142d956095d95a0684e812aca7695571b96721783d35c6925a2657398"
+content_hash: "2ccaee1c74495daf2933151d924cded5984f98502f8a9eb29533aec852d82752"
 ---
 
 An interview with MoffettNathanson's Robert Fishman about the current state of Hollywood, including Netflix, Paramount, YouTube, Disney, and Amazon.

@@ -2,6 +2,8 @@
 title: "China and Rare Earth Metals, Chips and Rare Earths, The U.S.'s Self-Inflicted Challenge"
 reader_id: "01k7fbabjxn05hgd9f29s9h2q1"
 notion_page_id: "3484ebe7-f118-8178-a13a-e2ec5ef98035"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k7fbabjxn05hgd9f29s9h2q1"
 source_url: "https://stratechery.com/2025/china-and-rare-earth-metals-chips-and-rare-earths-the-u-s-s-self-inflicted-challenge/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-13"
 saved_at: "2025-10-13"
 reading_time: "8 mins"
 summary: "China is instituting controls on rare earths, which are essential for technology, that look like chip controls; we can fix the problem by building, but we might not be able to."
-content_hash: "0c23d55f93be052340c55ec47148c49fe5eafd7e7ba4c8871635c3c3ab2a8566"
+content_hash: "a36695a964c4dd9ad65777a8b7d16b142fcf8a71fc6a5ea34cb05484f6ecf4a9"
 ---
 
 China is instituting controls on rare earths, which are essential for technology, that look like chip controls; we can fix the problem by building, but we might not be able to.

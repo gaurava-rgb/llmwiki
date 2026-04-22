@@ -2,6 +2,8 @@
 title: "Nike on Amazon; Nike's Disastrous Pivot; Inevitability, Intentionality, and Amazon"
 reader_id: "01jxe1a9kbxdg1hmwhxq23qf5p"
 notion_page_id: "3484ebe7-f118-8120-8f16-ee22bfa82644"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01jxe1a9kbxdg1hmwhxq23qf5p"
 source_url: "https://stratechery.com/2025/nike-on-amazon-nikes-disastrous-pivot-inevitability-intentionality-and-amazon/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-06-03"
 saved_at: "2025-06-10"
 reading_time: "9 mins"
 summary: "Nike executed a disastrous pivot over recent years, away from physical retail to D2C. Now they have no choice but to embrace Amazon, but that might be the best thing that could happen to them."
-content_hash: "ffb361ba53dc3aaa8c22bfc4f71c0d169f3e19dd65efe6a82742e08b12d2985a"
+content_hash: "b438f9e61731304493583b85d13d0f4d4b4ecb8e3a1379c2993c8ede0dedcda4"
 ---
 
 Nike executed a disastrous pivot over recent years, away from physical retail to D2C. Now they have no choice but to embrace Amazon, but that might be the best thing that could happen to them.

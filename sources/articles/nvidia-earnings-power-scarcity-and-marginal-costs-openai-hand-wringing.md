@@ -2,6 +2,8 @@
 title: "Nvidia Earnings; Power, Scarcity, and Marginal Costs; OpenAI Hand-wringing"
 reader_id: "01kavfvtn2me4vc9ykznhkabtm"
 notion_page_id: "3464ebe7-f118-81dc-8085-d1712f2850f3"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kavfvtn2me4vc9ykznhkabtm"
 source_url: "https://stratechery.com/2025/nvidia-earnings-power-scarcity-and-marginal-costs-openai-hand-wringing/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-11-24"
 saved_at: "2025-11-24"
 reading_time: "10 mins"
 summary: "Nvidia earnings are the wrong place to look for evidence of an AI bubble; the company's margins should be safe if power is the limiting factor."
-content_hash: "63a082251acd868080a980de56da00cda87b0a777696719709beed6cc3f63a10"
+content_hash: "03c0150430aa348972ad9c7bf6d313e7143c6a2dfd69b44bc8aeff87dbe3751a"
 ---
 
 Nvidia earnings are the wrong place to look for evidence of an AI bubble; the company's margins should be safe if power is the limiting factor.

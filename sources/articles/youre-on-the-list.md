@@ -1,0 +1,33 @@
+---
+title: "You're on the list!"
+reader_id: "01k4d8madnav42k0ggsqf65b5r"
+notion_page_id: ""
+category: "email"
+source_type: ""
+reader_url: "https://read.readwise.io/read/01k4d8madnav42k0ggsqf65b5r"
+source_url: "mailto:reader-forwarded-email/f5f54300636a16dba2afa755af346618"
+author: "Ethan Mollick from One Useful Thing"
+site: "Substack"
+tags: []
+published: "2025-09-05"
+saved_at: "2025-09-05"
+reading_time: "1 min"
+summary: "You are on the One Useful Thing email list from Ethan Mollick. Upgrade to a paid subscription to get every post and extra benefits. You can unsubscribe with one click and the newsletter includes contact and address info."
+content_hash: "61b09b3510882471b85fc46b5251a62d23f041021698fb421af6cd7b5e218685"
+---
+
+![One Useful Thing](https://substackcdn.com/image/fetch/$s_!hyZZ!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd2ee4f7-3e71-42f0-92eb-4d3018127e08_1024x1024.png)
+
+You're receiving free posts from One Useful Thing.
+
+To get every post and other paid subscriber benefits, **upgrade to a paid subscription** .
+
+[ Upgrade subscription ](<https://email.mg-d0.substack.com/c/eJx0kktvozwUhn-N2RX5BiELFvmSRh-ZCZWq9LqJjG3AAdvIl1Ly60fpzGJm0fV5pfc5zzmcBdlZt5TRtMoo30tx52PjuVNTUNYkoswJazORyBKtshUs8qKgidRMjedOGulYkOLMwl9TXBRJX-J8RSRCWDQCrXGOEMpY1oiiaVG2ygROVIkhzuAaZiijCNOUpGyFcsgowYwIiRBPRSeVs-sCUKi7OwHTG1tgfEi51Yny59bJL5YyuCiTsexDmDwgG4D3AO_neU6tkdHLNo6hV6ZLresA3v9ZsZGA7GPQZ2-j4xKQ3TcaAM5vMc70xFRnANl9td7xXvLBxgBw7gDZ5W3UTAOcBzvIr9RyQBw_L694HKqLvT7sBng8DbS-bnylx15sq_x44qi-bmh96Wi9ndX7az9XF_tZX5-y-sLpw66DP7eHiZOjelCHWbxU4Xi6p8fdG6y3la9Mjd5UlVe6tu8vtWvIM6wMTB9h-x98-iwsFP8ft_jjxZ7k4-bxsLzFJx-b0Q8f0ZjL9Qe_T6bYnLnVOhoVlrM0rBml-O10is2oOLtZOCtRIlTAnNLElR1zbvEi6glQOKrGMbekTjIxKy9TZRMfG2E1U6b89wZJ-Pbbopfu1kKKNUXrYgWTjxL_CgAA__9BT-X8>)
+
+You can [ unsubscribe in one click. ](<https://email.mg-d0.substack.com/c/eJx0kkFvoz4QxT8N3IJsYwgcOPSflP6pGqJ2u03TCzK2gUnATm1TFj79KpFWu3vY4-iNZt7v6XHmZKvNnI2qAQW2k2Jlx9pyAxcHWvkii0PWRMKXGV5Ha5TESUJ9OTDoq1YqaZiTomLuD5Ukid9lEYritOY1RmkkakY5Y2uMUymaNMURjXzICCIRSlGEI4oJDcKArXGMGA0JC4XEmAeilWB0mngUDe1KoODqzTF-DrgefLBVY-TNS-bMKP0-65y7WC-880jukXyapkArOVrZjL3rQLWBNq1HcsavcB7JBVhW97K6Hfk9e2Hu9FkqL9zK-RFz8ja_k_5cnPSy357R7vVMy-XOFuq_Lx6-NOzwDPshwvXDZIuh78SmiHevHJfLHS1PLS03E3y8d1Nx0j_KpaXlqZj32xY9bR4vPNzBHh4ncSjc7vWe7rZHVG4KW6gSH6GIi-HlwkkO9cNb83HAHTtM0DwHQI7feV5-Wda92XQZ0u23zW6V3u9XlK6f_v_cI3NcPg_Hk0o8ErO-r6y8QVsv3N7Cuox1xfUwjArcXEl15RbZL6kHzq7rFYgM4wTFlPoma5kxsxXjcPEo6qE2zMyBkUxMYGUA2rdjLfTAQGV_5-67fzZstNJcv4RJSnGarJH_lZGfAQAA__8I2uBr>)
+
+© 2025 Ethan Mollick
+548 Market Street PMB 72296, San Francisco, CA 94104
+[ Unsubscribe ](<https://email.mg-d0.substack.com/c/eJx0ksFymzAQQL8GbmYkITAcOKR2SMnEeJKmcZwLIyQBa4NEJGGKv77j9NIeet6Z3ffeLGdOttos2aQaUGA7KVZ2qi03MDrQyhdZHLImEr7M8DpaoyROEurLgUFftVJJw5wUFXN_TUmS-F3GGowQS0nDUhZRydd1yGjDSRwjhGlKfcgIIhFKUYQjigkNwoCtcYwYDQkLhcSYB6KVYHSaeBQN7Uqg4MbmGD8HXA8-2Kox8oslc2aSfp91zo3WC-88knskn-c50EpOVjZT7zpQbaBN65Gc8ZucR3IBltW9rL6WeGHu9FkqL9zK5RFz8ra8k_5cnPR1vz2j3euZltc7W6hvFx6-NOzwDPshwvXDbIuh78SmiHevHJfXO1qeWlpuZvh47-bipH-V15aWp2LZb1v0tHkcebiDPTzO4lC43es93W2PqNwUtlAlPkIRF8PLyEkO9cNb83HAHTvM0DwHQI4_eV5eLOvebHod0u2PzW6V3u9XlK6fvn_ukTlePw_Hk0r8caorrodhUuCWSqqbp_jTaZzqHji7NahAZBgnKKbUN1nLjFmsmIbRo6iH2jCzBEYyMYOVAWjfTrXQAwOV_dvVd__9oMlKc7sSJinFabJG_iUjvwMAAP__xgDVAA>)
+
+[ ![Get the app](https://substackcdn.com/image/fetch/$s_!IzGP!,w_262,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png) ](<https://email.mg-d0.substack.com/c/eJx0kb2u4yAQhZ_GdLb4s00KipWu8hrWAGMHXQMWDLvK26-S26S5zTTnSN-nOR4Ij1Kftuc95tgeGMbWXfM1XhRLZsEuCvY5MLRinVduFmM0wwTx3A7MWIEwbEAfqTSGPey8CqM0iJWv--wlX9zi3A5C81WENQQWreRy5jc-i1kLqSc1wSoWDlpJUAGF8FM4MNZyM4Pm6RgDn15uBP578iWx2La94tvFUu3ITvsgutqg_gzyPsj7Z3uQd7iunzs2KhXHiiFW9DSoe6e0eUgXxCMP6uvVSVC_kWI-Brm845IJMw3q600c91II6-g6Ucns6m7zJaWeIz03zOBODD9WV3dn9PB65xaDFcLwRWtW7QG1Plvo6Ro0P6OrUJ9TRQj_YsMpFta6CyVBzLZk7A33ftIj5oPRr3v1hvVFUeamxc2snP218n8AAAD__6G7pbQ>) [ ![Start writing](https://substackcdn.com/image/fetch/$s_!LkrL!,w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png) ](<https://email.mg-d0.substack.com/c/eJyEkkvO3CAQhE8Du7HA4McsWERy5gI5gNVA29OKAYtHorl95En-6N9EWVKUqr5Wt4OKe8ov0-JGkcoT_a00W1yms1KK3JtRwTZ4jkZOwyTmcZ41xwB0rDtGzFDRr1A__fbzzJ_GiQkH6dQGahitU1rJSVsLoNwdrAdOphf9IO5ikIOWve5UB5McBWjVg_Iopev8jpTTfWZahP3mRXexVXDfO5cCp7JuGd8spuaG_DDPWs_C1BfWP1j_-Oy-nrTHdjL1aDWsJbXskKnlw8T68dIDemqBqeWd-0d0KVaMlallS6li_pAhnEB7ZGqBVtNGx4H-9tdywX17d359Z6llh5xfxbdwMi0Oshnyq8sI_icV7CixfsxMLePWAgR-Nru6FEKLVF8rRrAH-t-Tns0e5OBa0UreSDmLUWuezf8aeGnWpwAUTYrYCm7tqE-KO6__vIFWMF8tar5reZ8nwX-Y_lcAAAD__woLxIY>)

@@ -2,6 +2,8 @@
 title: "An Interview with Booking CEO Glenn Fogel About Travel and Aggregation"
 reader_id: "01k60zpkqsvby8c9rc65ajfr5r"
 notion_page_id: "3484ebe7-f118-819c-966c-d8cbed619275"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k60zpkqsvby8c9rc65ajfr5r"
 source_url: "https://stratechery.com/2025/an-interview-with-booking-ceo-glenn-fogel-about-travel-and-aggregation/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-25"
 saved_at: "2025-09-25"
 reading_time: "46 mins"
 summary: "An interview with Booking CEO Glenn Fogel about being an aggregator, the power — or not — of network effects, and how AI can finally create the perfect travel agent."
-content_hash: "5b43efb83d68aa29a228557842b5b5a000f86fafaf293ea6464f188b8ffde231"
+content_hash: "aad8184fc6564d7eeb3c8283d24a57c45f38cfd85557c7affa0adf302968efe5"
 ---
 
 An interview with Booking CEO Glenn Fogel about being an aggregator, the power — or not — of network effects, and how AI can finally create the perfect travel agent.

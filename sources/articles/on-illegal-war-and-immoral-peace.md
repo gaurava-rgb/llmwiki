@@ -2,6 +2,8 @@
 title: "On Illegal War and Immoral Peace"
 reader_id: "01kbbk8qqg2ywspjwrhr8wyy02"
 notion_page_id: "3464ebe7-f118-81d3-b372-f8af831a9360"
+category: "article"
+source_type: "Reader add from import URL"
 reader_url: "https://read.readwise.io/read/01kbbk8qqg2ywspjwrhr8wyy02"
 source_url: "https://www.thebulwark.com/p/on-illegal-war-and-immoral-peace-trump-maduro-venezuela-ukraine-russia-witkoff-kushner-peace-proposal?source=queue"
 author: "William Kristol"
@@ -11,7 +13,7 @@ published: "2025-11-24"
 saved_at: "2025-11-30"
 reading_time: "10 mins"
 summary: "William Kristol warns the Trump administration may start a war with Venezuela without Congress or public support. He criticizes a Trump-Russia linked Ukraine “peace” plan as amateurish and possibly unacceptable to both sides. Both moves, Kristol says, are legally and morally troubling and risk dangerous consequences."
-content_hash: "85997989f0e543e797d4d3a676d79fe20ab1a28a6f62153041c411050d6f2d12"
+content_hash: "d059f287046e619b51749a1a060babe30741b89b750d691c697cabb6b1177ef1"
 ---
 
 [Morning Shots](<https://www.thebulwark.com/s/morningshots/>)

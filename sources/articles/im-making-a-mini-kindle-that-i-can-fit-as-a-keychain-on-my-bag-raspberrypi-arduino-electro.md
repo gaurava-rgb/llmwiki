@@ -2,6 +2,8 @@
 title: "I’m making a mini kindle that I can fit as a keychain on my bag! #raspberrypi #arduino #electronics #hardware"
 reader_id: "01kgas6vpejqykdrt4364f1vc6"
 notion_page_id: "3464ebe7-f118-8115-a29c-d313e9370e34"
+category: "article"
+source_type: "Reader Share Sheet iOS"
 reader_url: "https://read.readwise.io/read/01kgas6vpejqykdrt4364f1vc6"
 source_url: "https://www.threads.com/@mewtru/post/DUJIjzXEYEx?xmt=AQF0NTNs3mEq-YEevkzej0tWV12dX1FaQOrz6OMmAnML8Sm4vrod5ie-v_SGRFwWnRF2kbQ&slof=1"
 author: "threads.com"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-01-31"
 reading_time: "1 min"
 summary: "The author is creating a small Kindle device. It will be small enough to hang on a keychain. They are using Raspberry Pi and Arduino for the project."
-content_hash: "c5947da5df8d764ba9f8526f50ec3a33c061efbba75757878cd977c64fca0b98"
+content_hash: "0b217d9655a2f80f8b33bb6d1e0041c65f6e8a60e82db7ef8f8657efc1a156be"
 ---
 
 [**Thread** \

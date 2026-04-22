@@ -2,6 +2,8 @@
 title: "Unsolicited Term Sheets, Declining Dry Powder: Inside the AI Deal Rush"
 reader_id: "01k2dz9yn6g7g8p0smv1zk1jtk"
 notion_page_id: "3484ebe7-f118-8167-9d08-d5bf567c2b62"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01k2dz9yn6g7g8p0smv1zk1jtk"
 source_url: "https://www.theinformation.com/articles/unsolicited-term-sheets-declining-dry-powder-inside-ai-deal-rush?rc=ayz15n"
 author: "Natasha Mascarenhas"
@@ -11,7 +13,7 @@ published: "2025-08-11"
 saved_at: "2025-08-12"
 reading_time: "6 mins"
 summary: "Venture capitalists are racing to invest in fast-growing AI startups, often making offers before formal fundraising begins. This excitement is using up a lot of investment capital, with some firms running low on funds. High valuations and quick deals show strong demand, but startups still need to prove lasting success."
-content_hash: "834d26724e0312080d6ad0a27f96ad84ec07f37eaff2a48a23aa8c4f24ddf65a"
+content_hash: "b0f2af818e308e1d6166ccdc78b09b318c395283817ab1d6bd97b680050ed5bb"
 ---
 
 Last year, when money was surging into artificial intelligence startups, even some venture capitalists involved in those deals worried that the [high costs of AI](<https://www.theinformation.com/articles/some-openai-investors-sit-out-share-sale-reflecting-ai-divide?rc=zjctrx>) and [unreliable demand](<https://www.theinformation.com/articles/at-googles-cloud-conference-lofty-ai-visions-meet-customer-reality?rc=zjctrx>) from businesses were setting up many startups for disappointment.

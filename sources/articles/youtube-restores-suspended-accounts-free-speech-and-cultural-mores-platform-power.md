@@ -2,6 +2,8 @@
 title: "YouTube Restores Suspended Accounts, Free Speech and Cultural Mores, Platform Power"
 reader_id: "01k5yededbhgpabf526r178ysc"
 notion_page_id: "3484ebe7-f118-8132-a6a1-ceb43a10746c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5yededbhgpabf526r178ysc"
 source_url: "https://stratechery.com/2025/youtube-restores-suspended-accounts-free-speech-and-cultural-mores-platform-power/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-24"
 saved_at: "2025-09-24"
 reading_time: "9 mins"
 summary: "YouTube is reinstating accounts that were banned for alleged misinformation, and Google admits they made mistakes; the company — and big tech broadly — should go further, and lead the way in re-establishing the cultural importance of free expression."
-content_hash: "446aead8923bb412489770f94a6d7eb8c024324057d355fc5e0065ae83b8cef8"
+content_hash: "ae38a9219884be188ca1a62428482bf70de087ebf15e952e10d6aed303946b88"
 ---
 
 YouTube is reinstating accounts that were banned for alleged misinformation, and Google admits they made mistakes; the company — and big tech broadly — should go further, and lead the way in re-establishing the cultural importance of free expression.

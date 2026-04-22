@@ -2,6 +2,8 @@
 title: "OpenAI's Memos, Frontier, Amazon and Anthropic"
 reader_id: "01kp6jb04tmxxtsnj8x13bfcpg"
 notion_page_id: "3464ebe7-f118-8180-90cc-dfee2f6fd936"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kp6jb04tmxxtsnj8x13bfcpg"
 source_url: "https://stratechery.com/2026/openais-memos-frontier-amazon-and-anthropic/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-04-14"
 saved_at: "2026-04-14"
 reading_time: "9 mins"
 summary: "Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise."
-content_hash: "e825132a82744445a3bffaf2b8eb70498fba2a704a6abe22e79c7a5350cefd65"
+content_hash: "cca2abe4e0a010848ac390f64df41c03d90a948e8f70662753b000b727fe4cd3"
 ---
 
 Breaking down OpenAI's internal memo about taking on Anthropic in the enterprise.

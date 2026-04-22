@@ -2,6 +2,8 @@
 title: "Why Microsoft and OpenAI Announced a Tentative Deal"
 reader_id: "01k5bskykk8j62vy6anf9feyf4"
 notion_page_id: "3484ebe7-f118-81f1-88bb-f6a8202eec82"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5bskykk8j62vy6anf9feyf4"
 source_url: "https://www.theinformation.com/articles/microsoft-openai-announced-tentative-deal"
 author: "Amir Efrati"
@@ -11,7 +13,7 @@ published: "2025-09-15"
 saved_at: "2025-09-17"
 reading_time: "6 mins"
 summary: "As we wrap up what has been a busy week in artificial intelligence-cloud land—one dominated by Oracle—we want to circle back to the striking announcement on Thursday night from Microsoft and OpenAI. Anytime two companies, worth at least $4.5 trillion combined, issue a three-sentence press release with no concrete information about a highly important subject, it makes you think.Their 49-word joint statement said they had a “non-binding memorandum of understanding about the next phase of our partnership” and were “actively working to finalize contractual terms.” It’s a good bet that negotiating an actual agreement could take another few weeks, or longer, in which case you have to wonder why they put out the press release now.As a reminder, Microsoft and OpenAI are in the midst of a year-long negotiation about OpenAI’s plan to restructure its for-profit arm to prepare it for going public. Microsoft effectively has veto power on that, and you can read all the reasons the companies have been stuck here. Yet both of them have an incentive to agree to a deal. So why put out this announcement this week? Both companies have their reasons. Microsoft has been doing well in AI, thanks largely to OpenAI’s fast-rising spending on Microsoft cloud servers to power ChatGPT and develop new artificial intelligence. But this week, Oracle stole the show with its roughly $300 billion deal to rent out the same kind of servers to OpenAI through the early part of next decade. That news sent Oracle’s shares rocketing 35% in one day, although it has since fallen back 11%.  As we reported, OpenAI has projected to spend $135 billion to rent Microsoft servers through 2030. But OpenAI’s contractually-obligated spending on Oracle seems likely to dwarf that amount. In short, Microsoft is suddenly under pressure to reassure investors that it will continue to benefit from its OpenAI relationship more than other companies. And it didn’t help that Aaron Holmes reported this week Microsoft would star..."
-content_hash: "ddc385eec6d3e54e6c1a1732990f114172c1d557428911971d74c61e4a65c483"
+content_hash: "77519a35d4ba6ac7fa69043b57d8c0f77ee2723cec734cc90c4e41fdb339198b"
 ---
 
 ![Credit: Satya Nadella, left, and Sam Atman. Photos by Getty](https://tii.imgix.net/production/articles/15754/a5ac1d2c-c90c-4335-98cf-c7262ffbb63a-XFatlc.png?fm=jpeg&auto=compress&w=610)

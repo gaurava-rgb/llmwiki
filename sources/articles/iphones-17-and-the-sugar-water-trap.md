@@ -2,6 +2,8 @@
 title: "iPhones 17 and the Sugar Water Trap"
 reader_id: "01k4tc4czn1m1z62hsr8gq2ere"
 notion_page_id: "3484ebe7-f118-8160-8373-e5a5940e0095"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k4tc4czn1m1z62hsr8gq2ere"
 source_url: "https://stratechery.com/2025/iphones-17-and-the-sugar-water-trap/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-10"
 saved_at: "2025-09-10"
 reading_time: "11 mins"
 summary: "Apple's iPhone announcement was impressive, but no one was impressed, because Apple is increasingly peripheral to what is changing the world."
-content_hash: "73ddcbc0b81ddc1e69b6549565b4d9e9dd187a656152d614f87c988fe5362808"
+content_hash: "0e4a81eb283aa0762f3c2b777b23338acc3298963f31fe1a08ddfff5ed074d6f"
 ---
 
 Apple's iPhone announcement was impressive, but no one was impressed, because Apple is increasingly peripheral to what is changing the world.

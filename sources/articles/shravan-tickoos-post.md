@@ -2,6 +2,8 @@
 title: "Shravan Tickoo’s Post"
 reader_id: "01kkvj9wyee2qekk7mjcs38k71"
 notion_page_id: "3464ebe7-f118-811e-bfe6-c2da93af659a"
+category: "article"
+source_type: "Reader Share Sheet Android"
 reader_url: "https://read.readwise.io/read/01kkvj9wyee2qekk7mjcs38k71"
 source_url: "https://www.linkedin.com/posts/shravantickoo_so-i-just-wrote-an-800-page-book-for-every-share-7439228887647027200-1Hhg"
 author: "Shravan Tickoo"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2026-03-16"
 reading_time: "2 mins"
 summary: "Shravan Tickoo wrote a free 800-page book to help non-technical people learn AI without fear. He shares his own journey from being scared of coding to building complex AI projects. The book explains AI clearly, with no jargon, and is open for everyone to use."
-content_hash: "aeb59ea3134e4e0b0a108af195a8b0839be66fcdf6d880b1eac14f2100e37d3e"
+content_hash: "5ae4b7bed526ce6238e96bd3fbd42619fbb6bdc670f7cf050a47254273599ff9"
 ---
 
 [ Shravan Tickoo ](<https://in.linkedin.com/in/shravantickoo?trk=public_post_feed-actor-name>)

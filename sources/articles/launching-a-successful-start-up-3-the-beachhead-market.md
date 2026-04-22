@@ -2,6 +2,8 @@
 title: "Launching a successful start-up #3: The Beachhead Market"
 reader_id: "01kmf16rem8ezhgee8vs0nj7ez"
 notion_page_id: "3464ebe7-f118-81bf-8289-c8fe88ad3b51"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01kmf16rem8ezhgee8vs0nj7ez"
 source_url: "https://executive.mit.edu/launching-a-successful-start-up-3-the-beachhead-market-MC7FUMDZ6IU5AIPP4WGIPN2PZJI4.html"
 author: "MIT"
@@ -11,7 +13,7 @@ published: "2025-05-28"
 saved_at: "2026-03-24"
 reading_time: "3 mins"
 summary: "Bill Aulet says start-ups should find a specific \"beachhead market\" where customers buy similar products and share information. This market helps start-ups gain a strong foothold before expanding to new areas. Entrepreneurs should act quickly and focus on clear, targeted customers to build success."
-content_hash: "a0999a38af5c89622f153928d5c734fcb641f1501dc317a36a48c7263969a2fa"
+content_hash: "8cdd8617580e30ed91ecce6a5392d14225745880f0e4d9bc7a15bf5bab58a9e3"
 ---
 
 ![startup icons](https://executive.mit.edu/dw/image/v2/BFHZ_PRD/on/demandware.static/-/Library-Sites-MSharedLibrary/default/dw0f115dd7/images/Blog-live-images/MCXOD4TV3ELNCFRH2EHMESPYHLOE.jpg)startup icons

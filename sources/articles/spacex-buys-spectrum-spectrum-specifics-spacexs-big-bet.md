@@ -2,6 +2,8 @@
 title: "SpaceX Buys Spectrum, Spectrum Specifics, SpaceX's Big Bet"
 reader_id: "01k4qt5xmzbc3069jzrfs16d2j"
 notion_page_id: "3484ebe7-f118-81e8-a6cc-c126896cfb5c"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k4qt5xmzbc3069jzrfs16d2j"
 source_url: "https://stratechery.com/2025/spacex-buys-spectrum-spectrum-specifics-spacexs-big-bet/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-09"
 saved_at: "2025-09-09"
 reading_time: "9 mins"
 summary: "SpaceX just made a huge deal for spectrum, but they will still need partners; the real goal is knocking competition out of the game."
-content_hash: "3957ba6191bdffad64c894a75ba2cde808ce921dd231a0915726b121b0fc308d"
+content_hash: "77902d35e30581355874d7e8d4bbf1399971d79016df89513948b3544e2a6356"
 ---
 
 SpaceX just made a huge deal for spectrum, but they will still need partners; the real goal is knocking competition out of the game.

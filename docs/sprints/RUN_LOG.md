@@ -286,3 +286,96 @@ Result:
 - Unit tests passed, 23 tests.
 - Public-safety scan returned no matches.
 - Capture idempotency dry-run returned 339 skipped and 0 planned writes.
+
+## 2026-04-22 - Sprint 3C Expanded Reader Capture Types
+
+Requested outcome:
+
+- Broaden the capture bridge beyond article/rss.
+- Preserve source format metadata so downstream wiki compilation can treat
+  tweets, emails, videos, PDFs, and EPUBs differently later.
+- Explain the pipeline plainly and keep the sprint logged.
+
+Actions completed:
+
+- Started a parallel worker agent for the bridge code and focused tests.
+- Reviewed and integrated the worker changes in this thread.
+- Expanded supported top-level Reader categories in
+  `reader/capture_reader_to_markdown.py` to:
+  - `article`
+  - `rss`
+  - `tweet`
+  - `email`
+  - `video`
+  - `pdf`
+  - `epub`
+- Kept child records excluded by preserving the `parent_id` filter, so
+  highlights and notes are still not materialized as standalone source files.
+- Added `category` and `source_type` to raw markdown frontmatter.
+- Added `category` and `source_type` to manifest records.
+- Updated README with a plain-English pipeline explanation and explicit output
+  locations.
+- Materialized the widened Reader set into `sources/articles/`.
+
+Run details:
+
+- Pre-change audit against the live Reader API:
+  - Total Reader API docs returned: 824.
+  - Top-level docs: 747.
+  - Child docs: 77.
+  - Existing capture scope before this sprint: 339 (`article` + `rss`).
+- Widened-capture dry-run:
+  - Reader docs selected: 750.
+  - Notion page IDs mapped: 339.
+  - Planned writes: 411 created, 339 updated, 0 skipped.
+- Widened-capture apply:
+  - Reader docs selected: 750.
+  - Result: 411 created, 339 updated, 0 skipped.
+- Final idempotency check after apply:
+  - Reader docs selected: 750.
+  - Notion page IDs mapped: 339.
+  - Result: 0 created, 0 updated, 750 skipped, 0 planned writes.
+
+Measurable outcome:
+
+- `sources/articles/` now contains 750 raw source markdown files.
+- `sources/articles/manifest.jsonl` now contains 750 records.
+- Manifest uniqueness checks:
+  - 750 unique Reader IDs.
+  - 750 unique paths.
+  - 339 records with Notion page IDs.
+  - 411 records without Notion page IDs.
+- Manifest category breakdown:
+  - `tweet`: 371
+  - `rss`: 176
+  - `article`: 166
+  - `email`: 25
+  - `video`: 6
+  - `pdf`: 5
+  - `epub`: 1
+
+Current gap:
+
+- The Git capture bridge now materializes the broader Reader set directly from
+  Reader.
+- `sync_to_notion.py` is still the narrower lane and mirrors the
+  `article`/`rss` subset into the Notion Raw Sources database.
+- That is why 411 captured files currently have blank `notion_page_id` values.
+
+Checks run:
+
+```bash
+python3 -m unittest discover -s tests
+.venv/bin/python -m py_compile reader/capture_reader_to_markdown.py sync_to_notion.py notion_schema.py
+rg -n "access_token=|passport\\.online/member|member/login\\?email=|gaurav_a@tamu\\.edu|gaurav_a%40tamu\\.edu" sources/articles/*.md sources/articles/manifest.jsonl
+env -u NOTION_DATABASE_ID -u READWISE_TOKEN -u NOTION_TOKEN .venv/bin/python reader/capture_reader_to_markdown.py
+env -u NOTION_DATABASE_ID -u READWISE_TOKEN -u NOTION_TOKEN .venv/bin/python reader/capture_reader_to_markdown.py --apply
+env -u NOTION_DATABASE_ID -u READWISE_TOKEN -u NOTION_TOKEN .venv/bin/python reader/capture_reader_to_markdown.py
+```
+
+Result:
+
+- Compile passed.
+- Unit tests passed, 28 tests.
+- Public-safety scan returned no matches.
+- Final capture dry-run returned 750 skipped and 0 planned writes.

@@ -2,6 +2,8 @@
 title: "Nvidia and Groq, A Stinkily Brilliant Deal, Why This Deal Makes Sense"
 reader_id: "01kea752j17d51rn2628q6kxd8"
 notion_page_id: "3464ebe7-f118-81d0-bccb-c1ded718b563"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kea752j17d51rn2628q6kxd8"
 source_url: "https://stratechery.com/2026/nvidia-and-groq-a-stinkily-brilliant-deal-why-this-deal-makes-sense/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-06"
 saved_at: "2026-01-06"
 reading_time: "8 mins"
 summary: "Nvidia is licensing Groq's technology and hiring most of its employees; it's the most potent application of tech's don't-call-it-an-acquisition deal model yet."
-content_hash: "9756ba1a56f45eed45a03f4f175e4d19183fab8daf748d48ebc6a4fd678f9a5c"
+content_hash: "df7df157135209a973a2306e7e239feb8537bf8f8c9c437c7e063f6666b9b8fb"
 ---
 
 Nvidia is licensing Groq's technology and hiring most of its employees; it's the most potent application of tech's don't-call-it-an-acquisition deal model yet.

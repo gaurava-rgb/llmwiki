@@ -2,6 +2,8 @@
 title: "Cloudflare's Content Independence Day, Google's Advantage, Monetizing AI"
 reader_id: "01k0a86vgxgte5bd6neb39j5nv"
 notion_page_id: "3484ebe7-f118-8114-ba7f-d79c7d2adf2a"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k0a86vgxgte5bd6neb39j5nv"
 source_url: "https://stratechery.com/2025/cloudflares-content-independence-day-googles-advantage-monetizing-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-16"
 saved_at: "2025-07-16"
 reading_time: "10 mins"
 summary: "Cloudflare is unilaterally blocking AI crawlers unless they are willing to pay"
-content_hash: "b107c2729ffa0eae7346bfee1c854de199c7b9ca24c27529de22c32f9905e14b"
+content_hash: "bc359c3509b17f7429c7c1692ed2638f1d637564e5d115cf42896c1aebd82c83"
 ---
 
 Cloudflare is unilaterally blocking AI crawlers unless they are willing to pay

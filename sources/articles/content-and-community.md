@@ -2,6 +2,8 @@
 title: "Content and Community"
 reader_id: "01k0q12mct2wpkzg90b1gqka5k"
 notion_page_id: "3484ebe7-f118-8122-b2dc-eb5fa9ef6476"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k0q12mct2wpkzg90b1gqka5k"
 source_url: "https://stratechery.com/2025/content-and-community/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-21"
 saved_at: "2025-07-21"
 reading_time: "18 mins"
 summary: "The old model for content sprung from geographic communities; the new model for content is to be the organizing principle for virtual communities."
-content_hash: "be346a82225d94dc8a70ce198dbb51843e53cce779593640797e10c51e88a50f"
+content_hash: "f46af6de19730a53401f68033072839b133cd3ea01eb691d0090227fe560eec6"
 ---
 
 The old model for content sprung from geographic communities; the new model for content is to be the organizing principle for virtual communities.

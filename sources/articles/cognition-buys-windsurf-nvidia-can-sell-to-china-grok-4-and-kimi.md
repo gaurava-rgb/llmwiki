@@ -2,6 +2,8 @@
 title: "Cognition Buys Windsurf, Nvidia Can Sell to China, Grok 4 and Kimi"
 reader_id: "01k08dhp5mdmq14weqbbv0jtpp"
 notion_page_id: "3484ebe7-f118-813b-a538-edb4df1bfe29"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k08dhp5mdmq14weqbbv0jtpp"
 source_url: "https://stratechery.com/2025/cognition-buys-windsurf-nvidia-can-sell-to-china-grok-4-and-kimi/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-15"
 saved_at: "2025-07-16"
 reading_time: "9 mins"
 summary: "Cognition rescues Windsurf, Nvidia can sell H20s to China, and Grok 4 and Kimi K2 point to future avenues of model improvement"
-content_hash: "f01cf6c4aaff25d45bcca111b26448e3b669b6db48411dd1f307659d63058dc7"
+content_hash: "ef866bb504e6cc87b741a3d3769c75cf17b1e969d253cfd9b3fccd933b2b1343"
 ---
 
 Cognition rescues Windsurf, Nvidia can sell H20s to China, and Grok 4 and Kimi K2 point to future avenues of model improvement

@@ -2,6 +2,8 @@
 title: "Ads in ChatGPT, Why OpenAI Needs Ads, The Long Road to Instagram"
 reader_id: "01kfe8q57a0jpcz71x8ae56b3x"
 notion_page_id: "3464ebe7-f118-81ba-b28d-fe17c260397e"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kfe8q57a0jpcz71x8ae56b3x"
 source_url: "https://stratechery.com/2026/ads-in-chatgpt-why-openai-needs-ads-the-long-road-to-instagram/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-01-20"
 saved_at: "2026-01-20"
 reading_time: "10 mins"
 summary: "OpenAI finally announced that ads are coming to ChatGPT. It's an important step, but one with far more risk given the delay — and the delay means the ads aren't yet the right ones."
-content_hash: "7eb8e99d67893055bf0f911e1ff1d6e3b6e6102bc825c98ee4d705baba040afd"
+content_hash: "306d28472b755df4a104875605188bcf819af4c5c64ac5c2f721dd3ad1f11ba5"
 ---
 
 OpenAI finally announced that ads are coming to ChatGPT. It's an important step, but one with far more risk given the delay — and the delay means the ads aren't yet the right ones.

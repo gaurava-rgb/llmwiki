@@ -2,6 +2,8 @@
 title: "Figma S-1, The Figma OS, Figma's AI Potential"
 reader_id: "01k1e7k9p8xvq2t11h2ezvyg8x"
 notion_page_id: "3484ebe7-f118-81fb-bfa8-f687f34dd00f"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k1e7k9p8xvq2t11h2ezvyg8x"
 source_url: "https://stratechery.com/2025/figma-s-1-the-figma-os-figmas-ai-potential/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-07-30"
 saved_at: "2025-07-30"
 reading_time: "9 mins"
 summary: "Figma is well-placed to succeed in an AI world, because they are an operating system. However, they need to move quickly to capitalize, and that explains why they are going public."
-content_hash: "ae8ffd5a49e6cfb5d0b6b5b5da1547656f52726ba95ff92f47da460a766c767b"
+content_hash: "af37e61fbbfcf2927008810a402ec6f7a4e1cf50b90499601a0042a1610914e4"
 ---
 
 Figma is well-placed to succeed in an AI world, because they are an operating system. However, they need to move quickly to capitalize, and that explains why they are going public.

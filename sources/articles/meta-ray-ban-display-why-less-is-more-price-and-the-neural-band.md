@@ -2,6 +2,8 @@
 title: "Meta Ray-Ban Display, Why Less is More, Price and the Neural Band"
 reader_id: "01k5ez9nb3py8m330jyxzkkkxk"
 notion_page_id: "3484ebe7-f118-81ce-8008-e4100d164a6e"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k5ez9nb3py8m330jyxzkkkxk"
 source_url: "https://stratechery.com/2025/meta-ray-ban-display-why-less-is-more-price-and-the-neural-band/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-09-18"
 saved_at: "2025-09-18"
 reading_time: "8 mins"
 summary: "Meta announced Ray-Ban Displays, their first glasses product with a display. I think it's very compelling in part because it is limited."
-content_hash: "e29d30d7d7f39b1f031b911f962b19fd1ff7e8678fc1498a8e5dd73883a84d75"
+content_hash: "0d08a51080c15034bec540a675c7f4d7f848db5d2baaf7bd539fb20e580aa591"
 ---
 
 Meta announced Ray-Ban Displays, their first glasses product with a display. I think it's very compelling in part because it is limited.

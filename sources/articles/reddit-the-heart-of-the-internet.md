@@ -2,6 +2,8 @@
 title: "Reddit - The heart of the internet"
 reader_id: "01jyfkemd3m4k8r8b1t5t0qbkk"
 notion_page_id: "3484ebe7-f118-812e-bf16-da7fabba1264"
+category: "article"
+source_type: "Readwise web highlighter"
 reader_url: "https://read.readwise.io/read/01jyfkemd3m4k8r8b1t5t0qbkk"
 source_url: "https://www.reddit.com/r/malefashionadvice/comments/1lcwqhv/a_list_of_midpriced_brands_to_know_graduating/?share_id=631OEEe2Ny7nx_bxSk1ZO"
 author: "leftlanemerge"
@@ -11,7 +13,7 @@ published: ""
 saved_at: "2025-06-23"
 reading_time: "8 mins"
 summary: "This list shares many clothing brands organized by style and price from around the world. It includes categories like heritage, denim, streetwear, and luxury labels. The goal is to help people find alternative brands to popular ones like J Crew."
-content_hash: "68808c17b13f5404ec25fa73af95ef64c428218fdca469857d2837e2c7860eff"
+content_hash: "7fb680f6b394592561bdfcfd8d422b6d9fd940e43c4c28a7fceeca0bb47f0bb9"
 ---
 
 [r/malefashionadvice](<https://www.reddit.com/r/malefashionadvice/>)

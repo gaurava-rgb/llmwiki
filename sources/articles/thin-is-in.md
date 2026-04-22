@@ -2,6 +2,8 @@
 title: "Thin Is In"
 reader_id: "01khnsj81vp89hj8fgcfeyj2dq"
 notion_page_id: "3464ebe7-f118-81f2-879d-eccaeaf38384"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01khnsj81vp89hj8fgcfeyj2dq"
 source_url: "https://stratechery.com/2026/thin-is-in/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-17"
 saved_at: "2026-02-17"
 reading_time: "9 mins"
 summary: "Thick clients were the dominant form of device throughout the PC and mobile era; in an AI world, however, thin clients make much more sense."
-content_hash: "c81ee888960ea34b8bf4e4328641721549893b72b64c197c5735127f0f1e73b4"
+content_hash: "7b6d1a995eb806ade3b4f6ee86a2e1d660414c701ff4c80b8b518423d9cfd1f6"
 ---
 
 Thick clients were the dominant form of device throughout the PC and mobile era; in an AI world, however, thin clients make much more sense.

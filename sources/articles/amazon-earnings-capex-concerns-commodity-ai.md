@@ -2,6 +2,8 @@
 title: "Amazon Earnings, CapEx Concerns, Commodity AI"
 reader_id: "01kh4ba1qzfysmc2apw0sfwapg"
 notion_page_id: "3464ebe7-f118-818b-b1b5-cd759b567f81"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01kh4ba1qzfysmc2apw0sfwapg"
 source_url: "https://stratechery.com/2026/amazon-earnings-capex-concerns-commodity-ai/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2026-02-10"
 saved_at: "2026-02-10"
 reading_time: "10 mins"
 summary: "Amazon's massive CapEx increase makes me much more nervous than Google's, but it is understandable."
-content_hash: "d11cba173ef6a169d3f0965f8dcda1e95dc0c5a15047d79b0a608149d45204f3"
+content_hash: "8f9818fb5abfcd1ac44356ab01207e5250d024e9947ec8bc80e4bc7386c4fbf8"
 ---
 
 Amazon's massive CapEx increase makes me much more nervous than Google's, but it is understandable.

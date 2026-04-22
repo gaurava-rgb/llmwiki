@@ -2,6 +2,8 @@
 title: "An Interview with Ben Bajarin About AI Infrastructure"
 reader_id: "01k6k0jcyj1gt21dc20dztj3ya"
 notion_page_id: "3484ebe7-f118-81ca-a6fd-d81b3342ab87"
+category: "rss"
+source_type: "Reader RSS"
 reader_url: "https://read.readwise.io/read/01k6k0jcyj1gt21dc20dztj3ya"
 source_url: "https://stratechery.com/2025/an-interview-with-ben-bajarin-about-ai-infrastructure/"
 author: "Ben Thompson"
@@ -11,7 +13,7 @@ published: "2025-10-02"
 saved_at: "2025-10-02"
 reading_time: "59 mins"
 summary: "An Interview with Ben Bajarin about AI infrastructure, Nvidia, and Intel."
-content_hash: "4a2784542e99db0f7fdbad6fbed93b956ef9d715521d1bb50048a09e7a371063"
+content_hash: "a3785422aa75df4a357747c40733bac2db34fc98b8c8f205f84e49a801d8d7bd"
 ---
 
 An Interview with Ben Bajarin about AI infrastructure, Nvidia, and Intel.
